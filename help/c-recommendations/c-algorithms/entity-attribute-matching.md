@@ -15,7 +15,7 @@ Filter dynamically in [!DNL Adobe Target] [!DNL Recommendations] by comparing a 
 
 For example, recommend only items that match the current item’s brand as in the following example:
 
-If the mbox on a Brand Landing Page returns `entity.brand=Nike`, then only Nike products are returned and displayed on that page. Similarly, on the Brand Landing Page for Adidas, only Adidas products are returned. With this type of dynamic inclusion rule, the user has to only specify one recommendation rule that returns relevant brand results across all brand pages rather than specifying a collection or a static filter to match each brand name.
+If the mbox on a Brand Landing Page returns `entity.brand=brandA`, then only Brand A products are returned and displayed on that page. Similarly, on the Brand Landing Page for Brand B, only Brand B products are returned. With this type of dynamic inclusion rule, the user has to only specify one recommendation rule that returns relevant brand results across all brand pages rather than specifying a collection or a static filter to match each brand name.
 
 Note that you must deliver the `entity.brand` in the mbox on those landing pages for this to work.
 
