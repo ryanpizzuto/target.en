@@ -28,6 +28,8 @@ The following scenarios show how you can use [!UICONTROL Profile Attribute Match
 
 For example, you can use the [!UICONTROL Profile Attribute Matching] option to create a rule that recommends items only where the brand equals the value or text stored in `profile.favoritebrand`. With such a rule, if a visitor is looking at running shorts from a particular brand, only recommendations will display that match that user's favorite brand (the value stored in `profile.favoritebrand` in the visitor's profile).
 
+![Favorite brand](/help/c-recommendations/c-algorithms/assets/favorite-brand.png)
+
 ```
 Profile Attribute Matching
 brand - equals - the value/text stored in - profile.favoritebrand
@@ -39,47 +41,12 @@ Suppose that you're trying to match jobs to job seekers. You want to recommend o
 
 You can use inclusion rules to match a job seeker's location from his or her visitor's profile to a job listing, as in the following example:
 
+![User's city](/help/c-recommendations/c-algorithms/assets/city.png)
+
 ```
 Profile Attribute Matching
 jobCity - equals - the value/text stored in - profile.usersCity
 ```
-
-### Recommending clothes that match a visitor's size
-
-Let's look at an example to recommend clothes that match the clothing size set in the visitor's profile.
-
-The product page sends `entity.size` in the mbox call (red arrow in the illustration below).
-
-You can create a [profile script](/help/c-target/c-visitor-profile/profile-parameters.md) to capture the visitor's profile attributes and values from the last page that the visitor visited.
-
-For example,
-
-```
-if ((mbox.name=="target-global-mbox") &&(mbox.param('entity.size') == 'small')) { return 'small';
-}
-
-else if ((mbox.name=="target-global-mbox") &&(mbox.param('entity.size') == 'medium')) { return 'medium';
-}
-
-else if ((mbox.name=="target-global-mbox") &&(mbox.param('entity.size') == 'large')) { return 'large';
-}
-```
-
-The profile script captures the `entity.size` value from the mbox named `target-global-mbox` and returns it as a profile attribute named `user.size` (blue arrow in the illustration below).
-
-![size mbox call](/help/c-recommendations/c-algorithms/assets/size.png)
-
-When creating the recommendation criteria, click **[!UICONTROL Add Filtering Rule]**, then select **[!UICONTROL Profile Attribute Matching]**.
-
-![Profile attribute matching illustration](/help/c-recommendations/c-algorithms/assets/profile-attribute-matching.png)
-
-If your `user.size` profile has been loaded into [!DNL Target], it displays in the drop-down for matching when you set up the rule to match the value passed in the mbox call (`size`) to the profile script name (`user.size`).
-
-You can then select "size" "equals" the value/text stored in "user.size" for your profile attribute matching.
-
-![Size example](/help/c-recommendations/c-algorithms/assets/example-size.png)
-
-After your profile attribute rules are built, they will filter out all recommendations that have attributes that do not match the visitor's stored profile attribute.
 
 ### Recommending items based on size
 
