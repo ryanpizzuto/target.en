@@ -35,17 +35,17 @@ After your entity attribute rules are built, they will filter out all recommenda
 
 The following example shows recommendations matching product brand shown on the page:
 
-When you visit a page that features a Nike product, the page sets the value of the `entity.brand` parameter to “Nike”.
+When you visit a page that features a Brand A product, the page sets the value of the `entity.brand` parameter to “BrandA”.
 
 ![Example Target call](/help/c-recommendations/c-algorithms/assets/example-target-call.png)
 
-In the recommendations on the page, you will see Nike products only.
+In the recommendations on the page, you will see Brand A products only.
 
-![Nike recommendations](/help/c-recommendations/c-algorithms/assets/nike.png)
+![Brand A recommendations](/help/c-recommendations/c-algorithms/assets/brandA.png)
 
-If you then view an Adidas product page, the `entity.brand` value will be reset to “Adidas” and you will see Adidas products recommended on Adidas product pages.
+If you then view a Brand B product page, the `entity.brand` value will be reset to “BrandB” and you will see Brand B products recommended on Brand B product pages.
 
-![Adidas recommendations](/help/c-recommendations/c-algorithms/assets/adidas.png)
+![Brand B recommendations](/help/c-recommendations/c-algorithms/assets/brandB.png)
 
 ### Upselling to a more expensive product
 
