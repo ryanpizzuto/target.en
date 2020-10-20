@@ -49,7 +49,9 @@ If you then view a Brand B product page, the `entity.brand` value will be reset 
 
 ### Upselling to a more expensive product
 
-Suppose that you're an apparel retailer and want to encourage users to consider higher-priced and, therefore, more profitable items. You can use the "equals" and "is between" operators to promote more expensive items that are from the same category and the same brand. For example, a shoe retailer can promote more expensive running shoes in an effort to up-sell a visitor looking at running shoes, as in the following code sample:
+Suppose that you're an apparel retailer and want to encourage users to consider higher-priced and, therefore, more profitable items. You can use the "equals" and "is between" operators to promote more expensive items that are from the same category and the same brand. For example, a shoe retailer can promote more expensive running shoes in an effort to up-sell a visitor looking at running shoes, as in the following sample:
+
+![Upselling](/help/c-recommendations/c-algorithms/assets/upsell.png)
 
 ```
 Entity Attribute Matching
@@ -64,7 +66,9 @@ value - is between - 100% and 1000% of - current item's - value
 
 ### Promoting private-label products
 
-You can mix dynamic and static filters to promote private-label products. For example, an office supply company can promote toner cartridges of the company's house brand to drive a more profitable sale for a visitor looking at toner -- and promote pens of the company's house brand to drive a more profitable sale for a visitor looking at pens, as in the following code sample:
+You can mix dynamic and static filters to promote private-label products. For example, an office supply company can promote toner cartridges of the company's house brand to drive a more profitable sale for a visitor looking at toner -- and promote pens of the company's house brand to drive a more profitable sale for a visitor looking at pens, as in the following sample:
+
+![House Brand](/help/c-recommendations/c-algorithms/assets/housebrand.png)
 
 ```
 Entity Attribute Matching
