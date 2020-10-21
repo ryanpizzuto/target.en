@@ -119,8 +119,6 @@ There are several scenarios where you might prefer to use [!UICONTROL Auto-Targe
 
 * This metric could be conversion-based or revenue-based (more specifically Revenue per Visit).
 
-**The algorithm does not support using [!DNL Analytics] as a data-source or a reporting endpoint.**
-
 **Target automatically collects information about visitors to build the personalization models.**
 
 * For more information about the parameters used in [!UICONTROL Auto-Target] and Automated Personalization, see [Automated Personalization Data Collection](../c-activities/t-automated-personalization/ap-data.md#reference_255BD3DE7AD04DC9B766E0BC78961058).
