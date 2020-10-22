@@ -121,7 +121,7 @@ You can override the following settings:
 * **Default Value**: true (true beginning with at.js version 1.6.2)
 * **Description**: Indicates if we should use `<clientCode>.tt.omtrdc.net` domain or `mboxedge<clusterNumber>.tt.omtrdc.net` domain.
 
-  If this value is true, `mboxedge<clusterNumber>.tt.omtrdc.net` domain will be saved to a cookie. Currently not working with [CNAME](/help/c-implementing-target/c-considerations-before-you-implement-target/implement-cname-support-in-target.md)
+  If this value is true, `mboxedge<clusterNumber>.tt.omtrdc.net` domain will be saved to a cookie. Currently not working with [CNAME](/help/c-implementing-target/c-considerations-before-you-implement-target/implement-cname-support-in-target.md) when using at.js versions prior to at.js 1.8.2 and at.js 2.3.1. If this is an issue for you, consider [updating at.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md) to a newer, supported version.
 
 ### overrideMboxEdgeServerTimeout
 

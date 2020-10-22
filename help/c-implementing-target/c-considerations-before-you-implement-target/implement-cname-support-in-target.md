@@ -138,5 +138,5 @@ Use the following set of commands (in the MacOs or Linux command-line terminal, 
 ## Known limitations
 
 * QA mode will not be sticky when you have CNAME and at.js 1.x because it is based on a third-party cookie. The workaround is to add the preview parameters to each URL you navigate to. QA mode is sticky when you have CNAME and at.js 2.x.
-* Currently the `overrideMboxEdgeServer` setting doesn't work properly with CNAME. This should be set as `false` in order to avoid failing requests.
+* Currently the `overrideMboxEdgeServer` setting doesn't work properly with CNAME when using at.js versions prior to at.js 1.8.2 and at.js 2.3.1. If you are using an older version of at.js this should be set as `false` in order to avoid failing requests. Alternatively, you should consider [updating at.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md) to a newer, supported version.
 * When using CNAME it becomes more likely that the size of the cookie header for Target calls will increase. We recommend keeping the cookie size under 8KB.

@@ -46,7 +46,7 @@ This release contains the following enhancements, fixes, and changes:
 * Updates were made to help make the Target UI compliant with [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) 2.0 Level A and AA Success Criteria (WCAG 2.0 AA). (TGT-34384 & TGT-24679)
 * Made Content Security Policy (CSP) improvements. (TGT-37035)
 * Introduced a way to specify the client code as a parameter for customers using CNAME. (TNT-38571)
-
+* [!DNL Adobe Experience Cloud] documentation is moving to [!DNL Experience League]. During October, all release notes, articles, videos, and tutorials will move from their current location at `docs.adobe.com` to [!DNL Experience League]. This move ensures that all learning, self-help, enablement, and community content is served from a single location. When this change occurs, there is nothing you need to do, as all links will be redirected to [!DNL Experience League]. We will update the release notes when the cutover begins.
 
 ## Prerelease information {#section_7B9D4AAFC6A74388B9D7DEF0658D8B63} 
 
