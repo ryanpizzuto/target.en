@@ -11,7 +11,7 @@ uuid: 35ecabbe-b8b4-479b-9266-4823c831d79a
 
 This article contains prerelease information. Release dates, features, and other information are subject to change without notice. 
 
-**Last Updated: October 15, 2020**
+**Last Updated: October 23, 2020**
 
 To view information about the current release, see [Target Release Notes](release-notes.md). The information on these pages might be the same, depending on the timing of releases. The issue numbers in parentheses are for internal [!DNL Adobe] use.
 
@@ -33,7 +33,7 @@ This release contains the following new features:
 
 |Feature|Details|
 | --- | --- |
-|On-device Decisions|On-device Decisions lets both marketers and product developers deliver experimentation and Machine Learning-driven personalization from within a user's device, across channels, at near-zero latency.<br>Speed and performance matters--in customer insights and user satisfaction. On-device Decisions lets marketers, and now product developers, test and optimize experiences right from within a users device, decreasing decision and load times to nearly zero for real-time, contextual experiences.<br>On-device Decisions allows you to compile all personalization and experimentation instructions onto "optimization artifacts," which are loaded onto customer devices. These zero-latency artifacts give marketers one-to-one personalization, behavioral retargeting, and real-time product and content recommendations, while giving developers and product owners direct code access to test user experiences and target and phase product launches, refining in real-time. And because On-device Decisions connects natively with [!DNL Adobe Experience Cloud] products, [!DNL Target] users get rapid analysis and faster experience iterations.<br>**Register now for a live webinar.** Join Adobe Target product experts as they discuss how moving critical experience optimization decisions on-device to execute locally with zero latency can open doors to exciting new use cases while improving site performance for your customers.<ul><li>November 10, 2020</li><li>10 a.m. PT / 12 p.m. CT / 1 p.m. ET</li><li>[Register Here](https://www.adobeeventsonline.com/Target/2020/OnDeviceDecisions/invite.html)</li></ul>|
+|On-device decisioning|On-device decisioning lets both marketers and product developers deliver experimentation and Machine Learning-driven personalization from within a user's device, across channels, at near-zero latency.<br>Speed and performance matters--in customer insights and user satisfaction.<br>On-device decisioning lets you compile key personalization and experimentation instructions in A/B Test and Experience Targeting (XT) activity types into "optimization artifacts:" JSON objects that are loaded onto customer devices via the CDN. And because on-device decisioning connects natively with [!DNL Adobe Experience Cloud] products, [!DNL Target] users get rapid analysis and faster experience iterations.<br>**Register now for a live webinar.** Join Adobe Target product experts as they discuss how moving critical experience optimization decisions on-device to execute locally with zero latency can open doors to exciting new use cases while improving site performance for your customers.<ul><li>November 10, 2020</li><li>10 a.m. PT / 12 p.m. CT / 1 p.m. ET</li><li>[Register Here](https://www.adobeeventsonline.com/Target/2020/OnDeviceDecisions/invite.html)</li></ul>|
 
 This release contains the following enhancements, fixes, and changes:
 
