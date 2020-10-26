@@ -14,4 +14,4 @@ At Adobe, we take the security of your digital experience very seriously. Securi
 
 Furthermore, our collaborative work with partners, leading researchers, security research institutions, and other industry organizations helps us keep up to date with the latest threats and vulnerabilities and we regularly incorporate advanced security techniques into the products and services we offer.
 
-For more information, see the [Adobe Target Security Overview](https://wwwimages.adobe.com/content/dam/Adobe/en/security/pdfs/AdobeTargetSecurityOverview.pdf) white paper. 
+For more information, see the [Adobe Target Security Overview](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeTargetSecurityOverview.pdf) white paper. 

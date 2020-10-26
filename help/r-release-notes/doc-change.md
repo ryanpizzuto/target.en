@@ -15,6 +15,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|October 26|[Target security overview](/help/c-implementing-target/c-considerations-before-you-implement-target/target-security-overview.md)|Updated the *Adobe Target Security Overview* whitepaper.|
 |October 22|[CNAME and Adobe Target](/help/c-implementing-target/c-considerations-before-you-implement-target/implement-cname-support-in-target.md)|Added information about a fix for CNAME support in at.js versions 1.8.2 and 2.3.1|
 ||[targetGlobalSettings](/help/c-implementing-target/c-implementing-target-for-client-side-web/targetgobalsettings.md)|Added information about a fix for CNAME support in at.js versions 1.8.2 and 2.3.1|
 |October 15|[Target release notes (prerelease)](/help/r-release-notes/target-release-notes.md)|Updated the prerelease notes for the Target Standard/Premium 20.10.1 release (October 27, 2020).|
