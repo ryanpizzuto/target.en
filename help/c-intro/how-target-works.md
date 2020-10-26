@@ -92,7 +92,7 @@ Activity and content databases, [!DNL Analytics] data, APIs, and marketer user i
 
 Each Edge Cluster has all the information required to respond to the user's content request and track analytics data on that request. User requests are routed to the nearest Edge Cluster.
 
-For more information, see the [Adobe Target Security Overview](https://www.adobe.com/content/dam/acom/en/security/pdfs/AdobeTargetSecurityOverview.pdf) white paper.
+For more information, see the [Adobe Target Security Overview](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeTargetSecurityOverview.pdf) white paper.
 
 The [!DNL Adobe Target] solution is hosted on Adobe-owned and Adobe-leased data centers around the globe.
 
@@ -101,6 +101,8 @@ Central Cluster locations contain both a data collection center and a data proce
 Customer site activity data is collected by the closest of seven Edge Clusters and directed to a customer’s pre-determined Central Cluster destination (one of three locations: Oregon, Dublin, Singapore) for processing. Visitor profile data is stored on the Edge Cluster closest to the site visitor (locations include the Central Cluster locations and Virginia, Amsterdam, Sydney, Tokyo, and Hong Kong).
 
 Rather than respond to all targeting requests from a single location, requests are processed by the Edge Cluster closest to the visitor, thus mitigating the impact of network/Internet travel time.
+
+![Types of Target servers map](/help/c-intro/assets/target-servers.png)
 
 Target Central Clusters, hosted on Amazon Web Services (AWS), are located in:
 
