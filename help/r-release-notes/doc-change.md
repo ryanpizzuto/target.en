@@ -15,7 +15,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
-|October 28|[Server Side: implement Target](/help/c-implementing-target/c-api-and-sdk-overview/api-and-sdk-overview.md)|Added link to the new *[Adobe Target SDKs](https://adobetarget-sdks.gitbook.io/docs/)* portal.|
+|October 27|[Server Side: implement Target](/help/c-implementing-target/c-api-and-sdk-overview/api-and-sdk-overview.md)|Added link to the new *[Adobe Target SDKs](https://adobetarget-sdks.gitbook.io/docs/)* portal.|
 ||[Create an activity that uses Analytics as the reporting source](/help/c-integrating-target-with-mac/a4t/campaign-creation.md)|Added information stating that if you are using `analyticsLogging = client_side`, you must pass the `sessionId` value to [!DNL Analytics] when using Analytics as the reporting source (A4T) with Auto-Target activities.|
 ||[Analytics for Target implementation](/help/c-integrating-target-with-mac/a4t/a4timplementation.md)|Added information stating that for [!UICONTROL Auto-Allocate] and [!UICONTROL Auto-Target] activities using `analyticsLogging = client_side`, you will also need to forward the sessionId.|
 ||[Release Notes](/help/r-release-notes/release-notes.md): 20.10.1|This release includes enhancements and fixes. You can read about them and link to the documentation from the Release Notes. This release also includes many documentation updates throughout the help.|

@@ -23,7 +23,7 @@ These release notes provide information about features, enhancements, and fixes 
 
 The issue numbers in parentheses are for internal [!DNL Adobe] use.
 
-## Target Standard/Premium 20.10.1 (October 28, 2020)
+## Target Standard/Premium 20.10.1 (October 27, 2020)
 
 This release contains the following new features:
 
