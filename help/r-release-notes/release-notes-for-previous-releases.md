@@ -17,6 +17,14 @@ Release notes for previous Target releases, including release notes for Target S
 
 ## Release notes - 2020
 
+### Target Standard/Premium 20.9.1 (September 30, 2020)
+
+This maintenance release contains the following enhancements, fixes, and changes:
+
+* Improved navigation and functionality for keyboard-only users. (TGT-34487, TGT-34516, TGT-34517, TGT-34514)
+* Added labels in the UI to aid users using assistive technologies. (TGT-34500, TGT-34501, TGT-34502, TGT-24504)
+* Improved text and color contrast for images and text in UI. (TGT-34513)
+
 ### Target Standard/Premium 20.8.3 (September 15, 2020)
 
 |Feature|Details|
@@ -266,21 +274,17 @@ The Target Standard/Premium 20.1.1 release is a maintenance release and includes
 
 * Support for proxy config added due to an open source contribution made by @hisham-hassan.
 
-For more information, see [Release notes - Target Java SDK](/help/c-implementing-target/c-api-and-sdk-overview/releases-target-java-sdk.md).
-
 ### Target Java SDK version 1.0.1 (November 11, 2019)
 
 The following issue was fixed in version 1.0.1:
 
 * Send supplemental data ID in a Target request even when there is no Visitor API cookie present.
 
-For more information, see [Release notes - Target Java SDK](/help/c-implementing-target/c-api-and-sdk-overview/releases-target-java-sdk.md).
-
 ### Target platform (October 31, 2019)
 
 |Feature / Enhancement|Description|
 | --- | --- |
-|Java SDK|The [!DNL Target] Java SDK lets you deploy [!DNL Target] server-side. This Java SDK helps you easily integrate [!DNL Target] with other [!DNL Adobe Experience Cloud] solutions, such as the [!DNL Adobe Experience Cloud Identity Service], [!DNL Adobe Analytics], and [!DNL Adobe Audience Manager].<br>The Java SDK introduces best practices and removes complexities when integrating with [!DNL Target] via our delivery API so that your engineering teams can focus on business logic. The following are notable features that we are introducing in the latest version:<ul><li>Support for prefetching and notifications that allows you to optimize for performance via caching.</li><li>Support for optimizing performance when you have a hybrid integration of [!DNL Target] on both your web pages and server-side. We are introducing a setting called `serverState` that is populated by experiences retrieved via the server-side so that at.js 2.2 will no longer make an additional server call to retrieve the experiences. This approach optimizes page load performance.</li><li>Support for retrieving VEC-created activities via the Java SDK, which is made possible by the new Delivery API.</li><li>Open sourced so your developers can contribute to the [Target Java SDK](https://github.com/adobe/target-java-sdk).</li></ul>For more information, see [Release notes - Target Java SDK](/help/c-implementing-target/c-api-and-sdk-overview/releases-target-java-sdk.md).<br>Learn more about the Target Java SDK on the Adobe Tech Blog - [Server-Side Optimization with the new Target Java SDK](https://medium.com/adobetech/server-side-optimization-with-the-new-target-java-sdk-421dc418a3f2).|
+|Java SDK|The [!DNL Target] Java SDK lets you deploy [!DNL Target] server-side. This Java SDK helps you easily integrate [!DNL Target] with other [!DNL Adobe Experience Cloud] solutions, such as the [!DNL Adobe Experience Cloud Identity Service], [!DNL Adobe Analytics], and [!DNL Adobe Audience Manager].<br>The Java SDK introduces best practices and removes complexities when integrating with [!DNL Target] via our delivery API so that your engineering teams can focus on business logic. The following are notable features that we are introducing in the latest version:<ul><li>Support for prefetching and notifications that allows you to optimize for performance via caching.</li><li>Support for optimizing performance when you have a hybrid integration of [!DNL Target] on both your web pages and server-side. We are introducing a setting called `serverState` that is populated by experiences retrieved via the server-side so that at.js 2.2 will no longer make an additional server call to retrieve the experiences. This approach optimizes page load performance.</li><li>Support for retrieving VEC-created activities via the Java SDK, which is made possible by the new Delivery API.</li><li>Open sourced so your developers can contribute to the [Target Java SDK](https://github.com/adobe/target-java-sdk).</li></ul>Learn more about the Target Java SDK on the Adobe Tech Blog - [Server-Side Optimization with the new Target Java SDK](https://medium.com/adobetech/server-side-optimization-with-the-new-target-java-sdk-421dc418a3f2).|
 
 ### Target Standard/Premium 19.10.2 (October 31, 2019)
 
@@ -332,8 +336,8 @@ For more information, see [Release notes - Target Java SDK](/help/c-implementing
 
 |Feature / Enhancement|Description|
 | --- | --- |
-|Node.js SDK version 1.0|The Target Node.js SDK lets you deploy Target server-side.<br>This Node.js SDK helps you easily integrate Target with other Experience Cloud solutions, such as the Adobe Experience Cloud Identity Service, Adobe Analytics, and Adobe Audience Manager.<br>The Node.js SDK introduces best practices and removes complexities when integrating with Adobe Target via our delivery API so that your engineering teams can focus on business logic. The following are notable features that we are introducing in the latest version:<ul><li>Support for prefetching and notifications that allows you to optimize for performance via caching.</li><li>Support for optimizing performance when you have a hybrid integration of Target on both your web pages and server-side. We are introducing a setting called `serverState` that will be populated by experiences retrieved via the server-side so that at.js 2.2 will no longer make an additional server call to retrieve the experiences. This approach optimizes page load performance.</li><li> Support for retrieving VEC-created activities via the Node.js SDK, which is made possible by the new Delivery API.</li><li>Open sourced so your developers can contribute to the Node.js SDK.</li></ul><br>For more information, see [Release notes - Target Node.js SDK](/help/c-implementing-target/c-api-and-sdk-overview/releases-nodejs.md).|
-|Delivery API|An entirely new delivery API endpoint (/v1/delivery) is available in production. Notable features are:<ul><li>One endpoint to retrieve experiences for one or more mboxes.</li><li>Retrieve VEC-created activities via the API.</li><li>Support for an entirely new object called Views that is used for Single Page Applications (SPAs) and Mobile applications.</li></ul><br>For more information, see [Release notes - Target server-side APIs](/help/c-implementing-target/c-api-and-sdk-overview/releases-server-side.md).|
+|Node.js SDK version 1.0|The Target Node.js SDK lets you deploy Target server-side.<br>This Node.js SDK helps you easily integrate Target with other Experience Cloud solutions, such as the Adobe Experience Cloud Identity Service, Adobe Analytics, and Adobe Audience Manager.<br>The Node.js SDK introduces best practices and removes complexities when integrating with Adobe Target via our delivery API so that your engineering teams can focus on business logic. The following are notable features that we are introducing in the latest version:<ul><li>Support for prefetching and notifications that allows you to optimize for performance via caching.</li><li>Support for optimizing performance when you have a hybrid integration of Target on both your web pages and server-side. We are introducing a setting called `serverState` that will be populated by experiences retrieved via the server-side so that at.js 2.2 will no longer make an additional server call to retrieve the experiences. This approach optimizes page load performance.</li><li> Support for retrieving VEC-created activities via the Node.js SDK, which is made possible by the new Delivery API.</li><li>Open sourced so your developers can contribute to the Node.js SDK.</li></ul>|
+|Delivery API|An entirely new delivery API endpoint (/v1/delivery) is available in production. Notable features are:<ul><li>One endpoint to retrieve experiences for one or more mboxes.</li><li>Retrieve VEC-created activities via the API.</li><li>Support for an entirely new object called Views that is used for Single Page Applications (SPAs) and Mobile applications.</li></ul>|
 
 ### Target Standard/Premium 19.9.2 (September 30, 2019)
 

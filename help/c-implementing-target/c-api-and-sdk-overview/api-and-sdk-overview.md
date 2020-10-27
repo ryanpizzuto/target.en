@@ -36,29 +36,11 @@ Throught the [!DNL Target] Delivery API, you can:
 * Cache experiences for a visitor within a session on your server so that multiple API calls can be avoided, which achieves better performance.
 * Seamlessly integrate with [!DNL Adobe Experience Cloud] products, such as [!DNL Adobe Analytics], [!DNL Adobe Audience Manager] (AAM), and the [!DNL Experience Cloud ID Service] from the server side.
 
-## Node.js SDK
+## Server Side SDKs
 
-Link: [Node.js SDK](https://github.com/adobe/target-nodejs-sdk)
+Link: [Adobe Target SDKs](https://adobetarget-sdks.gitbook.io/docs/)
 
-The Node.js SDK is a sophisticated software development kit that removes the complexities of managing cookies, sessions, and integrating with [!DNL Experience Cloud] products, such as [!DNL Analytics], [!DNL Experience Cloud Visitor ID Service], and [!DNL Audience Manager]. Behind the scenes, the Node.js SDK uses the `/rest/v1/delivery` API. Here are some notable features that are supported in the Node.js SDK:
-
-* **Support for prefetch and notifications that allow you to optimize for performance via caching:** You can use the Node.js SDK to retrieve experiences and cache them locally on your Node.js server with the purpose of minimizing server calls to [!DNL Target] and optimizing your application performance.
-* **Ability to retrieve VEC-created activities:** Retrieve VEC-created activities on the server-side. The response that contains VEC-created activities has selectors that can be used to pre-hide only portions of your page that need to be personalized. This helps optimize your page's [First Contentful Paint metric](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics.html), which is an important KPI for your business to achieve a high score in the [Google PageRank](https://en.wikipedia.org/wiki/PageRank) system.
-
-## Target Java SDK
-
-Link: [Target Java SDK](https://github.com/adobe/target-java-sdk)
-
-The Java SDK is a sophisticated software development kit that removes the complexities of managing cookies, sessions, and integrating with [!DNL Adobe Experience Cloud] solutions, such as [!DNL Adobe Analytics], the [!DNL Experience Cloud Visitor ID Service], and [!DNL Adobe Audience Manager]. Behind the scenes, the Java SDK uses the `/rest/v1/delivery` API. Here are some notable features that are supported in the Java SDK:
-
-* **Support for prefetch and notifications that allow you to optimize for performance via caching**: You can use the JavaSDK to retrieve experiences and cache them locally on your Java server with the purpose of minimizing server calls to [!DNL Target] and optimizing your application performance.
-* **Ability to retrieve VEC-created activities**: Retrieve VEC-created activities on the server-side. The response that contains VEC-created activities has selectors that can be used to pre-hide only portions of your page that need to be personalized. This helps optimize your page's [First Contentful Paint](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics.html) metric, which is an important KPI for your business to achieve a high score in the [Google PageRank](https://en.wikipedia.org/wiki/PageRank) system.
-
-## Adobe Target Developers
-
-Link: [Adobe Target Developers](http://developers.adobetarget.com/)
-
-The Adobe Target Developers site helps you implement [!DNL Target] on client-side applications, server-side applications, mobile apps, IoT, and more. You can also export your [!DNL Target] data to third-party solutions.
+The [!DNL Adobe Target] server-side SDK documentation portal helps you implement [!DNL Target] on your servers in your language of choice.
 
 ## Target Recommendations APIs
 

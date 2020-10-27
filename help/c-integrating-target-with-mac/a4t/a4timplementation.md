@@ -36,21 +36,21 @@ For new implementations, see [JavaScript implementation overview](https://docs.a
 
 For a migration, see [Migrating to AppMeasurement for JavaScript](https://docs.adobe.com/content/help/en/analytics/implementation/javascript-implementation/appmeasurement-js/appmeasure-mjs-migrate.html) in the *Analytics Implementation Guide*.
 
-## Step 5: Download and update at.js or mbox.js
+## Step 5: Download and update at.js
 
-You must implement or migrate to the required version of at.js or mbox.js using your production account. No modifications are required on the code.
+You must implement or migrate to the required version of at.js using your production account. No modifications are required on the code.
 
 For more information, see "Implementation Requirements" in [Before you implement](/help/c-integrating-target-with-mac/a4t/before-implement.md).
 
-## Step 6: Host at.js or mbox.js
+## Step 6: Host at.js
 
-If you previously deployed at.js or mbox.js, you can replace your existing file with the updated version. For more information, see "Implementation Requirements" in [Before you implement](/help/c-integrating-target-with-mac/a4t/before-implement.md).
+If you previously deployed at.js, you can replace your existing file with the updated version. For more information, see "Implementation Requirements" in [Before you implement](/help/c-integrating-target-with-mac/a4t/before-implement.md).
 
 Otherwise, this file can be hosted along with the Visitor ID service and AppMeasurement for JavaScript files. These files must be hosted on a web server that is accessible to all pages on your site. You need the path to these files in the next step.
 
-## Step 7: Reference at.js or mbox.js on all site pages {#step7}
+## Step 7: Reference at.js on all site pages {#step7}
 
-Include at.js or mbox.js below VisitorAPI.js by adding the following line of code in the tag on each page:
+Include at.js below VisitorAPI.js by adding the following line of code in the tag on each page:
 
 For at.js:
 
@@ -59,14 +59,7 @@ For at.js:
 src="http://INSERT-DOMAIN-AND-PATH-TO-CODE-HERE/at.js"></script>
 ```
 
-For mbox.js:
-
-```
-<script language="JavaScript" type="text/javascript"
-src="http://INSERT-DOMAIN-AND-PATH-TO-CODE-HERE/mbox.js"></script>
-```
-
-It is essential that VisitorAPI.js is loaded before at.js or mbox.js. If you are updating an existing at.js or mbox.js file, make sure that you verify the load order.
+It is essential that VisitorAPI.js is loaded before at.js. If you are updating an existing at.js or mbox.js file, make sure that you verify the load order.
 
 The way the out-of-the-box settings are configured for [!DNL Target] and [!DNL Analytics] integration from an implementation perspective is to use the SDID that is passed from the page to stitch the [!DNL Target] and [!DNL Analytics] request together on the backend automatically for you. 
 
@@ -91,7 +84,7 @@ This set up has a global effect, which means that every call made by at.js will 
 }
 ```
 
-The payload can then be forwarded to Analytics via the [Data Insertion API](https://helpx.adobe.com/analytics/kb/data-insertion-api-post-method-adobe-analytics.html).
+The payload can then be forwarded to Analytics via the [Data Insertion API](https://helpx.adobe.com/analytics/kb/data-insertion-api-post-method-adobe-analytics.html). Note that, for [!UICONTROL Auto-Allocate] and [!UICONTROL Auto-Target] activities you will also need to forward the sessionId. For more information, see [Adobe Analytics for Target (A4T)](https://developers.adobetarget.com/api/delivery-api/#section/Integration-with-Experience-Cloud/Adobe-Analytics-for-Target-(A4T)) in the *Adobe Target Delivery API Guide* 
 
 If a global setting is not desired and a more on-demand approach is preferable, then you can use the at.js function [getOffers()](/help/c-implementing-target/c-implementing-target-for-client-side-web/adobe-target-getoffers-atjs-2.md) to achieve this by passing in **analyticsLogging: "client_side"**. The analytics payload will be returned for only this call and the [!DNL Target] backend will not forward the payload to [!DNL Analytics]. By pursuing this approach, every at.js [!DNL Target] request will not return the payload by default, but instead only when desired and specified. 
 
