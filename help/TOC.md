@@ -155,9 +155,6 @@ type: Documentation
       + [Use Location Service](/help/c-target-mobile-app/use-location-service.md)
    + Server Side: implement Target {#server-side}
       + [Server Side: implement Target overview](c-implementing-target/c-api-and-sdk-overview/api-and-sdk-overview.md)
-      + [Release notes - Target server-side APIs](/help/c-implementing-target/c-api-and-sdk-overview/releases-server-side.md)
-      + [Release notes - Target Node.js SDK](/help/c-implementing-target/c-api-and-sdk-overview/releases-nodejs.md)
-      + [Release notes - Target Java SDK](/help/c-implementing-target/c-api-and-sdk-overview/releases-target-java-sdk.md)
       + [Transition from Target legacy APIs to Adobe I/O](c-implementing-target/c-api-and-sdk-overview/target-api-documentation.md)
    + [Hybrid implementation](/help/c-implementing-target/hybrid-implementation.md)
    + Email: implement Target {#implement-email}
