@@ -1,6 +1,6 @@
 ---
 keywords: server side;server-side;api;sdk;node.js;nodejs;node js;recommendations api;api:apis
-description: Information about Adobe Target server-side delivery APIs, Node.js SDK, and Target Recommendations APIs.
+description: Information about Adobe Target server-side delivery APIs, SDKs, and Target Recommendations APIs.
 title: Information about Adobe Target server-side delivery APIs, Node.js SDK, and Target Recommendations APIs.
 feature: server-side
 topic: Recommendations
@@ -9,7 +9,7 @@ uuid: 21d321c7-3da4-44a2-a04f-1807cc2a893b
 
 # Server Side: implement Target{#server-side-implement-target}
 
-Information about [!DNL Adobe Target] server-side delivery APIs, Node.js SDK, and [!DNL Target Recommendations] APIs.
+Information about [!DNL Adobe Target] server-side delivery APIs, SDKs, and [!DNL Target Recommendations] APIs.
 
 The following process occurs in a server-side implementation of [!DNL Target]:
 
@@ -19,6 +19,10 @@ The following process occurs in a server-side implementation of [!DNL Target]:
 1. Your server makes the decision on which experience to deliver to the client device for it to render.
 
 The experience does not need to display in a browser. The experience can display in an email or kiosk, via a voice assistant, or through some other non-visual experience or non-browser-based device. Because your server sits between the client and [!DNL Target], this type of implementation is also ideal if you need greater control and security or have complex backend processes that you want to run on your server.
+
+>[!NOTE]
+>
+>A first-time visitor can be initialized only on the client-side. A first-time visitor *cannot* be initialized on the server-side.
 
 The following sections provide more information about the various APIs and the NodeJS SDK:
 
