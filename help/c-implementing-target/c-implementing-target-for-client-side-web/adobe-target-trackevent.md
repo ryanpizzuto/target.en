@@ -17,7 +17,7 @@ Here are the API details:
 
 | Key | Type | Required | Description |
 |--- |--- |--- |--- |
-|mbox|String|Yes|Mbox name|
+|mbox|String|Yes|Mbox name<br>**Note**: If a trackEvent() call is fired with an mbox name that has already fired on the page, the SDID of trackEvent() is reset and will be different than the Target calls on the page. However, firing a trackEvent() call with a different mbox name keeps the trackEvent() calls’ SDID consistent with the Page Load Request/triggerView() calls on the page.|
 |selector|String|No|CSS selectors used to find the HTML elements. The event listeners will be attached to found elements.|
 |type|String|No|Represents a registered event type. It can be both HTML known events like: click, mousedown ,etc., as well as custom HTML events.|
 |preventDefault|Boolean|No|Indicates whether to use `event.preventDefault()` in the event listener callback. Defaults to false.<br>**Note**: Only `form[submit] and `a[click]` are supported. Other scenarios are not supported due to complexity and huge amount of scenarios to support.|
