@@ -112,7 +112,7 @@ Click **[!UICONTROL Custom Dates]** to select pre-defined date ranges: Last 7 Da
 Reports have the following date restrictions:
 
 * Start date of the report must be within the last two years. 
-* Daily reports are limited to 100 days. 
+* Offer group reports are limited to 99 days from present day. 
 * Hourly reports are limited to 15 days.
 
 ## Settings {#section_D99CE462107D45CABE0960F820E1E972}
