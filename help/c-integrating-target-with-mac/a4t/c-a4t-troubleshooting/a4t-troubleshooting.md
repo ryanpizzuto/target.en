@@ -66,7 +66,11 @@ Although these metrics are negative, the lift is shown as if they were positive 
 
 ## The report suite I need does not appear. {#section_BD8F956E41D6475B98B7BF0C74CC387C}
 
-The list of report suites that appears in Target Standard/Premium is the list of report suites that have been configured for Analytics as the reporting source for Target. This means you might not see every report suite you have. If you don't see the report suite you are looking for, you should contact Client Care to get it enabled.
+The list of report suites that appears in Target Standard/Premium is the list of report suites that have been configured for Analytics as the reporting source for Target. This means you might not see every report suite you have.
+
+Also, if you are using multiple reporting sources the report suites MUST be present in the default reporting source set in Target as well. Otherwise the reports suites will not appear.
+
+If you still don't see the report suite you are looking for, you should contact Client Care to get it enabled.
 
 ## I'm not seeing as much data in reports as expected. {#section_75002584FA63456D8D9086172925DD8D}
 
