@@ -64,13 +64,13 @@ This is a known issue.
 
 Although these metrics are negative, the lift is shown as if they were positive in the Target reports. For example, even though you want a lower bounce rate, the higher bounce rate is shown as the winner with highest lift. Be aware of these and similar metrics, and whether you'd prefer to decrease or increase the numbers, when making decisions based on your reports.
 
-## The report suite I need does not appear. {#section_BD8F956E41D6475B98B7BF0C74CC387C}
+## The report suite I need does not display. {#section_BD8F956E41D6475B98B7BF0C74CC387C}
 
-The list of report suites that appears in Target Standard/Premium is the list of report suites that have been configured for Analytics as the reporting source for Target. This means you might not see every report suite you have.
+The list of report suites that appears in [!DNL Target Standard/Premium] is the list of report suites that have been configured for [!DNL Analytics] as the reporting source for [!DNL Target] (A4T). This means you might not see every report suite you have.
 
-Also, if you are using multiple reporting sources the report suites MUST be present in the default reporting source set in Target as well. Otherwise the reports suites will not appear.
+Also, if you are using multiple reporting sources, the report suites must be present in the default reporting source set in [!DNL Target] as well; otherwise, the reports suites will not display.
 
-If you still don't see the report suite you are looking for, you should contact Client Care to get it enabled.
+If you still don't see the report suite you are looking for, contact [Client Care](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C) to get it enabled.
 
 ## I'm not seeing as much data in reports as expected. {#section_75002584FA63456D8D9086172925DD8D}
 

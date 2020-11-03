@@ -15,6 +15,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|November 3|[Troubleshoot the Analytics and Target integration (A4T)](/help/c-integrating-target-with-mac/a4t/c-a4t-troubleshooting/a4t-troubleshooting.md)|Updated the following the following troubleshooting topic: "The report suite I need does not display."|
 |October 28|[Server Side: implement Target](/help/c-implementing-target/c-api-and-sdk-overview/api-and-sdk-overview.md)|Added note that first-time visitors can be initialized only client-side, not server-side.|
 |October 27|[Server Side: implement Target](/help/c-implementing-target/c-api-and-sdk-overview/api-and-sdk-overview.md)|Added link to the new *[Adobe Target SDKs](https://adobetarget-sdks.gitbook.io/docs/)* portal.|
 ||[Create an activity that uses Analytics as the reporting source](/help/c-integrating-target-with-mac/a4t/campaign-creation.md)|Added information stating that if you are using `analyticsLogging = client_side`, you must pass the `sessionId` value to [!DNL Analytics] when using Analytics as the reporting source (A4T) with Auto-Target activities.|
