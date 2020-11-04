@@ -7,11 +7,11 @@ topic: Standard
 uuid: e8aee4d7-2b99-4e1f-8004-2efc820658b5
 ---
 
-# Auto-Allocate{#auto-allocate}
+# Auto-Allocate overview
 
 Auto-Allocate identifies a winner among two or more experiences and automatically reallocates more traffic to the winner to increase conversions while the test continues to run and learn.
 
-While [creating an A/B activity using the three-step guided workflow](../../c-activities/t-test-ab/t-test-create-ab/test-create-ab.md#task_68C8079BF9FF4625A3BD6680D554BB72), you can choose the [!UICONTROL Auto-Allocate to Best Experience] option.
+While creating an A/B activity using the three-step guided workflow, you can choose the [!UICONTROL Auto-Allocate to best experience] option.
 
 ## The Challenge {#section_85D5A03637204BACA75E19646162ACFF}
 

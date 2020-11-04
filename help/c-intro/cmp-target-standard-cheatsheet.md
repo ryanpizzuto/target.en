@@ -57,7 +57,7 @@ Use our [reports to determine the winning experience](../c-activities/automated-
 
 **Can I perform an activity with a level of personalization as an integral part of the activity?**
 
-Check out [A/B Testing with the Auto-Target](../c-activities/auto-target-to-optimize.md#concept_67779E5B7F67427A97D7EA2A6FB919B3) option.
+Check out [Auto-Target](/help/c-activities/auto-target-to-optimize.md) option.
 
 **How can I know which type of activity best fits my needs?**
 

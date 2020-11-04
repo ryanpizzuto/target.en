@@ -24,7 +24,7 @@ There is no turn-key option of comparing AP to a default experience. However, as
 
 ## What are best practices to set up an Automated Personalization activity? {#section_E155B26282BE49B58EA2683413D11DE6}
 
-* If you are looking to personalize a lower-traffic page, or you want to make structural changes to the experience you are personalizing, consider using Auto-Target in place of Automated Personalization. See [Auto-Target For Personalized Experiences](../../c-activities/auto-target-to-optimize.md#concept_67779E5B7F67427A97D7EA2A6FB919B3). 
+* If you are looking to personalize a lower-traffic page, or you want to make structural changes to the experience you are personalizing, consider using Auto-Target in place of Automated Personalization. See [Auto-Target](/help/c-activities/auto-target-to-optimize.md). 
 * Consider completing an A/B activity between the offers and locations you are planning to use in your Automated Personalization activity to ensure the location(s) and offers have an impact on the optimization goal. If an A/B activity fails to demonstrate a significant difference, Automated Personalization likely will also fail to generate lift.
 
     * If an A/B…N test shows no statistically significant differences between experiences, likely the offers you are considering are not sufficiently different from each other, the locations you selected do not impact the success metric, or the optimization goal is too far in the conversion funnel to be affected by your chosen offers.
