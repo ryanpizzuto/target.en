@@ -12,7 +12,7 @@ List of frequently asked questions (FAQs) about Automated Personalization (AP).
 
 ## Can I specify a specific experience to be used as control?
 
-You can select an experience to be used as control while creating an [Automated Personalization](/help/c-activities/t-automated-personalization/automated-personalization.md) (AP) or [Auto-Target](/help/c-activities/auto-target-to-optimize.md) (AT) activity.
+You can select an experience to be used as control while creating an [Automated Personalization](/help/c-activities/t-automated-personalization/automated-personalization.md) (AP) or [Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md) (AT) activity.
 
 This feature lets you route the entire control traffic to a specific experience, based on the traffic allocation percentage configured in the activity. You can then evaluate the performance reports of the personalized traffic against control traffic to that one experience.
 
@@ -24,7 +24,7 @@ There is no turn-key option of comparing AP to a default experience. However, as
 
 ## What are best practices to set up an Automated Personalization activity? {#section_E155B26282BE49B58EA2683413D11DE6}
 
-* If you are looking to personalize a lower-traffic page, or you want to make structural changes to the experience you are personalizing, consider using Auto-Target in place of Automated Personalization. See [Auto-Target](/help/c-activities/auto-target-to-optimize.md). 
+* If you are looking to personalize a lower-traffic page, or you want to make structural changes to the experience you are personalizing, consider using Auto-Target in place of Automated Personalization. See [Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md). 
 * Consider completing an A/B activity between the offers and locations you are planning to use in your Automated Personalization activity to ensure the location(s) and offers have an impact on the optimization goal. If an A/B activity fails to demonstrate a significant difference, Automated Personalization likely will also fail to generate lift.
 
     * If an A/B…N test shows no statistically significant differences between experiences, likely the offers you are considering are not sufficiently different from each other, the locations you selected do not impact the success metric, or the optimization goal is too far in the conversion funnel to be affected by your chosen offers.
@@ -72,7 +72,7 @@ For more information, [Troubleshooting Automated Personalization](../../c-activi
 
 ### How is Automated Personalization allocating my activity's traffic? {#section_4369364F77804E0D9B78BEE551DA5659}
 
-Automated Personalization routes visitors to the experience that has the highest forecasted success metric based on the most recent [Random Forest](../../c-activities/t-automated-personalization/algo-random-forest.md#concept_48F3CDAA16A848D2A84CDCD19DAAE3AA) models built for each model. This forecast is based on the visitor's specific information and visit context.
+Automated Personalization routes visitors to the experience that has the highest forecasted success metric based on the most recent [Random Forest](/help/c-activities/t-automated-personalization/algo-random-forest.md) models built for each model. This forecast is based on the visitor's specific information and visit context.
 
 For example, assume an AP activity had two locations with two offers each. In the first location, Offer A has a forecasted conversion rate of 3% for a specific visitor, and Offer B has a forecasted conversion rate of 1%. In the second location, Offer C has a forecasted conversion rate of 2% for the same visitor, and Offer D has a forecasted conversion rate of 5%. Therefore, Automated Personalization would serve this visitor an experience with Offer A and Offer D.
 

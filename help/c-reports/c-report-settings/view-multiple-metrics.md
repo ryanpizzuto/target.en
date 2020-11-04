@@ -12,7 +12,7 @@ You can select multiple metrics to view in an [!DNL Adobe Target] report.
 
 Be aware of the following information as you work with multiple metrics in reports:
 
-* The ability to view multiple metrics is available for [A/B Test](/help/c-activities/t-test-ab/test-ab.md), [Auto-Allocate](/help/c-activities/automated-traffic-allocation/automated-traffic-allocation.md), [Auto-Target](/help/c-activities/auto-target-to-optimize.md), and [Experience Targeting](/help/c-activities/t-experience-target/experience-target.md) (XT) activities only. 
+* The ability to view multiple metrics is available for [A/B Test](/help/c-activities/t-test-ab/test-ab.md), [Auto-Allocate](/help/c-activities/automated-traffic-allocation/automated-traffic-allocation.md), [Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md), and [Experience Targeting](/help/c-activities/t-experience-target/experience-target.md) (XT) activities only. 
 * You cannot add more than 20 metrics to a report for an activity that uses [Analytics for Target](/help/c-integrating-target-with-mac/a4t/a4t.md) (A4T). You can add as many metrics as you have in your activity to reports for activities that do *not* use A4T. 
 * You cannot use the [Download option](/help/c-reports/downloading-data-in-csv-file.md) to download reports to CSV if you have selected multiple metrics. You must select a single metric only to enable the [!UICONTROL Download] option. 
 * You cannot view multiple metrics for activities created before the July 2015 [!DNL Target] release (July 30, 2015).

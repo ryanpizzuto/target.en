@@ -44,7 +44,7 @@ Remember that [!DNL Target] randomly serves experiences until the personalizatio
 
    If you do not have sufficient traffic, you can do one or all of the following:
 
-   * Consider using an [Auto-Target](/help/c-activities/auto-target-to-optimize.md) activity instead of [!UICONTROL Automated Personalization] to create experiences with several offer changes in one experience variation. 
+   * Consider using an [Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md) activity instead of [!UICONTROL Automated Personalization] to create experiences with several offer changes in one experience variation. 
    * Reduce the number of offer combinations within your [!UICONTROL Automated Personalization] activity. 
    * Increase the duration of the activity.
 

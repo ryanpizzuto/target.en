@@ -106,7 +106,7 @@ To create an [!UICONTROL Auto-Allocate] activity:
 
    * **[!UICONTROL Auto-allocate to best experience]**: Most activity entrants are automatically directed to higher-performing experiences. Some visitors are allocated to all experiences, to maintain exploration of experiences and to recognize changes in performance trends.
 
-   * **[!UICONTROL Auto-target for personalized experiences]**: [!DNL Target] uses advanced machine learning to personalize content and drive conversions by identifying multiple high-performing, marketer-defined experiences, and then serving the most tailored experience to visitors based on their individual customer profiles and past behaviors of similar visitors. For more information, see [Auto-Target](/help/c-activities/auto-target-to-optimize.md).
+   * **[!UICONTROL Auto-target for personalized experiences]**: [!DNL Target] uses advanced machine learning to personalize content and drive conversions by identifying multiple high-performing, marketer-defined experiences, and then serving the most tailored experience to visitors based on their individual customer profiles and past behaviors of similar visitors. For more information, see [Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md).
 
    You can also click **[!UICONTROL Add]** to add another experience to the activity.
 

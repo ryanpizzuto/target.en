@@ -41,7 +41,7 @@ A known issue prevents preview if criteria used in the activity is item-based or
 The following are known issues with redirect offers:
 
 * Under some conditions, a limited number of customers have reported higher degrees of variance in traffic distribution when using a redirect offer in activities configured with Analytics for Target (A4T). Adobe engineers are currently working on this issue.
-* Redirect activities in at.js implementations might cause the preview URL to enter into a loop (the offer is delivered repeatedly). You can use [QA Mode](../c-activities/c-activity-qa/activity-qa.md#concept_9329EF33DE7D41CA9815C8115DBC4E40) instead to perform Preview and QA. This issue does not impact the actual delivery of the offer. (TGT-23019)
+* Redirect activities in at.js implementations might cause the preview URL to enter into a loop (the offer is delivered repeatedly). You can use [QA Mode](/help/c-activities/c-activity-qa/activity-qa.md) instead to perform Preview and QA. This issue does not impact the actual delivery of the offer. (TGT-23019)
 
 ### Cancel loading of a page within the VEC {#cancel}
 

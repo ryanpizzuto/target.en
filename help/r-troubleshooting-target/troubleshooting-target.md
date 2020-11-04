@@ -24,7 +24,7 @@ The following sections contain troubleshooting information about activities, sep
 
 * [Nine common A/B testing pitfalls and how to avoid them](/help/c-activities/t-test-ab/common-ab-testing-pitfalls.md)
 * [Auto-Allocate](/help/c-activities/automated-traffic-allocation/automated-traffic-allocation.md)
-* [Auto-Target For Personalized Experiences](/help/c-activities/auto-target-to-optimize.md)
+* [Auto-Target For Personalized Experiences](/help/c-activities/auto-target/auto-target-to-optimize.md)
 
 ### Automated Personalization (AP)
 
