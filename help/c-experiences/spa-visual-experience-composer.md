@@ -336,7 +336,7 @@ Yes, at.js 2.x supports A4T for SPA via the `triggerView()` function given that 
 |[Auto-Allocate](/help/c-activities/automated-traffic-allocation/automated-traffic-allocation.md)|Yes|
 |[Experience Targeting](/help/c-activities/t-experience-target/experience-target.md)|Yes|
 |[Multivariate Test](/help/c-activities/c-multivariate-testing/multivariate-testing.md)|No|
-|[Auto-Target](/help/c-activities/auto-target-to-optimize.md)|No|
+|[Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md)|No|
 |[Automated Personalization](/help/c-activities/t-automated-personalization/automated-personalization.md)|No|
 |[Recommendations](/help/c-recommendations/recommendations.md)|No|
 

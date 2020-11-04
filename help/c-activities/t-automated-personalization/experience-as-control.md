@@ -9,7 +9,7 @@ uuid: c67901d2-19cd-47d3-b8c4-abdcb046f404
 
 # ![PREMIUM](/help/assets/premium.png) Select the control for your Automated Personalization or Auto-Target activity
 
-You can select a randomly served experience or a specific experience to be used as control while creating an [Automated Personalization](/help/c-activities/t-automated-personalization/automated-personalization.md) (AP) or [Auto-Target](/help/c-activities/auto-target-to-optimize.md) (AT) activity.
+You can select a randomly served experience or a specific experience to be used as control while creating an [Automated Personalization](/help/c-activities/t-automated-personalization/automated-personalization.md) (AP) or [Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md) (AT) activity.
 
 This feature lets you route the control traffic to the relevant experiences, based on the traffic allocation percentage configured in the activity. You can then evaluate the performance reports of the personalized traffic against control traffic to that control.
 

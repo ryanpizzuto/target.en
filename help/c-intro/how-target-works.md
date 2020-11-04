@@ -52,7 +52,7 @@ Auto Allocate identifies a winner among two or more experiences and automaticall
 
 ### Auto-Target (AT)
 
-See [Auto-Target](/help/c-activities/auto-target-to-optimize.md) for more information.
+See [Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md) for more information.
 
 Auto-Target uses advanced machine learning to select from multiple high-performing marketer-defined experiences, and serves the most tailored experience to each visitor based on their individual customer profile and the behavior of previous visitors with similar profiles, in order to personalize content and drive conversions.
 

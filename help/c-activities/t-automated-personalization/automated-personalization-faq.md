@@ -12,7 +12,7 @@ List of frequently asked questions (FAQs) about Automated Personalization (AP).
 
 ## Can I specify a specific experience to be used as control?
 
-You can select an experience to be used as control while creating an [Automated Personalization](/help/c-activities/t-automated-personalization/automated-personalization.md) (AP) or [Auto-Target](/help/c-activities/auto-target-to-optimize.md) (AT) activity.
+You can select an experience to be used as control while creating an [Automated Personalization](/help/c-activities/t-automated-personalization/automated-personalization.md) (AP) or [Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md) (AT) activity.
 
 This feature lets you route the entire control traffic to a specific experience, based on the traffic allocation percentage configured in the activity. You can then evaluate the performance reports of the personalized traffic against control traffic to that one experience.
 
@@ -24,7 +24,7 @@ There is no turn-key option of comparing AP to a default experience. However, as
 
 ## What are best practices to set up an Automated Personalization activity? {#section_E155B26282BE49B58EA2683413D11DE6}
 
-* If you are looking to personalize a lower-traffic page, or you want to make structural changes to the experience you are personalizing, consider using Auto-Target in place of Automated Personalization. See [Auto-Target](/help/c-activities/auto-target-to-optimize.md). 
+* If you are looking to personalize a lower-traffic page, or you want to make structural changes to the experience you are personalizing, consider using Auto-Target in place of Automated Personalization. See [Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md). 
 * Consider completing an A/B activity between the offers and locations you are planning to use in your Automated Personalization activity to ensure the location(s) and offers have an impact on the optimization goal. If an A/B activity fails to demonstrate a significant difference, Automated Personalization likely will also fail to generate lift.
 
     * If an A/B…N test shows no statistically significant differences between experiences, likely the offers you are considering are not sufficiently different from each other, the locations you selected do not impact the success metric, or the optimization goal is too far in the conversion funnel to be affected by your chosen offers.

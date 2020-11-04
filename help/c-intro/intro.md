@@ -39,7 +39,7 @@ Automated personalization learns by itself and requires minimum human analysis. 
 
 ### Auto-Target
 
-[Auto-Target](/help/c-activities/auto-target-to-optimize.md) uses advanced machine learning to identify multiple high-performing marketer-defined experiences, and serves the most tailored experience to each visitor based on their individual customer profile and the behavior of previous visitors with similar profiles, in order to personalize content and drive conversions.
+[Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md) uses advanced machine learning to identify multiple high-performing marketer-defined experiences, and serves the most tailored experience to each visitor based on their individual customer profile and the behavior of previous visitors with similar profiles, in order to personalize content and drive conversions.
 
 ### Recommendations 
 

@@ -211,7 +211,10 @@ type: Documentation
       + [Create an Auto-Allocate activity](/help/c-activities/automated-traffic-allocation/create-auto-allocate-activity.md)
       + [Interpret Auto-Allocate reports](c-activities/automated-traffic-allocation/determine-winner.md)
       + [Auto-Allocate can give you faster test results and higher revenue than a manual test](/help/c-activities/automated-traffic-allocation/faster-results-higher-revenue.md)
-   + [Auto-Target](c-activities/auto-target-to-optimize.md)
+   + Auto-Target {#auto-target}
+      + [Auto-Target overview](/help/c-activities/auto-target/auto-target-to-optimize.md)
+      + [Create an Auto-Target activity](/help/c-activities/auto-target/create-auto-target.md)
+      + [Auto-Target troubleshooting and FAQs](/help/c-activities/auto-target/auto-target-troubleshooting-faqs.md)
    + Automated Personalization {#automated-personalization}
       + [Automated Personalization overview](c-activities/t-automated-personalization/automated-personalization.md)
       + [Random Forest Algorithm](c-activities/t-automated-personalization/algo-random-forest.md)

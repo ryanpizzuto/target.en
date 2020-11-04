@@ -258,7 +258,7 @@ The default order in which the graph is plotted is as follows:
 
 As you work with the Counting Methodology options, consider the following caveats:
 
-* For [Auto-Target activities](/help/c-activities/auto-target-to-optimize.md), there is no option for selecting "Visitors" as the counting methodology. Auto-Target is the only activity type that you cannot plot by visitors. 
+* For [Auto-Target activities](/help/c-activities/auto-target/auto-target-to-optimize.md), there is no option for selecting "Visitors" as the counting methodology. Auto-Target is the only activity type that you cannot plot by visitors. 
 * For activities that use [Analytics as the reporting source (A4T)](/help/c-integrating-target-with-mac/a4t/a4t.md), you cannot plot Visitor, Visit, or Impression cumulatively.
 
 ## Working with graphs that have more than 16 experiences in the activity

@@ -57,7 +57,7 @@ Use our [reports to determine the winning experience](../c-activities/automated-
 
 **Can I perform an activity with a level of personalization as an integral part of the activity?**
 
-Check out [Auto-Target](/help/c-activities/auto-target-to-optimize.md) option.
+Check out [Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md) option.
 
 **How can I know which type of activity best fits my needs?**
 

@@ -25,7 +25,7 @@ Example: An airline targets its platinum level members with a special offer that
 
 ## Route 3: Application of AI and automation to personalize at scale to individual visitors
 
-You can set up an AI-driven activity to deliver the best experience out of several for each visitor by simply selecting [Auto-Target](/help/c-activities/auto-target-to-optimize.md) in the second step of the A/B test setup workflow. Using Auto-Target with your first activity can be extremely useful when you don’t know which experience will resonate for different visitors. With Auto-Target, you let machine learning evaluate and score predictive attributes in real-time and determine which attributes of your visitors are most important in determining which experience to deliver.
+You can set up an AI-driven activity to deliver the best experience out of several for each visitor by simply selecting [Auto-Target](/help/c-activities/auto-target/auto-target-to-optimize.md) in the second step of the A/B test setup workflow. Using Auto-Target with your first activity can be extremely useful when you don’t know which experience will resonate for different visitors. With Auto-Target, you let machine learning evaluate and score predictive attributes in real-time and determine which attributes of your visitors are most important in determining which experience to deliver.
 
 Example: A telco that sells multiple phone brands and models turns on Auto-Target to use automation and machine learning to determine which of four different experiences or offers on its homepage or mobile app opening screen will best resonate with its wide variety of visitors.
 
