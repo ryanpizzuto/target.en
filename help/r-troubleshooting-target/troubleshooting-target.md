@@ -20,11 +20,19 @@ The following sections contain troubleshooting information about activities, sep
 * [Target optimization and personalization FAQ](/help/c-intro/cmp-target-standard-cheatsheet.md)
 * [Troubleshooting activities](/help/c-activities/c-troubleshooting-activities/troubleshooting-activities.md)
 
-### [!UICONTROL A/B Test], [!UICONTROL Auto-Allocate], and [!UICONTROL Auto-Target] (AT)
+### A/B Test
 
 * [Nine common A/B testing pitfalls and how to avoid them](/help/c-activities/t-test-ab/common-ab-testing-pitfalls.md)
 * [Auto-Allocate](/help/c-activities/automated-traffic-allocation/automated-traffic-allocation.md)
 * [Auto-Target For Personalized Experiences](/help/c-activities/auto-target/auto-target-to-optimize.md)
+
+### Auto-Allocate
+
+* [Auto-Allocate overview](/help/c-activities/automated-traffic-allocation/automated-traffic-allocation.md#section_0E72C1D72DE74F589F965D4B1763E5C3)
+
+### Auto-Target
+
+* [Auto-Target Troubleshooting and FAQs](/help/c-activities/auto-target/auto-target-troubleshooting-faqs.md)
 
 ### Automated Personalization (AP)
 

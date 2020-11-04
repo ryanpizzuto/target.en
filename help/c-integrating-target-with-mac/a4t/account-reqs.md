@@ -38,13 +38,11 @@ Complete the following tasks in [!DNL Adobe Analytics]:
 
 ### Configure access to the Analytics report suite
 
-Before creating or viewing reports for an [!DNL Analytics]-powered activity, you must be a member of the **[!UICONTROL All Report Access]** group, or a member of a group that has access to at least one report in the report suite that you want to use. If you are unable to view reports, make sure you are a member of one of these groups.
+To use A4T on a given report suite, you must have access to that report suite. To gain access in [!UICONTROL Admin Console], click an [!DNL Analytics] product profile, then click the [!UICONTROL Permissions] tab. You can then see which report suites the profile has access to. Make sure that the report suite you want to have access to in [!DNL Target] is one of the ones listed in the product profile you are a part of.
 
-For more information, see [Product profiles and groups](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html#section_AB50558124D541CF80A0D3D76D35A4BF). 
+The following illustration is an example of a product profile that has access to all report suites:
 
-### Configure access to the Web Services Access Group
-
-You must belong to the Web Services Access group in [!DNL Analytics] to be able to use [!DNL Analytics] as the reporting source for [!DNL Target].
+![Admin Console Permission tab](/help/c-integrating-target-with-mac/a4t/assets/permissions-tab.png)
 
 ## Adobe Target {#section_26BA212D8D40443E9EE2AB327091425C}
 
