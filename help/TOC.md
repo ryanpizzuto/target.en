@@ -198,7 +198,7 @@ type: Documentation
       + [How long should you run an A/B test?](c-activities/t-test-ab/sample-size-determination.md)
       + [Ten common A/B testing pitfalls and how to avoid them](c-activities/t-test-ab/common-ab-testing-pitfalls.md)
       + Create an A/B test {#create}
-         + [Create a test](c-activities/t-test-ab/t-test-create-ab/test-create-ab.md)
+         + [Create an A/B test](c-activities/t-test-ab/t-test-create-ab/test-create-ab.md)
          + [Activity URL](c-activities/t-test-ab/t-test-create-ab/ab-activity-url.md)
          + [Add experience](c-activities/t-test-ab/t-test-create-ab/ab-add-experience.md)
          + [Select audience](c-activities/t-test-ab/t-test-create-ab/ab-audience.md)
@@ -207,7 +207,8 @@ type: Documentation
          + [Set metrics](c-activities/t-test-ab/t-test-create-ab/ab-set-metrics.md)
          + [Multiple experience audiences in an A/B Test](c-activities/t-test-ab/t-test-create-ab/target-experience-to-multiple-audiences.md)
    + Auto-Allocate {#auto-allocate}
-      + [Auto-Allocate](c-activities/automated-traffic-allocation/automated-traffic-allocation.md)
+      + [Auto-Allocate overview](c-activities/automated-traffic-allocation/automated-traffic-allocation.md)
+      + [Create an Auto-Allocate activity](/help/c-activities/automated-traffic-allocation/create-auto-allocate-activity.md)
       + [Interpret Auto-Allocate reports](c-activities/automated-traffic-allocation/determine-winner.md)
       + [Auto-Allocate can give you faster test results and higher revenue than a manual test](/help/c-activities/automated-traffic-allocation/faster-results-higher-revenue.md)
    + [Auto-Target](c-activities/auto-target-to-optimize.md)

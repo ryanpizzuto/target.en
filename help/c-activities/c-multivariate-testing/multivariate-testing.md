@@ -6,7 +6,7 @@ feature: mvt
 uuid: a6f0cf9f-bd5e-4ae2-8dbe-0c94ec6a02ba
 ---
 
-# Multivariate test{#multivariate-test}
+# Multivariate Test overview
 
 [!UICONTROL Multivariate Testing] (MVT) in [!DNL Adobe Target] compares combinations of offers in elements on a page to determine which combination performs the best for a specific audience, and identifies which element most impacts the activity's success.
 

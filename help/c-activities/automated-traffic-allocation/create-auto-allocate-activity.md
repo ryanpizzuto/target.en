@@ -1,23 +1,23 @@
 ---
-keywords: Create A/B;A/B test;A/B activity;new a/b activity
-description: Use the Visual Experience Composer in Adobe Target to create your A/B Test activity directly on a Target-enabled page and to modify portions of the page within Target.
-title: Create an A/B Test
+keywords: Create auto-allocate;A/B test;auto-allocate activity;new a/b activity;auto allocate;auto-allocate to best experience
+description: Use the Visual Experience Composer in Adobe Target to create your Auto-Allocate A/B Test activity directly on a Target-enabled page and to modify portions of the page within Target.
+title: Create an Auto-Allocate activity
 feature: ab
 topic: Advanced,Standard,Classic
 uuid: 2a255cf9-91c7-4710-bfd7-a4d8797ef24c
 ---
 
-# Create an A/B Test
+# Create an Auto-Allocate activity
 
-Use the [!UICONTROL Visual Experience Composer] (VEC) in [!DNL Adobe Target] to create your [!UICONTROL A/B Test] activity directly on a [!DNL Target]-enabled page and to modify portions of the page within [!DNL Target].
+Use the [!UICONTROL Visual Experience Composer] (VEC) in [!DNL Adobe Target] to create your [!UICONTROL Auto-Allocate] [!UICONTROL A/B Test] activity directly on a [!DNL Target]-enabled page and to modify portions of the page within [!DNL Target].
 
 >[!NOTE]
 >
->In addition to the Manual (Default) [!UICONTROL A/B Test] activity (discussed in this section), [!DNL Target] provides two additional types of [!UICONTROL A/B Test] activities: [!UICONTROL Auto-Allocate] and [!UICONTROL Auto-Target].
+>In addition to the [!UICONTROL Auto-Allocate] [!UICONTROL A/B Test] activity (discussed in this article), [!DNL Target] provides two additional types of [!UICONTROL A/B Test] activities: [!UICONTROL Manual (Default)] and [!UICONTROL Auto-Target].
 >
 >See [Types of A/B Testing activities](/help/c-activities/t-test-ab/test-ab.md#types) in *A/B Test overview*.
 
-To create a manual [!UICONTROL A/B Test] activity:
+To create an [!UICONTROL Auto-Allocate] activity:
 
 1. From the **[!UICONTROL Activities]** list, click **[!UICONTROL Create Activity]** > **[!UICONTROL A/B Test]**.
 
@@ -98,11 +98,13 @@ To create a manual [!UICONTROL A/B Test] activity:
 
    You can show multiple experiences to the same audience. A diagram displays showing your selected audience and the experiences you've added to the activity.
 
-   Choose your desired traffic allocation method:
+   Choose your desired traffic allocation method. To create an [!UICONTROL Auto-Allocate] activity, select **[!UICONTROL Auto-Allocate to best experience]**.
 
-   * **[!UICONTROL Manual (Default)]**: Specify the percentage of entrants you want to see each experience. You can split the percentages evenly between all experiences, or specify higher or lower percentages for each experience. The total for all experiences must equal 100%.
+   The three types of traffic allocation are described below:
 
-   * **[!UICONTROL Auto-allocate to best experience]**: Most activity entrants are automatically directed to higher-performing experiences. Some visitors are allocated to all experiences, to maintain exploration of experiences and to recognize changes in performance trends. See [Automated Traffic Allocation](../../../c-activities/automated-traffic-allocation/automated-traffic-allocation.md#concept_A1407678796B4C569E94CBA8A9F7F5D4).
+   * **[!UICONTROL Manual (Default)]**: Specify the percentage of entrants you want to see each experience. You can split the percentages evenly between all experiences, or specify higher or lower percentages for each experience. The total for all experiences must equal 100%. For more information, see [Create an A/B Test](/help/c-activities/t-test-ab/t-test-create-ab/test-create-ab.md).
+
+   * **[!UICONTROL Auto-allocate to best experience]**: Most activity entrants are automatically directed to higher-performing experiences. Some visitors are allocated to all experiences, to maintain exploration of experiences and to recognize changes in performance trends.
 
    * **[!UICONTROL Auto-target for personalized experiences]**: [!DNL Target] uses advanced machine learning to personalize content and drive conversions by identifying multiple high-performing, marketer-defined experiences, and then serving the most tailored experience to visitors based on their individual customer profiles and past behaviors of similar visitors. For more information, see [Auto-Target to Optimize](../../../c-activities/auto-target-to-optimize.md#concept_67779E5B7F67427A97D7EA2A6FB919B3).
 
