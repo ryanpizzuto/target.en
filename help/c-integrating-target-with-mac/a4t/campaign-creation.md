@@ -73,7 +73,7 @@ This integration allows you to:
 * Use [Auto-Allocate](/help/c-activities/automated-traffic-allocation/automated-traffic-allocation.md)’s multi-armed bandit capability to drive traffic to winning experiences
 * Use [Auto-Target](/help/c-activities/auto-target-to-optimize.md)’s ensemble machine learning algorithm to choose a best experience for each visitor based on their profile, behavior, and context all while using an [!DNL Adobe Analytics] goal metric and [!DNL Adobe Analytics]’ rich reporting and analysis capabilities.
 
-Make sure you have [implemented A4T for use with A/B Test and Experience Targeting activities](/help/c-integrating-target-with-mac/a4t/a4timplementation.md). If you are using `analyticsLogging = client_side`, you also need to pass the `sessionId` value to [!DNL Analytics]. For more information, see [Adobe Analytics for Target (A4T)](https://developers.adobetarget.com/api/delivery-api/#section/Integration-with-Experience-Cloud/Adobe-Analytics-for-Target-(A4T)) in the *Adobe Target Delivery API Guide*
+Make sure you have [implemented A4T for use with A/B Test and Experience Targeting activities](/help/c-integrating-target-with-mac/a4t/a4timplementation.md). If you are using `analyticsLogging = client_side`, you also need to pass the `sessionId` value to [!DNL Analytics]. For more information, see [Analytics for Target (A4T) reporting](https://adobetarget-sdks.gitbook.io/docs/integration-with-experience-cloud/analytics-for-target-a4t-reporting) in the *Adobe Target SDKs* guide.
 
 To get started:
 
