@@ -25,7 +25,7 @@ You are testing two experiences, a geo-targeted banner vs. a generic banner. The
 
 In this case, what you need are geo-specific versions of the experience, so you can test the geotargeted experience against a non-geotargeted control. 
 
-1. [Create an A/B activity](../..//help/c-activities/t-test-ab/t-test-create-ab/test-create-ab.md) as you normally would.
+1. [Create an A/B activity](/help/c-activities/t-test-ab/t-test-create-ab/test-create-ab.md) as you normally would.
 
    When configuring the experience that will have multiple versions, select the audience for each version, as shown in the following steps. 
    

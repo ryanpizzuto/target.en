@@ -41,8 +41,8 @@ Two [!UICONTROL Personalization Insights] reports are available:
 
 There are two types of attributes represented in [!UICONTROL Personalization Insights] reports that are used in your AP or Auto Target models:
 
-* **Attributes automatically collected by Target:** [!DNL Target] uses a base data set to build its personalization algorithms in AP and AT activities that are reflected in Personalization Insights. See [Data Collection for Target's Personalization Algorithms](..//help/c-activities/t-automated-personalization/ap-data.md) for data types, example attributes, and their [!UICONTROL Personalization Insights] naming convention. Note that although these attributes are considered, an individual activity’s models might not use all of these attributes in the final model. 
-* **Attributes passed to Target:** See [Uploading Data for the Target Personalization Algorithms](..//help/c-activities/t-automated-personalization/uploading-data-for-the-target-personalization-algorithms.md).
+* **Attributes automatically collected by Target:** [!DNL Target] uses a base data set to build its personalization algorithms in AP and AT activities that are reflected in Personalization Insights. See [Data Collection for Target's Personalization Algorithms](/help/c-activities/t-automated-personalization/ap-data.md) for data types, example attributes, and their [!UICONTROL Personalization Insights] naming convention. Note that although these attributes are considered, an individual activity’s models might not use all of these attributes in the final model. 
+* **Attributes passed to Target:** See [Uploading Data for the Target Personalization Algorithms](/help/c-activities/t-automated-personalization/uploading-data-for-the-target-personalization-algorithms.md).
 
 [!DNL Target] provides many ways for you to pass in additional data to [!DNL Target] to enrich the base data set used to build its personalization algorithms in AP and AT activities:
 
