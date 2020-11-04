@@ -1,5 +1,5 @@
 ---
-keywords: Create A/B;A/B test;A/B activity;new a/b activity
+keywords: Create A/B;A/B test;A/B activity;new a/b activity;create a/b
 description: Use the Visual Experience Composer in Adobe Target to create your A/B Test activity directly on a Target-enabled page and to modify portions of the page within Target.
 title: Create an A/B Test
 feature: ab
@@ -41,7 +41,7 @@ To create a manual [!UICONTROL A/B Test] activity:
    >
    >For troubleshooting information about the VEC, should you have problems, see [Troubleshooting the Visual Experience Composer](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/troubleshoot-composer.md).
    >
-   >The [!UICONTROL [Choose Workplace]](/help/administrating-target/c-user-management/property-channel/property-channel.md) option in the preceding illustration is a [Target Premium](/help/c-intro/intro.md) feature. Your organization has a [!UICONTROL Target Standard] license if you do not see this option.
+   >The [!UICONTROL Choose Workplace](/help/administrating-target/c-user-management/property-channel/property-channel.md) option in the preceding illustration is a [Target Premium](/help/c-intro/intro.md) feature. Your organization has a [!UICONTROL Target Standard] license if you do not see this option.
 
 1. (Conditional) If you are a [Target Premium customer](/help/c-intro/intro.md#premium), choose a [workspace](/help/administrating-target/c-user-management/property-channel/property-channel.md).
 
