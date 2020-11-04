@@ -26,14 +26,14 @@ The following terms are useful when discussing [!UICONTROL Automated Personaliza
 |  Term  | Definition  |
 |---|---|
 |  Multi-armed bandit  | A multi-armed bandit approach to optimization balances exploratory learning and exploitation of that learning.  |
-|  Random Forest  |Random Forest is a leading machine learning approach. In data-science speak, it is an ensemble classification or regression method that works by constructing a large number of decision trees based on visitor and visit attributes. Within Target, Random Forest is used to determine which experience is expected to have the highest likelihood of conversion (or highest revenue per visit) for each specific visitor. For more information about Random Forest in Target, see [Random Forest Algorithm](../../c-activities/t-automated-personalization/algo-random-forest.md#concept_48F3CDAA16A848D2A84CDCD19DAAE3AA).  |
+|  Random Forest  |Random Forest is a leading machine learning approach. In data-science speak, it is an ensemble classification or regression method that works by constructing a large number of decision trees based on visitor and visit attributes. Within Target, Random Forest is used to determine which experience is expected to have the highest likelihood of conversion (or highest revenue per visit) for each specific visitor. For more information about Random Forest in Target, see [Random Forest Algorithm](..//help/c-activities/t-automated-personalization/algo-random-forest.md).  |
 |  Thompson Sampling  |The goal of Thompson Sampling is to determine which experience is the best overall (non-personalized), while minimizing the “cost” of finding that experience. Thompson sampling always picks a winner, even if there is no statistical difference between two experiences. For more information, see [Thompson Sampling](https://en.wikipedia.org/wiki/Thompson_sampling).  |
 
 Consider the following details when using [!UICONTROL Automated Personalization]:
 
 **[!UICONTROL Automated Personalization] uses a Random Forest algorithm to personalize.**
 
-Random Forest is a leading machine learning approach. In data-science speak, it is an ensemble classification or regression method that works by constructing a large number of decision trees based on visitor and visit attributes. Within Target, Random Forest is used to determine which experience is expected to have the highest likelihood of conversion (or highest revenue per visit) for each specific visitor. For example, visitors who use Chrome, are gold loyalty members, and access your site on Tuesdays might be more likely to convert with Experience A, while visitors from New York might be more likely to convert with Experience B. For more information about Random Forest in Target, see [Random Forest Algorithm](../../c-activities/t-automated-personalization/algo-random-forest.md#concept_48F3CDAA16A848D2A84CDCD19DAAE3AA).
+Random Forest is a leading machine learning approach. In data-science speak, it is an ensemble classification or regression method that works by constructing a large number of decision trees based on visitor and visit attributes. Within Target, Random Forest is used to determine which experience is expected to have the highest likelihood of conversion (or highest revenue per visit) for each specific visitor. For example, visitors who use Chrome, are gold loyalty members, and access your site on Tuesdays might be more likely to convert with Experience A, while visitors from New York might be more likely to convert with Experience B. For more information about Random Forest in Target, see [Random Forest Algorithm](..//help/c-activities/t-automated-personalization/algo-random-forest.md).
 
 **The personalization model optimizes for each visit.**
 
@@ -53,11 +53,11 @@ Random Forest is a leading machine learning approach. In data-science speak, it 
 
 **Target automatically collects information about visitors to build the personalization models.**
 
-* For more information about the attributes used in [!UICONTROL Auto-Target] and [!UICONTROL Automated Personalization], see [Automated Personalization Data Collection](../../c-activities/t-automated-personalization/ap-data.md#reference_255BD3DE7AD04DC9B766E0BC78961058).
+* For more information about the attributes used in [!UICONTROL Auto-Target] and [!UICONTROL Automated Personalization], see [Automated Personalization Data Collection](..//help/c-activities/t-automated-personalization/ap-data.md).
 
 **Target automatically uses all [!DNL Adobe Experience Cloud] shared audiences to build the personalization models.**
 
-* You don’t have to do anything specific to add audiences to the model. For information about using [!DNL Experience Cloud Audiences] with [!DNL Target], see [Experience Cloud Audiences](../../c-integrating-target-with-mac/mmp.md#concept_F4863DE4C92D4805AB690B4B3D487969).
+* You don’t have to do anything specific to add audiences to the model. For information about using [!DNL Experience Cloud Audiences] with [!DNL Target], see [Experience Cloud Audiences](..//help/c-integrating-target-with-mac/mmp.md).
 
 **Marketers can upload offline data, propensity scores or other custom data to build personalization models.**
 
@@ -67,7 +67,7 @@ Offline data, such as CRM information or customer churn propensity scores, can b
 * [Profile parameters](../../c-implementing-target/c-considerations-before-you-implement-target/c-methods-to-get-data-into-target/methods-to-get-data-into-target.md#concept_0069C0EFB56C4700BB33F2F35C2B9B17) 
 * [Server-side APIs for profile update](../../c-implementing-target/c-considerations-before-you-implement-target/c-methods-to-get-data-into-target/methods-to-get-data-into-target.md#concept_0069C0EFB56C4700BB33F2F35C2B9B17)
 
-For information about the data automatically collected and used by [!UICONTROL Automated Personalization] and [!UICONTROL Auto-Target] personalization algorithms, see [Automated Personalization Data Collection](../../c-activities/t-automated-personalization/ap-data.md#reference_255BD3DE7AD04DC9B766E0BC78961058). 
+For information about the data automatically collected and used by [!UICONTROL Automated Personalization] and [!UICONTROL Auto-Target] personalization algorithms, see [Automated Personalization Data Collection](..//help/c-activities/t-automated-personalization/ap-data.md). 
 
 ## ![Overview badge](/help/assets/overview.png) Training video: Activity Types
 

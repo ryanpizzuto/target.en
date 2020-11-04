@@ -113,7 +113,7 @@ This is also possible. Simply [use the Save option available to make incremental
 
 **How can I preview and QA an activity I just created?**
 
-Use our [powerful QA Mode feature](../c-activities/c-activity-qa/activity-qa.md#concept_9329EF33DE7D41CA9815C8115DBC4E40) to perform QA. You can share links with your QA team and also test the activity end-to-end, including reporting, to be fully sure that after the activity is live, it works as intended and as tested.
+Use our [powerful QA Mode feature](/help/c-activities/c-activity-qa/activity-qa.md) to perform QA. You can share links with your QA team and also test the activity end-to-end, including reporting, to be fully sure that after the activity is live, it works as intended and as tested.
 
 **How can I use Target's decisioning power to receive an experience/offer that can be used in Single Page Applications (SPAs) or server-side integrations?**
 
@@ -160,7 +160,7 @@ Check out following aspects of the product:
 
 * [Analytics for Target (A4T)](../c-integrating-target-with-mac/a4t/a4t.md#concept_7540C8C04259434AB6EE33B09F47A1DE)
 * [Customer Attributes](../c-target/c-visitor-profile/working-with-customer-attributes.md#concept_16C5C434D32D4EB1AD44A71821F3DEE8)
-* [Audiences](../c-integrating-target-with-mac/mmp.md#concept_F4863DE4C92D4805AB690B4B3D487969)
+* [Audiences](/help/c-integrating-target-with-mac/mmp.md)
 
 ## Experiences {#section_5959536B8D6A4BEA8FAA1273338F3451}
 
@@ -270,7 +270,7 @@ Check out following aspects of the product:
     
 *   [Customer Attributes](../c-target/c-visitor-profile/working-with-customer-attributes.md#concept_16C5C434D32D4EB1AD44A71821F3DEE8)
     
-*   [Audiences](../c-integrating-target-with-mac/mmp.md#concept_F4863DE4C92D4805AB690B4B3D487969)
+*   [Audiences](/help/c-integrating-target-with-mac/mmp.md)
     
 
 **Can I slice and dice the reporting on multiple user segments?**

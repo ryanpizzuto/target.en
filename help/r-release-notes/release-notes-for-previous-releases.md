@@ -1484,7 +1484,7 @@ For more information, see [Enabling Mixed Content in Your Browser](../c-experien
   </tr> 
   <tr> 
    <td colname="col1"> <p>QA Mode </p> </td> 
-   <td colname="col2"> <p>Perform easy activity QA with preview links that never change, optional audience targeting, and QA reporting that stays segmented from live activity data. </p> <p>For more information, see <a href="../c-activities/c-activity-qa/activity-qa.md#concept_9329EF33DE7D41CA9815C8115DBC4E40" format="dita" scope="local"> Activity QA </a>. </p> </td> 
+   <td colname="col2"> <p>Perform easy activity QA with preview links that never change, optional audience targeting, and QA reporting that stays segmented from live activity data. </p> <p>For more information, see <a href="/help/c-activities/c-activity-qa/activity-qa.md" format="dita" scope="local"> Activity QA </a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -2513,7 +2513,7 @@ This release includes the following features and enhancements:
 
 |  Feature  | Description  |
 |---|---|
-|  Activity entry targeting by percentage.  | You can now limit entries into [A/B](../c-activities/t-test-ab/t-test-create-ab/test-create-ab.md#task_68C8079BF9FF4625A3BD6680D554BB72) and [multivariate](../c-activities/c-multivariate-testing/t-create-multivariate-test/create-multivariate-test.md#task_BF870FA60A8245AB8F0B775BE32EA710) activities to a percentage of visitors or audience members. For example, you might limit entries to 50% of all visitors or 45% of your "Californians" audience.  |
+|  Activity entry targeting by percentage.  | You can now limit entries into [A/B](/help/c-activities/t-test-ab/t-test-create-ab/test-create-ab.md) and [multivariate](../c-activities/c-multivariate-testing/t-create-multivariate-test/create-multivariate-test.md#task_BF870FA60A8245AB8F0B775BE32EA710) activities to a percentage of visitors or audience members. For example, you might limit entries to 50% of all visitors or 45% of your "Californians" audience.  |
 |  Support for Revenue, Orders, and Engagement in Auto-Allocate  | You can now choose Revenue (RPV), Orders, and Engagement metrics as goals for A/B activities with Auto-Allocation selected. Previously, only conversion metrics were supported. See [Automated Traffic Allocation](../c-activities/automated-traffic-allocation/automated-traffic-allocation.md#concept_A1407678796B4C569E94CBA8A9F7F5D4).  |
 |  Filter by source  | You can now filter the Activities list by the source where the activity was created. Choice are Adobe Target and Adobe Experience Manager. See [Activities](../c-activities/activities.md#concept_D317A95A1AB54674BA7AB65C7985BA03).  |
 |  Automated Personalization performance enhancements  | Automated Personalization has been redesigned to perform better with a large number of offer/location combinations.  |
@@ -2579,7 +2579,7 @@ This release includes the following features and enhancements:
   </tr> 
   <tr> 
    <td colname="col1"> <p> Download success metrics report </p> </td> 
-   <td colname="col2"> <p> Download a single csv file with all success metric listed, instead of a report that only had the final activity goal. </p> <p>See <a href="../c-reports/reports.md#concept_B5077F5503AA4C98901AA99EDCE6CDE6" format="dita" scope="local"> Reports </a>. </p> </td> 
+   <td colname="col2"> <p> Download a single csv file with all success metric listed, instead of a report that only had the final activity goal. </p> <p>See <a href="/help/c-reports/reports.md" format="dita" scope="local"> Reports </a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -3048,7 +3048,7 @@ This release includes the following features and enhancements:
   </tr> 
   <tr> 
    <td colname="col1"> <p> A/B tests and Experience Targeting: three-step activity creation flow </p> </td> 
-   <td colname="col2"> <p> <a href="../c-activities/t-test-ab/t-test-create-ab/test-create-ab.md#task_68C8079BF9FF4625A3BD6680D554BB72" format="dita" scope="local"> Create A/B </a>and <a href="../c-activities/t-experience-target/t-xt-create/xt-create.md#task_D6B3429AC31549E1A70EDF04B3DDC765" format="dita" scope="local"> Experience Targeting </a> activity in three steps instead of four. This change makes the process of creating these activities more like the workflow of other activities types, such as Automated Personalization and Multivariate Tests. </p> </td> 
+   <td colname="col2"> <p> <a href="/help/c-activities/t-test-ab/t-test-create-ab/test-create-ab.md" format="dita" scope="local"> Create A/B </a>and <a href="../c-activities/t-experience-target/t-xt-create/xt-create.md#task_D6B3429AC31549E1A70EDF04B3DDC765" format="dita" scope="local"> Experience Targeting </a> activity in three steps instead of four. This change makes the process of creating these activities more like the workflow of other activities types, such as Automated Personalization and Multivariate Tests. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Analytics as a reporting source is available with most activity types. </p> </td> 

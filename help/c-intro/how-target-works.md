@@ -33,7 +33,7 @@ The content that is displayed to visitors depends on the type of activity you cr
 
 ### A/B Test
 
-See [Create an A/B Test](../c-activities/t-test-ab/t-test-create-ab/test-create-ab.md#task_68C8079BF9FF4625A3BD6680D554BB72) for more information.
+See [Create an A/B Test](/help/c-activities/t-test-ab/t-test-create-ab/test-create-ab.md) for more information.
 
 The content that displays in a basic A/B test is randomly chosen from the assets you assign to the activity, according to the percentages you choose for each experience. As a result of this random splitting of traffic, it can take a lot of initial traffic before the percentages even out. For example, if you create two experiences, the starting experience is chosen randomly. If there is little traffic, it's possible that the percentage of visitors can be skewed toward one experience. As traffic increases, the percentages should become more equal.
 

@@ -72,7 +72,7 @@ For more information, [Troubleshooting Automated Personalization](../../c-activi
 
 ### How is Automated Personalization allocating my activity's traffic? {#section_4369364F77804E0D9B78BEE551DA5659}
 
-Automated Personalization routes visitors to the experience that has the highest forecasted success metric based on the most recent [Random Forest](../../c-activities/t-automated-personalization/algo-random-forest.md#concept_48F3CDAA16A848D2A84CDCD19DAAE3AA) models built for each model. This forecast is based on the visitor's specific information and visit context.
+Automated Personalization routes visitors to the experience that has the highest forecasted success metric based on the most recent [Random Forest](..//help/c-activities/t-automated-personalization/algo-random-forest.md) models built for each model. This forecast is based on the visitor's specific information and visit context.
 
 For example, assume an AP activity had two locations with two offers each. In the first location, Offer A has a forecasted conversion rate of 3% for a specific visitor, and Offer B has a forecasted conversion rate of 1%. In the second location, Offer C has a forecasted conversion rate of 2% for the same visitor, and Offer D has a forecasted conversion rate of 5%. Therefore, Automated Personalization would serve this visitor an experience with Offer A and Offer D.
 

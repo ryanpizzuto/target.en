@@ -13,7 +13,7 @@ Experience preview URLs can be generated for Target Automated Personalization ac
 
 >[!NOTE]
 >
->Experience preview URLs for Automated Personalization differ from the Activity QA mode. The Activity QA mode lets you create Activity URLs for other types of activities. For more information, see [Activity QA](../../c-activities/c-activity-qa/activity-qa.md#concept_9329EF33DE7D41CA9815C8115DBC4E40).
+>Experience preview URLs for Automated Personalization differ from the Activity QA mode. The Activity QA mode lets you create Activity URLs for other types of activities. For more information, see [Activity QA](..//help/c-activities/c-activity-qa/activity-qa.md).
 >
 >Experience preview URLs for AP activities are only available when using at.js 1.x. Experience preview URLs for AP activities are not currently supported for at.js 2.x.
 
