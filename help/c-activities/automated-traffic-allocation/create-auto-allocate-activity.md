@@ -1,5 +1,5 @@
 ---
-keywords: Create auto-allocate;A/B test;auto-allocate activity;new a/b activity;auto allocate;auto-allocate to best experience
+keywords: Create auto-allocate;A/B test;auto-allocate activity;new a/b activity;auto allocate;auto-allocate to best experience;allocate
 description: Use the Visual Experience Composer in Adobe Target to create your Auto-Allocate A/B Test activity directly on a Target-enabled page and to modify portions of the page within Target.
 title: Create an Auto-Allocate activity
 feature: ab
@@ -27,7 +27,7 @@ To create an [!UICONTROL Auto-Allocate] activity:
    >
    >The available activity types depend on your [!DNL Target] account. Some activity types might not appear in your list. For example, [!UICONTROL Recommendations] is a [Target Premium feature](/help/c-intro/intro.md#premium).
    >
-   >For information about the various activity types, see [Activities](../../../c-activities/activities.md#concept_D317A95A1AB54674BA7AB65C7985BA03) and the [Target activities guide](/help/c-activities/target-activities-guide.md).
+   >For information about the various activity types, see [Activities](/help/c-activities/activities.md) and the [Target activities guide](/help/c-activities/target-activities-guide.md).
 
 1. Select **[!UICONTROL Visual (Default)]**, if necessary.
 
