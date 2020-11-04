@@ -1,5 +1,5 @@
 ---
-keywords: Analytics as reporting source;a4t;A4T
+keywords: Analytics as reporting source;a4t;A4T;requirements
 description: User account requirements to create an Adobe Analytics-based activity in Adobe Target (A4T).
 title: User permission requirements
 feature: a4t implementation
@@ -8,7 +8,7 @@ topic: Reports and analytics
 uuid: cf359bcd-547e-4f8f-bcf6-e646245bb9ce
 ---
 
-# User permission requirements {#user-permission-requirements}
+# User permission requirements
 
 Information about the user account requirements to create an [!DNL Adobe Analytics]-based activity in [!DNL Adobe Target] (A4T).
 
@@ -34,15 +34,19 @@ For more information, see [Manage Experience Cloud users and products](https://d
 
 ## Adobe Analytics {#section_8F404FDE9A634534AB0AA4CB3075582B}
 
-Complete the following tasks in [!DNL Adobe Analytics]:
+Configure access to the [!DNL Analytics] report suite:
 
-### Configure access to the Analytics report suite
+To use A4T on a given report suite, you must have access to that report suite. 
 
-To use A4T on a given report suite, you must have access to that report suite. To gain access in [!UICONTROL Admin Console], click an [!DNL Analytics] product profile, then click the [!UICONTROL Permissions] tab. You can then see which report suites the profile has access to. Make sure that the report suite you want to have access to in [!DNL Target] is one of the ones listed in the product profile you are a part of.
+1. In **[!UICONTROL Admin Console]**, click an [!DNL Analytics] product profile, then click the **[!UICONTROL Permissions]** tab. 
 
-The following illustration is an example of a product profile that has access to all report suites:
+   You can then see which report suites the profile has access to. 
 
-![Admin Console Permission tab](/help/c-integrating-target-with-mac/a4t/assets/permissions-tab.png)
+1. Ensure that the report suite you want to have access to in [!DNL Target] is one of the ones listed in the product profile you are a part of.
+
+   The following illustration is an example of a product profile that has access to all report suites:
+
+   ![Admin Console Permission tab](/help/c-integrating-target-with-mac/a4t/assets/permissions-tab.png)
 
 ## Adobe Target {#section_26BA212D8D40443E9EE2AB327091425C}
 
