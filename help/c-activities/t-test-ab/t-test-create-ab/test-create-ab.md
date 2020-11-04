@@ -45,7 +45,7 @@ To create a manual [!UICONTROL A/B Test] activity:
 
 1. (Conditional) If you are a [Target Premium customer](/help/c-intro/intro.md#premium), choose a [workspace](/help/administrating-target/c-user-management/property-channel/property-channel.md).
 
-1. Specify your [activity URL](../../../c-activities/t-test-ab/t-test-create-ab/ab-activity-url.md#concept_D28549AAA0A14E3BB5F05F32BE8ABC90), then click **[!UICONTROL Next]**.
+1. Specify your [activity URL](/help/c-activities/t-test-ab/t-test-create-ab/ab-activity-url.md), then click **[!UICONTROL Next]**.
 
    If your account is configured with a default URL, that URL appears by default. You can change from the default to another URL.
 
@@ -84,7 +84,7 @@ To create a manual [!UICONTROL A/B Test] activity:
 
    The flow diagram leads you through the steps of choosing the audience for the activity and setting up experiences.
 
-1. In the [!UICONTROL Audience] box, click the edit icon (three vertical ellipses), click **[!UICONTROL Replace Audience]**, then [select the audience](../../../c-activities/t-test-ab/t-test-create-ab/ab-audience.md#concept_A268236C1224451DB7844BF67F41A087) for your activity.
+1. In the [!UICONTROL Audience] box, click the edit icon (three vertical ellipses), click **[!UICONTROL Replace Audience]**, then [select the audience](/help/c-activities/t-test-ab/t-test-create-ab/ab-audience.md) for your activity.
 
    By default, the audience is set to [!UICONTROL All Visitors]. 
 
@@ -110,7 +110,7 @@ To create a manual [!UICONTROL A/B Test] activity:
 
 1. When you are satisfied with your audience, experience choices, and traffic allocation choices, click **[!UICONTROL Next]** to move to the third step of the three-step guided workflow.
 
-1. Specify the [goals and settings](../../../c-activities/t-test-ab/t-test-create-ab/ab-goals-and-settings.md#reference_B25389FD6F3A4989801E740364B089CC) for the activity.
+1. Specify the [goals and settings](/help/c-activities/t-test-ab/t-test-create-ab/ab-goals-and-settings.md) for the activity.
 
    ![A/B Activity Settings](/help/c-activities/t-test-ab/t-test-create-ab/assets/ab_settings-new.png)
 
