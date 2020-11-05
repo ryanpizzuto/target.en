@@ -14,6 +14,8 @@ uuid: fce769d2-9e7f-4064-add7-76e1fc394b4f
 >[!NOTE]
 >
 >[!UICONTROL Auto-Target] is available as part of the [!DNL Target Premium] solution. This feature is not available in [!DNL Target Standard] without a [!DNL Target Premium] license. For more information about the advanced features this license provides, see [Target Premium](/help/c-intro/intro.md).
+>
+>[!UICONTROL Analytics for Target] (A4T) supports [!UICONTROL Auto-Target] activities. For more information, see [Create an activity that uses Analytics as the reporting source](/help/c-integrating-target-with-mac/a4t/campaign-creation.md#a4t-aa).
 
 ## Real-world success story using Auto-Target {#success}
 
