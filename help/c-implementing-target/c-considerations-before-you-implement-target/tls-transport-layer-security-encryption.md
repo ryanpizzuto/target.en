@@ -25,7 +25,7 @@ TLS 1.2 is the default as of March 1, 2020 and TLS 1.1 will no longer be support
 
 Adobe will be moving customers in a phased manner to TLS 1.2. For those, whose domains are already 1.2 compliant, we will move them to TLS 1.2 without any changes needed from you. Most customer domains already support TLS 1.2; however, if your domain does not support TLS 1.2, we will keep those domains on TLS 1.1 like today (until March 2020).
 
-You should not face any issue during this migration phase. If the VEC has stopped loading a site that was earlier working, [open a Client Care ticket](../../cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C) citing this migration as a possible cause.
+You should not face any issue during this migration phase. If the VEC has stopped loading a site that was earlier working, [open a Client Care ticket](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C) citing this migration as a possible cause.
 
 If, however, you are one of those customers who are on TSL 1.1 without supporting TLS 1.2, then you should plan for movement of your domains/infrastructure to TLS 1.2. We will continue to support the TLS 1.1 protocol until March 1, 2020. Starting March 1, 2020, Target will not support the TLS 1.1 protocol to be used for the VEC via the Enhanced Experience Composer capability.
 
@@ -51,7 +51,7 @@ As you plan for this change, consider the following (note that the March 1, 2020
 * Be aware that the number of visitors in your Target reports can potentially see an insignificant drop in the number of visitors. 
 * You might need to change audiences created specifically to target older devices or browsers that do not support TLS 1.2. Delivery to those devices and browsers will no longer work.
 
-For more details about supported browsers and their versions, see [Supported Browsers](../../c-implementing-target/c-considerations-before-you-implement-target/supported-browsers.md#reference_01B4BF99E7D545A7998773202A2F6100).
+For more details about supported browsers and their versions, see [Supported Browsers](/help/c-implementing-target/c-considerations-before-you-implement-target/supported-browsers.md#reference_01B4BF99E7D545A7998773202A2F6100).
 
 ## Adobe Target APIs {#section_88797FA5434049EC89F908853CC76903}
 
@@ -63,7 +63,7 @@ Starting March 1, 2020, Target APIs will no longer support TLS 1.1 encryption. C
 
 ## Access to Experience Cloud Solutions interfaces {#section_748870ADE77B4CBEB18518DC784E64E5}
 
-Because the Target Standard/Premium interface already requires a [modern web browser](../../c-implementing-target/c-considerations-before-you-implement-target/supported-browsers.md#reference_01B4BF99E7D545A7998773202A2F6100), we do not anticipate issues. If you are unable to connect to Target, you should upgrade your browser to the latest version.
+Because the Target Standard/Premium interface already requires a [modern web browser](/help/c-implementing-target/c-considerations-before-you-implement-target/supported-browsers.md#reference_01B4BF99E7D545A7998773202A2F6100), we do not anticipate issues. If you are unable to connect to Target, you should upgrade your browser to the latest version.
 
 ## How to check which TLS version your browser uses {#section_44716DA2CEFF492BABD95AE32B1A3FC6}
 

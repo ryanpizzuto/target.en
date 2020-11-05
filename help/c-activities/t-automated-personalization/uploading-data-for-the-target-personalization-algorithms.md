@@ -9,7 +9,7 @@ uuid: eb0938b9-7f35-4bb5-ac4b-260b2144db5b
 
 Offline data, such as CRM information or customer churn propensity scores, can be incredibly valuable when building personalization models.
 
- There are several ways to input data in Automated Personalization (AP) and Auto-Target personalization algorithms. In addition to the methods in [Methods to get Data into Target](../../c-implementing-target/c-considerations-before-you-implement-target/c-methods-to-get-data-into-target/methods-to-get-data-into-target.md#concept_0069C0EFB56C4700BB33F2F35C2B9B17), Experience Cloud shared audiences (Adobe Analytics, Audience Management) and in-activity reporting audiences are also used in our algorithms.
+ There are several ways to input data in Automated Personalization (AP) and Auto-Target personalization algorithms. In addition to the methods in [Methods to get Data into Target](/help/c-implementing-target/c-considerations-before-you-implement-target/c-methods-to-get-data-into-target/methods-to-get-data-into-target.md#concept_0069C0EFB56C4700BB33F2F35C2B9B17), Experience Cloud shared audiences (Adobe Analytics, Audience Management) and in-activity reporting audiences are also used in our algorithms.
 
 For information about the data automatically collected and used by Automated Personalization and Auto-Target personalization algorithms, see [Automated Personalization Data Collection](/help/c-activities/t-automated-personalization/ap-data.md).
 
@@ -22,5 +22,5 @@ The following list presents best practices for uploading data for Target's perso
 * Don’t pass a unique Id, such as a session ID if not needed. 
 * Review what data Target automatically collects ( [Data Collection for Target's Personalization Algorithms](/help/c-activities/t-automated-personalization/ap-data.md)) so that you don’t send duplicate information. For example, Target uses IP addresses to determine visitors' ZIP codes. It is not necessary to pass this information as a separate variable. 
 * Do not pass multiple values in the same attribute/variable. If multiple variables are concatenated, Target’s personalization algorithms treat each string as a unique value, reducing the value of the information for personalization. 
-* Use a memorable and meaningful naming convention to make your [Personalization Insights Reports](../../c-reports/c-personalization-insights-reports/personalization-insights-reports.md#concept_A897070E1EDC403EB84CFB7A6ECAD767) more understandable.
+* Use a memorable and meaningful naming convention to make your [Personalization Insights Reports](/help/c-reports/c-personalization-insights-reports/personalization-insights-reports.md#concept_A897070E1EDC403EB84CFB7A6ECAD767) more understandable.
 

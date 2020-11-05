@@ -14,7 +14,7 @@ The mobile viewport preview feature is designed for responsive sites that render
 
 >[!NOTE]
 >
-> * Use mobile viewports if your site is responsive and the same elements in your desktop page are used on your mobile page in a different configuration. If you have a separate mobile site with a separate structure, such as `m.mysite.com`, use a [multipage activity](../../c-experiences/c-visual-experience-composer/multipage-activity.md#concept_277E096063E14813AC5D8EDFA1D2ED48) instead.
+> * Use mobile viewports if your site is responsive and the same elements in your desktop page are used on your mobile page in a different configuration. If you have a separate mobile site with a separate structure, such as `m.mysite.com`, use a [multipage activity](/help/c-experiences/c-visual-experience-composer/multipage-activity.md#concept_277E096063E14813AC5D8EDFA1D2ED48) instead.
 >
 >* Mobile viewports are not available if overlapped by a redirect offer overlay.
 
@@ -107,7 +107,7 @@ Configure any mobile viewports you want to make available when creating your exp
    * Symbian 
    * Blackberry
 
-   If you use the [Enhanced Experience Composer](../../c-experiences/experiences.md#section_34265986611B4AB8A0E4D6ACC25EF91D) and choose an operating system, [!DNL Target] emulates that device when you view the page. If, for example, there is a different look and feel for Android than iOS on your responsive site, [!DNL Target] mimics that behavior.
+   If you use the [Enhanced Experience Composer](/help/c-experiences/experiences.md#section_34265986611B4AB8A0E4D6ACC25EF91D) and choose an operating system, [!DNL Target] emulates that device when you view the page. If, for example, there is a different look and feel for Android than iOS on your responsive site, [!DNL Target] mimics that behavior.
 
 1. Click **[!UICONTROL Save]**.
 

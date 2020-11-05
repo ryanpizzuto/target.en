@@ -115,7 +115,7 @@ All GDPR and CCPA requests across [!DNL Experience Cloud] solutions, including [
 
 ### What information will [!DNL Adobe] enable our customers to delete in response to a data subject/user request? {#section_4B51D00924EC4166B2442218B69214F0}
 
-The information related to an individual visitor within [!DNL Target] is contained within the [!DNL Target] Visitor Profile. [!DNL Target] will enable our customers to delete all data associated with an ID in their Visitor Profile. For examples of the profile data [!DNL Target] stores, see [Visitor Profile](../../../c-target/c-audiences/c-target-rules/visitor-profile.md#concept_E972690B9A4C4372A34229FA37EDA38E).
+The information related to an individual visitor within [!DNL Target] is contained within the [!DNL Target] Visitor Profile. [!DNL Target] will enable our customers to delete all data associated with an ID in their Visitor Profile. For examples of the profile data [!DNL Target] stores, see [Visitor Profile](/help/c-target/c-audiences/c-target-rules/visitor-profile.md#concept_E972690B9A4C4372A34229FA37EDA38E).
 
 Aggregated or anonymized data (for example, reporting data) that does not identify a particular individual, or data that is unrelated to a specific individual (for example, content data), is outside the scope of a user-deletion request.
 
@@ -292,7 +292,7 @@ The following table contains description of the illustrative profile JSON fields
 
 ### Does Target support IP obfuscation? {#section_428907B0CD9842D9B245B38C66A53C6A}
 
-[!DNL Target] supports IP obfuscation if you choose to use it as part of your GDPR or CCPA implementation strategy. For more information, see [Privacy](../../../c-implementing-target/c-considerations-before-you-implement-target/c-privacy/privacy.md#concept_639482A343DB4963A6144378E1D8D7F0).
+[!DNL Target] supports IP obfuscation if you choose to use it as part of your GDPR or CCPA implementation strategy. For more information, see [Privacy](/help/c-implementing-target/c-considerations-before-you-implement-target/c-privacy/privacy.md#concept_639482A343DB4963A6144378E1D8D7F0).
 
 ### Do I need to do something to prevent my data from being shared or sold to third parties?
 

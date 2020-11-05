@@ -10,7 +10,7 @@ uuid: 9cb4c897-8701-4737-aec8-b0d4f5d62b94
 
 The Visual Experience Composer (VEC) provides a visual interface for adding and editing the experiences on your page.
 
-For additional detail about experiences, see [Experiences](../../../c-experiences/experiences.md#concept_A2E10F6AFB3D4AEAB6951EE14688848D). 
+For additional detail about experiences, see [Experiences](/help/c-experiences/experiences.md#concept_A2E10F6AFB3D4AEAB6951EE14688848D). 
 
 1. Click **[!UICONTROL Add Experience]**.
 

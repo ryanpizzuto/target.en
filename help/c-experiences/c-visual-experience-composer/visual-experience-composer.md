@@ -47,7 +47,7 @@ You can also click **[!UICONTROL Browse]**, then navigate to a page that is avai
 >
 >If a hover state depends on JavaScript, make sure **[!UICONTROL Disable JavaScript]** is not selected. JavaScript must be enabled to edit JavaScript elements.
 
-For information about the options available in the VEC, see [Visual Experience Composer Options](../../c-experiences/c-visual-experience-composer/viztarget-options.md#reference_3BD1BEEAFA584A749ED2D08F14732E81).
+For information about the options available in the VEC, see [Visual Experience Composer Options](/help/c-experiences/c-visual-experience-composer/viztarget-options.md#reference_3BD1BEEAFA584A749ED2D08F14732E81).
 
 You can perform some modifications on a page while the page is loading (or after the page fails to load), or you can cancel page loading in the VEC. For more information, see:
 
@@ -126,7 +126,7 @@ The following videos contain more information about the concepts discussed in th
 
 ### Office hours: Visual Experience Composer ![Tutorial badge](/help/assets/tutorial.png)
 
-This video is a recording of " [Office Hours](../../cmp-resources-and-contact-information.md#concept_58EA30379D3B48C4848BA2A8C464A5B7)," an initiative led by the Adobe Customer Care team.
+This video is a recording of " [Office Hours](/help/cmp-resources-and-contact-information.md#concept_58EA30379D3B48C4848BA2A8C464A5B7)," an initiative led by the Adobe Customer Care team.
 
 * How the VEC works 
 * How to avoid common issues with the VEC 

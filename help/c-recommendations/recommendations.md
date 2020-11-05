@@ -14,7 +14,7 @@ uuid: 2aefd118-8fec-493d-ae4e-c1139c877a3f
 >
 >[!DNL Recommendations] activities are available as part of the [Target Premium solution](/help/c-intro/intro.md#premium). They are not available in [!DNL Target Standard] without a [!DNL Target Premium] license.
 >
->If you currently have [!DNL Recommendations Classic], see [Recommendations Classic versus Recommendations Activities in Target Premium](../c-recommendations/c-recommendations-faq/recommendations-classic-versus-recommendations-activities-target-premium.md#concept_A80223EF66634EA380580C2823A581C5) for more information about the two solutions.
+>If you currently have [!DNL Recommendations Classic], see [Recommendations Classic versus Recommendations Activities in Target Premium](/help/c-recommendations/c-recommendations-faq/recommendations-classic-versus-recommendations-activities-target-premium.md#concept_A80223EF66634EA380580C2823A581C5) for more information about the two solutions.
 
 [!DNL Recommendations] helps you optimize and customize real-time suggestions across channels, apps, pages, email messages, and other delivery options to increase engagement and conversion while reducing management effort.
 
@@ -37,7 +37,7 @@ A recommendation determines how a product is suggested to a visitor, depending o
 |Increase the time visitors spend on your media site by recommending media content similar to what they are watching.|Create a recommendation that suggests other videos, using the "People who viewed this viewed that" criteria.|
 |Suggest that customers who viewed information about savings plans at your bank also read about IRA accounts.|Show other products people purchased after viewing one product without showing the first product in the recommendations, using the "people who viewed this also bought" criteria.|
 
-For more information about these and other [!DNL Recommendations] criteria, see [Criteria](../c-recommendations/c-algorithms/algorithms.md).
+For more information about these and other [!DNL Recommendations] criteria, see [Criteria](/help/c-recommendations/c-algorithms/algorithms.md).
 
 ## Terms
 

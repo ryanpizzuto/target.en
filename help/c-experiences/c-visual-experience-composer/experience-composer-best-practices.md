@@ -92,7 +92,7 @@ Each change creates a new element in the Visual Experience Composer. Because the
 
 In other words, if you add an element with text, then in a separate action you edit that element with different text, the code editor shows both actions as separate elements. When you edited the element, you created a new element that modifies the original one you created, containing the edited text. If you then delete the original element, the edited text won't be able to find the element that was edited, and will not display. The second element remains in the list of elements, but it does not affect the page because the element it changes no longer exists.
 
-See [Element Selectors Used in the Visual Experience Composer](../../c-experiences/c-visual-experience-composer/vec-selectors.md#concept_4EB7663E255F439B8D24079D23479337) .
+See [Element Selectors Used in the Visual Experience Composer](/help/c-experiences/c-visual-experience-composer/vec-selectors.md#concept_4EB7663E255F439B8D24079D23479337) .
 
 **Use `<b>` and `<i>` tags when styling text elements with the rich-text editor.**
 
@@ -183,7 +183,7 @@ Consider the following caveats when using the Visual Experience Composer to desi
 
 **The Move feature does not support z-index.**
 
-Because there is no z-index functionality, the moved element can't be moved on top of another element. See [Limitations](../../c-experiences/c-visual-experience-composer/experience-composer-best-practices.md#section_F33C2EA27F2E417AA036BC199DD6C721) for more details.
+Because there is no z-index functionality, the moved element can't be moved on top of another element. See [Limitations](/help/c-experiences/c-visual-experience-composer/experience-composer-best-practices.md#section_F33C2EA27F2E417AA036BC199DD6C721) for more details.
 
 **Rearranging elements affects click tracking.**
 

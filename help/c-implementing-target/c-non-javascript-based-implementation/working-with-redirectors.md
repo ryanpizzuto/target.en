@@ -24,7 +24,7 @@ Use the Redirector to do the following:
 
 * Find which landing page leads to the most conversions
 
-For help deciding the right setup see [Non-JavaScript-Based Implementations](../../c-implementing-target/c-non-javascript-based-implementation/non-javascript-based-implementation.md#concept_4799C58B081A43F6B3B8CC25A8D5D7C4). 
+For help deciding the right setup see [Non-JavaScript-Based Implementations](/help/c-implementing-target/c-non-javascript-based-implementation/non-javascript-based-implementation.md#concept_4799C58B081A43F6B3B8CC25A8D5D7C4). 
 
 ## Create a redirector {#redirector}
 
@@ -59,10 +59,10 @@ Before you can use a redirector, you must create it.
    1. *Security best practice*: Ensure that the domain used in the Redirector is allowlisted, as indicated above. If you use a domain that is not allowlisted, Adobe will block any calls to that domain to prevent malicious actors from using the Redirector to redirect to potentially malicious domains.
    1. Insert the Redirector URL into a browser and refresh.
    1. Log in to your account, refresh your mbox list and verify the new Redirector is listed as an mbox.
-1. If you will test different destinations for one ad, create [Redirect Offers](../../c-experiences/c-visual-experience-composer/redirect-offer.md#task_9578678D42784F5EB9638F8AC8C911FA) for each version.
+1. If you will test different destinations for one ad, create [Redirect Offers](/help/c-experiences/c-visual-experience-composer/redirect-offer.md#task_9578678D42784F5EB9638F8AC8C911FA) for each version.
 1. Create the campaign.
 
-   See [Non-JavaScript-Based Implementations](../../c-implementing-target/c-non-javascript-based-implementation/non-javascript-based-implementation.md#concept_4799C58B081A43F6B3B8CC25A8D5D7C4) for the right setup to meet your goals. 
+   See [Non-JavaScript-Based Implementations](/help/c-implementing-target/c-non-javascript-based-implementation/non-javascript-based-implementation.md#concept_4799C58B081A43F6B3B8CC25A8D5D7C4) for the right setup to meet your goals. 
 1. Complete QA on the campaign.
 
    Create a dummy page with an `<a href>` containing the Redirector URL. Example:

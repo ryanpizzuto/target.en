@@ -41,7 +41,7 @@ For those tasks performed in the [!DNL Adobe Admin Console for Enterprise], acce
 
 When you start using the new [!UICONTROL Properties] functionality, all user management must be performed in the [!DNL Adobe Admin Console for Enterprise]. However, all of your existing users in [!DNL Target] will be migrated from [!DNL Target] to the [!DNL Admin Console for Enterprise].
 
-1. [In the Admin Console](../../../administrating-target/c-user-management/property-channel/properties-overview.md#section_79796E0227D048F59BAE0AB02E544EBE), click the **[!UICONTROL Users]** tab at the top of the page > **[!UICONTROL Add Users]** to create new users or to edit existing users. 
+1. [In the Admin Console](/help/administrating-target/c-user-management/property-channel/properties-overview.md#section_79796E0227D048F59BAE0AB02E544EBE), click the **[!UICONTROL Users]** tab at the top of the page > **[!UICONTROL Add Users]** to create new users or to edit existing users. 
 1. Follow the instructions in [Manage Users and Groups in the Experience Cloud](https://helpx.adobe.com/enterprise/help/users.html) in the *Enterprise User Guide*.
 
 ## Step 2. Create a workspace (product profile) {#section_B82EB409B67C4D9D9D20CE30E48DB1DC}
@@ -111,7 +111,7 @@ Properties belong to specific channels (Web, Mobile, Email, and API/Other).
     * **Description:** Specify an optional description for the property.
     * **Channel:** Select the desired channel for the property: Web, Mobile App, Email, or Other/API (for example a set-top box or PlayStation console). 
 
-1. Click **[!UICONTROL Copy]** to copy the code to your clipboard that you'll use while performing the steps in [5: Update Your Implementation to Include the at_property Parameter](../../../administrating-target/c-user-management/property-channel/properties-overview.md#section_9B17A59807A94712BE642942442EBBC8).
+1. Click **[!UICONTROL Copy]** to copy the code to your clipboard that you'll use while performing the steps in [5: Update Your Implementation to Include the at_property Parameter](/help/administrating-target/c-user-management/property-channel/properties-overview.md#section_9B17A59807A94712BE642942442EBBC8).
 1. Click **[!UICONTROL Save]** when done.
 
 >[!NOTE]
@@ -123,7 +123,7 @@ To use the [!DNL Target] user-permissions functionality, you must add the `at_pr
 
 **To obtain the `at_property` parameter code:**
 
-1. (Conditional) Use the implementation code you generated and saved to your clipboard while performing the steps in [4. Create Properties](../../../administrating-target/c-user-management/property-channel/properties-overview.md#section_E8F2C92BE0F4466AB87604059C9CF3FD) and proceed to Step 2.
+1. (Conditional) Use the implementation code you generated and saved to your clipboard while performing the steps in [4. Create Properties](/help/administrating-target/c-user-management/property-channel/properties-overview.md#section_E8F2C92BE0F4466AB87604059C9CF3FD) and proceed to Step 2.
 
    Or
 

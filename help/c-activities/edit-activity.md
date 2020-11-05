@@ -91,7 +91,7 @@ A workspace lets an organization assign a specific set of users to a specific se
 
 If you are part of a multi-national organization, you might have a workspace for your European web pages, properties, or sites and another workspace for your American web pages, properties, or sites. If you are part of a multi-brand organization, you might have a separate workspace for each of your brands.
 
-For more information about workspaces and the Enterprise User Permissions functionality, see [Enterprise User Permissions](../administrating-target/c-user-management/property-channel/property-channel.md#concept_E396B16FA2024ADBA27BC056138F9838).
+For more information about workspaces and the Enterprise User Permissions functionality, see [Enterprise User Permissions](/help/administrating-target/c-user-management/property-channel/property-channel.md#concept_E396B16FA2024ADBA27BC056138F9838).
 
 If you have Enterprise User Permissions enabled in your environment, you can copy activities to the same workspace or to another workspace. You cannot currently move an activity from one workspace to another. To copy an activity to another workspace, from the [!UICONTROL Activities] page, hover over the activity you want to copy, click the [!UICONTROL Copy] icon, then select the desired workspace from the drop-down list.
 

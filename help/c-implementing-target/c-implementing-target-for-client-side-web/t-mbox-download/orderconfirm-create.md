@@ -15,7 +15,7 @@ The Order Confirmation mbox records details about orders on your site and allows
 >
 >* If users make purchases on your website, we recommend implementing an Order Confirmation mbox even if you use Analytics for Target (A4T) for your reporting.
 >
->* You can also create an Order Confirmation mbox for at.js 1.*x* using the same method; however, the [!DNL at.js] method is preferred. For more information, see [Track Conversions](../../../c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/implementing-target-without-a-tag-manager.md#task_E85D2F64FEB84201A594F2288FABF053).
+>* You can also create an Order Confirmation mbox for at.js 1.*x* using the same method; however, the [!DNL at.js] method is preferred. For more information, see [Track Conversions](/help/c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/implementing-target-without-a-tag-manager.md#task_E85D2F64FEB84201A594F2288FABF053).
 >
 >* If you are using at.js 2.*x*, `mboxCreate` is no longer supported. For order confirmation using at.js 2.*x*, use the following tracking-related APIs: [trackEvent()](/help/c-implementing-target/c-implementing-target-for-client-side-web/adobe-target-trackevent.md) and [sendNotifications()](/help/c-implementing-target/c-implementing-target-for-client-side-web/adobe.target.sendnotifications-atjs-21.md).
 

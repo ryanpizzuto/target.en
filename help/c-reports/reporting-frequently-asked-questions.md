@@ -87,7 +87,7 @@ To change the environment for an activity's report:
 
 1. Click **[!UICONTROL Save]**.
 
-For more information about environments, see [Hosts](../administrating-target/hosts.md#concept_516BB01EBFBD4449AB03940D31AEB66E).
+For more information about environments, see [Hosts](/help/administrating-target/hosts.md#concept_516BB01EBFBD4449AB03940D31AEB66E).
 
 ## Why is the traffic split between my experiences uneven in my A/B or MVT activity? {#uneven}
 

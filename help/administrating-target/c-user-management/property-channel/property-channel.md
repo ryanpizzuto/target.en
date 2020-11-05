@@ -29,7 +29,7 @@ You can tell whether your organization has a Standard or Premium license by clic
 
 >[!IMPORTANT]
 >
->Ensure that you read the [Caveats](../../../administrating-target/c-user-management/property-channel/property-channel.md#section_9714311B1CD9497A86F4910F8AE635E2) section below before proceeding with enterprise permissions.
+>Ensure that you read the [Caveats](/help/administrating-target/c-user-management/property-channel/property-channel.md#section_9714311B1CD9497A86F4910F8AE635E2) section below before proceeding with enterprise permissions.
 
 ## Terms and definitions used in this section {#section_F8D229544FEA41C3BC2EFD1F95AA0116}
 
@@ -254,7 +254,7 @@ FAQs about enterprise permissions include the following:
 
 ### Can I move an activity from one workspace to another?
 
-Unfortunately, you cannot move activities from one workspace to another. However, you can copy an activity to any workspace knowing that reporting data will not carry over. For more information, see "Copying/Editing an Activity When Using Workspaces" in [Copying/Editing an Activity When Using Workspaces](../../../c-activities/edit-activity.md#section_45A92E1DD3934523B07E71EF90C4F8B6).
+Unfortunately, you cannot move activities from one workspace to another. However, you can copy an activity to any workspace knowing that reporting data will not carry over. For more information, see "Copying/Editing an Activity When Using Workspaces" in [Copying/Editing an Activity When Using Workspaces](/help/c-activities/edit-activity.md#section_45A92E1DD3934523B07E71EF90C4F8B6).
 
 Activities created before the migration continue to run the same way in the Default Workspace unless they are edited and assigned properties. Activities under a specific workspace will honor properties assigned to that workspace and, therefore, behavior might not remain same as before the migration.
 

@@ -13,7 +13,7 @@ If your activity does not appear on your site, these troubleshooting suggestions
 
 >[!NOTE]
 >
->In addition to the following troubleshooting information, see [Troubleshooting Target](../../r-troubleshooting-target/troubleshooting-target.md#reference_A9DB82675D044BD8861F6752A4EE6839) for links to additional troubleshooting topics, FAQs, and other useful information about troubleshooting activities and other features in [!DNL Adobe Target].
+>In addition to the following troubleshooting information, see [Troubleshooting Target](/help/r-troubleshooting-target/troubleshooting-target.md#reference_A9DB82675D044BD8861F6752A4EE6839) for links to additional troubleshooting topics, FAQs, and other useful information about troubleshooting activities and other features in [!DNL Adobe Target].
 
 The following sections contain problems you might encounter with suggested solutions.
 
@@ -75,7 +75,7 @@ Once you are added as a user in Target you need to have the Approver role in ord
 * Ask the Admin of your account to make you an Approver.
 * If you are the Admin, give yourself the Approver role from **[!UICONTROL Administration]** > **[!UICONTROL Users]** in Target. 
 
-  See [Assign Yourself the Approver Role](../../administrating-target/start-target.md#task_15CAA437A71444E2932B333D5E66A3C7).
+  See [Assign Yourself the Approver Role](/help/administrating-target/start-target.md#task_15CAA437A71444E2932B333D5E66A3C7).
 
 ## The structure of the page changed since setting up activity.
 
@@ -85,7 +85,7 @@ Once you are added as a user in Target you need to have the Approver role in ord
 
 * Rebuild the activity.
 
-For more information about how page modifications affect Target's ability to display, see [Page Modification Scenarios](../../c-experiences/c-visual-experience-composer/r-troubleshoot-composer/vec-scenarios.md#concept_A458A95F65B4401588016683FB1694DB).
+For more information about how page modifications affect Target's ability to display, see [Page Modification Scenarios](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/vec-scenarios.md#concept_A458A95F65B4401588016683FB1694DB).
 
 ## The structure of the page is modified during page load (at run time).
 
@@ -98,7 +98,7 @@ For more information about how page modifications affect Target's ability to dis
 * Update page code to uniquely identify each element that will be tested (using an id).
 * Stop dynamically modifying the class or siblings as described above.
 
-For more information about how page modifications affect Target's ability to display, see [Page Modification Scenarios](../../c-experiences/c-visual-experience-composer/r-troubleshoot-composer/vec-scenarios.md#concept_A458A95F65B4401588016683FB1694DB).
+For more information about how page modifications affect Target's ability to display, see [Page Modification Scenarios](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/vec-scenarios.md#concept_A458A95F65B4401588016683FB1694DB).
 
 ## Mbox.js is popping all subsequent code out of the head and into the body.
 

@@ -86,7 +86,7 @@ The Automated Personalization activity workflow varies from the workflow of the 
 
 1. (Conditional) Click **[!UICONTROL Offers]** to select pieces of content and assign them to reporting groups or only allow certain visitors to see certain offers with targeting.
 
-   For more information, see [Offer Reporting Groups in Automated Personalization](../../c-reports/offer-reporting-groups-in-automated-personalization.md#concept_194128C0B56B4B26AAB57DB49892960C).
+   For more information, see [Offer Reporting Groups in Automated Personalization](/help/c-reports/offer-reporting-groups-in-automated-personalization.md#concept_194128C0B56B4B26AAB57DB49892960C).
 
    Use the [!UICONTROL Location] list to filter offers by location. Use the [!UICONTROL Report Group] list to filter offers by reporting groups. You can also use the [!UICONTROL Report Group] list to filter for [!UICONTROL Unassigned Offers] so you can assign a reporting group to an offer that is not currently assigned to any reporting group.
 
@@ -100,7 +100,7 @@ The Automated Personalization activity workflow varies from the workflow of the 
 
    It is important to understand that reporting groups impact how Target builds its models. As a result, we recommend that you use reporting groups only if you plan to replace or add new offers while the activity is live. If a new offer is introduced into a live activity, putting the new offer into a group with existing similar offers allow the machine to use the data already collected for the other offers in its group to learn about the new offer. You should never put all offers into a single reporting group.
 
-   For information about targeting an offer to specific audiences, see [Target AP Offers](../../c-activities/t-automated-personalization/ap-target-offers.md#task_F207ED7A41B84FD39BB6FCBFABF4B23E).
+   For information about targeting an offer to specific audiences, see [Target AP Offers](/help/c-activities/t-automated-personalization/ap-target-offers.md#task_F207ED7A41B84FD39BB6FCBFABF4B23E).
 
 1. (Conditional) Click **[!UICONTROL Exclusion Groups]** to choose any combinations of elements that you want to exclude from the activity.
 
@@ -164,4 +164,4 @@ The Automated Personalization activity workflow varies from the workflow of the 
 
 After you click **[!UICONTROL Create]**, the Activity Summary appears. Click **Preview Experiences** to preview how your experiences will look when delivered. A pop-up appears that you can use to view and share links to your AP experiences on your site to get a "true preview" of the experiences outside of Target's Visual Experience Composer. You must share the links from the message to share the preview. Clicking a link and then copying the URL directly from the page won't work because the URL contains a parameter that only displays the page correctly when you access the page from the link in the message. 
 
-For information about reporting, see [Automated Personalization Reports](../../c-reports/reports-ap.md#concept_C02BAFC922114A44846998FD956E345A). 
+For information about reporting, see [Automated Personalization Reports](/help/c-reports/reports-ap.md#concept_C02BAFC922114A44846998FD956E345A). 

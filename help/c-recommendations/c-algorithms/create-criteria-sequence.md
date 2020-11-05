@@ -79,7 +79,7 @@ The following steps assume you access the [!UICONTROL Create Criteria Sequence] 
 
    The criteria sequence will appear in the Criteria list.
 
-   For more information about recommendation logic options, see [Criteria](../../c-recommendations/c-algorithms/algorithms.md).
+   For more information about recommendation logic options, see [Criteria](/help/c-recommendations/c-algorithms/algorithms.md).
 
 ## Training video: Create criteria in Recommendations (12:33) ![Tutorial badge](/help/assets/tutorial.png)
 

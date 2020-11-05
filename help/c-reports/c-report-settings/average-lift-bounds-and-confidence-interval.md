@@ -12,7 +12,7 @@ Reports include several data points and visualization representations that help 
 
 >[!NOTE]
 >
->This feature is available only when viewing reports in [!UICONTROL Table] View. This feature is not available for activities that use [Analytics as the reporting source (A4T)](../../c-integrating-target-with-mac/a4t/a4t.md#concept_7540C8C04259434AB6EE33B09F47A1DE).
+>This feature is available only when viewing reports in [!UICONTROL Table] View. This feature is not available for activities that use [Analytics as the reporting source (A4T)](/help/c-integrating-target-with-mac/a4t/a4t.md#concept_7540C8C04259434AB6EE33B09F47A1DE).
 
 ## Interpret the data {#section_62C0D7E76F3D49A7B3C371C82AEF27D5}
 

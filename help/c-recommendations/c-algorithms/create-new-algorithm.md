@@ -68,7 +68,7 @@ The following steps assume you access the [!UICONTROL Create New Criteria] scree
 
 1. Select the **[!UICONTROL Recommendation Logic]**.
 
-   For more information about recommendation logic options, see [Criteria](../../c-recommendations/c-algorithms/algorithms.md).
+   For more information about recommendation logic options, see [Criteria](/help/c-recommendations/c-algorithms/algorithms.md).
 
    >[!NOTE]
    >

@@ -34,11 +34,11 @@ If you are creating a Recommendations activity, there are no experiences. Choose
    >
    >Creating a manually entered location during activity creation does not automatically create a new location. The location name is saved only in the context of the activity. The location is created when there is a content delivery call. Subsequent to the location being created, it will be available for use in other activities, for creating audiences, etc. from the drop-down list of available locations.
    
-1. Click **[!UICONTROL Add Audience Refinements]**, then choose one or more [audience](../c-target/target.md#concept_A782F8481A5041EBA75103CB26376522) for this activity.
+1. Click **[!UICONTROL Add Audience Refinements]**, then choose one or more [audience](/help/c-target/target.md#concept_A782F8481A5041EBA75103CB26376522) for this activity.
 
    ![](assets/location_refinements_2.png)
 
-   In the Form-based Experience Composer, Refinements have been replaced with full audience functionality. Refinements for existing activities have been migrated to [activity-only audiences](../c-target/creating-activity-only-audience.md#concept_A6BADCF530ED4AE1852E677FEBE68483). 
+   In the Form-based Experience Composer, Refinements have been replaced with full audience functionality. Refinements for existing activities have been migrated to [activity-only audiences](/help/c-target/creating-activity-only-audience.md#concept_A6BADCF530ED4AE1852E677FEBE68483). 
 1. Select the type of content you want to appear in that location.
 
    ![](assets/form_content.png)
@@ -93,8 +93,8 @@ If you are creating a Recommendations activity, there are no experiences. Choose
 1. Click **[!UICONTROL Next]**, then complete the activity creation steps as usual for your activity type.
 
 * [Create an A/B Test](/help/c-activities/t-test-ab/t-test-create-ab/test-create-ab.md) 
-* [Create an Experience Targeting Activity](../c-activities/t-experience-target/t-xt-create/xt-create.md#task_D6B3429AC31549E1A70EDF04B3DDC765) 
-* [Create a Recommendations Activity](../c-recommendations/t-create-recs-activity/create-recs-activity.md#task_6874328773C64C44A73F0A130AD3F96F)
+* [Create an Experience Targeting Activity](/help/c-activities/t-experience-target/t-xt-create/xt-create.md#task_D6B3429AC31549E1A70EDF04B3DDC765) 
+* [Create a Recommendations Activity](/help/c-recommendations/t-create-recs-activity/create-recs-activity.md#task_6874328773C64C44A73F0A130AD3F96F)
 
 ## Training video: Form-based Composer ![Tutorial badge](/help/assets/tutorial.png)
 

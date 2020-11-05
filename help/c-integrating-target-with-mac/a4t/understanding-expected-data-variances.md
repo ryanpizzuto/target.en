@@ -29,7 +29,7 @@ Here are a few scenarios in which you might experience expected data variance:
 
 * Suppose you create an Auto-Allocate activity open to all visitors to a particular page. Because Auto-Allocate activities don't support A4T, all of the activity data is collected by [!DNL Target]. You might expect that the visitors to the activity in the [!DNL Target] reporting should match the visitors to that page in the [!DNL Analytics] reporting for the same date range. This is a scenario in which the variance described below is expected.
 
-  For a complete list of activity types that support A4T, see [Supported Activity Types](../../c-integrating-target-with-mac/a4t/a4t.md#section_F487896214BF4803AF78C552EF1669AA).
+  For a complete list of activity types that support A4T, see [Supported Activity Types](/help/c-integrating-target-with-mac/a4t/a4t.md#section_F487896214BF4803AF78C552EF1669AA).
 
 ## Expected data variance when *not using* A4T {#expected-not-using-a4t}
 

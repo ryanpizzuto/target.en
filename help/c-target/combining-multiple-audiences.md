@@ -23,7 +23,7 @@ You can create and use combined audiences in various places throughout the [!DNL
 
 You can create an ad hoc combined audience on the activity's [!UICONTROL Target] page during the three-step guided workflow.
 
-1. While creating an [activity](../c-activities/activities.md#concept_D317A95A1AB54674BA7AB65C7985BA03), on the **[!UICONTROL Target]** page, click the three vertical ellipses, then click **[!UICONTROL Replace Audience]**.
+1. While creating an [activity](/help/c-activities/activities.md#concept_D317A95A1AB54674BA7AB65C7985BA03), on the **[!UICONTROL Target]** page, click the three vertical ellipses, then click **[!UICONTROL Replace Audience]**.
 
    ![Step Result](assets/edit_audience.png)
 
@@ -75,7 +75,7 @@ You can create an ad hoc combined audience on the activity's [!UICONTROL Target]
 
 You can create an ad hoc combined audience on the activity's [!UICONTROL Goals & Settings] page to use in metric targeting. For example to create targeting based on conversion using a combined audience:
 
-1. While editing or creating an [activity](../c-activities/activities.md#concept_D317A95A1AB54674BA7AB65C7985BA03), on the **[!UICONTROL Goals & Settings]** page, select **[!UICONTROL Conversion]** for the success metric, then select **[!UICONTROL Viewed an Mbox]** as the action. 
+1. While editing or creating an [activity](/help/c-activities/activities.md#concept_D317A95A1AB54674BA7AB65C7985BA03), on the **[!UICONTROL Goals & Settings]** page, select **[!UICONTROL Conversion]** for the success metric, then select **[!UICONTROL Viewed an Mbox]** as the action. 
 1. Select the desired mbox in the **[!UICONTROL Search mbox]** field.
 
    ![](assets/combine_multiple_audiences4.png)
@@ -85,17 +85,17 @@ You can create an ad hoc combined audience on the activity's [!UICONTROL Goals &
 
    ![](assets/combine_multiple_audiences5.png)
 
-1. Proceed with [Step 2](../c-target/combining-multiple-audiences.md#section_2F1CE9434CC04174B4BA2BFC89B85D77) under "Create a Combined Audience While Creating an Activity" to create the combined audience.
+1. Proceed with [Step 2](/help/c-target/combining-multiple-audiences.md#section_2F1CE9434CC04174B4BA2BFC89B85D77) under "Create a Combined Audience While Creating an Activity" to create the combined audience.
 
 ## Create a Combined Audience for Use in Reporting {#section_4682D342EFBB43C38E54B99B3A1E14CD}
 
 You can create an ad hoc combined audience on the activity's [!UICONTROL Goals & Settings] page to use in reporting.
 
-1. While editing or creating an [activity](../c-activities/activities.md#concept_D317A95A1AB54674BA7AB65C7985BA03), on the **[!UICONTROL Goals & Settings]** page, click the **[!UICONTROL Add Audience]** icon under [!UICONTROL Audiences for Reporting] to display the [!UICONTROL Choose Audience] page.
+1. While editing or creating an [activity](/help/c-activities/activities.md#concept_D317A95A1AB54674BA7AB65C7985BA03), on the **[!UICONTROL Goals & Settings]** page, click the **[!UICONTROL Add Audience]** icon under [!UICONTROL Audiences for Reporting] to display the [!UICONTROL Choose Audience] page.
 
    ![](assets/combine_multiple_audiences6.png)
 
-1. Proceed with [Step 2](../c-target/combining-multiple-audiences.md#section_2F1CE9434CC04174B4BA2BFC89B85D77) under "Create a Combined Audience While Creating an Activity" to create the combined audience.
+1. Proceed with [Step 2](/help/c-target/combining-multiple-audiences.md#section_2F1CE9434CC04174B4BA2BFC89B85D77) under "Create a Combined Audience While Creating an Activity" to create the combined audience.
 
 ## Create a combined audience while editing an activity {#section_364A12CE96E04B61B7C18113AA586C2C}
 
@@ -115,4 +115,4 @@ You can create an ad hoc combined audience while editing an existing activity.
 
    ![Change Audience](/help/c-target/assets/combine_multiple_audiences8.png)
 
-1. Proceed with [Step 2](../c-target/combining-multiple-audiences.md#section_2F1CE9434CC04174B4BA2BFC89B85D77) under "Create a Combined Audience While Creating an Activity" to create the combined audience.
+1. Proceed with [Step 2](/help/c-target/combining-multiple-audiences.md#section_2F1CE9434CC04174B4BA2BFC89B85D77) under "Create a Combined Audience While Creating an Activity" to create the combined audience.

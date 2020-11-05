@@ -87,17 +87,17 @@ The following list describes some of the situations that might cause a preset to
 
 ## Report Metric {#section_894ABD7148244806B7CE556EBBA2AD62}
 
-Click the **[!UICONTROL Report Metric]** drop-down list to select a different [success metric](../../c-activities/r-success-metrics/success-metrics.md#reference_D011575C85DA48E989A244593D9B9924) or multiple metrics to display in the graph and chart.
+Click the **[!UICONTROL Report Metric]** drop-down list to select a different [success metric](/help/c-activities/r-success-metrics/success-metrics.md#reference_D011575C85DA48E989A244593D9B9924) or multiple metrics to display in the graph and chart.
 
 By default, the primary metric is determined in the success metrics setup when you create the activity. If you change the setup and re-save the activity, the primary metric for reporting is updated.
 
-For more information about selecting multiple metrics to view in reports, see [View Multiple Metrics in a Report](../../c-reports/c-report-settings/view-multiple-metrics.md#concept_9E3C3F6F3EC1412FAF252975AC0720B7).
+For more information about selecting multiple metrics to view in reports, see [View Multiple Metrics in a Report](/help/c-reports/c-report-settings/view-multiple-metrics.md#concept_9E3C3F6F3EC1412FAF252975AC0720B7).
 
 ## Audience {#section_70926EB4618945D9AFF2B0564FF3717B}
 
 Click the [!UICONTROL Audience] drop-down list to change the displayed audience for the report.
 
-For more information, see [Audiences](../../c-target/target.md#concept_A782F8481A5041EBA75103CB26376522).
+For more information, see [Audiences](/help/c-target/target.md#concept_A782F8481A5041EBA75103CB26376522).
 
 ## Date Range {#section_A410A768403C4E01891F95CB357E63ED}
 
@@ -142,7 +142,7 @@ Select the control experience to use when calculating and comparing lift.
 
 ### Environment
 
-Select the environment (host group) to use for the report. For more information, see [Hosts](../../administrating-target/hosts.md#concept_516BB01EBFBD4449AB03940D31AEB66E).
+Select the environment (host group) to use for the report. For more information, see [Hosts](/help/administrating-target/hosts.md#concept_516BB01EBFBD4449AB03940D31AEB66E).
 
 ### Reset Report Data
 
@@ -154,7 +154,7 @@ Reset reporting data to remove old data. Current visitors will remain in the act
 
 ### Exclude Extreme Values
 
-The [!UICONTROL Exclude Extreme Values] toggle applies to activities with Revenue and Engagement metric types only. For more information, see [Excluding Extreme Orders](../../c-reports/c-report-settings/excluding-extreme-orders.md#task_2AE7743FFCDD466DAEEB720BE5F33DAA).
+The [!UICONTROL Exclude Extreme Values] toggle applies to activities with Revenue and Engagement metric types only. For more information, see [Excluding Extreme Orders](/help/c-reports/c-report-settings/excluding-extreme-orders.md#task_2AE7743FFCDD466DAEEB720BE5F33DAA).
 
 ## Download {#section_77E65C50BAAF4AB79242DB3A8778ADEF}
 
@@ -162,7 +162,7 @@ Click the **[!UICONTROL Download]** icon to download report data in a [!DNL .csv
 
 ![Download icon](/help/c-reports/c-report-settings/assets/download-icon.png)
 
-For more information, see [Downloading Data in a CSV File](../../c-reports/downloading-data-in-csv-file.md#concept_3F276FF2BBB2499388F97451D6DE2E75).
+For more information, see [Downloading Data in a CSV File](/help/c-reports/downloading-data-in-csv-file.md#concept_3F276FF2BBB2499388F97451D6DE2E75).
 
 ## Refresh {#section_E203729F2F314DF3856D2EE67C60B370}
 
@@ -187,7 +187,7 @@ You can view the report in various formats, depending on the activity type. Sele
 
 Reports include several data points and visualization representations that understand the lift bounds and confidence level associated with your activity. This helps you more accurately determine a winner.
 
-For more information, see [Average Lift, Lift Bounds, and Confidence Interval](../../c-reports/c-report-settings/average-lift-bounds-and-confidence-interval.md#topic_AFFDC672A8A34D028B100EF6BE5D8129).
+For more information, see [Average Lift, Lift Bounds, and Confidence Interval](/help/c-reports/c-report-settings/average-lift-bounds-and-confidence-interval.md#topic_AFFDC672A8A34D028B100EF6BE5D8129).
 
 Consider the following:
 

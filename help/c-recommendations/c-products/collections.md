@@ -40,7 +40,7 @@ Create a collection to organize the products or content you want to show in your
 
    ![Hover icons: edit, copy, and delete](/help/c-recommendations/c-products/assets/hover-icons.png)
 
-   The "Number of Items" reported for each collection on the [!UICONTROL Collections] list view is the number of products matching the rules for that collection within the configured default Recommendations [host group](/help/administrating-target/hosts.md) (environment). See [Settings](../../c-recommendations/plan-implement.md#concept_C1E1E2351413468692D6C21145EF0B84) to change the default host group.
+   The "Number of Items" reported for each collection on the [!UICONTROL Collections] list view is the number of products matching the rules for that collection within the configured default Recommendations [host group](/help/administrating-target/hosts.md) (environment). See [Settings](/help/c-recommendations/plan-implement.md#concept_C1E1E2351413468692D6C21145EF0B84) to change the default host group.
 
 1. Click **[!UICONTROL Create Collection]**.
 

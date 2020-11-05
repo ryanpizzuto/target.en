@@ -98,7 +98,7 @@ Audiences can be saved for reuse in multiple activities, or they can be created 
 |Custom segments|Custom segments (also known as campaign-specific segments) are specific to a campaign in  Target Classic. They are created as a part of the campaign and cannot be reused in other campaigns.|
 |Shared audiences|Audiences can be shared across [!DNL Adobe Experience Cloud] solutions. See [Audiences](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html) for examples.|
 
-For information about how the visitor profile tracks information about visitors to your site, see [Visitor Profiles](../c-target/c-visitor-profile/visitor-profile.md#concept_5E53D1A6DF224D7BAE76F4AE390B9DA1). 
+For information about how the visitor profile tracks information about visitors to your site, see [Visitor Profiles](/help/c-target/c-visitor-profile/visitor-profile.md#concept_5E53D1A6DF224D7BAE76F4AE390B9DA1). 
 
 ## Training videos:
 

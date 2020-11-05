@@ -118,7 +118,7 @@ You can shorten the amount of time the [!DNL Target] variable persists down to a
 The following list explains reasons why the same visitor could be counted in multiple experiences in [!DNL Analytics]:
 
 * The [!DNL Target] profile expired but the [!DNL Analytics] cookie is still there. In this situation, [!DNL Target] re-evaluates the user but [!DNL Analytics] considers the visitor to be the same person. 
-* If the visitor is using the `mbox3rdPartyId`, when the anonymous visitor is merged with his or her 3rd-party ID profile, [!DNL Target] could put the visitor into a different experience to match up with the 3rd-party ID. For more information, see [Real-Time Profile Syncing for mbox3rdPartyID](../../../c-target/c-visitor-profile/3rd-party-id.md#concept_BF4113593F614987B1D3E359AE1C5732). 
+* If the visitor is using the `mbox3rdPartyId`, when the anonymous visitor is merged with his or her 3rd-party ID profile, [!DNL Target] could put the visitor into a different experience to match up with the 3rd-party ID. For more information, see [Real-Time Profile Syncing for mbox3rdPartyID](/help/c-target/c-visitor-profile/3rd-party-id.md#concept_BF4113593F614987B1D3E359AE1C5732). 
 * [!DNL Analytics] might be tracking different devices as the same visitor in a different way than [!DNL Target] tracks those devices: the 3rd party ID setup in [!DNL Target] is different than in Analytics.
 
 ## Does A4T support virtual report suites?

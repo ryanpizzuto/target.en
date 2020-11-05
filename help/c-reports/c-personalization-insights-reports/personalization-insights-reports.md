@@ -20,7 +20,7 @@ Two specialized reports are available to users of [!UICONTROL Automated Personal
 >
 >* [!UICONTROL Personalization Insights] reports are available only if the [!UICONTROL Primary Goal] is selected from the the [!UICONTROL Report Metric] drop-down list.
 >
->* [!UICONTROL Personalization Insights] reports are supported in the [default environment](../../administrating-target/hosts.md) only.
+>* [!UICONTROL Personalization Insights] reports are supported in the [default environment](/help/administrating-target/hosts.md) only.
 >
 >* [!UICONTROL Personalization Insights] reports are generated only for activities that are in the [!UICONTROL Live] status and have been activated and receiving traffic for at least 15 days.
 

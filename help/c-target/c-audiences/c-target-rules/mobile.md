@@ -29,7 +29,7 @@ To solve this, Target collects additional data to accurately detect iPhones and 
 
 >[!NOTE]
 >
->Customers using the Mobile SDK do not need to do anything to leverage this functionality. Customers using at.js must [upgrade to at.js version 1.5.0](../../../c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md#reference_DBB5EDB79EC44E558F9E08D4774A0F7A) (or later).
+>Customers using the Mobile SDK do not need to do anything to leverage this functionality. Customers using at.js must [upgrade to at.js version 1.5.0](/help/c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md#reference_DBB5EDB79EC44E558F9E08D4774A0F7A) (or later).
 
 You can choose more than one mobile device property. Multiple selections are joined with an OR.
 
@@ -58,7 +58,7 @@ Customers who are using a custom integration (not using at.js or the Mobile SDK)
 
    >[!NOTE]
    >
-   >You can target by mobile device carrier using the [Geo settings](../../../c-target/c-audiences/c-target-rules/geo.md#concept_5B4D99DE685348FB877929EE0F942670).
+   >You can target by mobile device carrier using the [Geo settings](/help/c-target/c-audiences/c-target-rules/geo.md#concept_5B4D99DE685348FB877929EE0F942670).
 
 1. (Optional) Click **[!UICONTROL Add Rule]** and set up additional rules for the audience. 
 1. Click **[!UICONTROL Save]**.
