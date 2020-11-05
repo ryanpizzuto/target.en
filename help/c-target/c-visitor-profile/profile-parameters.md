@@ -114,7 +114,7 @@ Typical reasons for the system to disable profile scripts include the following:
 * An undefined variable to referenced. 
 * An invalid value is referenced. This is often caused by referencing URL values and other user-inputted data without proper validation. 
 * Too many JavaScript instructions are used. Target has limit of 2,000 JavaScript instructions per script, but this cannot simply be calculated by manually reading the JavaScript. For example, Rhino treats all function calls and "new" calls as 100 instructions. This means that any call to any function consumes 100 instructions. Also, the size of any entry data, such as URL values, can impact the instructions count. 
-* Not following items highlighted in the [best practices](../../c-target/c-visitor-profile/profile-parameters.md#section_64AFE5D2B0C8408A912FC2A832B3AAE0) section below.
+* Not following items highlighted in the [best practices](/help/c-target/c-visitor-profile/profile-parameters.md#section_64AFE5D2B0C8408A912FC2A832B3AAE0) section below.
 
 ## Best practices {#best}
 
@@ -171,7 +171,7 @@ The following methods can be used to debug profile scripts:
 
 **Is it possible to use profile scripts to capture information from a page that resides in a data layer?**
 
-Profile scripts are unable to read the page directly because they are executed server side. The data must be passed in through an mbox request or through other [methods of getting data into Target](../../c-implementing-target/c-considerations-before-you-implement-target/c-methods-to-get-data-into-target/methods-to-get-data-into-target.md#concept_0069C0EFB56C4700BB33F2F35C2B9B17). After the data is in Target, profile scripts can read the data as an mbox parameter or profile parameter. 
+Profile scripts are unable to read the page directly because they are executed server side. The data must be passed in through an mbox request or through other [methods of getting data into Target](/help/c-implementing-target/c-considerations-before-you-implement-target/c-methods-to-get-data-into-target/methods-to-get-data-into-target.md#concept_0069C0EFB56C4700BB33F2F35C2B9B17). After the data is in Target, profile scripts can read the data as an mbox parameter or profile parameter. 
 
 ## JavaScript reference for script profile parameters
 

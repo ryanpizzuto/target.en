@@ -38,7 +38,7 @@ After the classification period, data appears in these reports approximately an 
 
 Keep the following points in mind when considering using A4T:
 
-* To use [!DNL Analytics] as the reporting source for [!DNL Target], both you and your company must have access to [!DNL Analytics] and to [!DNL Target]. [Contact your account representative](../../cmp-resources-and-contact-information.md#concept_34A1CA16F2244D42930BB77846A5ABBB) if you need either solution. 
+* To use [!DNL Analytics] as the reporting source for [!DNL Target], both you and your company must have access to [!DNL Analytics] and to [!DNL Target]. [Contact your account representative](/help/cmp-resources-and-contact-information.md#concept_34A1CA16F2244D42930BB77846A5ABBB) if you need either solution. 
 * The reporting source is set for each activity. [!DNL Target] continues to collect data to use in reporting and [!DNL Target] data is still available if you prefer to base an activity on data collected by [!DNL Target]. 
 * You must use one reporting source or the other. You cannot collect data for a single activity from both sources. 
 * When using A4T, all success metrics available to your activities are [!DNL Analytics] metrics. However, your goal metric can be based on an mbox call. For example, you can use Target's out-of-the-box click-tracking capabilities with A4T instead of having to implement [!DNL Analytics] click-tracking code. 
@@ -117,7 +117,7 @@ This video explains how to use [!DNL Analytics] as a reporting source in [!DNL T
 
 ### Analytics / Target Integration (A4T) (40:33) ![Tutorial badge](/help/assets/tutorial.png)
 
-This video is a recording of " [Office Hours](../../cmp-resources-and-contact-information.md#concept_58EA30379D3B48C4848BA2A8C464A5B7)," an initiative led by the Adobe Customer Care team.
+This video is a recording of " [Office Hours](/help/cmp-resources-and-contact-information.md#concept_58EA30379D3B48C4848BA2A8C464A5B7)," an initiative led by the Adobe Customer Care team.
 
 * How to set up and validate that the integration is working 
 * How the integration works 

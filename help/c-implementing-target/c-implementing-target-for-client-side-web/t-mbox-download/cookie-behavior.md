@@ -20,7 +20,7 @@ See also [Delete the Target cookie](/help/c-implementing-target/c-considerations
 
 ## When to Use First- or Third-Party Cookies {#section_F71B29420C004A7FA3B1921E619B326E}
 
-Your site set up determines which cookies you want to use. It is helpful to understand how Target works when trying to understand first and third-party cookies. See [How Adobe Target Works](../../../c-intro/how-target-works.md#concept_459AB4DEE7364A9290C2FD405DC29584) for more information.
+Your site set up determines which cookies you want to use. It is helpful to understand how Target works when trying to understand first and third-party cookies. See [How Adobe Target Works](/help/c-intro/how-target-works.md#concept_459AB4DEE7364A9290C2FD405DC29584) for more information.
 
 There are three main use cases for cookies:
 

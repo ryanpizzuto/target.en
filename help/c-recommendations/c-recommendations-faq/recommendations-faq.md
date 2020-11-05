@@ -59,7 +59,7 @@ If the location on which you're applying this criteria doesn't contain the categ
 
 If you use a location where category Id is present in the mbox, the criterial picker will contain all applicable criteria.
 
-Target has a [Filter Incompatible Criteria](../../c-recommendations/plan-implement.md#concept_C1E1E2351413468692D6C21145EF0B84) setting to control intelligent filtering of the algorithm picker.
+Target has a [Filter Incompatible Criteria](/help/c-recommendations/plan-implement.md#concept_C1E1E2351413468692D6C21145EF0B84) setting to control intelligent filtering of the algorithm picker.
 
 >[!NOTE]
 >
@@ -154,7 +154,7 @@ Ensure that the audience has a unique name. If you gave the audience the same na
 
 ## What is the maximum size of a CSV file for a feed upload? {#section_20F1AF4839A447B9889B246D6E873538}
 
-There is no hard limit on the number of rows or file size for a feed's CSV file upload. However, as a best practice, we recommend limiting the CSV file size to 1 GB to avoid failures during the file upload process. If the size of the file exceeds 1 GB, it should ideally be split into multiple feed files. The maximum number of custom attribute columns is 100 and custom attributes are limited to 4096 characters. Additional limits on the length of required columns are available on the [Target Limitations page](../../r-troubleshooting-target/target-limits.md#reference_BEFE60C3AAA442FF94D4EBFB9D3CC9B1).
+There is no hard limit on the number of rows or file size for a feed's CSV file upload. However, as a best practice, we recommend limiting the CSV file size to 1 GB to avoid failures during the file upload process. If the size of the file exceeds 1 GB, it should ideally be split into multiple feed files. The maximum number of custom attribute columns is 100 and custom attributes are limited to 4096 characters. Additional limits on the length of required columns are available on the [Target Limitations page](/help/r-troubleshooting-target/target-limits.md#reference_BEFE60C3AAA442FF94D4EBFB9D3CC9B1).
 
 ## Can I dynamically exclude an entity?
 

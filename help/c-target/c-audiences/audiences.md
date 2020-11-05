@@ -53,7 +53,7 @@ The following audience definition card is accessed by clicking the View icon on 
 
 ![Activities > Audience definition](assets/audience_definition_list.png)
 
-Click the [!UICONTROL Audience Usage] tab to see other activities that reference that audience, if applicable. This way you can avoid accidental impact to other activities while editing audiences. Information includes Live Activities, Inactive Activities, Archived Activities, And Syncing Activities. This feature is available for all audiences (Library audiences and [activity-only audiences](../../c-target/creating-activity-only-audience.md#concept_A6BADCF530ED4AE1852E677FEBE68483)).
+Click the [!UICONTROL Audience Usage] tab to see other activities that reference that audience, if applicable. This way you can avoid accidental impact to other activities while editing audiences. Information includes Live Activities, Inactive Activities, Archived Activities, And Syncing Activities. This feature is available for all audiences (Library audiences and [activity-only audiences](/help/c-target/creating-activity-only-audience.md#concept_A6BADCF530ED4AE1852E677FEBE68483)).
 
 If an audience is combined with another audience and the combined audience is used to create an activity, the usage information for both audiences will list that newly created activity.
 

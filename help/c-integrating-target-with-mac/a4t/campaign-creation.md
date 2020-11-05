@@ -39,11 +39,11 @@ Creating a [!DNL Target] activity that uses [!DNL Analytics] as the reporting so
 
      Only report suites that are provisioned to connect to [!DNL Target] will be available for selection. If you don't see the report suite(s) you expect, first try logging out and logging back in to the [!DNL Adobe Experience Cloud] to try again.
 
-   If the report suite(s) is still missing from the list, please [contact Customer Care](../../cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C).
+   If the report suite(s) is still missing from the list, please [contact Customer Care](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C).
 
 1. Specify your tracking server.
 
-   See [Using an Analytics Tracking Server](../../c-integrating-target-with-mac/a4t/analytics-tracking-server.md#task_72077BA7E93C4A65A715A18F32228823).
+   See [Using an Analytics Tracking Server](/help/c-integrating-target-with-mac/a4t/analytics-tracking-server.md#task_72077BA7E93C4A65A715A18F32228823).
 
 1. Define the experience.
 1. Specify the activity goal.

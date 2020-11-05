@@ -11,10 +11,10 @@ uuid: 0fb297ba-f1c3-4139-ac37-7fa0bf2ac308
 
 Use metrics in a Multivariate Test to determine when a visit is successful.
 
-For detailed information about success metrics, see [Success Metrics](../../../c-activities/r-success-metrics/success-metrics.md#reference_D011575C85DA48E989A244593D9B9924). 
+For detailed information about success metrics, see [Success Metrics](/help/c-activities/r-success-metrics/success-metrics.md#reference_D011575C85DA48E989A244593D9B9924). 
 
 1. Specify the goal of the activity.
-1. Select a [success metric](../../../c-activities/r-success-metrics/success-metrics.md#reference_D011575C85DA48E989A244593D9B9924)
+1. Select a [success metric](/help/c-activities/r-success-metrics/success-metrics.md#reference_D011575C85DA48E989A244593D9B9924)
 
    ![Set Metrics list](/help/c-activities/c-multivariate-testing/t-create-multivariate-test/assets/mvt_metrics-list.png)
 
@@ -33,7 +33,7 @@ For detailed information about success metrics, see [Success Metrics](../../../c
 
    The correct configuration of success metrics is critical for making sure you get the data you expect.
 
-   For more information, see [Success Metrics](../../../c-activities/r-success-metrics/success-metrics.md#reference_D011575C85DA48E989A244593D9B9924) 
+   For more information, see [Success Metrics](/help/c-activities/r-success-metrics/success-metrics.md#reference_D011575C85DA48E989A244593D9B9924) 
 1. (Optional) Add additional metrics.
 1. Click **[!UICONTROL Continue]** when you are finished setting your metrics.
 Note that when you name or rename a metric, the following characters are not allowed:

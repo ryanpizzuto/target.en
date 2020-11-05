@@ -104,7 +104,7 @@ function targetPageParams() {
 }
 ```
 
-For more examples of the code you might use on different types of pages, see [Implementation According to Page Type](../c-recommendations/plan-implement.md#reference_DE38BB07BD3C4511B176CDAB45E126FC).
+For more examples of the code you might use on different types of pages, see [Implementation According to Page Type](/help/c-recommendations/plan-implement.md#reference_DE38BB07BD3C4511B176CDAB45E126FC).
 
 ## Implementation According to Page Type {#reference_DE38BB07BD3C4511B176CDAB45E126FC}
 
@@ -112,7 +112,7 @@ Page type will influence your [!DNL Recommendations] implementation.
 
 For example, the types of recommendations you want to present may be different on a product page than on a category page or your home page. For each page, you can run specific functions prior to the mbox call to display the appropriate recommendations.
 
-For information about the attributes in the examples, see [Entity Attributes](../c-recommendations/c-products/entity-attributes.md#reference_3BCC1383FB3F44F4A2120BB36270387F).
+For information about the attributes in the examples, see [Entity Attributes](/help/c-recommendations/c-products/entity-attributes.md#reference_3BCC1383FB3F44F4A2120BB36270387F).
 
 Valid JSON formatting is required.
 
@@ -123,11 +123,11 @@ The `targetPageParams` function shown below is especially helpful if you are usi
 All pages that contain recommendations require either an [!DNL at.js] or [!DNL mbox.js] reference on the page. Add one of the following references to all pages with recommendations:
 
 ```
-<script src="../at.js /></script>
+<script src="/help/at.js /></script>
 ```
 
 ```
-<script src="../mbox.js /></script>
+<script src="/help/mbox.js /></script>
 ```
 
 This implementation requires:
@@ -136,9 +136,9 @@ This implementation requires:
 
 * [!DNL mbox.js] must include the reference to [!DNL target.js] ( [!DNL at.js] does not require a reference to [!DNL target.js])
 
-For more information about implementing [!DNL at.js], see [How to Deploy at.js](../c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/how-to-deployatjs.md#topic_ECF2D3D1F3384E2386593A582A978556).
+For more information about implementing [!DNL at.js], see [How to Deploy at.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/how-to-deployatjs.md#topic_ECF2D3D1F3384E2386593A582A978556).
 
-For more information about implementing [!DNL mbox.js], see [Mbox.js Implementation](../c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/mbox-download.md#task_4EAE26BB84FD4E1D858F411AEDF4B420).
+For more information about implementing [!DNL mbox.js], see [Mbox.js Implementation](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/mbox-download.md#task_4EAE26BB84FD4E1D858F411AEDF4B420).
 
 For more information about the differences between the two Target Javascript libraries, see [Benefits of at.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-target-atjs-implementation/target-atjs-implementation.md#benefits).
 
@@ -191,8 +191,8 @@ function targetPageParams() {
 
 On the Thank You page, you might want to show the order total, and the order ID, and show the products that were purchased, without recommending additional items. You can implement a second mbox to capture the order information.
 
-* If you are using at.js, see [Track Conversions](../c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/implementing-target-without-a-tag-manager.md#task_E85D2F64FEB84201A594F2288FABF053). 
-* If you are using mbox.js, see [Create an Order Confirmation mbox - mbox.js](../c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/orderconfirm-create.md#task_0036D5F6C062442788BB55E872816D82).
+* If you are using at.js, see [Track Conversions](/help/c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/implementing-target-without-a-tag-manager.md#task_E85D2F64FEB84201A594F2288FABF053). 
+* If you are using mbox.js, see [Create an Order Confirmation mbox - mbox.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/orderconfirm-create.md#task_0036D5F6C062442788BB55E872816D82).
 
 ## Settings {#concept_C1E1E2351413468692D6C21145EF0B84}
 

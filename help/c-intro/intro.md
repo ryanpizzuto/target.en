@@ -31,7 +31,7 @@ Target Premium includes the following premium features:
 
 ### Automated Personalization
 
-[Automated Personalization](../c-activities/t-automated-personalization/automated-personalization.md#task_8AAF837796D74CF893CA2F88BA1491C9) provides advanced machine learning algorithms to drive personalized experiences and improved conversion rates for digital experiences.
+[Automated Personalization](/help/c-activities/t-automated-personalization/automated-personalization.md#task_8AAF837796D74CF893CA2F88BA1491C9) provides advanced machine learning algorithms to drive personalized experiences and improved conversion rates for digital experiences.
 
 Automated personalization (formerly Test&Target 1:1) records visitor activity on the site, building a profile of visitors so content can be targeted to similar visitors. It tracks responses to content, both for individuals and the population as a whole, then uses sophisticated modeling approaches to automatically target each individual by accounting for everything known about that visitor.
 
@@ -43,7 +43,7 @@ Automated personalization learns by itself and requires minimum human analysis. 
 
 ### Recommendations 
 
-[Recommendations](../c-recommendations/recommendations.md#concept_7556C8A4543942F2A77B13A29339C0C0) activities automatically display products or content that might interest your customers based on previous user activity. Recommendations help direct customers to relevant items they might otherwise not know about.
+[Recommendations](/help/c-recommendations/recommendations.md#concept_7556C8A4543942F2A77B13A29339C0C0) activities automatically display products or content that might interest your customers based on previous user activity. Recommendations help direct customers to relevant items they might otherwise not know about.
 
 A recommendation determines how a product is suggested to a customer, depending on that customer's activities on the site. For example:
 
@@ -72,13 +72,13 @@ This functionality opens up entirely new capabilities, such as:
 
 ### Enterprise User Permissions
 
-[Enterprise User Permissions](../administrating-target/c-user-management/property-channel/property-channel.md#concept_E396B16FA2024ADBA27BC056138F9838) functionality lets you create different projects (called "Product Profiles" in the [!DNL Adobe Admin Console for Enterprise]) to allow you to assign different permissions for a single user that dictate that user's access rights for each project. These distinct projects can be compared to the way that report suites work in [!DNL Adobe Analytics]. Each project can have specific users with specific roles that apply to a set of properties. The result is that customers will be able to restrict the view, edit, approval, and publish access to their users based on region, environment (dev/stage/prod), channel, or other custom criteria.
+[Enterprise User Permissions](/help/administrating-target/c-user-management/property-channel/property-channel.md#concept_E396B16FA2024ADBA27BC056138F9838) functionality lets you create different projects (called "Product Profiles" in the [!DNL Adobe Admin Console for Enterprise]) to allow you to assign different permissions for a single user that dictate that user's access rights for each project. These distinct projects can be compared to the way that report suites work in [!DNL Adobe Analytics]. Each project can have specific users with specific roles that apply to a set of properties. The result is that customers will be able to restrict the view, edit, approval, and publish access to their users based on region, environment (dev/stage/prod), channel, or other custom criteria.
 
 ## Recommendations Classic {#section_9554068100054D2DBDB298CBE5A0E413}
 
 [!DNL Recommendations Classic] automatically displays products or content that might interest your customers based on previous user activity on your website. Recommendations help direct customers to items they might otherwise not know about, improving sales generated on your website.
 
-For more information, see the [Recommendations Classic documentation](../assets/adobe-recommendations-classic.pdf).
+For more information, see the [Recommendations Classic documentation](/help/assets/adobe-recommendations-classic.pdf).
 
 ## Experience League: The Adobe Target Welcome Kit {#kit}
 

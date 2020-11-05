@@ -30,7 +30,7 @@ You can tell whether your organization has a Standard or Premium license by clic
   * You will see the [!UICONTROL Properties] tab ( [!UICONTROL Administration] > [!UICONTROL Properties] )
   * You will also see the [!UICONTROL Users] tab ( [!UICONTROL Administration] > [!UICONTROL Users] )
 
-    [!DNL Target] Premium customers should follow the instructions in [Enterprise User Permissions](../../administrating-target/c-user-management/property-channel/property-channel.md#concept_E396B16FA2024ADBA27BC056138F9838) and [Configure Enterprise Permissions](../../administrating-target/c-user-management/property-channel/properties-overview.md#concept_22F2855DBF0D4754B9460F5D68749C71) to add users and assign permissions in the [!DNL Adobe Admin Console].
+    [!DNL Target] Premium customers should follow the instructions in [Enterprise User Permissions](/help/administrating-target/c-user-management/property-channel/property-channel.md#concept_E396B16FA2024ADBA27BC056138F9838) and [Configure Enterprise Permissions](/help/administrating-target/c-user-management/property-channel/properties-overview.md#concept_22F2855DBF0D4754B9460F5D68749C71) to add users and assign permissions in the [!DNL Adobe Admin Console].
 
 The following illustration shows the [!UICONTROL Administration] page for a [!DNL Target] Premium account. Note that both the [!UICONTROL Properties] and [!UICONTROL Users] tabs are available:
 

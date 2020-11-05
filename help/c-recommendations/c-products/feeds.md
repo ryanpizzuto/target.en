@@ -228,7 +228,7 @@ Create a feed to insert information about your products or services into [!DNL R
    * Google Product Feed
    * Analytics Classifications
 
-   For information about the CSV and Google Product Feed feed types, see [Feeds Overview](../../c-recommendations/c-products/feeds.md#concept_D1E9C7347C5D4583AA69B02E79607890). You can also [download a model CSV guide](https://recspm2.experiencecloud.adobe.com/content/mac/default/target/files/EntityFileUploadTemplate.csv) to help you format the feed correctly.
+   For information about the CSV and Google Product Feed feed types, see [Feeds Overview](/help/c-recommendations/c-products/feeds.md#concept_D1E9C7347C5D4583AA69B02E79607890). You can also [download a model CSV guide](https://recspm2.experiencecloud.adobe.com/content/mac/default/target/files/EntityFileUploadTemplate.csv) to help you format the feed correctly.
 
 1. (Conditional) If you selected **[!UICONTROL CSV]** or **[!UICONTROL Google Product Feed]**, specify the location where the feed can be accessed.
 
@@ -266,7 +266,7 @@ Create a feed to insert information about your products or services into [!DNL R
 
 1. (Optional) If you want the feed to belong to an environment (host group), select the host group.
 
-   By default the feed belongs to all host groups. This ensures that items in this feed are available in any environment. For more information, see [Hosts](../../administrating-target/hosts.md#concept_516BB01EBFBD4449AB03940D31AEB66E).
+   By default the feed belongs to all host groups. This ensures that items in this feed are available in any environment. For more information, see [Hosts](/help/administrating-target/hosts.md#concept_516BB01EBFBD4449AB03940D31AEB66E).
 
 1. Click **[!UICONTROL Save]**.
 

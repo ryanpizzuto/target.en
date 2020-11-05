@@ -18,18 +18,18 @@ There are some differences between at.js and mbox.js. This section lists some of
 
 ## Integrations and Plugins {#section_D92E31170176406AAC7B5005F03D3425}
 
-Some functions within [!DNL mbox.js] are not available in [!DNL at.js]. Internal [mbox.js objects and methods](../../../../c-target/c-visitor-profile/variables-profiles-parameters-methods.md#section_8C78059D15D9452F95636A5640188537) (such as `mbox`, `mboxCurrent`, `mboxFactoryDefault`, `mboxFactories`, and others) are no longer supported by [!DNL at.js] (example: `mboxFactoryDefault`). This is by design, intended to discourage you from "hacking" [!DNL at.js] to develop unsupported functionality that over the long term can cripple an implementation and make it impossible to upgrade. The only exposed methods are covered in the API pages of this documentation. Because of this:
+Some functions within [!DNL mbox.js] are not available in [!DNL at.js]. Internal [mbox.js objects and methods](/help/c-target/c-visitor-profile/variables-profiles-parameters-methods.md#section_8C78059D15D9452F95636A5640188537) (such as `mbox`, `mboxCurrent`, `mboxFactoryDefault`, `mboxFactories`, and others) are no longer supported by [!DNL at.js] (example: `mboxFactoryDefault`). This is by design, intended to discourage you from "hacking" [!DNL at.js] to develop unsupported functionality that over the long term can cripple an implementation and make it impossible to upgrade. The only exposed methods are covered in the API pages of this documentation. Because of this:
 
-* Legacy, page-based [integrations](../../../../c-implementing-target/c-implementing-target-for-client-side-web/c-how-atjs-works/target-atjs-integrations.md#concept_C100BC4F073C4B57A608B309D0157B39) with other Adobe solutions might not work and should be upgraded to newer, server-side integrations. 
-* [Custom plugins developed for mbox.js](../../../../c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-target-atjs-implementation/target-atjs-plugins.md#concept_F5D4C0A4DACF41409CC42FDD93B13FAF) might not work unless updated for [!DNL at.js].
+* Legacy, page-based [integrations](/help/c-implementing-target/c-implementing-target-for-client-side-web/c-how-atjs-works/target-atjs-integrations.md#concept_C100BC4F073C4B57A608B309D0157B39) with other Adobe solutions might not work and should be upgraded to newer, server-side integrations. 
+* [Custom plugins developed for mbox.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-target-atjs-implementation/target-atjs-plugins.md#concept_F5D4C0A4DACF41409CC42FDD93B13FAF) might not work unless updated for [!DNL at.js].
 
-  Make sure you include any [plugins](../../../../c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-target-atjs-implementation/target-atjs-plugins.md#concept_F5D4C0A4DACF41409CC42FDD93B13FAF) as part of your testing.
+  Make sure you include any [plugins](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-target-atjs-implementation/target-atjs-plugins.md#concept_F5D4C0A4DACF41409CC42FDD93B13FAF) as part of your testing.
 
 ## Asynchronous Considerations {#section_B586360A3DD34E2995AE25A18E3FB953}
 
 Because all mboxes are now asynchronous, they won't block page rendering or return in the order in which they fired.
 
-* If you are using a global mbox in the [Form-Based Experience Composer](../../../../c-experiences/experiences.md#section_3643394BD424463C8768F2907DEBCC22), be aware that HTML offers should contain only `<script>`, `<style>`, and `<link>` tags.
+* If you are using a global mbox in the [Form-Based Experience Composer](/help/c-experiences/experiences.md#section_3643394BD424463C8768F2907DEBCC22), be aware that HTML offers should contain only `<script>`, `<style>`, and `<link>` tags.
 
   During delivery, [!DNL at.js] filters out all the other HTML tags when applying global mbox offers. Global mbox offers are applied to HTML HEAD, which doesn't allow DIV, SPAN, and so forth. For example `<div>test</div>` cannot be applied because the `<div>` tag can be used only inside HTML BODY. 
 

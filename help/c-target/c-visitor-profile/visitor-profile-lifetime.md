@@ -12,7 +12,7 @@ uuid: 01ccda60-7e28-4d26-8d5d-1c0a022bbef0
 
 By default, a visitor profile expires after 14 days of inactivity for that visitor. This profile lifetime can be extended.
 
-[Contact Client Care or your Adobe consultant](../../cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C) to extend the profile lifetime at no additional cost. The lifetime can be set to as many as 90 days.
+[Contact Client Care or your Adobe consultant](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C) to extend the profile lifetime at no additional cost. The lifetime can be set to as many as 90 days.
 
 The [!DNL Target] JavaScript library you are using ( [!DNL at.js] or [!DNL mbox.js]) determines whether or not you need to download a new file:
 

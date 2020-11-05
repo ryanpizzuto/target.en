@@ -40,7 +40,7 @@ When creating a custom audience based on an mbox parameter, `mboxParameter` no l
 1. (Optional) Click **[!UICONTROL Add Rule]** and set up additional rules for the audience.
 1. Click **[!UICONTROL Save]**.
 
-The audience's [definition details pop-up card](../../../c-target/c-audiences/audiences.md#section_11B9C4A777E14D36BA1E925021945780) shows the parameter name in the Rules section. There is no reference to the mbox used for filtering.
+The audience's [definition details pop-up card](/help/c-target/c-audiences/audiences.md#section_11B9C4A777E14D36BA1E925021945780) shows the parameter name in the Rules section. There is no reference to the mbox used for filtering.
 
 >[!NOTE]
 >

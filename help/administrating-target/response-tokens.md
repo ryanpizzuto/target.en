@@ -29,7 +29,7 @@ A key difference between plug-ins and response tokens is that while plug-ins del
 
 1. Ensure that you are using [!DNL at.js] version 1.1 or later.
 
-   For more information, see [Download at.js](../c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/implementing-target-without-a-tag-manager.md#concept_1E1F958F9CCC4E35AD97581EFAF659E2). 
+   For more information, see [Download at.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/implementing-target-without-a-tag-manager.md#concept_1E1F958F9CCC4E35AD97581EFAF659E2). 
 
 1. In [!DNL Target], click **[!UICONTROL Administration]** > **[!UICONTROL Response Tokens]**.
 
@@ -106,7 +106,7 @@ The following instructions show how to add an [!DNL at.js] custom event handler 
    });
    ```
 
-You can add the following snippet to the library footer [at.js Setup page](../c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/implementing-target-without-a-tag-manager.md#concept_2FA0456607D04F82B0539C5BF5309812) if you want to have everything is a single file.
+You can add the following snippet to the library footer [at.js Setup page](/help/c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/implementing-target-without-a-tag-manager.md#concept_2FA0456607D04F82B0539C5BF5309812) if you want to have everything is a single file.
 
 ```
 document.addEventListener(adobe.target.event.REQUEST_SUCCEEDED, function(e) { 

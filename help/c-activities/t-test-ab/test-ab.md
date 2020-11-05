@@ -26,7 +26,7 @@ When you set up your A/B test, you can determine the percentage of visitors that
 
 >[!NOTE]
 >
->For detailed information about determining the optimum sample size for an A/B test, see [Plan Your A/B Test](../../c-activities/t-test-ab/sample-size-determination.md).
+>For detailed information about determining the optimum sample size for an A/B test, see [Plan Your A/B Test](/help/c-activities/t-test-ab/sample-size-determination.md).
 
 When the number of different experiences exceeds five and span two or more locations, it's a good idea to consider an [MVT test](/help/c-activities/c-multivariate-testing/multivariate-testing.md) before running your A/B tests. The multivariate test shows which areas on the page are most likely to improve conversion. These are the locations that a marketer should focus on. For example, the MVT test might show that the call to action is the most important location for meeting your goals. Once you have determine which locations and content are most useful for helping you meet your goals, you can then run an A/B test to further refine the results, such as to test two specific images against each other, or to compare the wording or colors of a call to action. By following an MVT test with one or more A/B tests, you can determine the best possible content for the results you desire.
 

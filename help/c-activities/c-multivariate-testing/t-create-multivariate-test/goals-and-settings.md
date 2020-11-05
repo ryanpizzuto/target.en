@@ -62,7 +62,7 @@ Specify whether data is collected from Adobe Target or from Adobe Analytics. See
 
 When selecting Analytics as the reporting source for Target, you select an Analytics report suite to receive Target activity data. To do this, first choose from any of the Analytics companies your account is tied to, and then select the appropriate report suite for the activity. Only report suites that are provisioned to connect to Adobe Target will be available for selection. If you don't see the report suite(s) you expect, first try logging out and logging back in to the Adobe Experience Cloud to try again. If the report suite is still missing from the list, please contact Customer Care.
 
-Analytics for Target requires a tracking server to report results correctly. A default tracking server will appear in the Tracking Server field. If you use more than one tracking server, you should check to ensure you include the correct tracking server in this field. See [Using an Analytics Tracking Server](../../../c-integrating-target-with-mac/a4t/analytics-tracking-server.md#task_72077BA7E93C4A65A715A18F32228823) for more information.
+Analytics for Target requires a tracking server to report results correctly. A default tracking server will appear in the Tracking Server field. If you use more than one tracking server, you should check to ensure you include the correct tracking server in this field. See [Using an Analytics Tracking Server](/help/c-integrating-target-with-mac/a4t/analytics-tracking-server.md#task_72077BA7E93C4A65A715A18F32228823) for more information.
 
 If a reporting solution is specified in your account settings, the specified solution is used and this setting is not visible.
 
@@ -135,7 +135,7 @@ There are three options for what happens after a visitor reaches the goal metric
 * Select Increment Count, Release User & Allow Reentry to specify the experience the user sees if they reenter the activity.
 * Select Increment Count, Release User & Bar from Reentry to specify what the user sees instead of the activity content.
 
-See [Success Metrics](../../../c-activities/r-success-metrics/success-metrics.md#reference_D011575C85DA48E989A244593D9B9924) for more information about advanced settings.
+See [Success Metrics](/help/c-activities/r-success-metrics/success-metrics.md#reference_D011575C85DA48E989A244593D9B9924) for more information about advanced settings.
 
 ## Other Metadata {#section_2E8917BEFB954480A4206B9E9E917F80}
 

@@ -13,7 +13,7 @@ This topic contains answers to questions that are frequently asked about activit
 
 ## Which activity types are support Analytics as the reporting source (A4T)? {#section_5E4F58CD25A5424E869E6FE0803968EF}
 
-For a full list, see "Supported Activity Types" in [Adobe Analytics as the Reporting Source for Adobe Target (A4T)](../../../c-integrating-target-with-mac/a4t/a4t.md#concept_7540C8C04259434AB6EE33B09F47A1DE).
+For a full list, see "Supported Activity Types" in [Adobe Analytics as the Reporting Source for Adobe Target (A4T)](/help/c-integrating-target-with-mac/a4t/a4t.md#concept_7540C8C04259434AB6EE33B09F47A1DE).
 
 ## I just created an activity. Why don't I see any data coming in? {#section_9F8092BE4225442896F926540292F221}
 

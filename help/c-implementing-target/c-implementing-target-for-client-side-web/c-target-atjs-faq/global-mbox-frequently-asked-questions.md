@@ -15,7 +15,7 @@ List of Frequently Asked Questions (FAQs) about global mboxes.
 
 Only one global mbox is supported across your account.
 
-You can limit where your activities run by adding URL rules to your activities. For more information, see [Include the Same Experience on Similar Pages](../../../c-experiences/c-visual-experience-composer/temtest.md#task_2539D51A18044F82B0D9895636546781).
+You can limit where your activities run by adding URL rules to your activities. For more information, see [Include the Same Experience on Similar Pages](/help/c-experiences/c-visual-experience-composer/temtest.md#task_2539D51A18044F82B0D9895636546781).
 
 You could also pass a parameter on the page using [targetPageParams](/help/c-implementing-target/c-implementing-target-for-client-side-web/targetpageparams.md) and then select those parameters in the "configure URL" section in the [!UICONTROL Visual Experience Composer] (VEC) or by adding the parameters as "refinements" in the Form-Based Experience Composer.
 
@@ -23,9 +23,9 @@ You could also pass a parameter on the page using [targetPageParams](/help/c-imp
 
 To collect revenue and order information on the target-global-mbox, "mbox parameters" must be sent to Target. These parameters are name/value pairs used to send more information to Target. Target automatically looks for these parameters (reserved names) to populate revenue data.
 
-For the `orderConfirmPage`, you should pass in `orderTotal`, `orderId`, and `productPurchasedId`. For more information, see [Create an Order Confirmation mbox - mbox.js](../../../c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/orderconfirm-create.md#task_0036D5F6C062442788BB55E872816D82).
+For the `orderConfirmPage`, you should pass in `orderTotal`, `orderId`, and `productPurchasedId`. For more information, see [Create an Order Confirmation mbox - mbox.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/orderconfirm-create.md#task_0036D5F6C062442788BB55E872816D82).
 
-These same parameters must be sent to the target-global-mbox via `targetPageParams()`. For more information, see [Passing Parameters to a Global mbox](../../../c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-understanding-global-mbox/pass-parameters-to-global-mbox.md#concept_33362A04146C4E3C8E7089B65F38B5E5).
+These same parameters must be sent to the target-global-mbox via `targetPageParams()`. For more information, see [Passing Parameters to a Global mbox](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-understanding-global-mbox/pass-parameters-to-global-mbox.md#concept_33362A04146C4E3C8E7089B65F38B5E5).
 
 You'll also want to add targeting to the conversion piece so that Target only counts conversions on the target-global-mbox when the order confirmation page has been viewed, as shown below:
 

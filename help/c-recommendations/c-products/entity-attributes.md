@@ -40,13 +40,13 @@ mboxCreate('productPage',
  
 'entity.categoryId=BASEBALL, GIANTS, SF BAY AREA', 
  
-'entity.pageUrl=../baseball/giants-tix/giantsvrockies5.12.2000-67833', 
+'entity.pageUrl=/help/baseball/giants-tix/giantsvrockies5.12.2000-67833', 
  
 'entity.venue=AT&T PARK', 
  
 'entity.secondary=ROCKIES', 
  
-'entity.thumbnailUrl=../baseball/giants-tix/giants-136px.gif', 
+'entity.thumbnailUrl=/help/baseball/giants-tix/giants-136px.gif', 
  
 'entity.message=FAMILY SPECIAL', 
  
@@ -219,4 +219,4 @@ mboxCreate('myMbox',  'profile.geo.city = new york', 'profile.geo.state = new yo
 
 ## Related topics:
 
-* [Custom Entity Attributes](../../c-recommendations/c-products/custom-entity-attributes.md#concept_E5CF39BCAC8140309A73828706288322)
+* [Custom Entity Attributes](/help/c-recommendations/c-products/custom-entity-attributes.md#concept_E5CF39BCAC8140309A73828706288322)

@@ -42,7 +42,7 @@ After receiving the invitation to join the [!DNL Adobe Experience Cloud], accept
    At this point, you do not yet have any groups set up with entitlements for you to link. 
 1. If desired, watch the video introducing you to the [!DNL Adobe Experience Cloud].
 1. To see your new privileges and access the product, sign out of [!DNL Adobe Experience Cloud], then sign back in.
-1. Continue to the next step, [assigning yourself the Approver role](../administrating-target/start-target.md#task_15CAA437A71444E2932B333D5E66A3C7).
+1. Continue to the next step, [assigning yourself the Approver role](/help/administrating-target/start-target.md#task_15CAA437A71444E2932B333D5E66A3C7).
 
 ## Assign yourself the Approver role {#task_15CAA437A71444E2932B333D5E66A3C7}
 

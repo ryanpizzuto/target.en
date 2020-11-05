@@ -73,7 +73,7 @@ Use the Target Visual Experience Composer (VEC) to create a Recommendations acti
 
    >[!NOTE]
    >
-   >Not every criteria will run correctly on every page. The page or mbox must pass in `entity.id` or `entity.categoryId` for current item/current category recommendations to be compatible. In general, it is best to show only compatible criteria. However, if you want incompatible criteria to be available for the activity, clear the **[!UICONTROL Compatible]** check box. The [!UICONTROL Compatible] option might not display, depending on your Recommendations settings ( **[!UICONTROL Recommendations]** > **[!UICONTROL Settings]** > **[!UICONTROL Filter Incompatible Criteria]**). For more information, see [Settings](../../c-recommendations/plan-implement.md#concept_C1E1E2351413468692D6C21145EF0B84).
+   >Not every criteria will run correctly on every page. The page or mbox must pass in `entity.id` or `entity.categoryId` for current item/current category recommendations to be compatible. In general, it is best to show only compatible criteria. However, if you want incompatible criteria to be available for the activity, clear the **[!UICONTROL Compatible]** check box. The [!UICONTROL Compatible] option might not display, depending on your Recommendations settings ( **[!UICONTROL Recommendations]** > **[!UICONTROL Settings]** > **[!UICONTROL Filter Incompatible Criteria]**). For more information, see [Settings](/help/c-recommendations/plan-implement.md#concept_C1E1E2351413468692D6C21145EF0B84).
 
    ![Select Criteria dialog box](/help/c-recommendations/t-create-recs-activity/assets/SCRN_SelectCriteria2.png)
 
@@ -83,13 +83,13 @@ Use the Target Visual Experience Composer (VEC) to create a Recommendations acti
 
      Some criteria are supplied with [!DNL Recommendations]. You and your team can also create your own custom criteria. 
 
-   * To create a new criteria, click **[!UICONTROL Create Criteria]** > **[!UICONTROL Create Criteria]**, then fill in the information for the new criteria. For information about creating new criteria, see [Creating Criteria](../../c-recommendations/c-algorithms/create-new-algorithm.md). 
+   * To create a new criteria, click **[!UICONTROL Create Criteria]** > **[!UICONTROL Create Criteria]**, then fill in the information for the new criteria. For information about creating new criteria, see [Creating Criteria](/help/c-recommendations/c-algorithms/create-new-algorithm.md). 
    * You can also group criteria into sequences. To create a new criteria sequence, click **[!UICONTROL Create Criteria]** > **[!UICONTROL Create Criteria Sequence]**. See [Create Criteria Sequence](/help/c-recommendations/c-algorithms/create-criteria-sequence.md) for more information.
 
 1. Click **[!UICONTROL Next]**.
 1. Select a [design](/help/c-recommendations/c-design-overview/design-overview.md).
 
-   A design is a template that determines the look of the locations on your page. [!DNL Target] includes several pre-configured designs. You can also create your own custom designs. For more information, see [Create a Design](../../c-recommendations/c-design-overview/create-design.md#task_CC5BD28C364742218C1ACAF0D45E0E14) and [Customizing a Design](../../c-recommendations/c-design-overview/customizing-a-template.md#concept_94F1554C3F2E4CDB9A2C3D78F10EDA59).
+   A design is a template that determines the look of the locations on your page. [!DNL Target] includes several pre-configured designs. You can also create your own custom designs. For more information, see [Create a Design](/help/c-recommendations/c-design-overview/create-design.md#task_CC5BD28C364742218C1ACAF0D45E0E14) and [Customizing a Design](/help/c-recommendations/c-design-overview/customizing-a-template.md#concept_94F1554C3F2E4CDB9A2C3D78F10EDA59).
 
    ![Select Design dialog box](/help/c-recommendations/t-create-recs-activity/assets/Card_SelectDesign.png)
 
@@ -99,11 +99,11 @@ Use the Target Visual Experience Composer (VEC) to create a Recommendations acti
 
      If you selected multiple criteria, you can select only one design. 
 
-   * To create a custom design, click **[!UICONTROL Create Design]**, then fill in the name and code for the new design. Click **[!UICONTROL Next]**, then select or upload an image and click **[!UICONTROL Done]** > **[!UICONTROL Done]**. For information about creating a new design, see [Create a Design](../../c-recommendations/c-design-overview/create-design.md#task_CC5BD28C364742218C1ACAF0D45E0E14).
+   * To create a custom design, click **[!UICONTROL Create Design]**, then fill in the name and code for the new design. Click **[!UICONTROL Next]**, then select or upload an image and click **[!UICONTROL Done]** > **[!UICONTROL Done]**. For information about creating a new design, see [Create a Design](/help/c-recommendations/c-design-overview/create-design.md#task_CC5BD28C364742218C1ACAF0D45E0E14).
 
 1. Click **[!UICONTROL Next]**.
 
-   You have the option to add promotions to your recommendations. For more information about adding front and back promotions, see [Adding Promotions](../../c-recommendations/t-create-recs-activity/adding-promotions.md#task_CC5BD28C364742218C1ACAF0D45E0E14).
+   You have the option to add promotions to your recommendations. For more information about adding front and back promotions, see [Adding Promotions](/help/c-recommendations/t-create-recs-activity/adding-promotions.md#task_CC5BD28C364742218C1ACAF0D45E0E14).
 
 1. Click **[!UICONTROL Save]**.
 
@@ -129,7 +129,7 @@ Use the Target Visual Experience Composer (VEC) to create a Recommendations acti
 
      >[!NOTE]
      >
-     >In addition to selecting an existing audience, you can [create an activity-only audience](../../c-target/creating-activity-only-audience.md#concept_A6BADCF530ED4AE1852E677FEBE68483) or [combine multiple audiences](../../c-target/combining-multiple-audiences.md#concept_A7386F1EA4394BD2AB72399C225981E5) to create ad hoc audiences rather than creating a new audience.
+     >In addition to selecting an existing audience, you can [create an activity-only audience](/help/c-target/creating-activity-only-audience.md#concept_A6BADCF530ED4AE1852E677FEBE68483) or [combine multiple audiences](/help/c-target/combining-multiple-audiences.md#concept_A7386F1EA4394BD2AB72399C225981E5) to create ad hoc audiences rather than creating a new audience.
 
      By default, all users see the recommendations. However, you can target recommendation to a specific audience.
 
@@ -144,7 +144,7 @@ Use the Target Visual Experience Composer (VEC) to create a Recommendations acti
 1. Click **[!UICONTROL Next]** when finished.
 1. Specify your activity settings.
 
-   For example, type a name (required) and objective (optional) for the activity. For information about the settings, see [Recommendations Activity Settings](../../c-recommendations/t-create-recs-activity/recs-activity-settings.md#reference_3FDA8388CEEC4159949151C1829E2FBB).
+   For example, type a name (required) and objective (optional) for the activity. For information about the settings, see [Recommendations Activity Settings](/help/c-recommendations/t-create-recs-activity/recs-activity-settings.md#reference_3FDA8388CEEC4159949151C1829E2FBB).
 
    >[!NOTE]
    >

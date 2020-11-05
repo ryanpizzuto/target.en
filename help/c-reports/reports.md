@@ -38,8 +38,8 @@ Reports provide information about the progress and results of your [!DNL Adobe T
    >
    >Experience results appear after at least one entrant has seen the experience.
 
-1. (Optional) [Configure the report](../c-reports/c-report-settings/report-settings.md#concept_4BB6A7FDAB6F4806A632F9CD989B8BFA), as desired. 
-1. (Optional) [Download the report in CSV format](../c-reports/downloading-data-in-csv-file.md#concept_3F276FF2BBB2499388F97451D6DE2E75) for analysis in Excel and other tools.
+1. (Optional) [Configure the report](/help/c-reports/c-report-settings/report-settings.md#concept_4BB6A7FDAB6F4806A632F9CD989B8BFA), as desired. 
+1. (Optional) [Download the report in CSV format](/help/c-reports/downloading-data-in-csv-file.md#concept_3F276FF2BBB2499388F97451D6DE2E75) for analysis in Excel and other tools.
 
    The following options are available:
 
@@ -75,4 +75,4 @@ In addition to the general reporting information in this topic and its subtopics
 
 You can block visitors from specified IP addresses from being counted in reports. This is helpful, for example, to block reporting data from your internal visitors.
 
-[Contact Client Care](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C) to set up IP filters. This filtering does not apply when using [Analytics for Target](../c-integrating-target-with-mac/a4t/a4t.md#concept_7540C8C04259434AB6EE33B09F47A1DE) (A4T) as your reporting source.
+[Contact Client Care](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C) to set up IP filters. This filtering does not apply when using [Analytics for Target](/help/c-integrating-target-with-mac/a4t/a4t.md#concept_7540C8C04259434AB6EE33B09F47A1DE) (A4T) as your reporting source.

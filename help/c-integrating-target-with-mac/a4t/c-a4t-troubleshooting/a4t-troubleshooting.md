@@ -26,7 +26,7 @@ There are several reasons why this could happen:
 
 * The classification call from [!DNL Target] to [!DNL Analytics] failed.
 
-  [Contact Customer Care](../../../cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C) for assistance.
+  [Contact Customer Care](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C) for assistance.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ There are several reasons why this could happen:
 
 ## My Analytics data shows an inflated visit or visitor count since starting A4T. {#section_4BE374E573D44FB7918611699B74F58E}
 
-For more information, see [Minimizing Inflated Visit and Visitor Counts in A4T](../../../c-integrating-target-with-mac/a4t/c-a4t-troubleshooting/minimizing-inflated-visit-and-visitor-counts-a4t.md#concept_A515C2DE126E44B6AD97754C2C6D5235).
+For more information, see [Minimizing Inflated Visit and Visitor Counts in A4T](/help/c-integrating-target-with-mac/a4t/c-a4t-troubleshooting/minimizing-inflated-visit-and-visitor-counts-a4t.md#concept_A515C2DE126E44B6AD97754C2C6D5235).
 
 ## Estimated lift in revenue metric does not show correct data. {#section_35D766E5E4D347C39E15D08AA883FBB0}
 
@@ -44,7 +44,7 @@ Lift and confidence details are not available in Analytics. They are, however, a
 
 ## Activities do not appear in Analytics reports. {#section_F7001EB4670F4B3497CC7DA60BBDA6D5}
 
-A4T activities require an analytics tracking server to be specified. See [Using an Analytics Tracking Server](../../../c-integrating-target-with-mac/a4t/analytics-tracking-server.md#task_72077BA7E93C4A65A715A18F32228823) to make sure your Analytics Tracking Server is set up correctly.
+A4T activities require an analytics tracking server to be specified. See [Using an Analytics Tracking Server](/help/c-integrating-target-with-mac/a4t/analytics-tracking-server.md#task_72077BA7E93C4A65A715A18F32228823) to make sure your Analytics Tracking Server is set up correctly.
 
 >[!NOTE]
 >
@@ -87,4 +87,4 @@ If you have not installed the debugger, see [Introduction to the Adobe Experienc
 
 If there is no supplemental data ID in the [!DNL Target] call, confirm that the [!DNL VisitorAPI.js] file is loaded before [!DNL at.js] or [!DNL mbox.js]. If there is no supplemental data ID in the [!DNL Analytics] call, confirm that the [!DNL Target] call fires before the [!DNL Analytics] call.
 
-For more information, see [Analytics for Target Implementation](../../../c-integrating-target-with-mac/a4t/a4timplementation.md#concept_CE78750AC2A4487D8ACD9369B3EAC85A) or contact [Customer Care](../../../cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C).
+For more information, see [Analytics for Target Implementation](/help/c-integrating-target-with-mac/a4t/a4timplementation.md#concept_CE78750AC2A4487D8ACD9369B3EAC85A) or contact [Customer Care](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C).

@@ -17,7 +17,7 @@ Information about creating inclusion rules for criteria and promotions in [!DNL 
 
 ## Adding Filtering Rules to Criteria {#section_CD0D74B8D3BE4A75A78C36CF24A8C57F}
 
-While you are [creating criteria](../../c-recommendations/c-algorithms/create-new-algorithm.md#task_8A9CB465F28D44899F69F38AD27352FE), click **[!UICONTROL Add Filtering Rule]** under **[!UICONTROL Inclusion Rules]**.
+While you are [creating criteria](/help/c-recommendations/c-algorithms/create-new-algorithm.md#task_8A9CB465F28D44899F69F38AD27352FE), click **[!UICONTROL Add Filtering Rule]** under **[!UICONTROL Inclusion Rules]**.
 
 ![](assets/inclusion_options_new.png)
 
@@ -25,7 +25,7 @@ The available options vary depending on the selected industry vertical and recom
 
 ## Adding Filtering Rules to Promotions {#section_D59AFB62E2EE423086281CF5D18B1076}
 
-While [creating a promotion](../../c-recommendations/t-create-recs-activity/adding-promotions.md#task_CC5BD28C364742218C1ACAF0D45E0E14), select **[!UICONTROL Promote by Attribute]**, then click **[!UICONTROL Add Filtering Rule]**.
+While [creating a promotion](/help/c-recommendations/t-create-recs-activity/adding-promotions.md#task_CC5BD28C364742218C1ACAF0D45E0E14), select **[!UICONTROL Promote by Attribute]**, then click **[!UICONTROL Add Filtering Rule]**.
 
 ![](assets/inclusion_options.png)
 

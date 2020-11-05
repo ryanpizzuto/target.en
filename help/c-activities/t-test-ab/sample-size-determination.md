@@ -14,7 +14,7 @@ It is tempting to stop an activity if one of the offers performs much better or 
 
 >[!IMPORTANT]
 >
->Stopping an activity prematurely is one of the ten significant pitfalls that you might fall prey to when performing A/B testing. For more information, see [Ten common A/B testing pitfalls and how to avoid them](../../c-activities/t-test-ab/common-ab-testing-pitfalls.md#concept_578A7947C9554868B30F12DFF9E3F8E3).
+>Stopping an activity prematurely is one of the ten significant pitfalls that you might fall prey to when performing A/B testing. For more information, see [Ten common A/B testing pitfalls and how to avoid them](/help/c-activities/t-test-ab/common-ab-testing-pitfalls.md#concept_578A7947C9554868B30F12DFF9E3F8E3).
 
 [!DNL Target] provides tools to help ensure that your activity has a large enough sample size to achieve your conversion goals: Auto-Allocate.
 
@@ -30,7 +30,7 @@ The solution is [!UICONTROL Auto-Allocate]. [!UICONTROL Auto-Allocate] reduces t
 
 When using the [!UICONTROL Auto-Allocate] feature, [!DNL Target] displays a badge at the top of the activity's page indicating "No Winner Yet" until the activity reaches the minimum number of conversions with sufficient confidence. [!DNL Target] then declares the winning experience by displaying a badge at the top of the activity's page.
 
-For more information, see [Auto-Allocate overview](../../c-activities/automated-traffic-allocation/automated-traffic-allocation.md).
+For more information, see [Auto-Allocate overview](/help/c-activities/automated-traffic-allocation/automated-traffic-allocation.md).
 
 ## Adobe Target Sample Size Calculator {#section_6B8725BD704C4AFE939EF2A6B6E834E6}
 
