@@ -3,7 +3,6 @@ keywords: Targeting;AP reports;automated personalization reports;auto-target;aut
 description: Two specialized reports are available to users of Automated Personalization (AP) and Auto-Target (AT) activities  the Automated Segments and Important Attributes reports.
 title: Personalization Insights reports
 feature: reports
-uuid: 2507a7a6-d229-412a-a992-5777b45c80e7
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Personalization Insights reports{#personalization-insights-reports}

@@ -4,8 +4,6 @@ description: Use Adobe Target audiences to target users based on their geographi
 title: Geo options in Adobe Target audiences
 feature: audiences
 solution: Target,Analytics
-topic: Reports and analytics
-uuid: d30cda0e-016e-4391-95b7-ff3b55e06bf0
 ---
 
 # Geo{#geo}

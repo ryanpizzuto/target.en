@@ -3,8 +3,6 @@ keywords: audience;audience rules;create audience;creating audience;targeting au
 description: Audiences in Adobe Target determine who will see content and experiences in a targeted activity.
 title: Create audiences in Adobe Target
 feature: audiences
-topic: Advanced,Standard,Classic
-uuid: 994eed40-11ca-460e-827c-75a4db8a942d
 ---
 
 # Create audiences{#create-audiences}

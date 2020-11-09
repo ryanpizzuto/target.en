@@ -3,8 +3,6 @@ keywords: mbox.js faq;mbox.js frequently asked questions;document.write;tt.omtrd
 description: Answers to frequently asked questions about mbox.js.
 title: mbox.js Frequently Asked Questions
 feature: 
-subtopic: Getting Started
-uuid: af3105ab-87d9-4dbf-a380-b72788928958
 ---
 
 # mbox.js Frequently Asked Questions{#mbox-js-frequently-asked-questions}

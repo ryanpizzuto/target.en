@@ -3,8 +3,6 @@ keywords: troubleshoot target;troubleshooting target;default content;test not li
 description: If your activity does not appear on your site, these troubleshooting suggestions should help you find your solution.
 title: Troubleshoot activities
 feature: activities
-topic: Advanced,Standard,Classic
-uuid: 5b22c369-0efc-48c0-a0dc-0179b18536fe
 ---
 
 # Troubleshoot activities{#troubleshoot-activities}

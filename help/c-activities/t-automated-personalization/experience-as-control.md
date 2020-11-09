@@ -4,7 +4,6 @@ description: Select an experience to be used as control while creating an Automa
 title: Use a specific experience as control in Adobe Target
 feature: ap
 solution: Target,Analytics
-uuid: c67901d2-19cd-47d3-b8c4-abdcb046f404
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Select the control for your Automated Personalization or Auto-Target activity

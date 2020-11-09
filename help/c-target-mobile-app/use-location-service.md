@@ -3,7 +3,6 @@ keywords: mobile app;mobile app location;target mobile app;mobile target locatio
 description: This topic is an overview of how to use Adobe Experience Platform Location Service in Adobe Target.
 title: Use Location Service
 feature: mobile implementation 
-topic: Target
 ---
 
 # Use Location Service

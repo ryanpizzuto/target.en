@@ -4,7 +4,6 @@ description: Use metrics in an A/B activity to determine when a visit is success
 title: Set metrics
 feature: ab
 solution: Target
-uuid: 57f84da4-10f9-42f3-b9ce-06cf41007157
 ---
 
 # Set metrics{#set-metrics}

@@ -3,8 +3,6 @@ keywords: api;adobe i/o
 description: Information to help you use transition from the Target legacy APIs to the new APIs on Adobe I/O.
 title: Transition from Target legacy APIs to Adobe I/O
 feature: server-side
-topic: Standard
-uuid: f8a0ab54-5840-4430-b9be-19e689b1c09a
 ---
 
 # Transition from Target legacy APIs to Adobe I/O{#transition-from-target-legacy-apis-to-adobe-i-o}

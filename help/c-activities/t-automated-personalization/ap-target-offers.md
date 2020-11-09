@@ -3,7 +3,6 @@ description: In an Automated Personalization activity, you can target offers to 
 title: Target Automated Personalization offers
 feature: ap
 solution: Target,Analytics
-uuid: 4ee30e1a-bfda-4b20-9313-99e32dcf60ac
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Target Automated Personalization offers{#target-automated-personalization-offers}

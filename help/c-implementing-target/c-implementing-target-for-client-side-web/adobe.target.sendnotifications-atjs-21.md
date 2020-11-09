@@ -3,8 +3,6 @@ keywords: adobe.target.sendNotifications;sendNotifications;sendnotifications;sen
 description: Information about the adobe.target.sendNotifications(options) function for the Adobe Target at.js JavaScript library.
 title: adobe.target.sendNotifications(options)
 feature: client-side
-subtopic: Getting Started
-topic: Standard
 ---
 
 # adobe.target.sendNotifications(options)

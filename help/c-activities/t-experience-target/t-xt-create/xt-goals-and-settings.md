@@ -3,8 +3,6 @@ keywords: activity settings;experience targeting goals and settings;xt goals and
 description: The Goals and Settings page is where you enter information about the goals of the test.
 title: Goals and Settings
 feature: xt 
-topic: Standard
-uuid: e8cd1881-9b08-4c90-b2fc-ec60fee17697
 ---
 
 # Goals and Settings{#goals-and-settings}

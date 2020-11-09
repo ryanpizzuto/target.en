@@ -3,8 +3,6 @@ keywords: partial data;partial-data;A4T;discrepancies;analytics for target;orpha
 description: Information to help you minimize the effects of inflated Visit and Visitor counts when using Analytics as a reporting source.
 title: Minimizing inflated visit and visitor counts in A4T
 feature: a4t troubleshooting
-topic: Standard
-uuid: 1d5f242a-634f-47f7-ad23-b62019359734
 ---
 
 # Minimizing inflated visit and visitor counts in A4T{#minimizing-inflated-visit-and-visitor-counts-in-a-t}

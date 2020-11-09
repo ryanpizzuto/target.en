@@ -3,8 +3,6 @@ keywords: mboxDefine;mboxdefine;mbox define;mboxUpdate;mboxupdate;mbox update;at
 description: Information about the mboxDefine() and mboxUpdate() functions for the Adobe Target at.js JavaScript library.
 title: mboxDefine() and mboxUpdate() - at.js 1.x
 feature: client-side
-subtopic: Getting Started
-topic: Standard
 ---
 
 # mboxDefine() and mboxUpdate() - at.js 1.x

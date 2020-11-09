@@ -3,8 +3,6 @@ keywords: activity settings;mvt goals and settings;multivariate goals and settin
 description: The Goals and Settings page is where you enter information about the goals of the test.
 title: Goals and settings
 feature: mvt
-topic: Standard
-uuid: 710c64bf-aa28-412e-a933-3845892f457e
 ---
 
 # Goals and settings{#goals-and-settings}

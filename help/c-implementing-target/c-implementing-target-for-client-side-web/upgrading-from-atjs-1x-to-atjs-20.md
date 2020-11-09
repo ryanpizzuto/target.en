@@ -3,8 +3,6 @@ keywords: at.js releases;at.js versions;single page app;spa;cross domain;cross-d
 description: Detailed information about how to upgrade from Adobe Target at.js 1.*x* to at.js version 2.0.0
 title: Upgrade from Adobe Target at.js version 1.*x* to at.js version 2.*x*
 feature: client-side
-subtopic: Getting Started
-uuid: 3586af55-db15-4e68-90a7-d552338ec5e8
 ---
 
 # Upgrading from at.js 1.*x* to at.js 2.*x* {#upgrading-from-atjs-1x-to-atjs-200}

@@ -3,8 +3,6 @@ keywords: mboxCreate;mboxcreate;mbox create;at.js;functions;function
 description: Information about the mboxCreate(mbox,params) function for the Adobe Target at.js JavaScript library.
 title: mboxCreate(mbox,params) - at.js 1.x
 feature: client-side
-subtopic: Getting Started
-topic: Standard
 ---
 
 # mboxCreate(mbox,params) - at.js 1.x {#reference_E68805FE86C64792B2066DB17B253D74}

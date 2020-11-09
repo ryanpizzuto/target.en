@@ -3,8 +3,6 @@ keywords: at.js faq;at.js frequently asked questions;faq;flicker;loader;page loa
 description: Answers to frequently asked questions about the Adobe Target at.js JavaScript library.
 title: Adobe Target at.js Frequently Asked Questions
 feature: client-side
-subtopic: Getting Started
-uuid: 1fcd3984-7c6d-4619-953e-3e28eb0d015a
 ---
 
 # at.js Frequently Asked Questions{#at-js-frequently-asked-questions}

@@ -3,7 +3,6 @@ keywords: responsive;mobile viewports;viewport;devices;mobile;responsive web des
 description: Mobile viewports help you preview how your Adobe Target activities appear on screens of various sizes.
 title: Mobile Viewports for responsive experiences
 feature: vec
-uuid: 86a74584-4a4d-428b-9d29-f7ebdf0cef2a
 ---
 
 # Mobile Viewports for responsive experiences{#mobile-viewports-for-responsive-experiences}

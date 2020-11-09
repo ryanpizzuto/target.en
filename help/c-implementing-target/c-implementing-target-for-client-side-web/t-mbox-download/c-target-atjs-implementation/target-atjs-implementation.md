@@ -3,8 +3,6 @@ keywords: Target Standard;at.js;implementation
 description: The at.js library is a new implementation library for Adobe Target designed for both typical web implementations and single-page applications.
 title: Migrate from mbox.js to at.js
 feature: 
-topic: Standard
-uuid: 10da01d7-d308-44e3-9c6e-ff4f713bd312
 ---
 
 # Migrate from mbox.js to at.js{#migrate-from-mbox-js-to-at-js}

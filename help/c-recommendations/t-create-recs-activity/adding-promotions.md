@@ -3,7 +3,6 @@ keywords: promotions;front promotions;back promotions;promotions type
 description: Add promoted items and control their placement in your Adobe Target Recommendations designs. You can add static and dynamic promotions.
 title: Add promotions in Adobe Target Recommendations designs.
 feature: recs creation
-uuid: 732bf2c2-0cc7-4d5d-9919-9fe668344d39
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Add promotions{#add-promotions}

@@ -3,8 +3,6 @@ keywords: Targeting;target operating system;operating system;target os;os;target
 description: You can target visitors who use a certain operating system.
 title: Operating System options in Adobe Target audiences
 feature: audiences
-topic: Classic
-uuid: 79cebc00-80c7-4e32-8b26-ece7007751a4
 ---
 
 # Operating System{#operating-system}

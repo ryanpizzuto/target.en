@@ -3,8 +3,6 @@ keywords: revenue lift;revenue;estimating lift in revenue;calculate lift;estimat
 description: Target can estimate the revenue lift you would attain if all users view the winning experience.
 title: Estimate lift in revenue
 feature: administration general
-topic: Advanced,Standard,Classic
-uuid: e3ccb440-ce54-4a5a-be93-69a6162a160f
 ---
 
 # Estimate lift in revenue{#estimate-lift-in-revenue}

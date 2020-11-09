@@ -3,7 +3,6 @@ keywords: content;assets;manage content;offers;manage assets;enter selection mod
 description: Use the Offers library to manage your code offer and image offer content.
 title: Offers
 feature: offers
-uuid: 925b930a-1fa9-41a3-a11b-f5241dab7725
 ---
 
 # Offers{#offers}

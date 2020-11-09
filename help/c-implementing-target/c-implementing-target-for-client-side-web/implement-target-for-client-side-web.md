@@ -2,8 +2,6 @@
 description: Information about implementing Adobe Target for client-side web.
 title: Implement Adobe Target for client-side web
 feature: client-side
-topic: Standard
-uuid: 8ed04881-3dd9-496f-9c9c-feb9c740ed80
 ---
 
 # Overview: implement Target for client-side web

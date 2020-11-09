@@ -3,8 +3,6 @@ keywords: flicker;at.js;implementation;asynchronously;asynchronous;synchronously
 description: Information about how the Adobe Target at.js JavaScript library prevents flicker during page or app load.
 title: How Adobe Target at.js manages flicker
 feature: client-side
-topic: Standard
-uuid: 65f67c4a-a931-4e0d-80d9-29ab67b62573
 ---
 
 # How at.js manages flicker{#how-at-js-manages-flicker}

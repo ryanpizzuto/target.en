@@ -3,8 +3,6 @@ keywords: faq;frequently asked questions;analytics for target;a4T;activity setup
 description: This topic contains answers to questions that are frequently asked about activity setup and using Analytics as the reporting source for Target (A4T).
 title: Activity settings - A4T FAQ
 feature: a4t troubleshooting
-topic: Standard
-uuid: 3472ab3c-908b-40f8-81a6-512dccde64a6
 ---
 
 # Activity settings - A4T FAQ{#activity-settings-a-t-faq}

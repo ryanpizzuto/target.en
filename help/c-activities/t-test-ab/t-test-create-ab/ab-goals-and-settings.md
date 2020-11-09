@@ -3,7 +3,6 @@ keywords: activity settings;A/B goals and settings;reporting settings;goal metri
 description: The Goals and Settings page is where you enter information about the goals of the test.
 title: Goals and settings
 feature: ab
-uuid: 46d02e39-0c19-4da8-bdd8-48acb708831b
 snippet: y
 ---
 

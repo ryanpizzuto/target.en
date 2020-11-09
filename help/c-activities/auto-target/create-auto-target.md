@@ -3,8 +3,6 @@ keywords: Create auto-target;A/B test;auto-target activity;new a/b activity;auto
 description: Use the Visual Experience Composer in Adobe Target to create your Auto-Allocate A/B Test activity directly on a Target-enabled page and to modify portions of the page within Target.
 title: Create an Auto-Target activity
 feature: ab
-topic: Advanced,Standard,Classic
-uuid: 2a255cf9-91c7-4710-bfd7-a4d8797ef24c
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Create an Auto-Target activity

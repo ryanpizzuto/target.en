@@ -3,7 +3,6 @@ keywords: IP address;IP addresses;whitelist;allowlist;firewall;recs;feed;servers
 description: List of IP addresses used in Recommendations feed-processing servers located in the Oregon data center to help you configure your firewall to allow IP addresses originating from Adobe servers.
 title: IP addresses used by Recommendations feed-processing servers
 feature: reference general
-uuid: 8e1943b6-274c-4347-8f4b-7ac108845926
 ---
 
 # ![PREMIUM](/help/assets/premium.png) IP addresses used by Recommendations feed-processing servers{#ip-addresses-used-by-recommendations-feed-processing-servers}

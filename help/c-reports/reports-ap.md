@@ -3,7 +3,6 @@ keywords: Targeting;AP reports;automated personalization reports;activity level 
 description: Specialized reports are available to users of Automated Personalization activities in Adobe Target.
 title: Automated Personalization Summary reports
 feature: reports
-uuid: 959b6814-9686-4741-8a79-5957e64f6209
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Automated Personalization Summary reports{#automated-personalization-summary-reports}

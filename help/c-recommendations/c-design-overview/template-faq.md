@@ -3,7 +3,6 @@ keywords: recommendations;frequently asked questions;faq
 description: List of frequently asked questions (FAQs) about Adobe Target recommendations designs.
 title: Design FAQ
 feature: designs
-uuid: ac222ade-ddd9-4b32-a16f-4d83b8766384
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Design FAQ {#design-faq}
