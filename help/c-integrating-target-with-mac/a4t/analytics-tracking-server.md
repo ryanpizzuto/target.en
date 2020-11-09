@@ -24,7 +24,7 @@ The debugger should be viewed on a page where the activity will be delivered to 
 
 1. From the page on which you are creating your activity, open the [!DNL Adobe Experience Platform Debugger].
 
-   If you have not installed the debugger, see [Introduction to the Adobe Experience Platform Debugger](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/web-sdk/introduction-to-the-experience-platform-debugger.html).
+   If you have not installed the debugger, see [Introduction to the Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/web-sdk/introduction-to-the-experience-platform-debugger.html).
 
    ![](assets/Screen_DebuggerTrackServ.png)
 

@@ -16,14 +16,14 @@ We’ve compiled an organized list of valuable information to help you gain even
 ## Resource links
 
 * **Setting up Adobe Target**: Information to help you administer [!DNL Adobe Target], including configuration settings for the [!UICONTROL Visual Experience Composer] (VEC), reporting, [!DNL Scene7] configuration, implementation, hosts, environments, response tokens, and users. See [Administer Target Overview](/help/administrating-target/administrating-target.md).
-* **Adobe Target Product Documentation**: Everything you need to know about Adobe Target. See the [Adobe Target product documentation](https://docs.adobe.com/content/help/en/target/using/target-home.html). 
+* **Adobe Target Product Documentation**: Everything you need to know about Adobe Target. See the [Adobe Target product documentation](https://experienceleague.adobe.com/docs/target/using/target-home.html). 
 * **Adobe Target API and SDK documentation**: Learn how to implement [!DNL Target] on Client-Side Applications, Server-Side Applications, Mobile Apps, IoT and more. Also, learn how to exchange your [!DNL Target] data with third-party solutions. See [Adobe Target API overview](/help/api/api-overview.md).
 * **Adobe Target Activities Guide**: Introduction to the different activities you can use in [!DNL Target]. See [Target activity types](/help/c-activities/target-activities-guide.md).
 * **Adobe Target Customer Care**: Stuck on an issue? Adobe Target users can email or call any time for support! See the [Target Enterprise Support page](https://helpx.adobe.com/contact/enterprise-support.ec.html#target).
 
 ## Training and enablement
 
-* **Adobe Target Tutorials**: Learn the basics or refine your skills. See the [Adobe Target Tutorials page](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html). 
+* **Adobe Target Tutorials**: Learn the basics or refine your skills. See the [Adobe Target Tutorials page](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html). 
 * **Adobe Target On-demand Training**: Explore the various Target courses we offer. See the [Adobe training and tutorials](https://helpx.adobe.com/learning.html?promoid=KAUDK) page.
 * **Adobe Target Videos:** Binge watch the [!DNL Target] videos to watch success stories and solution capabilities. See [Training videos for Adobe Target Standard and Premium](/help/c-intro/target-standard-premium-training-videos.md)
 * **Webinar Series**: Adobe Target Basics. Join our Customer Success webinar series that explores the basics of optimization with Adobe Target users. See [Target Basics Webinar Series](/help/cmp-resources-and-contact-information.md#concept_11902FAC95C64479AABE020557A7EEE4).

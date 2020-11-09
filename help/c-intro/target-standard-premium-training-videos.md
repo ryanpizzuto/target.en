@@ -33,6 +33,6 @@ A collection of how-to videos and tutorials highlighting the capabilities of Tar
 
 ## Adobe Target Tutorials {#tutorials}
 
-Video introductions to [!DNL Target] concepts and tools are available on  the [Adobe Target Tutorials](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html) page.
+Video introductions to [!DNL Target] concepts and tools are available on  the [Adobe Target Tutorials](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html) page.
 
 ![Adobe Target Tutorials](/help/c-intro/assets/adobe-target-tutorials-new.png)

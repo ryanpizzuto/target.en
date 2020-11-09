@@ -30,7 +30,7 @@ For more information, see [Organizations and account linking](https://docs.adobe
 
 You must be a member of one or more [!DNL Experience Cloud] groups that have access to [!DNL Analytics] and [!DNL Target].
 
-For more information, see [Manage Experience Cloud users and products](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
+For more information, see [Manage Experience Cloud users and products](https://experienceleague.adobe.com/docs/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
 ## Adobe Analytics {#section_8F404FDE9A634534AB0AA4CB3075582B}
 

@@ -56,7 +56,7 @@ The redirect offer executes JavaScript code to redirect the browser. It uses the
 
 This video includes information about managing content.
 
-* Connection between the [Experience Cloud Asset Library](https://docs.adobe.com/content/help/en/core-services/interface/assets/creative-cloud.html) and the Target Content Library 
+* Connection between the [Experience Cloud Asset Library](https://experienceleague.adobe.com/docs/core-services/interface/assets/creative-cloud.html) and the Target Content Library 
 * Custom HTML Offers 
 * Custom HTML Offer in the Visual Experience Composer
 

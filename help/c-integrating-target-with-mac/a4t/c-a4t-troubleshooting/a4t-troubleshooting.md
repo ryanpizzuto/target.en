@@ -81,7 +81,7 @@ Review your implementation, especially on pages where your visitors qualify for 
 
 The easiest way to examine the supplemental ID is by using the Adobe Experience Platform Debugger.
 
-If you have not installed the debugger, see [Introduction to the Adobe Experience Platform Debugger](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/web-sdk/introduction-to-the-experience-platform-debugger.html).
+If you have not installed the debugger, see [Introduction to the Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/web-sdk/introduction-to-the-experience-platform-debugger.html).
 
 ![Debugger](/help/c-integrating-target-with-mac/a4t/assets/debugger.png)
 

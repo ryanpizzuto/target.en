@@ -62,7 +62,7 @@ The following table shows you which activity types support [!DNL Analytics] as t
 |Multivariate test (MVT)|Yes|Requires mbox-based goal metric goal to get the [!UICONTROL Element Contribution] report.  The [!UICONTROL Element Contribution] report does not currently support [!DNL Analytics] metrics.|
 |Automated Personalization (AP) activity|No||
 |Recommendations activity|Yes||
-|Mobile App|Yes|Supported with the Mobile Services SDK, version 4.13.1 or later.  For more information, see the [Mobile Services documentation](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).|
+|Mobile App|Yes|Supported with the Mobile Services SDK, version 4.13.1 or later.  For more information, see the [Mobile Services documentation](https://experienceleague.adobe.com/docs/mobile-services/using/home.html).|
 |Email|No||
 |Server Side Delivery API|Yes|For more information, see [Server Side: implement Target](/help/c-implementing-target/c-api-and-sdk-overview/api-and-sdk-overview.md).|
 |NodeJS SDK|Yes|For more information, see [Server Side: implement Target](/help/c-implementing-target/c-api-and-sdk-overview/api-and-sdk-overview.md).|

@@ -26,7 +26,7 @@ You can pass in parameters to `target-global-mbox` using the `targetPageParams()
 * A JSON object
 * An ampersand-delimited list
 
-Use these three methods to verify that the parameters are being passed correctly. You might also be able to verify the passing of parameters using the [Adobe Experience Cloud Debugger](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html).
+Use these three methods to verify that the parameters are being passed correctly. You might also be able to verify the passing of parameters using the [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html).
 
 You must define the JavaScript function before adding the global mbox to the page. The name must be `targetPageParams`.
 

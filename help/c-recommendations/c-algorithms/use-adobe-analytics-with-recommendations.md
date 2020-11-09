@@ -42,7 +42,7 @@ A [!DNL Target Recommendations] sample feed format will act as guide on which al
 >
 >If it is a content site, the respective content pieces must be treated as "products" and associated attributes about that content (example: author name, publish date, content title, month of release, etc.) must be passed as attributes. Granularity of category level, or category types, should be decided by the business based on use-case requirements.
   
-For more details on how to set up product variables, see [products](https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/products.html) in the *Analytics Implementation Guide*. Some of the notes in that documentation need discretion of the team who is deploying it (example : Category). It is always advised to consult with Adobe before doing this activity.
+For more details on how to set up product variables, see [products](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/products.html) in the *Analytics Implementation Guide*. Some of the notes in that documentation need discretion of the team who is deploying it (example : Category). It is always advised to consult with Adobe before doing this activity.
 
 ### Considerations
 

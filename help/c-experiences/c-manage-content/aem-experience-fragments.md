@@ -70,7 +70,7 @@ Experience fragments are created in [!DNL AEM]. For more information, see:
 Depending on your [!DNL AEM] version, see the following links for step-by-step instructions:
 
 * **[!DNL AEM] 6.3**: [Exporting an Experience Fragment to Target](https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/experience-fragments-target.html) in the *Adobe Experience Manager 6.3* documentation.
-* **[!DNL AEM] 6.4**: [Exporting an Experience Fragment to Target](https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/experience-fragments-target.html) in the *Adobe Experience Manager 6.4* documentation.
+* **[!DNL AEM] 6.4**: [Exporting an Experience Fragment to Target](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/experience-fragments-target.html) in the *Adobe Experience Manager 6.4* documentation.
 * **[!DNL AEM] 6.5**: [Exporting an Experience Fragment to Target](https://helpx.adobe.com/experience-manager/6-5/sites/administering/using/experience-fragments-target.html) in the *Adobe Experience Manager 6.5* documentation.
 
 ## Using experience fragments in Target activities {#section_17CE4BE6B2B74CCEBAE0C68DEB84ABB9}
@@ -150,4 +150,4 @@ The following video shows you how to set up and use experience fragments:
 >
 >The [!DNL AEM] deeplink feature discussed at 4:54 has been removed.
 
-For more information, see [Using Experience Fragments with Adobe Target](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html) on the *AEM Sites Videos and Tutorials* page.
+For more information, see [Using Experience Fragments with Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html) on the *AEM Sites Videos and Tutorials* page.
