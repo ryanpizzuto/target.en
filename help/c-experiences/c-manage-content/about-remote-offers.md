@@ -3,8 +3,6 @@ keywords: remote offer;remote offer selection matrix;cached content;dynamic cont
 description: Use remote offers to host content outside of Target that Target references and delivers to users' websites. This content might be in a content management or other system, either for ease-of-use or for security reasons.
 title: Create remote offers
 feature: offers
-topic: Standard
-uuid: 5aaff281-e96c-41a6-849e-2c3b0e35f161
 ---
 
 # Create remote offers{#create-remote-offers}

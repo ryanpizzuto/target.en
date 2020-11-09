@@ -4,7 +4,6 @@ description: Manage exclusions by creating exclusion groups, excluding duplicate
 title: Manage exclusions
 feature: ap
 solution: Target,Analytics
-uuid: c67901d2-19cd-47d3-b8c4-abdcb046f404
 ---
 
 # ![Premium badge](/help/assets/premium.png) Manage exclusions{#manage-exclusions}

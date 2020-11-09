@@ -3,7 +3,6 @@ keywords: entity;entity attributes;pass information to Recommendations;behaviora
 description: Use entity attributes to pass product or content information to Adobe Target Recommendations.
 title: Entity attributes
 feature: entities
-uuid: 27672881-a79c-4271-9a61-defddb9a5249
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Entity attributes{#entity-attributes}

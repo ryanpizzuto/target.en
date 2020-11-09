@@ -3,8 +3,6 @@ keywords: serverstate;targetGlobalSettings;targetglobalsettings;globalSettings;g
 description: Information about the targetGlobalSettings() function for the Adobe Target at.js JavaScript library.
 title: targetGlobalSettings()
 feature: client-side
-subtopic: Getting Started
-topic: Standard
 ---
 
 # targetGlobalSettings()

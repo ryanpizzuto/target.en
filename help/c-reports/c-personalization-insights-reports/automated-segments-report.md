@@ -3,7 +3,6 @@ keywords: Targeting;AP reports;automated personalization reports;auto-target;aut
 description: Information about the Automated Segments report, one of the two specialized reports available to users of Automated Personalization (AP) and Auto-Target (AT) activities in Adobe Target.
 title: Automated Segments report
 feature: reports
-uuid: 3f736d7d-b305-438b-8320-2a54e4a9234f
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Automated Segments report{#automated-segments-report}

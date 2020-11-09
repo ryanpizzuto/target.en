@@ -2,8 +2,6 @@
 description: Delete your Target browser cookies so that you can validate all of your experiences.
 title: Delete the Adobe Target cookie
 feature: privacy and security
-topic: Standard
-uuid: 6e95ee4d-dbf2-4432-8abe-cfd9bc928f0c
 ---
 
 # Delete the Target cookie{#delete-the-target-cookie}

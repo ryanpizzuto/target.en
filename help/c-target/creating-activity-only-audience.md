@@ -3,8 +3,6 @@ keywords: audience;audience rules;create audience;creating audience;activity onl
 description: Create activity-only audiences from within the Adobe Target three-step guided workflow when creating an activity. These ad hoc audiences can be used in other places within the same activity, but are not stored in the Audiences Library for use in other activities.
 title: Create an activity-only audience in Adobe Target
 feature: audiences
-topic: Advanced,Standard,Classic
-uuid: 3d0898d0-96e8-4bc9-86bd-3ae39db0e74d
 ---
 
 # Create an activity-only audience{#create-an-activity-only-audience}

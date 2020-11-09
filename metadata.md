@@ -2,13 +2,8 @@
 cloud: experience-cloud
 product: target
 solution: Target
-solution-title: Learn & Support
-solution-hub-url: https://helpx.adobe.com/support/target.html
-solution-image: assets/target-icon-24.png
-getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/target/get-started.html
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/target/kt/index/target-videos.html
+audience: end-user
+type: Documentation
 git-repo: https://github.com/AdobeDocs/target.en
 index: yes
 ---

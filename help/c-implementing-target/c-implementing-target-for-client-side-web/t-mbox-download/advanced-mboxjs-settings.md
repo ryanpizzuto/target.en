@@ -3,7 +3,6 @@ keywords: advanced mbox.js settings;client;server domain;xdomain;compression lev
 description: Information to help you set several settings on the mbox.js Settings page.
 title: Configure mbox.js
 feature: 
-uuid: e79c7af7-f8bd-4e2b-8e67-b04eddf0c65d
 ---
 
 # Configure mbox.js{#configure-mbox-js}

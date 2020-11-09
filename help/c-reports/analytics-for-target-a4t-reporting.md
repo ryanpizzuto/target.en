@@ -3,9 +3,6 @@ keywords: analytics for target;a4t;analytics as the reporting source
 description: Using Analytics as your reporting source for Target (A4T) gives you access to Analytics reports for your Target activities.
 title: Analytics for Target (A4T) reporting
 feature: a4t general
-subtopic: Multivariate Test
-topic: Standard
-uuid: 4132492b-92d7-4b21-b7ca-324e7b898251
 ---
 
 # Analytics for Target (A4T) reporting{#analytics-for-target-a-t-reporting}

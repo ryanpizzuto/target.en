@@ -4,8 +4,6 @@ description: User account requirements to create an Adobe Analytics-based activi
 title: User permission requirements
 feature: a4t implementation
 solution: Target,Analytics
-topic: Reports and analytics
-uuid: cf359bcd-547e-4f8f-bcf6-e646245bb9ce
 ---
 
 # User permission requirements

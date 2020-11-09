@@ -3,9 +3,6 @@ keywords: implementation;api;profile;profile api settings;authentication token
 description: Enable or disable authentication for batch updates via Adobe Target APIs and generate a profile authentication token.
 title: Profile API settings in Adobe Target
 feature: api
-subtopic: Getting Started
-topic: Standard
-uuid: 481b4a14-f10f-47cd-988d-9e6b8c4d5c00
 ---
 
 # Profile API settings

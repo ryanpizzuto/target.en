@@ -3,8 +3,6 @@ keywords: automated traffic allocation;targeting;winner;statistical guarantee;co
 description: Determine a winner in an Auto-Allocate A/B activity by viewing indicators in the Target UI.
 title: Determine a winner
 feature: auto-allocate 
-topic: Standard
-uuid: 0bcc11b2-44bd-450c-a504-a8ff7a4d72e6
 ---
 
 # Interpret Auto-Allocate reports {#determine-a-winner}

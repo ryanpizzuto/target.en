@@ -3,9 +3,6 @@ keywords: reports;auto-target;auto target;AT;report
 description: Information about how to interpret the Auto-Target Summary report in Adobe Target.
 title: Auto-Target Summary report
 feature: reports
-subtopic: Multivariate Test
-topic: Standard
-uuid: a30fa886-e8df-408f-bbc9-11a917a592d8
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Auto-Target Summary report{#auto-target-summary-report}

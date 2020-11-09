@@ -3,8 +3,6 @@ keywords: faq;frequently asked questions;analytics for target;a4T;classification
 description: This topic contains answers to questions that are frequently asked about classifications and using Analytics as the reporting source for Target (A4T).
 title: Classifications - A4T FAQ
 feature: a4t troubleshooting
-topic: Standard
-uuid: 4b42adbc-4fa8-4b62-86c8-bb8f8bec7e54
 ---
 
 # Classifications - A4T FAQ{#classifications-a-t-faq}

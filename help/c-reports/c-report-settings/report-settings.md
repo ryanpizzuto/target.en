@@ -3,7 +3,6 @@ keywords: Target;reports;report settings;preset;target preset;metric;audience;da
 description: Information to help you set the elements you want to appear in your Adobe Target report. Report settings can be saved for later use.
 title: Report settings
 feature: report settings
-uuid: c3463f0d-8f09-4be2-9c85-f933578cce50
 ---
 
 # Report settings{#report-settings}

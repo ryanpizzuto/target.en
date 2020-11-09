@@ -4,7 +4,6 @@ description: Use metrics in a Multivariate Test to determine when a visit is suc
 title: Set metrics
 feature: mvt
 solution: Target
-uuid: 0fb297ba-f1c3-4139-ac37-7fa0bf2ac308
 ---
 
 # Set metrics{#set-metrics}

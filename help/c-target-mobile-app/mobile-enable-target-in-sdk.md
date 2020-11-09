@@ -3,8 +3,6 @@ keywords: mobile app;mobile app sdk;target mobile app;mobile target sdk;mobile a
 description: Add the Adobe Mobile Services SDK to your app.
 title: Enable Target in the SDK
 feature: mobile implementation
-topic: Target
-uuid: 673dd5c7-9c09-4a6e-bc41-c6ad27cf269c
 ---
 
 # Enable Target in the SDK{#enable-target-in-the-sdk}

@@ -3,8 +3,6 @@ keywords: troubleshooting;metric discrepancies;FAQ;reports;new visitor;new visit
 description: List of frequently asked questions about reporting in Adobe Target.
 title: Reporting FAQ for Adobe Target
 feature: reports
-topic: Standard
-uuid: 0be40d3f-3274-493d-899b-cb7bb3612baf
 ---
 
 # Reporting FAQ{#reporting-faq}

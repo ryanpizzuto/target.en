@@ -3,7 +3,6 @@ keywords: Targeting
 description: The Collisions tab on the Activity Overview page lists activity collisions on your site.
 title: Activity Collisions
 feature: vec
-uuid: 0e53ef60-2f71-4b34-9383-1de5cf5d3ab5
 ---
 
 # Activity Collisions{#activity-collisions}

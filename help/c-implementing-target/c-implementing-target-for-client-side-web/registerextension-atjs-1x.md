@@ -3,8 +3,6 @@ keywords: registerExtension;registerextension;register extension;at.js;functions
 description: Information about the registerExtension() function for the Adobe Target at.js JavaScript library.
 title: registerExtension() - at.js 1.x
 feature: client-side
-subtopic: Getting Started
-topic: Standard
 ---
 
 # registerExtension() - at.js 1.x

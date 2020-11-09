@@ -3,8 +3,6 @@ keywords: activities list;activities;activity;activity types;edit activity;activ
 description: Activities in Adobe Target let you personalize content to specific audiences and test page designs
 title: Activities in Adobe Target let you personalize content to specific audiences and test page designs.
 feature: activities
-topic: Standard
-uuid: 89dca5b4-c23d-4dfa-8f13-f1b05c7ab22c
 ---
 
 # Activities{#activities}

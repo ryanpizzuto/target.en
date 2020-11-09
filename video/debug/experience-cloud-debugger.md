@@ -1,7 +1,6 @@
 ---
 title: Debug Target with the Experience Cloud Debugger
 feature: 
-topic: Standard
 ---
 
 # Debug Target with the Experience Cloud Debugger

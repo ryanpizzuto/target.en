@@ -3,8 +3,6 @@ keywords: site pages;target site pages;targeting;current page;target current pag
 description: You can target visitors who are on a specific page on your site.
 title: Site pages options in Adobe Target audiences
 feature: audiences
-topic: Standard
-uuid: 1cf9fa94-dbec-4719-9a0a-79c1eb91a233
 ---
 
 # Site Pages{#site-pages}

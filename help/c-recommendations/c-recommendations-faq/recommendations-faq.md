@@ -3,7 +3,6 @@ keywords: troubleshooting;frequently asked questions;FAQ;FAQs;recommendations;sp
 description: List of frequently asked questions (FAQs) about Adobe Target Recommendations activities.
 title: Adobe Target Recommendations FAQ
 feature: recommendations general
-uuid: 27752811-0ffe-4d60-83d1-39e18b1953d5
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Recommendations FAQ{#recommendations-faq}

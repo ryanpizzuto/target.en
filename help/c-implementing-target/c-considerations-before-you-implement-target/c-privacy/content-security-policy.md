@@ -3,8 +3,6 @@ keywords: content security policy;csp;at.js;whitelist;allowlist;flicker;pre-hide
 description: Information about Content Security Policy (CSP) directives you should add when using Adobe Target at.js 2.1 or later.
 title: Content Security Policies (CSP)
 feature: privacy and security
-subtopic: Getting Started
-topic: Standard
 ---
 
 # Content Security Policy (CSP) directives

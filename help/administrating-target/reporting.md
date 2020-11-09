@@ -3,7 +3,6 @@ keywords: report;reports;reporting;experience cloud solution;timezone;time zone;
 description: Configure the Adobe Target Visual Experience Composer (VEC) by specifying its general settings, mobile viewport configuration, and CSS selectors.
 title: Configure reporting in Adobe Target
 feature: administration general
-topic: Standard
 ---
 
 # Configure reporting in Target

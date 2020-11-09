@@ -3,8 +3,6 @@ keywords: Targeting
 description: The conversion rate, lift, confidence (statistical significance) and confidence interval are reported for each experience.
 title: Conversion rate
 feature: reports
-topic: Advanced,Standard,Classic
-uuid: c42d7683-2eec-4443-9545-5695a122c9de
 ---
 
 # Conversion rate{#conversion-rate}

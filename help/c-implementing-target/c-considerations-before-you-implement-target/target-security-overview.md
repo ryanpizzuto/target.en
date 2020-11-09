@@ -3,7 +3,6 @@ keywords: security;security practices
 description: Information about the in-depth approach and security procedures implemented by Adobe to bolster the security of your data and Adobe Target experience.
 title: Target security overview
 feature: privacy and security
-uuid: 24296109-dcf3-4e86-96f6-8d0b7101a903
 ---
 
 # Target security overview{#target-security-overview}

@@ -3,7 +3,6 @@ keywords: AB;A/B;AB...n;compare experiences;Targeting;compare content;auto-targe
 description: A manual A/B Test activity compares two or more versions of your website content to see which version best improves your conversions during a pre-specified test period.
 title: A/B Test overview
 feature: ab
-uuid: 154559cf-58bb-425d-bb2e-4eaf34c89451
 ---
 
 # A/B Test overview

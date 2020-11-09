@@ -3,8 +3,6 @@ keywords: remote offer;create remote offer
 description: Create JSON offers in the Offer Library for use in the Form-Based Experience Composer.
 title: Create JSON offers
 feature: offers
-topic: Standard
-uuid: 4ae3ca34-7661-4c1d-a132-fc446e653b90
 ---
 
 # Create JSON offers{#create-json-offers}

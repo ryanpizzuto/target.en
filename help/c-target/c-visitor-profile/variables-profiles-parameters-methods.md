@@ -3,8 +3,6 @@ keywords: variables;profiles;parameters;built in profiles;methods;url variables;
 description: This page lists profiles, variables, and parameters that are useful in profile scripts.
 title: Profile and variable glossary
 feature: visitor profiles
-topic: Standard
-uuid: 9286467c-cbb5-42be-99c0-6687ffab0969
 ---
 
 # Profile and variable glossary{#profile-and-variable-glossary}

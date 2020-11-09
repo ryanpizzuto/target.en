@@ -3,8 +3,6 @@ keywords: mobile app;mobile app location;target mobile app;mobile target locatio
 description: To use Target in your mobile app, create a location and success metric.
 title: iOS - create a Target location and success metric
 feature: mobile implementation
-topic: Target
-uuid: dc39260c-8222-42b3-9f6b-f83be30e3210
 ---
 
 # iOS - create a Target location and success metric{#ios-create-a-target-location-and-success-metric}

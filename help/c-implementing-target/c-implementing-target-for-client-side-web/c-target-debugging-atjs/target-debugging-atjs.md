@@ -3,8 +3,6 @@ keywords: at.js;debug at.js;adobe Experience Cloud debugger;experience cloud deb
 description: Information about using the Adobe Experience Cloud Debugger extension, which makes it fast and easy to understand your Target implementation.
 title: Debug at.js using the Adobe Experience Cloud Debugger
 feature: troubleshooting general
-topic: Target
-uuid: 04cfb0fe-1f45-4824-bd06-d54c43baaffe
 ---
 
 # Debug at.js using the Adobe Experience Cloud Debugger{#debug-at-js-using-the-adobe-experience-cloud-debugger}

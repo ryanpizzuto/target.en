@@ -3,8 +3,6 @@ keywords: targetPageParams;targetpageparams;pageParams;pageparams;page params;pa
 description: Information about the targetPageParams() function for the Adobe Target at.js JavaScript library.
 title: targetPageParams()
 feature: client-side
-subtopic: Getting Started
-topic: Standard
 ---
 
 # targetPageParams() {#reference_B235C9F6DA79449ABE3E23F914FEABAE}

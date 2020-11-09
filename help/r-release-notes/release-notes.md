@@ -3,8 +3,6 @@ keywords: Release notes;new features;releases;updates;update;release;enhancement
 description: These release notes provide information about features, enhancements, fixes, and known issues for each Adobe Target Standard and Target Premium release.
 title: Adobe Target release notes (current) 
 feature: release notes
-topic: Recommendations
-uuid: f6c3e64d-de1e-416c-a56f-2122a58b613e
 ---
 
 # Target release notes (current){#target-release-notes-current}

@@ -3,7 +3,6 @@ keywords: Targeting;visual experience composer;enhanced visual experience compos
 description: Display problems sometimes occur in the Visual Experience Composer (VEC) and the Enhanced Experience Composer (EEC) under certain conditions.
 title: Troubleshooting the Visual Experience Composer and Enhanced Experience Composer
 feature: vec
-uuid: de9f9392-8a15-4422-81b3-263ace1cb330
 ---
 
 # Troubleshooting the Visual Experience Composer and Enhanced Experience Composer{#troubleshooting-the-visual-experience-composer-and-enhanced-experience-composer}

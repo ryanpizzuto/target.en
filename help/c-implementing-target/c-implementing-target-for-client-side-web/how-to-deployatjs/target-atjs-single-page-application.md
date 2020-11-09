@@ -3,8 +3,6 @@ keywords: single page application implementation;implement single page applicati
 description: Information to use Adobe Target at.js 2.x to implement Single Page Applications (SPAs).
 title: Single Page Application implementation in Adobe Target
 feature: implementation general
-topic: standard
-uuid: 5887ec53-e5b1-40f9-b469-33685f5c6cd6
 ---
 
 # Single Page Application implementation{#single-page-application-implementation}

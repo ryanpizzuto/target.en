@@ -3,7 +3,6 @@ keywords: criteria;algorithm;industry vertical;page type;recommendation key;reco
 description: Criteria control the content of your Adobe Recommendations activities. Create criteria to show the recommendations that are most appropriate for your activity.
 title: Create criteria
 feature: criteria
-uuid: 603d4b02-cdb6-40aa-9654-0086c23b0c8e
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Create criteria{#create-criteria}

@@ -3,7 +3,6 @@ keywords: Targeting;audience;reporting;success metric
 description: Choose a success metric in Adobe Target that qualifies the user for the reporting audience.
 title: Apply a reporting audience to a success metric in Adobe Target
 feature: success metrics
-uuid: cc485785-84cc-4a60-acf8-788b842b243f
 ---
 
 # Apply a reporting audience to a success metric{#apply-a-reporting-audience-to-a-success-metric}

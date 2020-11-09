@@ -3,8 +3,6 @@ keywords: automated personalization;Audiences;ensemble;random forest;residual va
 description: The Automated Personalization activity workflow varies from the workflow of the other activity types.
 title: Create an Automated Personalization activity
 feature: ap
-topic: Advanced
-uuid: 7d301dc3-6076-4e05-8abc-4978075a881e
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Create an Automated Personalization activity{#create-an-automated-personalization-activity}

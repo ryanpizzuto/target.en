@@ -3,7 +3,6 @@ keywords: Targeting;target categories;target conditions;audience manager;custom 
 description: You can target on any of several categories. Each category functions as a tab that enables you to create targeting rules (or groups) for each category.
 title: Categories for audiences
 feature: audiences
-uuid: 4b0f6e32-24bc-4e87-aa8e-70728889f891
 ---
 
 # Categories for audiences{#categories-for-audiences}

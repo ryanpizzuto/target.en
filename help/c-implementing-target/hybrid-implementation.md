@@ -3,7 +3,6 @@ keywords: hybrid deployment;hybrid;sever-side;serverside;server side;client-side
 description: Adobe Target offers a unique hybrid deployment model for personalization, blending client-side and server-side implementations.
 title: Hybrid implementation
 feature: hybrid implementation
-topic: Target
 ---
 
 # Hybrid implementation

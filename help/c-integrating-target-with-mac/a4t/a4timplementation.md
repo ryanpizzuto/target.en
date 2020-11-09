@@ -3,7 +3,6 @@ keywords: A4T;Adobe Analytics;Analytics-based activity;Analytics report suite;re
 description: Several steps are required when implementing Adobe Analytics as the reporting source for Target (A4T).
 title: Analytics for Target implementation
 feature: a4t implementation
-uuid: da6498c8-1549-4c36-ae42-38c731a28f08
 ---
 
 # Analytics for Target implementation{#analytics-for-target-implementation}

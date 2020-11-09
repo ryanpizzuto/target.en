@@ -4,7 +4,6 @@ description: Use single- and multi-value custom entity attributes to define addi
 title: Custom entity attributes in Adobe Target
 feature: entities
 mini-toc-levels: 3
-uuid: ccebcd16-7d8f-468f-8474-c89b0f029bdb
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Custom entity attributes{#custom-entity-attributes}

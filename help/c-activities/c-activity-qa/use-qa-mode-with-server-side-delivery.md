@@ -3,8 +3,6 @@ keywords: qa;server side;server-side;preview;preview links
 description: Use QA URLs with server-side delivery to perform easy end-to-end activity QA with preview links that never change, optional audience targeting, and QA reporting that stays segmented from live activity data.
 title: Use Activity QA with server-side delivery
 feature: qa
-topic: Advanced,Standard,Classic
-uuid: c1875243-e37f-4205-9e6b-6e96cadf4a7f
 ---
 
 # Use Activity QA with server-side delivery{#use-activity-qa-with-server-side-delivery}

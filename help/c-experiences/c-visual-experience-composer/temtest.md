@@ -3,7 +3,6 @@ keywords: template testing;template;same experience on similar pages;template te
 description: Use a page template in Adobe Target to provide structure to your pages, or if your pages contain similar elements, to test variations in similarly structured page elements.
 title: Include the same experience on similar pages using Adobe Target
 feature: experiences 
-uuid: 055b276e-2492-40d8-b48e-849dffa93f35
 ---
 
 # Include the same experience on similar pages

@@ -3,8 +3,6 @@ keywords: faq;frequently asked questions;analytics for target;a4T;report;reports
 description: This topic contains answers to questions that are frequently asked about viewing reports when using Analytics as the reporting source for Target (A4T).
 title: View reports - A4T FAQ
 feature: a4t troubleshooting
-topic: Standard
-uuid: d51991f7-cdda-4a59-b64c-7ef1c3f8380d
 ---
 
 # View reports - A4T FAQ{#view-reports-a-t-faq}

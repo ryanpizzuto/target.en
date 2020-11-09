@@ -3,7 +3,6 @@ keywords: multivariate test;mvt;mvt plan;multivariate test plan
 description:  Multivariate Tests in Adobe Target require some planning before you can create a successful test.
 title: Plan a Multivariate Test in Adobe Target
 feature: mvt
-uuid: f286d08a-e11d-4a39-8c62-3eba99885299
 ---
 
 # Plan a Multivariate Test{#plan-a-multivariate-test}

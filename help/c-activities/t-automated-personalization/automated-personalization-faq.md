@@ -3,7 +3,6 @@ keywords: troubleshooting;frequently asked questions;FAQ;FAQs;automated personal
 description: List of frequently asked questions (FAQs) about Automated Personalization (AP).
 title: Automated Personalization FAQ
 feature: ap
-uuid: 4c8aadd3-75c3-4388-b838-e62576dfb955
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Automated Personalization FAQs{#automated-personalization-faq}

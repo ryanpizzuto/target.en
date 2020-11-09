@@ -3,7 +3,6 @@ keywords: dynamic data;assets;data;offers;personalized offers;personal offers;to
 description: You can display profile values and activity information directly in an HTML or JSON Offer.
 title: Pass dynamic data into offers
 feature: offers
-uuid: 1910a7f5-e4bd-413a-9875-e0b005407f50
 ---
 
 # Pass dynamic data into offers{#pass-dynamic-data-into-offers}

@@ -3,8 +3,6 @@ keywords: reports;block ip address;block visitor from ip address;download report
 description: Reports provide information about the performance of your Adobe Target activities
 title: Reports
 feature: reports
-topic: Standard
-uuid: 8d20f4e7-72fd-4872-a21f-54ce16a2d2ab
 ---
 
 # Reports{#reports}

@@ -3,9 +3,6 @@ keywords: implement;implementing;setting up;setup;page parameter;tomcat;url enco
 description: Information about the various methods you can use to get data into Target, including page parameters, in-page profile attributes, script profile attributes, data providers, the bulk profile update API, the single profile update API, and Customer Attributes.
 title: Methods to get data into Target
 feature: implementation general
-subtopic: Getting Started
-topic: Standard
-uuid: a6d64e39-6cdc-49fe-afe5-ecf7dcacf97d
 ---
 
 # Methods to get data into Target{#methods-to-get-data-into-target}

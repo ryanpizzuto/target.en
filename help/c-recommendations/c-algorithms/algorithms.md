@@ -3,7 +3,6 @@ keywords: recommendations;recommendations activity;criteria;algorithm;recommenda
 description: Criteria in Adobe Target are rules that determine which products or content to recommend based on a predetermined set of visitor behaviors.
 title: Criteria in Adobe Target Recommendations
 feature: criteria
-uuid: 738db164-174b-45b8-bb8a-778f6494f1d7
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Criteria
