@@ -202,7 +202,7 @@ na3455    RipCurl Watch with Black Dial    Cutting edge matte black with round c
 
 ### Analytics Product Classifications {#section_79E430D2C75443BEBC9AA0916A337E0A}
 
-The Analytics Product classification is the only classification available for recommendations. For more information about this classification file, see [About classifications](https://docs.adobe.com/content/help/en/analytics/components/classifications/c-classifications.html) in the *Analytics Components* guide. It's possible that not all the information you need for recommendations will be available in your current implementation, so follow this user guide if you want to add to your classifications file.
+The Analytics Product classification is the only classification available for recommendations. For more information about this classification file, see [About classifications](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) in the *Analytics Components* guide. It's possible that not all the information you need for recommendations will be available in your current implementation, so follow this user guide if you want to add to your classifications file.
 
 >[!IMPORTANT]
 >

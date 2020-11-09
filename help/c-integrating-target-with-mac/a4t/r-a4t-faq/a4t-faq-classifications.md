@@ -13,7 +13,7 @@ This topic contains answers to questions that are frequently asked about classif
 
 ## After using the Classifications Importer to download classifications, how do I match the post-tnt-action value with an activity name? {#section_6045DAC488B248418F430E663C38D001}
 
-You can download the classifications for the A4T/TNT string from the Admin Tools [Classification Importer](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-importer/c-working-with-saint.html). The variable is called “TNT” in the export list. The downloaded data includes the friendly names for activities, experiences, and so forth.
+You can download the classifications for the A4T/TNT string from the Admin Tools [Classification Importer](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-importer/c-working-with-saint.html). The variable is called “TNT” in the export list. The downloaded data includes the friendly names for activities, experiences, and so forth.
 
 This lookup file is useful for customers that receive Adobe’s clickstream data feed. The file provides friendly names for the `post_tnt` and `post_tnt_action` columns.
 

@@ -20,5 +20,5 @@ Consider the following limitations when using the prefetch method with the iOS a
 
 For more information, including prefetch methods, public classes, and code samples, see:
 
-* **iOS:**  [Prefetch offer content in iOS](https://docs.adobe.com/content/help/en/mobile-services/ios/target-ios/c-mob-target-prefetch-ios.html) in the *Mobile Services iOS SDK Help*. 
-* **Android:**  [Prefetch offer content in Android](https://docs.adobe.com/content/help/en/mobile-services/android/target-android/c-mob-target-prefetch-android.html) in the *Mobile Services Android SDK Help*.
+* **iOS:**  [Prefetch offer content in iOS](https://experienceleague.adobe.com/docs/mobile-services/ios/target-ios/c-mob-target-prefetch-ios.html) in the *Mobile Services iOS SDK Help*. 
+* **Android:**  [Prefetch offer content in Android](https://experienceleague.adobe.com/docs/mobile-services/android/target-android/c-mob-target-prefetch-android.html) in the *Mobile Services Android SDK Help*.

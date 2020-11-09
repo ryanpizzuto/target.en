@@ -13,7 +13,7 @@ List of frequently asked questions about [!DNL Target] for mobile apps.
 
 ## Should I use [!DNL Adobe Experience Platform Launch] to deploy the SDK, or can I deploy the SDK without using [!DNL Launch]?
 
-The SDK is available on the [Adobe Marketing Cloud git](https://github.com/Adobe-Marketing-Cloud/acp-sdks/). If you don't use [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html), you must manage your own settings file and manage it in your app. 
+The SDK is available on the [Adobe Marketing Cloud git](https://github.com/Adobe-Marketing-Cloud/acp-sdks/). If you don't use [Launch](https://experienceleague.adobe.com/docs/launch/using/overview.html), you must manage your own settings file and manage it in your app. 
 
 ## Which SDKs are available today?
 

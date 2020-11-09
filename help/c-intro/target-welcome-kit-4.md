@@ -15,7 +15,7 @@ You can personalize experiences with [!DNL Target] data right out of the box. Bu
 
 For example, you can associate purchase data from your point-of-sale system with a visitor profile. To do that, just create a CSV file with up to 200 offline variables, and either upload it directly into [!DNL Adobe Experience Cloud] via a file upload, or use FTP to host and schedule your file to be updated regularly. Once your Customer Attributes are in [!DNL Adobe Experience Cloud], you can map them to [!DNL Experience Cloud] solutions like [!DNL Adobe Analytics] and [!DNL Target] where they will be available for analysis, testing, and personalization.
 
-See [Custom attributes](https://docs.adobe.com/content/help/en/target/using/audiences/visitor-profiles/working-with-customer-attributes.html) for step-by-step instructions.
+See [Custom attributes](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/working-with-customer-attributes.html) for step-by-step instructions.
 
 **Good to know**: Because [!DNL Target] is an open and agnostic platform that works well with different technologies, you can add CRM or purchased data in many different ways. That means you can choose a method that works best for your organization.
 

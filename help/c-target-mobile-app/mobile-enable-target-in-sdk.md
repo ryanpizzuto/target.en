@@ -15,7 +15,7 @@ Add the Adobe Mobile Services SDK to your app.
 
 1. Add the Adobe Mobile Services SDK to your app.
 
-   You can find the instructions under [Core Implementation and Lifecycle](https://docs.adobe.com/content/help/en/mobile-services/ios/getting-started-ios/dev-qs.html). 
+   You can find the instructions under [Core Implementation and Lifecycle](https://experienceleague.adobe.com/docs/mobile-services/ios/getting-started-ios/dev-qs.html). 
 
 1. Add client code, timeout and enable SSL.
 

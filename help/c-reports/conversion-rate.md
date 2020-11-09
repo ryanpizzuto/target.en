@@ -121,7 +121,7 @@ For example, if you’re optimizing to page views per visitor, you’d export a 
 1. Click **[!UICONTROL Tools]** > **[!UICONTROL Data Warehouse]**. 
 1. On the **[!UICONTROL Data Warehouse Request]** tab, fill in the fields.
 
-   For more information about each field, see "Data Warehouse Descriptions" in [Data Warehouse](https://docs.adobe.com/content/help/en/analytics/export/data-warehouse/data-warehouse.html).
+   For more information about each field, see "Data Warehouse Descriptions" in [Data Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html).
 
    | Field | Instructions |
    |--- |--- |
@@ -141,8 +141,8 @@ For example, if you’re optimizing to page views per visitor, you’d export a 
 
 For more information about [!DNL Data Warehouse], see the following links in the [!DNL Analytics] Help documentation:
 
-* [Create a Data Warehouse request](https://docs.adobe.com/content/help/en/analytics/export/data-warehouse/t-dw-create-request.html) 
-* [Data Warehouse best practices](https://docs.adobe.com/content/help/en/analytics/export/data-warehouse/data-warehouse-bp.html)
+* [Create a Data Warehouse request](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/t-dw-create-request.html) 
+* [Data Warehouse best practices](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse-bp.html)
 
 ## Counting Methodology {#concept_EC19BC897D66411BABAF2FA27BCE89AA}
 

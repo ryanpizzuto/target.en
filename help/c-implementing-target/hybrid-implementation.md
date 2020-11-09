@@ -10,4 +10,4 @@ topic: Target
 
 [!DNL Adobe Target] offers a unique hybrid deployment model for personalization—blending client-side and server-side implementations. This hybrid model allows non-technical users to author an experiment or personalization activity using the WYSIWYG [!UICONTROL Visual Experience Composer] (VEC) and have the experience be executed, delivered, and rendered by the server-side for a highly performant delivery.
 
-For more information, see [Adobe Hybrid Deployment](https://docs.adobe.com/content/help/en/target-learn/tutorials/implementation/hybrid-deployment.html) in *Adobe Target Tutorials*.
+For more information, see [Adobe Hybrid Deployment](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/hybrid-deployment.html) in *Adobe Target Tutorials*.

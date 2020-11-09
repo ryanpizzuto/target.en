@@ -149,7 +149,7 @@ To use the [!DNL Target] user-permissions functionality, you must add the `at_pr
 
       ![](assets/property_token_2.png)
 
-      For more information, see [Global Parameters - Adobe Target](https://docs.adobe.com/content/help/en/dtm/using/tools-reference/target.html#global-parameters---adobe-target) in the *Dynamic Tag Management Product Documentation*. 
+      For more information, see [Global Parameters - Adobe Target](https://experienceleague.adobe.com/docs/dtm/using/tools-reference/target.html#global-parameters---adobe-target) in the *Dynamic Tag Management Product Documentation*. 
     
     * **Via the targetPageParams() function:** Place the following code in the `<head>` tags, above the at.js or mbox.js reference.
 
