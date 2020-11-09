@@ -1,4 +1,5 @@
 ---
+keywords: scene7;dynamic media classic;digital asset management;assets;dam;content library
 description: Target Standard can be integrated with Adobe Dynamic Media Classic to provide Digital Asset Management (DAM) in the Content Library.
 title: Dynamic Media Classic integration configuration integration
 feature: administration general 
@@ -9,7 +10,7 @@ uuid: 4b06a3ed-0e87-4e49-874f-2e479324f81c
 
 # Scene7 configuration {#scene-settings}
 
-Target can be integrated with [!DNL Adobe Dynamic Media Classic] to provide Digital Asset Management (DAM) in the Content Library.
+[!DNL Target] can be integrated with [!DNL Adobe Dynamic Media Classic] to provide Digital Asset Management (DAM) in the [!UICONTROL Content Library].
 
 >[!NOTE]
 >
@@ -19,7 +20,7 @@ If you already have a [!DNL Dynamic Media] account, you can supply your existing
 
 >[!NOTE]
 >
->A restricted-use, free [!DNL Dynamic Media Classic] account for Adobe Target is no longer supported for new customers or new users. Existing sign in credentials work as usual.
+>A restricted-use, free [!DNL Dynamic Media Classic] account for [!DNL Adobe Target] is no longer supported for new customers or new users. Existing sign-in credentials work as usual.
 
 If this setting is not configured, the [!UICONTROL Swap Image offer] option within the activity creation workflow is not available. After this setting is configured, the option to swap/change image offers is available in both the [Visual Experience Composer (VEC) and in the Form-Based Experience Composer](/help/c-experiences/experiences.md#concept_A2E10F6AFB3D4AEAB6951EE14688848D). You can then leverage image offers with images that have been uploaded from the [!DNL Adobe Experience Cloud] for use in [!DNL Target] activities.
 
