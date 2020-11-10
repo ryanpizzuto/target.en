@@ -1,4 +1,5 @@
 ---
+keywords: automated personalization;offers
 description: In an Automated Personalization activity, you can target offers to specific audiences.
 title: Target Automated Personalization offers
 feature: ap
