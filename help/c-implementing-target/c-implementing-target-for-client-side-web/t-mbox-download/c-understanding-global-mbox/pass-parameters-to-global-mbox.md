@@ -108,5 +108,5 @@ This example sends the following data to the mbox edge:
 
 * a=1 
 * b=2 
-* `profile.age`=26 
+* `profile.memberStatus`=Gold 
 * `profile.country.city`=San Francisco
