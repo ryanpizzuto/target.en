@@ -21,6 +21,12 @@ These release notes provide information about features, enhancements, and fixes 
 
 The issue numbers in parentheses are for internal [!DNL Adobe] use.
 
+## at.js 2.3.3 (November 13, 2020)
+
+This release of at.js is a maintenance release and includes the following fix:
+
+* Fixed an issue related to mbox click tracking and A4T.
+
 ## Target Standard/Premium 20.10.1 (October 27, 2020)
 
 This release contains the following new features:

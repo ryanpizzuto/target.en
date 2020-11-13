@@ -1,11 +1,11 @@
 ---
-keywords: at.js releases;at.js versions
-description: Details about changes in each version of at.js.
+keywords: "at.js" releases;"at.js" versions;release notes
+description: Details about changes in each version of Adobe Target at.js.
 title: at.js version details
 feature: release notes
 ---
 
-# at.js version details {#at-js-version-details}
+# at.js version details
 
 Details about changes in each version of the [!DNL Adobe Target] at.js JavaScript library.
 
@@ -14,6 +14,12 @@ Details about changes in each version of the [!DNL Adobe Target] at.js JavaScrip
 >The Target team supports both at.js 1.*x* and at.js 2.*x*. Please upgrade to the most recent update of either major version of at.js to ensure that you are running a supported version.
 >
 >[Adobe Experience Platform Launch](/help/c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/cmp-implementing-target-using-adobe-launch.md) is the preferred method to upgrade at.js. Extension developers continually add new features to their extensions, and frequently fix bugs. These updates are packaged into new versions of an extension and made available in the [!DNL Launch] catalog as upgrades. For more information, see [Extension Upgrade](https://experienceleague.adobe.com/docs/launch/using/reference/manage-resources/extensions/extension-upgrade.html) in the *Experience Platform Launch User Guide*.
+
+## at.js 2.3.3 (November 13, 2020)
+
+This release of at.js is a maintenance release and includes the following fix:
+
+* Fixed an issue related to mbox click tracking and A4T.
 
 ## at.js 2.3.2 (July 24, 2020)
 
