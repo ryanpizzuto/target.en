@@ -3,8 +3,6 @@ keywords: apple;ITP;intelligent tracking prevention
 description: Information about Adobe Target support for Apple’s ITP 2.x via the Experience Cloud ID (ECID) library 4.3.
 title: Adobe Target and Apple ITP support
 feature: privacy and security
-subtopic: Getting Started
-topic: Standard
 ---
 
 # Apple Intelligent Tracking Prevention (ITP) 2.x
@@ -46,13 +44,13 @@ To mitigate the impact of future ITP 2.x releases to Target, complete the follow
 
    The ECID library enables the people identification framework for Experience Cloud Core solutions. The ECID library allows you to identify same site visitors and their data in different Experience Cloud solutions by assigning persistent and unique identifiers. The ECID library will be updated frequently to help you mitigate any ITP-related changes that impact your implementation. 
 
-   For ITP 2.x, [ECID library 4.3.0+](https://docs.adobe.com/content/help/en/id-service/using/release-notes/release-notes.html) must be utilized for mitigation.
+   For ITP 2.x, [ECID library 4.3.0+](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html) must be utilized for mitigation.
 
 1. Use Adobe’s CNAME and Enroll in Adobe Analytics' Managed Certificate Program.
 
    After installing the ECID library 4.3.0+, you can leverage Adobe Analytics' CNAME and Managed Certificate Program. This program lets you implement a first-party certificate for first-party cookies at no charge. Leveraging CNAME will help [!DNL Target] customers mitigate the impact of ITP 2.x. 
 
-   If you are not leveraging CNAME, you can start the process by talking with your account representative and enrolling in the [Adobe Managed Certificate Program](https://docs.adobe.com/content/help/en/core-services/interface/ec-cookies/cookies-first-party.html#adobe-managed-certificate-program).
+   If you are not leveraging CNAME, you can start the process by talking with your account representative and enrolling in the [Adobe Managed Certificate Program](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-first-party.html#adobe-managed-certificate-program).
 
 After you deploy a Target JavaScript library in conjunction with the ECID library v4.3.0+ and enroll in the Adobe Managed Certificate Program to leverage CNAME, you will have a robust and long-term mitigation plan for ITP-related changes.
 

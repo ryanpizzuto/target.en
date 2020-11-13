@@ -3,7 +3,6 @@ keywords: Targeting;visual experience composer;whitelist;white list;allowlist;al
 description: Display problems sometimes occur in the Visual Experience Composer (VEC) and the Enhanced Experience Composer (EEC) under certain conditions.
 title: Troubleshooting Issues Related to the Visual Experience Composer and Enhanced Experience Composer
 feature: vec
-uuid: 93f646d9-fcbc-43f0-9f84-0ce8e486ff7f
 ---
 
 # Troubleshooting Issues Related to the Visual Experience Composer and Enhanced Experience Composer{#troubleshooting-issues-related-to-the-visual-experience-composer-and-enhanced-experience-composer}
@@ -20,7 +19,7 @@ With the latest changes (August 2020), all users with Chrome 80+ browser version
 
 Adobe has submitted an updated VEC Helper extension to the Google Chrome Store. This extension overwrites the cookie attributes to set the `SameSite="none"` attribute, when needed. The [updated extension can be found here](https://chrome.google.com/webstore/detail/adobe-target-vec-helper/ggjpideecfnbipkacplkhhaflkdjagak?hl=en). For more information about installing and using the VEC Helper Extension, see [Visual Experience Composer helper extension](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/vec-helper-browser-extension.md).
 
-For your own site cookies, you must specify the cookies by name. Toggle the [!UICONTROL Cookie] slider to the on position, then specify the cookie by name and the cookie domain. The cookie name is "mbox" and the cookie domain is the second and top levels of the domains from which you serve the mbox. Because it is served from your company's domain, the cookie is a first party cookie. Example: `mycompany.com`. For more information, see [Adobe Target Cookies](https://docs.adobe.com/content/help/en/core-services/interface/ec-cookies/cookies-target.html) in the *Experience Cloud Interface User Guide*.
+For your own site cookies, you must specify the cookies by name. Toggle the [!UICONTROL Cookie] slider to the on position, then specify the cookie by name and the cookie domain. The cookie name is "mbox" and the cookie domain is the second and top levels of the domains from which you serve the mbox. Because it is served from your company's domain, the cookie is a first party cookie. Example: `mycompany.com`. For more information, see [Adobe Target Cookies](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-target.html) in the *Experience Cloud Interface User Guide*.
 
 ![Cookies toggle in the VEC helper extension](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/assets/cookies-vec-helper.png)
 

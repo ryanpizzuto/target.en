@@ -3,8 +3,6 @@ keywords: mobile app;mobile app sdk;target mobile app;mobile target sdk;mobile a
 description: Add the Adobe Mobile Services SDK to your app.
 title: Enable Target in the SDK
 feature: mobile implementation
-topic: Target
-uuid: 673dd5c7-9c09-4a6e-bc41-c6ad27cf269c
 ---
 
 # Enable Target in the SDK{#enable-target-in-the-sdk}
@@ -15,7 +13,7 @@ Add the Adobe Mobile Services SDK to your app.
 
 1. Add the Adobe Mobile Services SDK to your app.
 
-   You can find the instructions under [Core Implementation and Lifecycle](https://docs.adobe.com/content/help/en/mobile-services/ios/getting-started-ios/dev-qs.html). 
+   You can find the instructions under [Core Implementation and Lifecycle](https://experienceleague.adobe.com/docs/mobile-services/ios/getting-started-ios/dev-qs.html). 
 
 1. Add client code, timeout and enable SSL.
 

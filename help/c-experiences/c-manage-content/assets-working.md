@@ -3,7 +3,6 @@ keywords: content library;assets;annotate;copy;delete asset;download asset;edit 
 description: There are a number of tasks you can perform on an asset in the library.
 title: Work with content in the library
 feature: offers
-uuid: 7518e298-a824-4766-b2bf-49770b293b9a
 ---
 
 # Work with content in the library{#work-with-content-in-the-library}
@@ -34,7 +33,7 @@ Information about the tasks you can perform on an asset in the Content Library.
 
 This video includes information about managing content. (4:56)
 
-* Connection between the [Experience Cloud Asset Library](https://docs.adobe.com/content/help/en/core-services/interface/assets/creative-cloud.html) and the Target Content Library 
+* Connection between the [Experience Cloud Asset Library](https://experienceleague.adobe.com/docs/core-services/interface/assets/creative-cloud.html) and the Target Content Library 
 * Custom HTML Offers 
 * Custom HTML Offer in the Visual Experience Composer
 

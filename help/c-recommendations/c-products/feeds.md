@@ -3,7 +3,6 @@ keywords: recommendations feed;feed;SAINT;ftp;csv;classifications;analytics clas
 description: Use feeds to get entities imported into Adobe Target Recommendations. Entities can be sent using CSV files, the Google Product Search feed format, and/or Adobe Analytics product classifications.
 title: Feeds in Adobe Target Recommendations
 feature: data feed
-uuid: b228a0de-e201-4567-ad09-1190196babda
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Feeds{#feeds}
@@ -202,7 +201,7 @@ na3455    RipCurl Watch with Black Dial    Cutting edge matte black with round c
 
 ### Analytics Product Classifications {#section_79E430D2C75443BEBC9AA0916A337E0A}
 
-The Analytics Product classification is the only classification available for recommendations. For more information about this classification file, see [About classifications](https://docs.adobe.com/content/help/en/analytics/components/classifications/c-classifications.html) in the *Analytics Components* guide. It's possible that not all the information you need for recommendations will be available in your current implementation, so follow this user guide if you want to add to your classifications file.
+The Analytics Product classification is the only classification available for recommendations. For more information about this classification file, see [About classifications](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) in the *Analytics Components* guide. It's possible that not all the information you need for recommendations will be available in your current implementation, so follow this user guide if you want to add to your classifications file.
 
 >[!IMPORTANT]
 >

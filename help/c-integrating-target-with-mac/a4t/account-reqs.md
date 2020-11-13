@@ -4,8 +4,6 @@ description: User account requirements to create an Adobe Analytics-based activi
 title: User permission requirements
 feature: a4t implementation
 solution: Target,Analytics
-topic: Reports and analytics
-uuid: cf359bcd-547e-4f8f-bcf6-e646245bb9ce
 ---
 
 # User permission requirements
@@ -30,7 +28,7 @@ For more information, see [Organizations and account linking](https://docs.adobe
 
 You must be a member of one or more [!DNL Experience Cloud] groups that have access to [!DNL Analytics] and [!DNL Target].
 
-For more information, see [Manage Experience Cloud users and products](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
+For more information, see [Manage Experience Cloud users and products](https://experienceleague.adobe.com/docs/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
 ## Adobe Analytics {#section_8F404FDE9A634534AB0AA4CB3075582B}
 

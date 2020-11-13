@@ -3,9 +3,6 @@ keywords: Administration;approver role;approver
 description: This section contains the first steps Adobe Target administrators should take after receiving the emailed invitation to the Adobe Experience Cloud.
 title: Administrator first steps
 feature: administration general
-subtopic: Getting Started
-topic: Standard
-uuid: 1a7ea739-4fa6-444a-8f39-17cf346c73c2
 ---
 
 # Administrator first steps{#administrator-first-steps}
@@ -16,7 +13,7 @@ This section contains the first steps [!DNL Target] administrators should take a
 
 A System Administrator in the [!DNL Adobe Admin Console] must add you as a user in [!DNL Target] by inviting you to join. The System Administrator should then add you to one or more role-specific groups. Both of these tasks are performed in the [Adobe Admin Console](https://adminconsole.adobe.com).
 
-For more information, see [Manage Experience Cloud users and products](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html) in the *Experience Cloud and Core Services help*.
+For more information, see [Manage Experience Cloud users and products](https://experienceleague.adobe.com/docs/core-services/interface/manage-users-and-products/admin-getting-started.html) in the *Experience Cloud and Core Services help*.
 
 You will receive an invitation email after the System Administrator has performed these steps.
 

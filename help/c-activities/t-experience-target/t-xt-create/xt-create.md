@@ -2,9 +2,6 @@
 description: Use the Visual Experience Composer to create an Experience Targeting (XT) activity on a Target-enabled page and to modify portions of the page within Adobe Target.
 title: Create an Experience Targeting activity
 feature: xt
-subtopic: Multivariate Test
-topic: Standard
-uuid: 6299982b-b1ba-4dd0-9c69-36a76680a3e1
 ---
 
 # Create an Experience Targeting activity{#create-an-experience-targeting-activity}

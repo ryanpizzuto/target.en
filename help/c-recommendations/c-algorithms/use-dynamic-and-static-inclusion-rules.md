@@ -4,7 +4,6 @@ description: Information about creating inclusion rules in Adobe Target Recommen
 title: Use dynamic and static inclusion rules in Adobe Target Recommendations
 feature: criteria
 mini-toc-levels: 3
-uuid: f0ee2086-1126-44a4-9379-aa897dc0e06b
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Use dynamic and static inclusion rules{#use-dynamic-and-static-inclusion-rules}

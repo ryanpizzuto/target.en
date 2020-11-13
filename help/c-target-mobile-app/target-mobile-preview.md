@@ -3,8 +3,6 @@ keywords: qa;preview;preview link;mobile;mobile preview
 description: Use the mobile preview link to perform easy end-to-end QA for mobile app activities and enroll yourself into different experiences right on your device without any special test devices.
 title: Using the mobile preview link in Adobe Target mobile
 feature: mobile implementation
-topic: Advanced,Standard,Classic
-uuid: 313150fa-a7ec-46fe-9166-742a5c246a72
 ---
 
 # Target mobile preview{#target-mobile-preview}
@@ -25,8 +23,8 @@ The mobile preview functionality lets you fully test your Mobile app activities 
 
    For instructions to download the appropriate SDK, see:
 
-    * **iOS:** [Before You start](https://docs.adobe.com/content/help/en/mobile-services/ios/getting-started-ios/requirements.html) in the *Mobile Services iOS Help*. 
-    * **Android:** [Before You start](https://docs.adobe.com/content/help/en/mobile-services/android/getting-started-android/requirements.html) in the *Mobile Services Android Help*.
+    * **iOS:** [Before You start](https://experienceleague.adobe.com/docs/mobile-services/ios/getting-started-ios/requirements.html) in the *Mobile Services iOS Help*. 
+    * **Android:** [Before You start](https://experienceleague.adobe.com/docs/mobile-services/android/getting-started-android/requirements.html) in the *Mobile Services Android Help*.
 
 1. **Set up a URL scheme:** The preview link uses a URL scheme to open your app. You must specify a unique URL scheme for the preview.
 

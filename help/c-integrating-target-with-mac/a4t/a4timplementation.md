@@ -3,7 +3,6 @@ keywords: A4T;Adobe Analytics;Analytics-based activity;Analytics report suite;re
 description: Several steps are required when implementing Adobe Analytics as the reporting source for Target (A4T).
 title: Analytics for Target implementation
 feature: a4t implementation
-uuid: da6498c8-1549-4c36-ae42-38c731a28f08
 ---
 
 # Analytics for Target implementation{#analytics-for-target-implementation}
@@ -26,15 +25,15 @@ User account requirements must be met before you can create an [!DNL Analytics]-
 
 The visitor ID service lets you identify users across [!DNL Adobe Experience Cloud] solutions. You must implement or migrate to the required version of the Experience Cloud Visitor ID. For more information, see "Implementation Requirements" in [Before you implement](/help/c-integrating-target-with-mac/a4t/before-implement.md).
 
-See [Implement the Experience Cloud ID Service for Target](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/setup-target.html) in the *Experience Cloud Visitor ID Service* documentation.
+See [Implement the Experience Cloud ID Service for Target](https://experienceleague.adobe.com/docs/id-service/using/implementation-guides/setup-target.html) in the *Experience Cloud Visitor ID Service* documentation.
 
 ## Step 4: Update AppMeasurement for JavaScript or s_code
 
 You must implement or migrate to the required version of appMeasurement.js. For more information, see "Implementation Requirements" in [Before you implement](/help/c-integrating-target-with-mac/a4t/before-implement.md).
 
-For new implementations, see [JavaScript implementation overview](https://docs.adobe.com/content/help/en/analytics/implementation/javascript-implementation/javascript-implementation-overview.html) in the *Analytics Implementation Guide*.
+For new implementations, see [JavaScript implementation overview](https://experienceleague.adobe.com/docs/analytics/implementation/javascript-implementation/javascript-implementation-overview.html) in the *Analytics Implementation Guide*.
 
-For a migration, see [Migrating to AppMeasurement for JavaScript](https://docs.adobe.com/content/help/en/analytics/implementation/javascript-implementation/appmeasurement-js/appmeasure-mjs-migrate.html) in the *Analytics Implementation Guide*.
+For a migration, see [Migrating to AppMeasurement for JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/javascript-implementation/appmeasurement-js/appmeasure-mjs-migrate.html) in the *Analytics Implementation Guide*.
 
 ## Step 5: Download and update at.js
 

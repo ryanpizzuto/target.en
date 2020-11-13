@@ -3,8 +3,6 @@ keywords: release notes;releases;updates;future release;enhancements;new feature
 description: Release notes that provide information about features, enhancements, and fixes for the latest or upcoming DNL Adobe Target releases.
 title: Adobe Target prerelease notes
 feature: 
-topic: Standard
-uuid: 35ecabbe-b8b4-479b-9266-4823c831d79a
 ---
 
 # Target release notes (prerelease){#target-release-notes-prerelease}

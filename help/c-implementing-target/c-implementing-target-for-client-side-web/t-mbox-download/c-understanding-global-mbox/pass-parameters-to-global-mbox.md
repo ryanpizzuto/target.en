@@ -1,16 +1,13 @@
 ---
 keywords: global mbox parameters;targetPageParams;query string;array;json;dtm;dynamic tag management
-description: The JavaScript targetPageParams function is used to pass parameters to the global mbox. This is needed in any scenario where additional targeting/context information is to be passed into Target.
+description: The JavaScript targetPageParams function is used to pass parameters to the global mbox. This is needed in any scenario where additional targeting/context information is to be passed into Adobe Target.
 title: Pass Parameters to a global mbox
 feature: 
-subtopic: Getting Started
-topic: Standard
-uuid: 058f0ef5-037a-4daf-8a1e-a9c7ecc7f0bd
 ---
 
 # Pass Parameters to a global mbox{#pass-parameters-to-a-global-mbox}
 
-The JavaScript `targetPageParams` function is used to pass parameters to the global mbox. This is needed in any scenario where additional targeting/context information is to be passed into [!DNL Target].
+The JavaScript `targetPageParams` function is used to pass parameters to the global mbox in [!DNL Adobe Target]. This is needed in any scenario where additional targeting/context information is to be passed into [!DNL Target].
 
  For example, in a [!DNL Recommendations] activity, use the parameters to represent the current product or category that is being viewed.
 
@@ -26,11 +23,11 @@ You can pass in parameters to `target-global-mbox` using the `targetPageParams()
 * A JSON object
 * An ampersand-delimited list
 
-Use these three methods to verify that the parameters are being passed correctly. You might also be able to verify the passing of parameters using the [Adobe Experience Cloud Debugger](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html).
+Use these three methods to verify that the parameters are being passed correctly. You might also be able to verify the passing of parameters using the [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html).
 
 You must define the JavaScript function before adding the global mbox to the page. The name must be `targetPageParams`.
 
-**Query String**
+## Query String
 
 ```
 p1=v1&p2=v2&p3=hello%20world
@@ -68,7 +65,7 @@ This example sends the following data to the mbox edge:
 * p2=v2 
 * p3=hello world
 
-**Array**
+## Array
 
 ```
 <!--window.-->targetPageParams = function() { 
@@ -85,7 +82,7 @@ This example sends the following data to the mbox edge:
 * b=2 
 * c=hello world
 
-**JSON**
+## JSON
 
 JSON is a powerful way to pass parameters. Target uses the JSON object keys to flatten complicated structures into simple parameters.
 
@@ -111,5 +108,5 @@ This example sends the following data to the mbox edge:
 
 * a=1 
 * b=2 
-* `profile.age`=26 
+* `profile.memberStatus`=Gold 
 * `profile.country.city`=San Francisco

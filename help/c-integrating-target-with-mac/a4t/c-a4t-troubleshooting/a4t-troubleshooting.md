@@ -3,9 +3,6 @@ keywords: analytics tracking server;A4T;analytics segments;report suites;incorre
 description: This topic covers some common issues that have been encountered when using Analytics as the reporting source for Target (A4T).
 title: Troubleshoot the Analytics and Target integration (A4T)
 feature: a4t troubleshooting
-subtopic: Multivariate Test
-topic: Standard
-uuid: a5aa3be5-68a2-4f12-8226-f32a76136bbd
 ---
 
 # Troubleshoot the Analytics and Target integration (A4T){#troubleshoot-the-analytics-and-target-integration-a-t}
@@ -81,7 +78,7 @@ Review your implementation, especially on pages where your visitors qualify for 
 
 The easiest way to examine the supplemental ID is by using the Adobe Experience Platform Debugger.
 
-If you have not installed the debugger, see [Introduction to the Adobe Experience Platform Debugger](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/web-sdk/introduction-to-the-experience-platform-debugger.html).
+If you have not installed the debugger, see [Introduction to the Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/web-sdk/introduction-to-the-experience-platform-debugger.html).
 
 ![Debugger](/help/c-integrating-target-with-mac/a4t/assets/debugger.png)
 

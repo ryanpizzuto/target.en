@@ -3,7 +3,6 @@ keywords: Target;reports;report settings;environment;lift;lift bound;variance;co
 description: Reports include several data points and visualization representations that help you understand the lift bounds and confidence level associated with your Adobe Target activity to help you more accurately determine a winner.
 title: Average Lift, Lift Bounds, and Confidence Interval
 feature: report settings
-uuid: 2899503a-d81e-4dc3-b258-a5ecafd1d1a4
 ---
 
 # Average Lift, Lift Bounds, and Confidence Interval

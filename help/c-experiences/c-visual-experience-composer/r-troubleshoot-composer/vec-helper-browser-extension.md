@@ -3,7 +3,6 @@ keywords: vec;visual experience composer; vec;iframe;extension;browser
 description: Information to use the Adobe Target Visual Experience Composer (VEC) Helper browser extension to load websites reliably within the VEC to rapidly author and QA experiences.
 title: Adobe Target Visual Experience Composer (VEC) helper extension
 feature: vec
-topic: Standard
 ---
 
 # Visual Experience Composer helper extension
@@ -59,7 +58,7 @@ The VEC Helper browser extension for Chrome solves site-loading issues for which
 
    * For more information on the SameSite=None attribute browser fix, see "How do the recently announced Google Chrome SameSite cookie enforcement policies impact the VEC and EEC?" in [Troubleshooting Issues Related to the Visual Experience Composer and Enhanced Experience Composer](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/issues-related-to-the-visual-experience-composer-vec-and-enhanced-experience-composer-eec.md#samesite).
 
-   * The cookie name is "mbox" and the cookie domain is the second and top levels of the domains from which you serve the mbox. Because it is served from your company's domain, the cookie is a first party cookie. Example: `mycompany.com`. For more information, see [Adobe Target Cookies](https://docs.adobe.com/content/help/en/core-services/interface/ec-cookies/cookies-target.html) in the *Experience Cloud Interface User Guide*.
+   * The cookie name is "mbox" and the cookie domain is the second and top levels of the domains from which you serve the mbox. Because it is served from your company's domain, the cookie is a first party cookie. Example: `mycompany.com`. For more information, see [Adobe Target Cookies](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-target.html) in the *Experience Cloud Interface User Guide*.
 
 ## Notes
 

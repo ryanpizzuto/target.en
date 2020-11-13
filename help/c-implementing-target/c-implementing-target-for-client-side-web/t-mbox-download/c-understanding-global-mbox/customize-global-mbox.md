@@ -3,9 +3,6 @@ keywords: global mbox;customize global mbox;edit at.js;at.js;implement at.js
 description: Information to help you customize a global mbox for at.js.
 title: Customize a Global mbox
 feature: 
-subtopic: Getting Started
-topic: Standard
-uuid: 0f784d6e-8f36-4c26-adbf-0d56b7d6d390
 ---
 
 # Customize a Global mbox{#customize-a-global-mbox}

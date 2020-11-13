@@ -3,8 +3,6 @@ keywords: experience;visual experience composer;enhanced experience composer;for
 description: An experience determines which content displays when the visitor meets the audience criteria for an activity.
 title: Experiences and offers
 feature: experiences
-topic: Standard
-uuid: cff5ac56-2f63-48e9-ba06-eb66de9e769f
 ---
 
 # Experiences and offers{#experiences-and-offers}

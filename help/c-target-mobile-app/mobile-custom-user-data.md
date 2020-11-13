@@ -3,8 +3,6 @@ keywords: mobile app;mobile app send data;target mobile app;mobile custom user d
 description: You can send additional information about the location or the user to Target as name-value pairs.
 title: iOS - send custom user data
 feature: mobile implementation
-topic: Target
-uuid: 00baa1e2-4d1c-4835-ac55-47c9ac8985ac
 ---
 
 # iOS - send custom user data{#ios-send-custom-user-data}

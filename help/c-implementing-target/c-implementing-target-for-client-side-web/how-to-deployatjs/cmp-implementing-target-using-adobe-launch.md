@@ -3,7 +3,6 @@ keywords: implement;implementing;implementation;adobe launch;launch;race;redirec
 description: Adobe Experience Platform Launch is the next-generation tag management platform from Adobe and is the preferred method to implement Adobe Target. Launch gives customers a simple way to deploy and manage all of the analytics, marketing, and advertising tags necessary to power relevant customer experiences.
 title: Implement Target using Adobe Launch
 feature: implementation with launch
-uuid: c8cd855b-bed1-4fc2-a0e3-f1ea6ab620e6
 ---
 
 # Implement Target using Adobe Launch{#implement-target-using-adobe-launch}
@@ -18,9 +17,9 @@ The following table lists the various sources where you can get more information
 
 | Resource | Details |
 |--- |--- |
-|[Implementing Target using the Adobe Target Extension Tutorial](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/implement-solutions/target.html)|This tutorial provides step-by-step instructions to implement Adobe Target in a website with Launch. Topics include adding the at.js JavaScript library, firing the global mbox, adding parameters, and integrating with other solutions. This article is part of a larger tutorial that shows you how to implement Adobe Launch, as well as the other Adobe Experience Cloud solutions.|
-|[Adobe Launch Documentation](https://docs.adobe.com/content/help/en/launch/using/intro/get-started/quick-start.html)|Information about deploying and managing all of the analytics, marketing, and advertising tags necessary to power relevant customer experiences.|
-|[Adobe Target Extension Documentation](https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/target-extension/overview.html)|Information about implementing Target using Launch.|
+|[Implementing Target using the Adobe Target Extension Tutorial](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-websites-with-launch/implement-solutions/target.html)|This tutorial provides step-by-step instructions to implement Adobe Target in a website with Launch. Topics include adding the at.js JavaScript library, firing the global mbox, adding parameters, and integrating with other solutions. This article is part of a larger tutorial that shows you how to implement Adobe Launch, as well as the other Adobe Experience Cloud solutions.|
+|[Adobe Launch Documentation](https://experienceleague.adobe.com/docs/launch/using/intro/get-started/quick-start.html)|Information about deploying and managing all of the analytics, marketing, and advertising tags necessary to power relevant customer experiences.|
+|[Adobe Target Extension Documentation](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/target-extension/overview.html)|Information about implementing Target using Launch.|
 
 ## Advantages of implementing at.js using the Target Launch extension {#section_48B3F938B6F8491DAF798E0DB54EF304}
 

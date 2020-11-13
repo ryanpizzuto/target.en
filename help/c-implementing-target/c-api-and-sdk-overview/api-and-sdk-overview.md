@@ -3,8 +3,6 @@ keywords: server side;server-side;api;sdk;node.js;nodejs;node js;recommendations
 description: Information about Adobe Target server-side delivery APIs, SDKs, and Target Recommendations APIs.
 title: Information about Adobe Target server-side delivery APIs, Node.js SDK, and Target Recommendations APIs.
 feature: server-side
-topic: Recommendations
-uuid: 21d321c7-3da4-44a2-a04f-1807cc2a893b
 ---
 
 # Server Side: implement Target{#server-side-implement-target}
@@ -48,6 +46,6 @@ The [!DNL Adobe Target] server-side SDK documentation portal helps you implement
 
 ## Target Recommendations APIs
 
-Link: [Target Recommendations APIs](https://developers.adobetarget.com/api/recommendations) and [Adobe Recommendations API Overview](https://docs.adobe.com/content/help/en/target-learn/recommendations-api-tutorial/recs-api-overview.html).
+Link: [Target Recommendations APIs](https://developers.adobetarget.com/api/recommendations) and [Adobe Recommendations API Overview](https://experienceleague.adobe.com/docs/target-learn/recommendations-api-tutorial/recs-api-overview.html).
 
 The Recommendations APIs let you programmatically interact with [!DNL Target] recommendations servers. These APIs can be integrated with a range of application stacks to perform functions that you would typically do via the [!DNL Target] user interface.

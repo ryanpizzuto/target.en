@@ -3,8 +3,6 @@ keywords: mbox;mbox3rdPartyId;profile syncing;profile synch;PCID
 description: Information about real-time profile 
 title: Real-time profile syncing for mbox3rdPartyId in Adobe Target
 feature: visitor profiles
-topic: Standard
-uuid: a88353d1-36e8-48b2-9b5e-71ed437c5b99
 ---
 
 # Real-time profile syncing for mbox3rdPartyId{#real-time-profile-syncing-for-mbox-rdpartyid}

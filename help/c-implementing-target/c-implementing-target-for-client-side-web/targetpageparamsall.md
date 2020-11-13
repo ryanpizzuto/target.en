@@ -3,8 +3,6 @@ keywords: targetPageParamsAll;targetpageparamsall;PageParamsAll;pageparamsall;pa
 description: Information about the targetPageParamsAll() function for the Adobe Target at.js JavaScript library.
 title: targetPageParamsAll()
 feature: client-side
-subtopic: Getting Started
-topic: Standard
 ---
 
 # targetPageParamsAll()

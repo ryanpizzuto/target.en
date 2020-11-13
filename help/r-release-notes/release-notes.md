@@ -3,8 +3,6 @@ keywords: Release notes;new features;releases;updates;update;release;enhancement
 description: These release notes provide information about features, enhancements, fixes, and known issues for each Adobe Target Standard and Target Premium release.
 title: Adobe Target release notes (current) 
 feature: release notes
-topic: Recommendations
-uuid: f6c3e64d-de1e-416c-a56f-2122a58b613e
 ---
 
 # Target release notes (current){#target-release-notes-current}
@@ -22,6 +20,12 @@ These release notes provide information about features, enhancements, and fixes 
 >* **Target Announcements**: See the Target announcements page for information about upcoming events, including Target Skill Builder sessions, developer chats, webinars, and Target Coffee Break sessions. For more information, see [Target announcements](/help/r-release-notes/target-announcements.md).
 
 The issue numbers in parentheses are for internal [!DNL Adobe] use.
+
+## at.js 2.3.3 (November 13, 2020)
+
+This release of at.js is a maintenance release and includes the following fix:
+
+* Fixed an issue related to mbox click tracking and A4T.
 
 ## Target Standard/Premium 20.10.1 (October 27, 2020)
 
@@ -58,7 +62,7 @@ In addition to the notes for each release, the following resources provide addit
 |--- |--- |
 |Documentation changes|View detailed information about updates to this guide that might not be included in these release notes.<br>For more information, see [Documentation Changes](/help/r-release-notes/doc-change.md#reference_366123CF00994BACBBF9BBDF2C4D840C).|
 |Release notes for previous releases|View information about new features and enhancements in previous releases of Target Standard and Target Premium.<br>For more information, see [Release notes for previous releases](/help/r-release-notes/release-notes-for-previous-releases.md).|
-|Adobe Experience Cloud release notes|View the latest release notes for the Adobe Experience Cloud solutions.<br>For more information, see [Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html).|
+|Adobe Experience Cloud release notes|View the latest release notes for the Adobe Experience Cloud solutions.<br>For more information, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html).|
 
 ## Prerelease Information {#section_5D588F0415A2435B851A4D0113ACA3A0}
 

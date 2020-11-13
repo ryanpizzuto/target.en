@@ -3,8 +3,6 @@ keywords: character limit;mbox parameters;batch delivery api;profile parameters;
 description: Information about the character limits and other limits (offer size, audiences, profiles, values, parameters, etc.) that affect activities and other elements in Adobe Target.
 title: Limits
 feature: reference general
-topic: Standard
-uuid: 603fb800-a26c-43ec-b2d9-ef7a8ed8721e
 ---
 
 # Limits{#limits}

@@ -3,7 +3,6 @@ keywords: analytics tracking server;A4T;Adobe Experience Cloud debugger;Adobe Ex
 description: If you are using an older version of at.js or mbox.js, you must specify an analytics tracking server for activities that use Analytics for Target (A4T).
 title: Use an Analytics tracking server
 feature: a4t general
-uuid: ad700b90-f409-496a-bc26-0f0367410a85
 ---
 
 # Use an Analytics tracking server
@@ -24,7 +23,7 @@ The debugger should be viewed on a page where the activity will be delivered to 
 
 1. From the page on which you are creating your activity, open the [!DNL Adobe Experience Platform Debugger].
 
-   If you have not installed the debugger, see [Introduction to the Adobe Experience Platform Debugger](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/web-sdk/introduction-to-the-experience-platform-debugger.html).
+   If you have not installed the debugger, see [Introduction to the Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/web-sdk/introduction-to-the-experience-platform-debugger.html).
 
    ![](assets/Screen_DebuggerTrackServ.png)
 

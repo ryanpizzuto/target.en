@@ -3,7 +3,6 @@ keywords: Targeting;traffic sources;target traffic sources;target search engine;
 description: Create audiences in Adobe Target to target visitors based on the search engine or landing page that refers them to your site.
 title: Traffic Sources options in Adobe Target audiences
 feature: audiences
-uuid: 725cb4f4-6530-403a-a9c8-305219765615
 ---
 
 # Traffic Sources{#traffic-sources}

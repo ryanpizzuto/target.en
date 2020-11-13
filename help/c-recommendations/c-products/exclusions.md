@@ -3,7 +3,6 @@ keywords: exclusions
 description: Create an exclusion in [!DNL Adobe Target Recommendations] to prevent products or content from being recommended to visitors.
 title: Exclusions in Adobe Target
 feature: entities
-uuid: 1970846e-37d8-4b69-a0d9-ff45bb840bef
 ---
 
 # Exclusions{#exclusions}

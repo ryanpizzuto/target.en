@@ -3,8 +3,6 @@ keywords: Target Standard;faq;frequently asked questions;cheat sheet;cheatsheet
 description: A list of frequently asked questions about using the features in Adobe Target, along with information and links for more information.
 title: Target optimization and personalization FAQ
 feature: intro 
-topic: Advanced
-uuid: b6052939-6ed4-4c90-b118-77b6fe42b0af
 ---
 
 # Target optimization and personalization FAQ{#target-optimization-and-personalization-faq}
@@ -230,7 +228,7 @@ Use [form-based approach](/help/c-experiences/form-experience-composer.md#task_F
 
 **Can I ensure that same experience is delivered consistently across all devices a user might have?**
 
-Check out our [Device Co-op](https://docs.adobe.com/content/help/en/device-co-op/using/home.html) that allows you to deterministically and probabilistically link multiple devices of a user through the power of a Co-op .
+Check out our [Device Co-op](https://experienceleague.adobe.com/docs/device-co-op/using/home.html) that allows you to deterministically and probabilistically link multiple devices of a user through the power of a Co-op .
 
 If you are in the Co-op, a simple flag on the Goals and Settings page enables the feature. Reporting also changes to now reflect People instead of Visitors. Talk to your Adobe contact for more on this feature as this is not available in all regions.
 

@@ -3,8 +3,6 @@ keywords: a4t;A4T;Analytics as the reporting source for Target
 description: You can configure an activity in Target Standard/Premium to use Adobe Analytics as the reporting source (A4T).
 title: Create an activity that uses A4T as the reporting source
 feature: a4t general
-topic: Advanced,Standard,Classic
-uuid: b04ad535-62fb-4dd3-ab3f-23da60fbffbd
 ---
 
 # Create an activity that uses Analytics as the reporting source
@@ -139,4 +137,4 @@ Some limitations and notes apply to both Auto-Allocate and Auto-Target. Other li
 * [!UICONTROL Auto-Target] models continue to train every 24 hours, as usual. However, conversion event data coming from [!DNL Analytics] is delayed by an additional six to 24 hours. This delay means the distribution of traffic by [!DNL Target] will trail the latest events recorded in [!DNL Analytics]. This will have the largest effect in the first 48 hours after an activity is first activated; the activity’s performance will more closely mirror [!DNL Analytics] conversion behavior after five days have elapsed. You should consider using [!UICONTROL Auto-Allocate] instead of [!UICONTROL Auto-Target] for short-duration activities where most traffic occurs within the first five days of the activity’s life.
 * When using [!DNL Analytics] as the data source for an [!UICONTROL Auto-Target] activity, sessions are considered to be ended after six hours have elapsed. Conversions occurring after six hours will not be counted.
 
-For more information, see [Attribution models and lookback windows](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/attribution/models.html) in the *Analytics Tools Guide*.
+For more information, see [Attribution models and lookback windows](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html) in the *Analytics Tools Guide*.

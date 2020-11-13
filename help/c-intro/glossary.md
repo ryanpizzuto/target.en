@@ -2,8 +2,6 @@
 description: Definitions of terms.
 title: Adobe Target Glossary
 feature: intro
-topic: Standard
-uuid: df0e5612-bfe8-48a5-be2c-1d50ce9fd3f5
 ---
 
 # Glossary{#glossary}

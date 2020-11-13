@@ -3,8 +3,6 @@ keywords: document.write;target;implement;implement target;dtm;dynamic tag manag
 description: Implement Target by referencing the Target libraries (at.js or mbox.js) on your web pages.
 title: Understand the Target JavaScript libraries
 feature: implementation general
-topic: Target
-uuid: c8a254c9-afc9-4a55-be01-788c11bef7cc
 ---
 
 # Understand the [!DNL Target] JavaScript libraries{#understand-the-target-javascript-libraries}

@@ -4,7 +4,6 @@ description: Use metrics in an Adobe Target Experience Targeting (XT) activity t
 title: Set Metrics
 feature: xt
 solution: Target
-uuid: 5b2f6613-0773-4614-9d39-d9a408566969
 ---
 
 # Set metrics{#set-metrics}

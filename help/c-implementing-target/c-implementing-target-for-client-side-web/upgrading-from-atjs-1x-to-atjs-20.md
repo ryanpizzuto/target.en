@@ -3,8 +3,6 @@ keywords: at.js releases;at.js versions;single page app;spa;cross domain;cross-d
 description: Detailed information about how to upgrade from Adobe Target at.js 1.*x* to at.js version 2.0.0
 title: Upgrade from Adobe Target at.js version 1.*x* to at.js version 2.*x*
 feature: client-side
-subtopic: Getting Started
-uuid: 3586af55-db15-4e68-90a7-d552338ec5e8
 ---
 
 # Upgrading from at.js 1.*x* to at.js 2.*x* {#upgrading-from-atjs-1x-to-atjs-200}
@@ -283,7 +281,7 @@ In Target, the third-party cookie is stored in `<CLIENTCODE>.tt.omtrdc.net`. The
 
 However, in at.js 2.*x*, HTTP GET is no longer used and instead we use HTTP POST. HTTP POST is now used via at.js 2.*x* to send JSON payloads to Target Edge servers. This means that the redirect request to check whether a browser supports third-party cookies now breaks. This is because HTTP GET requests are idempotent transactions, while HTTP POST is non-idempotent and must not be arbitrarily repeated. Therefore, cross-domain tracking in at.js 2.*x* is no longer supported out of the box. Only at.js 1.*x* has out-of-the-box support for cross-domain tracking.
 
-If you want to use cross-domain tracking, you must install the [ECID library v4.3.0+](https://docs.adobe.com/content/help/en/id-service/using/release-notes/release-notes.html) in conjunction with at.js 2.*x*. The ECID library exists to manage persistent IDs that are used to identify a visitor even across domains. 
+If you want to use cross-domain tracking, you must install the [ECID library v4.3.0+](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html) in conjunction with at.js 2.*x*. The ECID library exists to manage persistent IDs that are used to identify a visitor even across domains. 
 
 >[!NOTE]
 >

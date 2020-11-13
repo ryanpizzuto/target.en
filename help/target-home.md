@@ -4,7 +4,6 @@ title: Adobe Target Guide
 description: View the home page of the Target Guide.
 seo-description: Adobe Target is the Adobe Experience Cloud solution that provides everything you need to tailor and personalize your customers' experience so you can maximize revenue on your web and mobile sites, apps, social media, and other digital channels.
 feature: landing
-uuid: 8755e622-8a31-4106-ba90-b1128a0cf89c
 ---
 
 # [!DNL Adobe Target] Guide
@@ -13,7 +12,7 @@ uuid: 8755e622-8a31-4106-ba90-b1128a0cf89c
 
 [!DNL Adobe Target] is the [!DNL Adobe Experience Cloud] solution that provides everything you need to tailor and personalize your customers' experience so you can maximize revenue on your web and mobile sites, apps, social media, and other digital channels.
 
-**Last Updated: November 3, 2020 ( [See What Changed](r-release-notes/doc-change.md) )**
+**Last Updated: November 13, 2020 ( [See What Changed](r-release-notes/doc-change.md) )**
 
 >[!NOTE]
 >
@@ -37,7 +36,7 @@ Marketers, developers, administrators, analysts, and quality assurance engineers
 - [Target release notes](r-release-notes/release-notes.md): Contains information about the current release, information about known issues that affect [!DNL Target], a list of important changes to this documentation, and an archive of past release notes.
 - [Introduction to Target](c-intro/intro.md): Explains the core concepts of the [!DNL Target] solution.
 - Integrate Target with the Adobe Experience Cloud: Explains how to integrate [!DNL Target] with other [!DNL Experience Cloud] solutions, including [Analytics for Target](/help/c-integrating-target-with-mac/a4t/a4t.md) (A4T), [Experience Cloud Audiences](/help/c-integrating-target-with-mac/mmp.md), [Adobe Campaign](/help/c-integrating-target-with-mac/campaign-and-target.md), and the [Experience Cloud Device Co-op](/help/c-integrating-target-with-mac/experience-cloud-device-co-op.md).
-- [Adobe Target Tutorials](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html): Provides tutorials and videos to help you get the most out of Target.
+- [Adobe Target Tutorials](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html): Provides tutorials and videos to help you get the most out of Target.
 - [Troubleshooting Target](r-troubleshooting-target/troubleshooting-target.md): Provides links to troubleshooting information contained in this guide, including information about the character limits and other limits (offer size, audiences, profiles, values, parameters, etc.) that affect activities and other elements in [!DNL Target].
 - [Target for mobile apps](c-target-mobile-app/target-mobile-app.md): Explains how [!DNL Target] can be used for mobile app optimization and personalization.
 - [Resources and contact information](cmp-resources-and-contact-information.md): Provides information about additional resources to help you learn about [!DNL Target] features and how to contact [!DNL Adobe] should you need help.
@@ -75,4 +74,4 @@ Marketers, developers, administrators, analysts, and quality assurance engineers
 
 | Adobe [!DNL Target] solutions help | [!DNL Adobe Experience Cloud] resources |
 |--- |--- |
-|<ul><li>[Adobe Target Learn & Support](https://helpx.adobe.com/support/target.html)</li><li>[Premium Recommendations](c-recommendations/recommendations.md)</li><li>[Adobe Recommendations Classic](/help/assets/adobe-recommendations-classic.pdf)</li><li>[Search&Promote](https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html)</li><li>[Target API Documentation](c-implementing-target/c-api-and-sdk-overview/api-and-sdk-overview.md)</li></ul>|<ul><li>[Target Community Forum](https://forums.adobe.com/community/experience-cloud/marketing-cloud/target)</li><li>[Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)</li><li>[Experience Cloud Help Home](https://helpx.adobe.com/support/experience-cloud.html)</li><li>[Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)</li><li>[Adobe Training and Tutorials](https://helpx.adobe.com/learning.html?promoid=KAUDK)</li></ul>||
+|<ul><li>[Adobe Target Learn & Support](https://helpx.adobe.com/support/target.html)</li><li>[Premium Recommendations](c-recommendations/recommendations.md)</li><li>[Adobe Recommendations Classic](/help/assets/adobe-recommendations-classic.pdf)</li><li>[Search&Promote](https://experienceleague.adobe.com/docs/search-promote/using/sp-home.html)</li><li>[Target API Documentation](c-implementing-target/c-api-and-sdk-overview/api-and-sdk-overview.md)</li></ul>|<ul><li>[Target Community Forum](https://forums.adobe.com/community/experience-cloud/marketing-cloud/target)</li><li>[Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)</li><li>[Experience Cloud Help Home](https://helpx.adobe.com/support/experience-cloud.html)</li><li>[Adobe Experience Cloud Documentation](https://experienceleague.adobe.com/docs/experience-cloud/user-guides/home.html)</li><li>[Adobe Training and Tutorials](https://helpx.adobe.com/learning.html?promoid=KAUDK)</li></ul>||

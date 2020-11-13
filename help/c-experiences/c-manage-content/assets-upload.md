@@ -3,8 +3,6 @@ keywords: content;update content;assets;upload content;upload asset
 description: You can add items to the Image Offers list.
 title: Upload content
 feature: offers
-topic: Standard
-uuid: f6ab926b-163a-4873-80a5-48d2d225ac88
 ---
 
 # Upload content{#upload-content}
@@ -22,7 +20,7 @@ You can add items to or remove items from the Image Offers list.
 
 This video includes information about managing content. 
 
-* Connection between the [Experience Cloud Asset Library](https://docs.adobe.com/content/help/en/core-services/interface/assets/creative-cloud.html) and the Target Content Library 
+* Connection between the [Experience Cloud Asset Library](https://experienceleague.adobe.com/docs/core-services/interface/assets/creative-cloud.html) and the Target Content Library 
 * Custom HTML Offers 
 * Custom HTML Offer in the Visual Experience Composer 
 

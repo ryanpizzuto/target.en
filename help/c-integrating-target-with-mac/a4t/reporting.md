@@ -3,9 +3,6 @@ keywords: analytics for target;a4t;analytics as the reporting source
 description: Using Analytics as your reporting source for Target (A4T) gives you access to Analytics reports for your Target activities.
 title: A4T reporting
 feature: a4t reports
-subtopic: Multivariate Test
-topic: Standard
-uuid: bd3a7fa4-ba45-4ea3-81b6-fc2584831ce4
 ---
 
 # A4T reporting{#a-t-reporting}
@@ -45,7 +42,7 @@ In [!DNL Analytics], there are several dimensions and metrics made available aft
 * [!UICONTROL Activity Impressions] - Matches the [!UICONTROL Entrants] number in the [!DNL Target] report.
 * [!UICONTROL Activity Conversions] - Matches the [!UICONTROL Custom Conversions] number in the [!DNL Target] report.
 
-In [!DNL Analysis Workspace], use the [!UICONTROL Analytics for Target] panel to analyze your [!DNL Target] activities and experiences with lift & confidence. For more information, see [Analytics for Target (A4T) Panel](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) in the *Analytics Tools Guide*.
+In [!DNL Analysis Workspace], use the [!UICONTROL Analytics for Target] panel to analyze your [!DNL Target] activities and experiences with lift & confidence. For more information, see [Analytics for Target (A4T) Panel](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html) in the *Analytics Tools Guide*.
 
 >[!IMPORTANT]
 >

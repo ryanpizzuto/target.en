@@ -3,8 +3,6 @@ keywords: faq;frequently asked questions;analytics for target;a4T;report;reports
 description: This topic contains answers to questions that are frequently asked about viewing reports when using Analytics as the reporting source for Target (A4T).
 title: View reports - A4T FAQ
 feature: a4t troubleshooting
-topic: Standard
-uuid: d51991f7-cdda-4a59-b64c-7ef1c3f8380d
 ---
 
 # View reports - A4T FAQ{#view-reports-a-t-faq}
@@ -13,7 +11,7 @@ This topic contains answers to questions that are frequently asked about viewing
 
 ## Can I view my Target activity data in Analysis Workspace? {#workspace}
 
-You can use [!DNL Analysis Workspace] to analyze your [!DNL Target] activities and experiences. The [Analytics for Target panel](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) lets you see lift & confidence for as many as three success metrics. You can also dig deeper using tables and visualizations.
+You can use [!DNL Analysis Workspace] to analyze your [!DNL Target] activities and experiences. The [Analytics for Target panel](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html) lets you see lift & confidence for as many as three success metrics. You can also dig deeper using tables and visualizations.
 
 For detailed information and examples, open the [Analytics & Target: Best Practices for Analysis tutorial](https://spark.adobe.com/page/Lo3Spm4oBOvwF/), provided by Adobe Experience League.
 
@@ -46,7 +44,7 @@ Consider the following:
 
 [!DNL Reports & Analytics] applies a same-touch attribution model to "activity impressions" and "activity conversions," whereas [!DNL Analysis Workspace] displays the raw metrics, which can appear inflated due to persistence of the [!DNL Target] dimension.
 
-To evaluate accurate [!UICONTROL Activity Impressions] and [!UICONTROL Activity Conversions] metrics in [!DNL Analysis Workspace], ensure that both metrics have [!UICONTROL Same Touch] attribution models applied. Models can be applied by clicking the column settings gear, enabling [!UICONTROL Non-default attribution models], then selecting [!UICONTROL Same Touch]. Learn more about attribution in [Attributes IQ overview](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution.html) in the *Analytics Tools Guide*.
+To evaluate accurate [!UICONTROL Activity Impressions] and [!UICONTROL Activity Conversions] metrics in [!DNL Analysis Workspace], ensure that both metrics have [!UICONTROL Same Touch] attribution models applied. Models can be applied by clicking the column settings gear, enabling [!UICONTROL Non-default attribution models], then selecting [!UICONTROL Same Touch]. Learn more about attribution in [Attributes IQ overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution.html) in the *Analytics Tools Guide*.
 
 ## What does "activity conversions" mean if the marketer picks an Analytics metric during activity setup? {#section_F3EBACF85AF846E9B366A549AAB64356}
 
@@ -101,7 +99,7 @@ The user then comes back on April 1, views another five pages, and makes a purch
 
 Because both experiences were seen prior to the conversion, they both get “credit” for the order. But, only one order took place in the system and the total reflects that. For [!DNL Target] reporting, because you aren’t putting a [!DNL Target] activity against another activity to see which is more successful, it doesn’t matter that all activities the user saw got credit. You’re comparing the results of two items within the single activity, and it's not possible for a user to see different experiences in the same activity so you don’t have to worry about cross-contamination of order credit.
 
-For more information, see [Conversion Variables (eVar](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/conversion-variables/conversion-var-admin.html)) in the *Analytics Admin Guide*.
+For more information, see [Conversion Variables (eVar](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-var-admin.html)) in the *Analytics Admin Guide*.
 
 ## Why do Analytics and Analytics for Target (A4T) calculate numbers for the Unique Visitors metric differently? {#section_0C3B648AB54041F9A2AA839D51791883}
 

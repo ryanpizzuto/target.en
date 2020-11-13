@@ -3,8 +3,6 @@ keywords: adobe.target.triggerView;triggerView;triggerview;trigger view;at.js;fu
 description: Information about the adobe.target.triggerView (viewName, options) function for the Adobe Target at.js JavaScript library.
 title: adobe.target.triggerView (viewName, options) - at.js 2.x
 feature: client-side 
-subtopic: Getting Started
-topic: Standard
 ---
 
 # adobe.target.triggerView (viewName, options) - at.js 2.x
@@ -19,7 +17,7 @@ This function can be called whenever a new page is loaded or when a component on
 | --- | --- | --- | --- |
 |viewName|String|Yes|Pass in any name as a string type that you want to represent your view. This view name appears in the [!UICONTROL Modifications] panel of the VEC for marketers to create actions and run their A/B and XT activities.|
 |options|Object|No||
-|options > page|Boolean|No|**TRUE:** Default value of page is true. When page=true, notifications are sent to the [!DNL Target] backend for incrementing impression count.<br>If no activity experience or activity metric is associated with the view, no notification is sent.<br>**FALSE:** When page=false, notifications are not sent for incrementing impression count. This should be used when you want to only re-render a component on a page with an offer.|
+|options > page|Boolean|No|**TRUE:** Default value of page is true. When page=true, notifications are sent to the [!DNL Target] backend for incrementing impression count.<br>A notification is always sent by default when a `triggerView` is called, except when options > page is set to false.<br>**FALSE:** When page=false, notifications are not sent for incrementing impression count. This should be used when you want to only re-render a component on a page with an offer.|
 
 ## Example: True
 

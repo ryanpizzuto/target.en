@@ -3,7 +3,6 @@ keywords: content;assets;manage content;offers;manage assets;enter selection mod
 description: Use the Offers library to manage your code offer and image offer content.
 title: Offers
 feature: offers
-uuid: 925b930a-1fa9-41a3-a11b-f5241dab7725
 ---
 
 # Offers{#offers}
@@ -84,7 +83,7 @@ The following information is available:
 
 This video includes information about managing offers.
 
-* Connection between the [Experience Cloud Asset Library](https://docs.adobe.com/content/help/en/core-services/interface/assets/creative-cloud.html) and the Target Content Library 
+* Connection between the [Experience Cloud Asset Library](https://experienceleague.adobe.com/docs/core-services/interface/assets/creative-cloud.html) and the Target Content Library 
 * Custom HTML Offers 
 * Custom HTML Offer in the Visual Experience Composer
 

@@ -3,8 +3,6 @@ keywords: redirect offer;create redirect offer;add html offer;Pass all URL param
 description: Information about redirect offers in Adobe Target that cause a browser to redirect to a new page.
 title: Create redirect offers
 feature: offers
-topic: Standard
-uuid: 54336965-a26e-47c3-b3bc-079d3573502a
 ---
 
 # Create redirect offers{#create-redirect-offers}
@@ -56,7 +54,7 @@ The redirect offer executes JavaScript code to redirect the browser. It uses the
 
 This video includes information about managing content.
 
-* Connection between the [Experience Cloud Asset Library](https://docs.adobe.com/content/help/en/core-services/interface/assets/creative-cloud.html) and the Target Content Library 
+* Connection between the [Experience Cloud Asset Library](https://experienceleague.adobe.com/docs/core-services/interface/assets/creative-cloud.html) and the Target Content Library 
 * Custom HTML Offers 
 * Custom HTML Offer in the Visual Experience Composer
 

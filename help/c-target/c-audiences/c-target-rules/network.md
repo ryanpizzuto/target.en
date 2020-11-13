@@ -3,7 +3,6 @@ keywords: Targeting;network;target network;isp;domain name;connection speed;targ
 description: You can create audiences in Adobe Target based on network details.
 title: Network options in Adobe Target audiences
 feature: audiences
-uuid: 06b9c92a-e9bd-4444-abbc-7b6dffcefea7
 ---
 
 # Network{#network}

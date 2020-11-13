@@ -3,8 +3,6 @@ keywords: email;ESP;email service provider;rawbox;delivery API;download-only tem
 description: Information about the ways to integrate email with Recommendations.
 title: Integrate Recommendations with email
 feature: recommendations general
-topic: Recommendations
-uuid: ae137d7c-58c5-4601-92fc-2dc5548760fd
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Integrate Recommendations with email{#integrate-recommendations-with-email}

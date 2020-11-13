@@ -3,8 +3,6 @@ keywords: at.js;debug at.js;adobe Experience Cloud debugger;experience cloud deb
 description: Information about using the Adobe Experience Cloud Debugger extension, which makes it fast and easy to understand your Target implementation.
 title: Debug at.js using the Adobe Experience Cloud Debugger
 feature: troubleshooting general
-topic: Target
-uuid: 04cfb0fe-1f45-4824-bd06-d54c43baaffe
 ---
 
 # Debug at.js using the Adobe Experience Cloud Debugger{#debug-at-js-using-the-adobe-experience-cloud-debugger}
@@ -13,7 +11,7 @@ Information about using the Adobe Experience Cloud Debugger extension, which mak
 
 You can quickly view your library configuration, examine requests to make sure your custom parameters are being passed correctly, turn on console logging, and disable all Target requests. Authenticate into the Experience Cloud and you can use the powerful Mbox Trace tool to inspect your activity and audience qualifications as well as your visitor profile.
 
-Review the [Adobe Experience Cloud Debugger Extension documentation](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html) for more information. Information specific to Target can be found in the [Tools](https://docs.adobe.com/content/help/en/debugger/using/tools.html) section.
+Review the [Adobe Experience Cloud Debugger Extension documentation](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html) for more information. Information specific to Target can be found in the [Tools](https://experienceleague.adobe.com/docs/debugger/using/tools.html) section.
 
 ## Training videos
 

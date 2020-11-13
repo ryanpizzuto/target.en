@@ -3,8 +3,6 @@ keywords: faq;frequently asked questions;analytics for target;a4T;redirect;redir
 description: This topic contains answers to questions that are frequently asked about using redirect offers when using Analytics as the reporting source for Target (A4T).
 title: Redirect offers - A4T FAQ
 feature: a4t troubleshooting
-topic: Standard
-uuid: a45cef89-3003-4177-bf84-3d5a486b950d
 ---
 
 # Redirect offers - A4T FAQ{#redirect-offers-a-t-faq}

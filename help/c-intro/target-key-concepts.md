@@ -3,9 +3,6 @@ keywords: Overview and Reference;act
 description: Information about key concepts that will help you understand the features and capabilities of Adobe Target.
 title: Target key concepts
 feature: intro
-subtopic: Getting Started
-topic: Standard
-uuid: c62ac156-b4cf-494c-979f-33f889abd118
 ---
 
 # Target key concepts{#target-key-concepts}
@@ -96,7 +93,7 @@ Audiences can be saved for reuse in multiple activities, or they can be created 
 |--- |--- |
 |Reusable audiences|Reusable audiences can be selected for any activity. Changing one of these audiences changes it for all activities that use it.|
 |Custom segments|Custom segments (also known as campaign-specific segments) are specific to a campaign in  Target Classic. They are created as a part of the campaign and cannot be reused in other campaigns.|
-|Shared audiences|Audiences can be shared across [!DNL Adobe Experience Cloud] solutions. See [Audiences](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html) for examples.|
+|Shared audiences|Audiences can be shared across [!DNL Adobe Experience Cloud] solutions. See [Audiences](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) for examples.|
 
 For information about how the visitor profile tracks information about visitors to your site, see [Visitor Profiles](/help/c-target/c-visitor-profile/visitor-profile.md#concept_5E53D1A6DF224D7BAE76F4AE390B9DA1). 
 
