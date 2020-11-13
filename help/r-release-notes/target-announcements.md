@@ -24,21 +24,6 @@ In this live webinar, join Adobe Target product experts as they discuss how movi
 
 [Register here for this exciting event.](https://www.adobeeventsonline.com/Target/2020/OnDeviceDecisions/invite.html)
 
-## Adobe Target Community Q&A Coffee Break
-
-* **Wednesday, November 11, 2020**
-* **8 a.m. PST**
-
-Our expert will be Senior [!DNL Adobe Target] Product Manager, David Son who will be sharing insights and expertise on the following topics: 
-
-* On-device decisioning 
-* At.js
-* Mobile
-* AEP Web SDK
-* APIs
-
-[Register here.](https://adobe.ly/2H3MBX9)
-
 ## Webinar: How HSBC leverages Adobe Target and AI to rapidly optimize and deliver personalization at scale
 
 * **You can click here to view the [Webinar Recording](https://seminars.adobeconnect.com/ps4ozlg7qfdy/?proto=true).**
