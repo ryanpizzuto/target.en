@@ -15,6 +15,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 | --- | --- | --- |
 |November 17|[Activity settings - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-activity-setup.md)|Added following FAQ: "Can a visitor switch between targeted and controlled experiences in different visits in an Auto-Target activity that uses A4T?"|
 ||[Auto-Target troubleshooting and FAQs](/help/c-activities/auto-target/auto-target-troubleshooting-faqs.md)|Added following FAQ: "Do you recommend that we use Auto Target with a 90(Control)/10(Targeted) split until the models are built?"|
+||[View reports - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-viewing-reports.md)|Added following FAQ: "How are visits counted in Analytics and conversion credit allocated in an Auto-Target activity that uses A4T?"|
 |November 13|[at.js version details](/help/c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md)|Added information about at.js 2.3.3.|
 |November 10|[Target announcements and events](/help/r-release-notes/target-announcements.md)|Added information about the Adobe Target Community Q&A Coffee Break scheduled for November 11.|
 |November 3|[Troubleshoot the Analytics and Target integration (A4T)](/help/c-integrating-target-with-mac/a4t/c-a4t-troubleshooting/a4t-troubleshooting.md)|Updated the following the following troubleshooting topic: "The report suite I need does not display."|
