@@ -5,7 +5,7 @@ title: View reports - A4T FAQ
 feature: a4t troubleshooting
 ---
 
-# View reports - A4T FAQ{#view-reports-a-t-faq}
+# View reports - A4T FAQ
 
 This topic contains answers to questions that are frequently asked about viewing reports when using [!DNL Analytics] as the reporting source for [!DNL Target] (A4T).
 
@@ -128,3 +128,16 @@ Virtual report suites are *not* included in the [!UICONTROL Report Suite] list a
 Changing the traffic allocation percentage in an activity after activation can cause inconsistent reporting in [!DNL Analytics] because the change impacts only new visitors. Returning visitors are not impacted. 
 
 As best practice, you should stop the existing activity and then create a new activity instead of changing the percentage after activation. Reporting for the new activity starts with new visitors and data from returning visitors will not cause inconsistent reporting.
+
+## How are visits counted in Analytics and conversion credit allocated in an Auto-Target activity that uses A4T?
+
+After a visitor qualifies for an activity, all conversion credit is tied to that activity in the future.
+
+Consider the following:
+
+* If a conversion happens outside of the analysis window, the conversion will not be visible in reports. Your reporting window should begin from the start date of the activity.
+* It is possible for a visitor that does not qualify for the activity to increment the visitor count in [!DNL Analytics], even though he or she might not see the content delivered by the activity.
+* If a visitor qualifies for multiple experiences in different visits, the conversion credit is attributed to the last experience seen.
+* If an initial entry into an activity occurs before the analysis window, subsequent visits and conversions still count in the analysis window. However,  this can skew [!DNL Analytics] reports.
+* Activities are appended and act as list variables; however, experiences are overwritten, but credit for the conversion is attributed to the last experience viewed.
+* One visitor can increment visits for two different experiences if the visitor reenters the activity in a subsequent visit.
