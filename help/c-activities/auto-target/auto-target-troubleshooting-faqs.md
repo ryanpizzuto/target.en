@@ -59,7 +59,7 @@ If an A/B test's results show statistically significant lift on one or more of t
 
 ### When should I stop my [!UICONTROL Auto-Target] activity?
 
-[!UICONTROL Auto-Target] can be used as “always on” personalization that will constantly optimize. Especially for evergreen content,there is no need to stop your [!UICONTROL Auto-Target] activity.
+[!UICONTROL Auto-Target] can be used as “always on” personalization that will constantly optimize. Especially for evergreen content, there is no need to stop your [!UICONTROL Auto-Target] activity.
 
 If you want to make substantial changes to the content in your [!UICONTROL Auto-Target] activity, the best practice is to start a new activity so that other users reviewing reports will not confuse or relate past results with different content.
 
