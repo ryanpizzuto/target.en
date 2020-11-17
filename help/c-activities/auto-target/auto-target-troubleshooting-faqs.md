@@ -26,6 +26,12 @@ Consult the following FAQs and answers as you work with [!UICONTROL Auto-Target]
 
 * Try not to make substantial changes to the experiences during the course of the activity.
 
+### Do you recommend that we use Auto Target with a 90(Control)/10(Targeted) split until the models are built?
+
+Your optimal traffic allocation split depends on what you want to accomplish.
+
+If your goal is to personalize as much traffic as possible, you can stick with 90% targeted and 10% control for the lifetime of the activity. If your goal is to run an experiment comparing how well personalized algorithms do versus the control, then a 50/50 split is best.
+
 ### Do the check marks indicating a model is built for that experience update if the report date range changes?
 
 No, check marks for model generation show only the models built to date. There's no way to go back and see when a model was completed.

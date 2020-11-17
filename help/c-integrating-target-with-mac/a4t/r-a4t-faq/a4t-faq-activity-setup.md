@@ -40,10 +40,3 @@ If the percentages are not adjusted mid-activity, a visitor who initially sees t
 
 * After being in the targeted “bucket” of traffic, the visitor can be sent to a different experience from visit to visit if the machine-learning models determine that a different experience is relevant for the new visit.
 * After being assigned to the control "bucket" of traffic, a visitor will always see the same experience because experience assignment is based on a deterministic pseudo-random hash of the visitor's visitorId.
-
-## Is it recommended that we use the custom model for Auto Target and A4T with a 90(Control)/10(Targeted) split until the models build?
-
-Your optimal traffic allocation split depends on what you want to accomplish.
-
-If your goal is to personalize as much traffic as possible, you can stick with 90% targeted and 10% control for the lifetime of the activity. If your goal is to run an experiment comparing how well personalized algorithms do versus the control, then a 50/50 split is best.
-
