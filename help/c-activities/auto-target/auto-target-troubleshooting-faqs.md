@@ -1,5 +1,5 @@
 ---
-keywords: auto-target;targeting;traffic allocation;frequently asked questions;faq;troubleshooting;trouble shooting
+keywords: auto-target;targeting;traffic allocation;frequently asked questions;faq;troubleshooting;trouble shooting;traffic
 description: Troubleshooting and Frequently Asked Questions about Auto-Target in Adobe Target.
 title: Auto-Target troubleshooting and FAQs
 feature: auto-target
@@ -30,11 +30,15 @@ Consult the following FAQs and answers as you work with [!UICONTROL Auto-Target]
 
 Your optimal traffic allocation split depends on what you want to accomplish.
 
-If your goal is to personalize as much traffic as possible, you can stick with 90% targeted and 10% control for the lifetime of the activity. If your goal is to run an experiment comparing how well personalized algorithms do versus the control, then a 50/50 split is best.
+If your goal is to personalize as much traffic as possible, you can stick with 90% targeted and 10% control for the lifetime of the activity. If your goal is to run an experiment comparing how well personalized algorithms do versus the control, then a 50/50 split is best for the lifetime of the activity.
 
+Best practice is to maintain the traffic-allocation split for the lifetime of the activity so that visitors don't switch between targeted and control experiences.
+
+<!-- 
 ### Do the check marks indicating a model is built for that experience update if the report date range changes?
 
 No, check marks for model generation show only the models built to date. There's no way to go back and see when a model was completed.
+-->
 
 ### If a visitor does NOT see the [!UICONTROL Auto-Target] activity and converts, does the conversion count in my activity?
 
