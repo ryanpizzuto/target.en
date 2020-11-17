@@ -131,13 +131,11 @@ As best practice, you should stop the existing activity and then create a new ac
 
 ## How are visits counted in Analytics and conversion credit allocated in an Auto-Target activity that uses A4T?
 
-After a visitor qualifies for an activity, all conversion credit is tied to that activity in the future.
+When a visitors qualify for, view content, or convert in an A4T activity, [!DNL Target] sends event data to [!DNL Analytics], which allows [!DNL Analytics] to attribute conversion events and other clickstream events happening on the page to the relevant [!DNL Target] activities and experiences.
 
-Consider the following:
+Here a few points to keep in mind when viewing [!DNL Analytics] reports:
 
-* If a conversion happens outside of the analysis window, the conversion will not be visible in reports. Your reporting window should begin from the start date of the activity.
-* It is possible for a visitor that does not qualify for the activity to increment the visitor count in [!DNL Analytics], even though he or she might not see the content delivered by the activity.
-* If a visitor qualifies for multiple experiences in different visits, the conversion credit is attributed to the last experience seen.
-* If an initial entry into an activity occurs before the analysis window, subsequent visits and conversions still count in the analysis window. However,  this can skew [!DNL Analytics] reports.
-* Activities are appended and act as list variables; however, experiences are overwritten, but credit for the conversion is attributed to the last experience viewed.
-* One visitor can increment visits for two different experiences if the visitor reenters the activity in a subsequent visit.
+* In general, your reporting window should always begin from the start date of the activity.
+* If a conversion happens outside the report's window, the conversion will not be visible in [!DNL Analytics].
+* When in the "targeted" portion of traffic for [!UICONTROL Auto-Target] activities, visitors might see different experiences from one session to the next For example, their profile or context has changed and [!DNL Target]'s machine-learning algorithms decide they are more likely to convert on a new experience. This is unlike regular A/B Testing activities, where experiences are sticky to a visitor across visits.
+* If a visitor sees multiple experiences across visits, any conversion is always attributed to the last experience that the visitor saw; however, the visit count will be incremented for each experience that the visitor saw. This can artificially depress the per-experience conversion rates when viewing experiences under the "[!UICONTROL Targeted]" dimension in [!DNL Adobe Analytics] reports.
