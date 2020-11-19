@@ -7,7 +7,7 @@ feature: known issues
 
 # Known issues and resolved issues
 
-Information about known issues for this release of Target. Also includes information about issues that have been resolved.
+Information about known issues for [!DNL Adobe Target]. Also includes information about issues that have been resolved.
 
 >[!NOTE]
 >
@@ -121,10 +121,11 @@ On May 10, 2020 we updated our GEO provider files, which introduced some inconsi
 
 Image offers on the Offers page sometimes retain the “processing” label for several hours after the images were uploaded. In most cases this is an issue with the label only: the image offers can still be used in activities and be delivered. In some cases, however, an image offer might not be available for the Replace Content > Image action. If this happens, you should upload the image offer again and check after a few hours to see if the image offer is available for replacement. (TGT-37458)
 
-### Reporting - Inconsistent data in CSV downloadable report vs displayed report.
+### Reporting - Inconsistent data in the downloadable .csv report versus the displayed report in the Target UI.
 
-Reports generated for download as CSV will be inconsistent when the activity created uses more than one metric. The downloadable report is generated based on the report settings only and it considers the same value for any other metrics used.
-The source of truth will always be the displayed report.
+Reports generated for download as .csv files are inconsistent if the activity uses more than one metric. The downloadable report is generated based on the report settings only and considers the same value for any other metrics used.
+
+The source of truth is always the displayed report in the [!DNL Target] UI.
 
 ## Resolved Issues {#section_FD2FC86E7C734D60B1EDC9DEF60E1014}
 
