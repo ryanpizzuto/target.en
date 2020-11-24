@@ -13,6 +13,9 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|November 24|[Known issues and resolved issues](/help/r-release-notes/known-issues-resolved-issues.md)|Added the following known issue:<ul><li>[Reporting - Inconsistent data in the downloadable .csv report versus the displayed report in the Target UI.](/help/r-release-notes/known-issues-resolved-issues.md#csv)</li></ul>Added the following resolved issue:<ul><li>[Analytics for Target (A4T) reporting](/help/r-release-notes/known-issues-resolved-issues.md#section_FD2FC86E7C734D60B1EDC9DEF60E1014)</li></ul>|
+||[Metric definitions - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-metric-definition.md)|Added the following FAQ: "While configuring my goal metics, why can't I access the Advanced Settings options?"|
+||[Success metrics](/help/c-activities/r-success-metrics/success-metrics.md)|Adjusted text in the note about activities that use A4T.|
 |November 17|[Activity settings - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-activity-setup.md)|Added following FAQ: "Can a visitor switch between targeted and controlled experiences in different visits in an Auto-Target activity that uses A4T?"|
 ||[Auto-Target troubleshooting and FAQs](/help/c-activities/auto-target/auto-target-troubleshooting-faqs.md)|Added following FAQ: "Do you recommend that we use Auto Target with a 90(Control)/10(Targeted) split until the models are built?"|
 ||[View reports - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-viewing-reports.md)|Added following FAQ: "How are visits counted in Analytics and conversion credit allocated in an Auto-Target activity that uses A4T?"|

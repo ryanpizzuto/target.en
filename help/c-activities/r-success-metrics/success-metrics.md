@@ -5,7 +5,7 @@ title: Success metrics in Adobe Target
 feature: success metrics
 ---
 
-# Success metrics{#success-metrics}
+# Success metrics
 
 In [!DNL Adobe Target] success metrics are parameters used to measure the success of an activity. Success metrics include key business measures that enable you to determine the success of a given experience or offer in a [!DNL Target] activity. 
 
@@ -21,7 +21,7 @@ Revenue metrics that are set to "[!UICONTROL Increment count & keep user in acti
 
 >[!NOTE]
 >
->The default behavior for activities using [Analytics as the reporting source](/help/c-integrating-target-with-mac/a4t/a4t.md) (A4T) is "[!UICONTROL Increment count & keep user in activity]" with "[!UICONTROL Once per entrant]."
+>For activities using [Analytics as the reporting source](/help/c-integrating-target-with-mac/a4t/a4t.md) (A4T) the the goal metric will always use the "[!UICONTROL Increment Count & Keep User in Activity]" and "[!UICONTROL On Every Impression]" settings. This is *not* configurable.
 
 The following success metrics are available:
 
@@ -98,7 +98,7 @@ Use the advanced settings to determine what happens after a user reaches the goa
 Choose the desired behavior:
 
 * Once per entrant
-* On Every impression (Excluding page refreshes)
+* On every impression (Excluding page refreshes)
 * On every impression
 
 ## Training video: Activity Metrics
