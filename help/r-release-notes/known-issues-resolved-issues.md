@@ -121,7 +121,7 @@ On May 10, 2020 we updated our GEO provider files, which introduced some inconsi
 
 Image offers on the Offers page sometimes retain the “processing” label for several hours after the images were uploaded. In most cases this is an issue with the label only: the image offers can still be used in activities and be delivered. In some cases, however, an image offer might not be available for the Replace Content > Image action. If this happens, you should upload the image offer again and check after a few hours to see if the image offer is available for replacement. (TGT-37458)
 
-### Reporting - Inconsistent data in the downloadable .csv report versus the displayed report in the Target UI.
+### Reporting - Inconsistent data in the downloadable .csv report versus the displayed report in the Target UI. {#csv}
 
 Reports generated for download as .csv files are inconsistent if the activity uses more than one metric. The downloadable report is generated based on the report settings only and considers the same value for any other metrics used.
 
@@ -130,6 +130,37 @@ The source of truth is always the displayed report in the [!DNL Target] UI.
 ## Resolved Issues {#section_FD2FC86E7C734D60B1EDC9DEF60E1014}
 
 As known issues above are resolved, they will be moved to the following sections and additional notes, if necessary, will be added.
+
+### Analytics for Target (A4T) reporting
+
+The following issues related to A4T have been resolved:
+
+* An issue that impacted A4T activities using an [!DNL Analytics] goal metric that caused A4T reports to show an unexpected traffic split or artificially inflated conversions.
+
+  This issue impacted A4T reporting under the following conditions:
+
+  * The activity was created or saved between September 15 and November 5, 2020 (4 a.m. PST), and
+  * The activity had an [!DNL Analytics] metric selected as the goal metric.
+
+  [!DNL Target] correctly split traffic during this time. However, a 50/50 split in the activity setup could appear, for example, as a 90/10 split in A4T reports.
+
+  For impacted activities, the correct traffic split is visible for first-time visitors to the activity after November 5 (4 a.m. PST). New activities created or saved after this time will report the traffic split correctly.
+
+* An issue that impacted A4T activities using a [!DNL Target] goal metric that caused A4T reports to report low or no conversions.
+
+  >[!NOTE]
+  >
+  >This issue affected A4T reporting only. It did not affect activity delivery.
+
+  This issue impacted A4T reporting under the following conditions:
+
+  * The A4T activity was live between September 22 and November 11, 2020 (2:30 p.m. PST), and
+  * The activity had a [!DNL Target] metric selected as the goal metric, and
+  * When a visitor hit the goal event for the activity (e.g. [!UICONTROL Clicked an Element]), there was also a lower priority non-A4T activity that matched the conversion event. This could happen if the non-A4T activity was either configured with the same metric as the A4T activity or if it was configured with the "any mbox" metric.
+
+  This issue impacted reporting for A4T activities that were live between September 22 and November 11, 2020 (2:30 p.m. PST). Reporting for impacted A4T activities will show conversions correctly outside this date range. Reporting for non-A4T activities was not impacted.
+  
+If you have further questions, reach out to your Customer Success Manager (CSM) or [Adobe Customer Care](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C). (CSO 20201110016)
 
 ### Auto-Target reporting {#at-metrics}
 

@@ -1,5 +1,5 @@
 ---
-keywords: faq;frequently asked questions;analytics for target;a4T;report;reports;view reports;reporting;counting methodology;impressions;visitors;visits;default metric;activity conversions;unspecified
+keywords: faq;frequently asked questions;analytics for target;a4T;report;reports;view reports;reporting;counting methodology;impressions;visitors;visits;default metric;activity conversions;unspecified 
 description: This topic contains answers to questions that are frequently asked about viewing reports when using Analytics as the reporting source for Target (A4T).
 title: View reports - A4T FAQ
 feature: a4t troubleshooting
@@ -24,6 +24,12 @@ Segments are most commonly applied to the top of a panel in the segment drop zon
 The [!DNL Target] variable sent to [!DNL Analytics] has a default 90-day expiration period. (Note: this expiration period can be adjusted by Customer Care if needed). As visitors navigate the site throughout this expiration window, they are part of many [!DNL Target] activities, all of which collect in the dimension. 
 
 As a result, when you segment for an activity to be present in a hit, you will get all the experiences that are part of that activity *plus* any other experiences that are persisting on that hit. 
+
+## While configuring my Goal Metics, why can't I access Advanced Settings?
+
+For activities using [!DNL Analytics] as the reporting source (A4T), the the goal metric will always use the "[!UICONTROL Increment Count & Keep User in Activity]" and "[!UICONTROL On Every Impression]" settings. This is *not* configurable. 
+
+For more information, see "While configuring my goal metics, why can't I access the Advanced Settings options?" in [Metric definitions - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-metric-definition.md).
 
 ## Should I use visitors, visits, or activity impressions as my normalizing metric (i.e. counting methodology)? {#metrics}
 

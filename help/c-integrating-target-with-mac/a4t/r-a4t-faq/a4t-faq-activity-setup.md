@@ -13,6 +13,12 @@ This topic contains answers to questions that are frequently asked about activit
 
 For a full list, see "Supported Activity Types" in [Adobe Analytics as the Reporting Source for Adobe Target (A4T)](/help/c-integrating-target-with-mac/a4t/a4t.md#concept_7540C8C04259434AB6EE33B09F47A1DE).
 
+## While configuring my Goal Metics, why can't I access Advanced Settings?
+
+For activities using [!DNL Analytics] as the reporting source (A4T), the the goal metric will always use the "[!UICONTROL Increment Count & Keep User in Activity]" and "[!UICONTROL On Every Impression]" settings. This is *not* configurable. 
+
+For more information, see "While configuring my goal metics, why can't I access the Advanced Settings options?" in [Metric definitions - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-metric-definition.md).
+
 ## I just created an activity. Why don't I see any data coming in? {#section_9F8092BE4225442896F926540292F221}
 
 When an activity is created, [!DNL Target] sends a classification file to [!DNL Analytics]. Although [!DNL Analytics] is capturing the and processing the data, it does not show in the reports until the classification file has been updated. This can take up to 24 hours. If after 48 hours you don't see your data, please [contact Client Care](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C). Alternately, if you know you will launch an activity, you can create the activity a few days beforehand and the classifications will be sent when the activity is saved. That way, data appears in the reports upon launch. Please note that it takes 45-90 minutes for data to be processed in [!DNL Analytics].
