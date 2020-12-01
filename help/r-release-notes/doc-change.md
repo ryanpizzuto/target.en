@@ -13,6 +13,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|December 1|[Target announcements and events](/help/r-release-notes/target-announcements.md)|Embedded the webinar recording for "Personalize and test at zero latency with on-device decisions from Adobe Target."|
 |November 24|[Known issues and resolved issues](/help/r-release-notes/known-issues-resolved-issues.md)|Added the following known issue:<ul><li>[Reporting - Inconsistent data in the downloadable .csv report versus the displayed report in the Target UI.](/help/r-release-notes/known-issues-resolved-issues.md#csv)</li></ul>Added the following resolved issue:<ul><li>[Analytics for Target (A4T) reporting](/help/r-release-notes/known-issues-resolved-issues.md#section_FD2FC86E7C734D60B1EDC9DEF60E1014)</li></ul>|
 ||[Metric definitions - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-metric-definition.md)|Added the following FAQ: "While configuring my goal metics, why can't I access the Advanced Settings options?"|
 ||[Success metrics](/help/c-activities/r-success-metrics/success-metrics.md)|Adjusted text in the note about activities that use A4T.|

@@ -17,16 +17,15 @@ Adobe was once again named a Leader in the third-annual Gartner Magic Quadrant f
 
 More than ever, marketers, product owners and developers are being tasked with optimizing the overall customer experience on sites, in apps, and everywhere else they connect with their customers. Multiple tools with data silos and complicated implementations won’t cut it.
 
-In this live webinar, join Adobe Target product experts as they discuss how moving critical experience optimization decisions on-device to execute locally with zero latency can open doors to exciting new use cases while improving site performance for your customers.
+In this recorded webinar, Adobe Target product experts discuss how moving critical experience optimization decisions on-device to execute locally with zero latency can open doors to exciting new use cases while improving site performance for your customers.
 
-* **Tuesday, November 10, 2020**
-* **10 a.m. PST | 12 p.m. CST | 1 p.m. EST**
+>[!VIDEO](https://video.tv.adobe.com/v/328148)
 
 [Register here for this exciting event.](https://www.adobeeventsonline.com/Target/2020/OnDeviceDecisions/invite.html)
 
 ## Webinar: How HSBC leverages Adobe Target and AI to rapidly optimize and deliver personalization at scale
 
-* **You can click here to view the [Webinar Recording](https://seminars.adobeconnect.com/ps4ozlg7qfdy/?proto=true).**
+* **Click here to view the [Webinar Recording](https://seminars.adobeconnect.com/ps4ozlg7qfdy/?proto=true).**
 
 McKinsey Digital reports that “we have vaulted five years forward in consumer and business digital adoption in a matter of around eight weeks.” *
 
@@ -42,4 +41,6 @@ Join Adobe and HSBC for this webinar to learn:
 
 ## Adobe Target Skill Builder: Developer chat, migrate Adobe Target's mbox.js to at.js {#skill-builder}
 
-With the upcoming deprecation of mbox.js on January 18, 2021, David Son, Adobe Target Product Manager recently hosted a developer chat to discuss the benefits of migrating mbox.js to at.js. You can [view the webinar recording here](https://seminars.adobeconnect.com/ptdo6mfo6qn6/?proto=true).
+With the upcoming deprecation of mbox.js on January 18, 2021, David Son, Adobe Target Product Manager recently hosted a developer chat to discuss the benefits of migrating mbox.js to at.js. 
+
+[View the webinar recording here](https://seminars.adobeconnect.com/ptdo6mfo6qn6/?proto=true).
