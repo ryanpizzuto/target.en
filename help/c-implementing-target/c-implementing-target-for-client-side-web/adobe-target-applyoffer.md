@@ -5,7 +5,7 @@ title: adobe.target.applyOffer(options)
 feature: client-side 
 ---
 
-# adobe.target.applyOffer(options) {#reference_BBE83F513B5B4E03BBC3F50D90864245}
+# adobe.target.applyOffer(options)
 
 This function is for applying the response content.
 
@@ -25,7 +25,7 @@ The options parameter is mandatory and has the following structure:
 
 The following example shows how to use `getOffer` and `applyOffer` together:
 
-```
+```javascript
 adobe.target.getOffer({   
   "mbox": "mbox",   
   "success": function(offers) {           

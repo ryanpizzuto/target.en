@@ -23,7 +23,7 @@ This function can be called whenever a new page is loaded or when a component on
 
 `triggerView()` call to send a notification to the Target backend for incrementing activity impressions and other metrics.
 
-```
+```javascript
 adobe.target.triggerView("homeView")
 ```
 
@@ -31,6 +31,6 @@ adobe.target.triggerView("homeView")
 
 `triggerView()` call to not have notifications sent to the Target backend for impression counting.
 
-```
+```javascript
 adobe.target.triggerView("homeView", {page: false})
 ```

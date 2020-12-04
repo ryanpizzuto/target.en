@@ -66,7 +66,7 @@ This function lets you apply more than one offer that was retrieved by `adobe.ta
 
 ## Example applyOffers() call
 
-```
+```javascript
 adobe.target.applyOffers({response:{
   "execute": {
     "pageLoad": {
@@ -103,7 +103,7 @@ adobe.target.applyOffers({response:{
 
 ## Example call of Promise chaining with `getOffers()` and `applyOffers()`, because these functions are Promise based
 
-```
+```javascript
 adobe.target.getOffers({...})
 .then(response => adobe.target.applyOffers({ response: response }))
 .then(() => console.log("Success"))

@@ -58,7 +58,7 @@ This function sends a notification to Target edge when an experience is rendered
 
 ## sendNotifications() call after rendering prefetched mboxes
 
-```
+```javascript
 function createTokens(options) {
   return options.map(e => e.eventToken);
 }

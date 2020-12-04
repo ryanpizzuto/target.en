@@ -66,9 +66,9 @@ This function lets you retrieve multiple offers by passing in multiple mboxes. A
 |Request > execute > mboxes > mbox > order > total|No|`>=` 0|Retrieve offers for a given mbox with the specified order totals.|
 |Request > execute > mboxes > mbox > order > purchasedProductIds|No|No blank values<br>Each value's maximum length = 50<br>Concatenated and separated by comma<br>Product ids total length `<=` 250|Retrieve offers for a given mbox with the specified order purchased product IDs.|
 
-## Call `getOffers()` for all views
+## Call getOffers() for all views
 
-```
+```javascript
 adobe.target.getOffers({
     request: {
       prefetch: {
@@ -78,9 +78,9 @@ adobe.target.getOffers({
 });
 ```
 
-## Call `getOffers()` to retrieve the latest views with the passed-in parameters and profile parameters
+## Call getOffers() to retrieve the latest views with the passed-in parameters and profile parameters
 
-```
+```javascript
 adobe.target.getOffers({
   request: {
     "prefetch": {
@@ -99,9 +99,9 @@ adobe.target.getOffers({
 });
 ```
 
-## Call `getOffers()` to retrieve mboxes with parameters and profile parameters passed-in.
+## Call getOffers() to retrieve mboxes with parameters and profile parameters passed-in.
 
-```
+```javascript
 adobe.target.getOffers({
   request: {
     execute: {
@@ -128,7 +128,7 @@ adobe.target.getOffers({
 
 ## Call getOffers() to retrieve the analytics payload from the client side
 
-```
+```javascript
 adobe.target.getOffers({
       request: {
         experienceCloud: {
@@ -149,7 +149,7 @@ adobe.target.getOffers({
 
 **Response**:
 
-```
+```javascript
 {
   "prefetch": {
     "mboxes": [{
@@ -186,7 +186,7 @@ at.js 2.x lets you fetch multiple mboxes via the `getOffers()` API. You can also
 
 The following example shows a simple HTML page with at.js 2.x implemented:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -208,7 +208,7 @@ Assume that you have three containers that you want to modify via content receiv
 
 The request and rendering code might look like the following example:
 
-```
+```javascript
 adobe.target.getOffers({
   request: {
     prefetch: {
@@ -259,11 +259,11 @@ This example uses the count variable to construct the CSS selectors. In a real-l
 
 Note that this example uses `prefetch > mboxes`, but you could also use `execute > mboxes`. Ensure that if you use prefetch in `getOffers()`, you should also use prefetch in the `applyOffers()` invocation.
 
-## Call `getOffers()` to perform a pageLoad
+## Call getOffers() to perform a pageLoad
 
 The following example shows you how to perform a pageLoad using getOffers() with at.js 2.*x*
 
-```
+```javascript
 adobe.target.getOffers({
     request: {
         execute: {
