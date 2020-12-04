@@ -17,7 +17,7 @@ This function is built into [!DNL at.js] mostly to ease the transition from [!DN
 
 ## Example
 
-```
+```javascript
 <div class="mboxDefault"> 
   default content to replace by offer 
 </div> 

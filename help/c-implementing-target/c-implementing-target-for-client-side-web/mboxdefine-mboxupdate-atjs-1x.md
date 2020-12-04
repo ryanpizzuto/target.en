@@ -25,7 +25,7 @@ Executes the request and applies the offer to the element identified by the `nod
 
 ## Example {#section_9C1E75D9E4BA4DC7879D2B69877EB01A}
 
-```
+```javascript
 <div id="someId" class="mboxDefault"></div> 
 <script> 
  mboxDefine('someId','mboxName','param1=value1','param2=value2'); 

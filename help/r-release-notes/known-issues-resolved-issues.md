@@ -66,7 +66,7 @@ The following are known issues with Recommendations activities:
 * Collections, exclusions, criteria, and designs created via API are not visible in the Target user interface and can only be edited via API. (TGT-35777)
 * Recommendations activities created via API can be viewed in the user interface, but can only be edited via API.
 * The Custom Criteria feed status displayed in the Criteria list (card) view is refreshed every ten minutes and might be more than ten minutes out of date in rare circumstances. The status displayed in the Custom Criteria edit view is fetched in real-time and is always up to date. (TGT-35896, TGT-36173)
-* Criteria and design cards do not show the correct number of activities in which they are being used. If the criteria or design is used in an A/B activity, the card might incorrectly show that the design or criteria is not used, even when the design or criteria is used in the activity.
+* Criteria and design cards do not show the correct number of activities in which they are being used. If the criteria or design is used in an A/B activity, the card might incorrectly show that the design or criteria is not used, even when the design or criteria is used in the activity. (TGT-36621, TGT-37217)
 
 ### Multivariate Test (MVT) activities
 

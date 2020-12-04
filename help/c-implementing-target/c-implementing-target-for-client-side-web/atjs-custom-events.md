@@ -33,7 +33,7 @@ To make sure that events can be used in different scenarios, the custom events h
 
 ## Usage {#section_0500FF09D3A04450B5DC8F85C6F793E0}
 
-```
+```javascript
 document.addEventListener(adobe.target.event.REQUEST_SUCCEEDED, function(event) { 
   console.log('Event', event); 
 });
