@@ -28,7 +28,7 @@ In general, the display information mbox might look like the following example i
 
 All entity parameter attributes are case sensitive.
 
-```
+```javascript
 <div class="mboxDefault"></div><script language="JavaScript1.2"> 
  
 mboxCreate('productPage', 
@@ -108,7 +108,7 @@ For category-based recommendations, a comma is used to separate category value. 
 
 For example, in the following code the Womens category is divided into several subcategories:
 
-```
+```javascript
 mboxCreate('mboxName', 'entity.id=343942-32', 'entity.categoryId= Womens, Womens:Outerwear, Womens:Outerwear:Jackets, Womens:Outerwear:Jackets:Parka, Womens:Outerwear:Jackets:Caban’, 'entity.thumbnailUrl=...', 'entity.message=...', );
 ```
 
@@ -211,7 +211,7 @@ Example: `'entity.event.detailsOnly=true'`
 
 In the examples below, the first mbox call will update the catalog and behavioral data. The second mbox call will update only the catalog.
 
-```
+```javascript
 mboxCreate('myMbox', 'profile.geo.city = new york', 'profile.geo.state = new york',  'entity.id = 'entity.inventory = 4' )
 mboxCreate('myMbox',  'profile.geo.city = new york', 'profile.geo.state = new york',  'entity.id = 123', 'entity.inventory = 4' 'entity.event.detailsOnly=true' )
 ``` 

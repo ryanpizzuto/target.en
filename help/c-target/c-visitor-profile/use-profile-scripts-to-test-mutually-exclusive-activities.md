@@ -22,7 +22,7 @@ Be aware of the following information when using one of the following profile sc
 
 To sort visitors into groups that each see a different activity, you must create a profile attribute. A profile attribute can sort a visitor into one of two or more groups. To set up a profile attribute called "twogroups," create the following script:
 
-```
+```javascript
 if (!user.get('twogroups')) { 
     var ran_number = Math.floor(Math.random() * 99); 
     if (ran_number <= 49) { 
@@ -53,7 +53,7 @@ Setting up three or more mutually exclusive activities is similar to setting up 
 
 For example, to create four groups, use the following JavaScript:
 
-```
+```javascript
 if (!user.get('fourgroups')) { 
     var ran_number = Math.floor​(Math.random() * 99); 
     if (ran_number <= 24) { 
@@ -80,7 +80,7 @@ to:
 
 For example, to place visitors in three equal groups, use the following code:
 
-```
+```javascript
 if (!user.get('threegroups')) { 
     var ran_number = Math.random() * 99; 
     if (ran_number <= 32.33) { 

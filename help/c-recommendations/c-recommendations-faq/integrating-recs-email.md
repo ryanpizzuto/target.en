@@ -21,7 +21,7 @@ You cannot return default content using the delivery API.
 
 The following code is a sample API delivery request:
 
-```
+```javascript
 curl -X POST \ 
   'https://clientcode.tt.omtrdc.net/rest/v1/mbox/?client=clientcode' \ 
   -H 'authorization: Bearer 3423614b-4843-4664-83c4-c6c3f6c8869b' \ 

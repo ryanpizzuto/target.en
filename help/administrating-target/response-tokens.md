@@ -70,7 +70,7 @@ Use [at.js custom events](/help/c-implementing-target/c-implementing-target-for-
 
 The following code sample adds an [!DNL at.js] custom event handler directly to the HTML page:
 
-```
+```html
 <html> 
   <head> 
     .... 
@@ -97,7 +97,7 @@ The following instructions show how to add an [!DNL at.js] custom event handler 
 
 1. In the code editor, append the following code to [!DNL at.js]:
 
-   ```
+   ```json
    document.addEventListener(adobe.target.event.REQUEST_SUCCEEDED, function(e) { 
      console.log("Request succeeded", e.detail); 
    });
@@ -105,7 +105,7 @@ The following instructions show how to add an [!DNL at.js] custom event handler 
 
 You can add the following snippet to the library footer [at.js Setup page](/help/c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/implementing-target-without-a-tag-manager.md#concept_2FA0456607D04F82B0539C5BF5309812) if you want to have everything is a single file.
 
-```
+```json
 document.addEventListener(adobe.target.event.REQUEST_SUCCEEDED, function(e) { 
   console.log("Request succeeded", e.detail); 
 });
@@ -161,7 +161,7 @@ Target performs a refresh of attributes at regular intervals. Any attribute that
 
 Google Analytics can be sent data via at.js by adding the following code in the HTML page:
 
-```
+```javascript
 <script type="text/javascript"> 
   (function(i, s, o, g, r, a, m) { 
     i['GoogleAnalyticsObject'] = r; 
@@ -227,7 +227,7 @@ Google Analytics can be sent data via at.js by adding the following code in the 
 
 The equivalent of the ttMeta plugin for debugging purposes can be created by adding following code to HTML page:
 
-```
+```javascript
 <script type="text/javascript" > 
   document.addEventListener(adobe.target.event.REQUEST_SUCCEEDED, function (e) { 
     window.ttMETA= typeof(window.ttMETA)!="undefined" ? window.ttMETA : []; 

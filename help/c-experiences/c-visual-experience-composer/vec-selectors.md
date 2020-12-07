@@ -29,7 +29,7 @@ Target uses a simple algorithm to create a selector. Here is very brief explanat
 
    For Example:
 
-   ```
+   ```html
    <div class="wrapper">
      <div id="container"> <!-- Selector is computed for this element -->
        <ul class="navigation">
@@ -49,7 +49,7 @@ Target uses a simple algorithm to create a selector. Here is very brief explanat
 
    For example:
 
-   ```
+   ```html
    <div class="wrapper">
      <div id="container"> <!-- id is present here. It contributes to selector -->
        <ul class="navigation">
@@ -72,7 +72,7 @@ Target uses a simple algorithm to create a selector. Here is very brief explanat
 
    For example:
 
-   ```
+   ```html
    <div class="wrapper">
      <div id="container"> <!-- id is present here. It contributes to selector -->
        <ul class="navigation">

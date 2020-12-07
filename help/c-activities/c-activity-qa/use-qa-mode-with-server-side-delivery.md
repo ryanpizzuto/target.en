@@ -13,7 +13,7 @@ The standard implementation of Activity QA supports passing `qa_mode` parameters
 
 The following code sample shows Activity QA in a server-side call:
 
-```
+```json
 {
   "mbox" : "orderConfirmPage",
   "clientSideAnalyticsLogging": true,

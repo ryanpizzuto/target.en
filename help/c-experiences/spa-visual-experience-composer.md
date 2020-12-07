@@ -81,7 +81,7 @@ Now that we have covered what Adobe Target Views are, we can leverage this conce
 
    As marketers, if we want to run A/B tests on the whole home site, then we might want to name the view "home" that can be extracted from the URL:
 
-   ```
+   ```javascript
    function targetView() {
      var viewName = window.location.hash; // or use window.location.pathName if router works on path and not hash
 
@@ -112,7 +112,7 @@ Now that we have covered what Adobe Target Views are, we can leverage this conce
 
    ![react products](/help/c-experiences/assets/react4.png)
 
-   ```
+   ```javascript
    function targetView(viewName) {
      // Validate if the Target Libraries are available on your website
      if (typeof adobe != 'undefined' && adobe.target && typeof adobe.target.triggerView === 'function') {
@@ -143,7 +143,7 @@ Now that we have covered what Adobe Target Views are, we can leverage this conce
 
    Now, marketers might want to run an A/B test to see whether changing the color from blue to red when Express Delivery is selected can boost conversions as opposed to keeping the button color blue for both delivery options.  
 
-   ```
+   ```javascript
    function targetView(viewName) {
      // Validate if the Target Libraries are available on your website
      if (typeof adobe != 'undefined' && adobe.target && typeof adobe.target.triggerView === 'function') {
@@ -286,7 +286,7 @@ So, how can we then retrieve our Logged In View and show the “You are eligible
 
 You can use the new `getOffers()` and `applyOffers()` functions supported in at.js 2.x:
 
-```
+```javascript
 adobe.target.getOffers({
   request: {
   prefetch: {

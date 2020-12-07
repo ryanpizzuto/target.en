@@ -25,7 +25,7 @@ There is a possibility that first class present on the element might be added by
 
 **Inserted element:**
 
-```
+```html
 <li class="kids-section">Kids</li>
 ```
 
@@ -41,7 +41,7 @@ The selector works as expected because `li.women-section:eq(0)` is not affected.
 
 Before:
 
-```
+```html
 <div id="wrap">
      <ul class="nav">
         <li class="men-section"> Men</li> <li class="women-section">Women</li>
@@ -51,7 +51,7 @@ Before:
 
 After:
 
-```
+```html
 <div id="wrap">
     <ul class="nav">
         <li class="kids-section">Kids</li>
@@ -66,7 +66,7 @@ In this scenario, an attempt is made to insert a list when an item in a list is 
 
 **Inserted element:**
 
-```
+```html
 <ul class="nav"> 
    <li class="item"> Sale </li> 
    <li> class="item"> Offers </li> 
@@ -85,7 +85,7 @@ The selector does not work, because `ul.nav:eq(0)` provides a dynamically added 
 
 Before:
 
-```
+```html
 <div id="wrap">
     <ul class="nav">
         <li class="men-section"> Men</li>       <li class="women-section">Women</li>
@@ -95,7 +95,7 @@ Before:
 
 After (Attempted):
 
-```
+```html
 <div id="wrap">
      <ul class="nav">
         <li class="item"> Sale</li>
@@ -114,7 +114,7 @@ In this scenario, a list item is inserted after the selected element.
 
 **Inserted element:**
 
-```
+```html
 <ul class="nav"> 
    <li class="men-section"> Men Clothes</li> 
    <li class="women-section"> Women Clothes</li> 
@@ -133,7 +133,7 @@ In this case, inserting a list after the list ending with the selected list item
 
 Before:
 
-```
+```html
 <div id="wrap">
     <ul class="nav">
         <li class="men">Men Shoes </li>       <li class="women">Women Shoes</li>
@@ -143,7 +143,7 @@ Before:
 
 After:
 
-```
+```html
 <div id="wrap">
     <ul class="nav">
         <li class="men">Men Shoes </li>
@@ -162,7 +162,7 @@ In this scenario, the list item before the selected element is deleted.
 
 **Removed element:**
 
-```
+```html
 <li class="men-section"> Men </li>
 ```
 
@@ -178,7 +178,7 @@ The element is successfully removed because the class of the selected item is no
 
 Before:
 
-```
+```html
 <div id="wrap">
     <ul class="nav">
         <li class="men-section">Men</li>
@@ -189,7 +189,7 @@ Before:
 
 After:
 
-```
+```html
 <div id="wrap">
     <ul class="nav">
         <li class="women-section">Women</li>
@@ -203,7 +203,7 @@ In this scenario, the list item after the selected element is deleted.
 
 **Removed element:**
 
-```
+```html
 <li class="kids-section">Kids</li>
 ```
 
@@ -219,7 +219,7 @@ The element is successfully removed because the class of the selected item is no
 
 Before:
 
-```
+```html
 <div id="wrap">
     <ul class="nav">
         <li class="men-section">Men</li>
@@ -231,7 +231,7 @@ Before:
 
 After:
 
-```
+```html
 <div id="wrap">
     <ul class="nav">
         <li class="men-section">Men</li>
@@ -246,7 +246,7 @@ In this scenario, the selected list item is deleted.
 
 **Removed element:**
 
-```
+```html
 <li class="women-shoes">Women</li>
 ```
 
@@ -262,7 +262,7 @@ The element is successfully removed.
 
 Before:
 
-```
+```html
 <div id="wrap">
     <ul class="nav">
         <li class="men-section">Men</li>
@@ -273,7 +273,7 @@ Before:
 
 After
 
-```
+```html
 <div id="wrap">
     <ul class="nav">
        <li class="men-section">Men</li>
@@ -287,7 +287,7 @@ In this scenario, the class of the selected list item is changed.
 
 **Changed element:**
 
-```
+```html
 <li class="women-section">Women</li>
 ```
 
@@ -303,7 +303,7 @@ The element class cannot be renamed because `class` is not found.
 
 Before:
 
-```
+```html
 <div id="wrap">
     <ul class="nav">
         <li class="men-section">Men</li>
@@ -314,7 +314,7 @@ Before:
 
 After (Attempted):
 
-```
+```html
 <div id="wrap">
     <ul class="nav">
         <li class="men-section">Men</li>

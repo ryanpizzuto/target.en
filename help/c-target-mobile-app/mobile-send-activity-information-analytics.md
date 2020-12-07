@@ -20,13 +20,13 @@ This section describes how to send [!DNL Target] mobile app activity information
 
    If you include a string like the following in your experience content, [!DNL Target] returns the activity information that you can send to [!DNL Analytics]:
 
-   ```
+   ```javascript
    ${campaign.id}:${campaign.recipe.id}:${campaign.recipe.trafficType}
    ```
 
    Replace the text in your experience json code with something like the following example:
 
-   ```
+   ```javascript
    { 
      "tntVal": ${campaign.id}:${campaign.recipe.id}:${campaign.recipe.trafficType}", 
      "title":"Welcome Message", 
@@ -38,7 +38,7 @@ This section describes how to send [!DNL Target] mobile app activity information
 
    This string delivers a number (such as 115110:0:0) in the response from [!DNL Target]. This indicates the activity ID, experience ID, and traffic type. The following is a sample response from [!DNL Target]:
 
-   ```
+   ```javascript
    { 
      "tntVal": 115110:0:0", 
      "title":"Welcome Message", 
@@ -58,7 +58,7 @@ This section describes how to send [!DNL Target] mobile app activity information
 
    For example, this call can be fired in the callback of the `targetLoadRequest` call:
 
-   ```
+   ```javascript
    [ADBMobile trackAction:@"Welcome Screen"  
          data:@{@"&&tnt" : tntVal from response}];
    ```

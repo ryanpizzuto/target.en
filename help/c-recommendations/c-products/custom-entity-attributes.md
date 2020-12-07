@@ -66,7 +66,7 @@ You can include up to 500 values in a multi-value attribute.
 
 The following example shows how to use `targetPageParams`
 
-```
+```javascript
 function targetPageParams() { 
   return { 
     'entity.id':                   '123', 
@@ -104,7 +104,7 @@ Use caution when editing a raw catalog CSV file directly.
 
 You can pass multi-value attributes using the Delivery API in an mbox parameter as a string value containing an escaped JSON array.
 
-```
+```javascript
 "execute": {
     "mboxes": [
       {

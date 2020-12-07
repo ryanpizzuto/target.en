@@ -53,7 +53,7 @@ Include at.js below VisitorAPI.js by adding the following line of code in the ta
 
 For at.js:
 
-```
+```javascript
 <script language="JavaScript" type="text/javascript"
 src="http://INSERT-DOMAIN-AND-PATH-TO-CODE-HERE/at.js"></script>
 ```
@@ -66,7 +66,7 @@ However, if you want more control on how and when to send analytics data related
 
 For example:
 
-```
+```javascript
 window.targetGlobalSettings = {
   analyticsLogging: "client_side"
 };
@@ -74,7 +74,7 @@ window.targetGlobalSettings = {
 
 This set up has a global effect, which means that every call made by at.js will have **analyticsLogging: "client_side"** sent within the [!DNL Target] requests and an analytics payload will be returned for every request. When this is set up, the format of the payload that is returned looks like the following:
 
-```
+```javascript
 "analytics": {
    "payload": {
       "pe": "tnt",
@@ -89,7 +89,7 @@ If a global setting is not desired and a more on-demand approach is preferable, 
 
 For example:
 
-```
+```javascript
 adobe.target.getOffers({
       request: {
         experienceCloud: {
@@ -112,7 +112,7 @@ This call invokes a response from which you can extract the analytics payload.
 
 The response looks like the following:
 
-```
+```javascript
 {
   "prefetch": {
     "mboxes": [{

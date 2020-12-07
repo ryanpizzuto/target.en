@@ -102,7 +102,7 @@ The following example shows how JSON responses can be returned when configuring 
 
 1. The following code is an example of what you could paste into your design:
 
-   ```
+   ```javascript
        #* 
        * "Return a simple list of recommended entity ids"   
        *#
@@ -175,7 +175,7 @@ entity1.id, $entity2.id, $entity3.id, $entity4.id, $entity5.id,
 
 Alternatively, you can send additional information in the response. The following code file is a more complex example that returns much more than the entity ids with their associated slots (order). This design example also returns activity details, Target Profile details (as applicable), and other `entity.attributes` associated with the items returned.
 
-```
+```javascript
     {   
      "adobeRecommendations": {   
       "notes": {   

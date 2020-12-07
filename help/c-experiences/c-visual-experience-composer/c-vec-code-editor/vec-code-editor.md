@@ -106,36 +106,34 @@ Use the **[!UICONTROL Custom Code]** tab to:
 
   For example, to change an element's color:
 
-  ```
+  ```javascript
   <script type="text/javascript"> 
   document.getElementById("element_id").style.color = "blue"; 
   </script> 
-  
   ```
 
 * Configure a style inline or link to an external stylesheet
 
   For example, to define a class for an overlay element:
 
-  ```
+  ```html
   <style> 
   .overlay 
   { position: absolute; top:0; left: 0; right: 0; bottom: 0; background: red; } 
   </style> 
-  
   ```
 
 * Add HTML snippets to define new elements
 
   For example, use the following HTML snippet to create an overlay `<div>` using the CSS class defined above:
 
-  ```
+  ```html
   <div class="overlay"></div>
   ```
 
 * Swap on DOM-ready, using jQuery
 
-  ```
+  ```javascript
   <style>#default_content {visibility:hidden;}</style> 
   <script> 
   jQuery( document ).ready(function() { 
@@ -143,12 +141,11 @@ Use the **[!UICONTROL Custom Code]** tab to:
       jQuery("#default_content").css("visibility","visible"); 
   }); 
   </script> 
-  
   ```
 
 * Swap on DOM-ready, no jQuery (does not support Internet Explorer 8)
 
-  ```
+  ```javascript
   <style>#default_content {visibility:hidden;}</style> 
   <script> 
   document.addEventListener("DOMContentLoaded", function(event) {  
@@ -156,14 +153,13 @@ Use the **[!UICONTROL Custom Code]** tab to:
       document.getElementById("default_content").style.visibility="visible"; 
   }); 
   </script> 
-  
   ```
 
 * Swap with DOM-polling via `elementOnLoad` plugin
 
   The advantage of this is the swap occurs earlier than on DOM-ready. The plugin handles pre-hiding and reveal, and requires an id on the element.
 
-  ```
+  ```javascript
   <style>#default_content {visibility:hidden;}</style> 
   <script> 
   /*elementOnLoad DOM Swizzling v3 ==>Mbox.js Extra Javascript*/window.elementOnLoad=function(e,l){var m=document.getElementById(e);if(m){setTimeout(function(){l(m);setTimeout(function(){m.style.visibility='visible';m.style.display='block'},20)},20)}else{setTimeout(function(){elementOnLoad(e,l)},20)}},addEvent=function(a){var d=document,w=window,wa=w.addEventListener,da=d.addEventListener,e='load',o='on'+e;if(wa){wa(e,a,false)}else if(da){da(e,a,false)}else if(d.attachEvent){w.attachEvent(o,a)}};addEvent(function(){setTimeout("elementOnLoad=function(){}",500)}); 
@@ -171,18 +167,16 @@ Use the **[!UICONTROL Custom Code]** tab to:
       e.innerHTML = "<span style='color:red'>Hello <strong>Again</strong></span>"; 
   }); 
   </script> 
-  
   ```
 
 * Custom redirect passing existing params, `s_tnt` param (for legacy integration to Analytics), referrer param, and mbox session
 
-  ```
+  ```javascript
   <style type="text/css">body{display:none!important;}</style> 
   <script type="text/javascript"> 
    var qs='';window.location.search?qs=window.location.search+'&':qs='?'; 
    window.location.replace('//www.mywebsite.com/'+qs+'s_tnt=${campaign.id}:${campaign.recipe.id}:${campaign.recipe.trafficType}&s_tntref='+encodeURIComponent(document.referrer)+'&mboxSession='+mboxFactoryDefault.getSessionId().getId()+''+window.location.hash+''); 
   </script> 
-  
   ```
 
 * Add Adobe Target Experience Templates for use in custom code. Target Experience Templates are pre-coded samples with configurable inputs to be used to execute common marketer use-cases. These Experience Templates are provided free to developers and marketers as a starting point to execute common use-cases, either via the VEC or the Form-based Experience Composer. Use-cases include lightboxes, carousels, countdowns, and more.
@@ -195,7 +189,7 @@ Use the **[!UICONTROL Custom Code]** tab to:
 
 For Example:
 
-```
+```html
 <div id="custom-code"> 
 // My Code goes here 
 </div>
