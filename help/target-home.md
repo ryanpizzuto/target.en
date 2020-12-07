@@ -18,13 +18,9 @@ feature: landing
 >
 >Adobe Target was recently named a Leader in the following reports:
 >
->* **Adobe named a Leader in Forrester wave report for experience optimization platforms.**
+>**[Forrester wave report for experience optimization platforms.](https://blog.adobe.com/en/2020/11/24/adobe-named-leader-in-forrester-wave-report-experience-optimization-platforms.html)** Adobe Target was named a Leader in The Forrester Wave: Experience Optimization Platforms, Q4 2020 report.
 >
->   Adobe was named a Leader in The Forrester Wave: Experience Optimization Platforms, Q4 2020 report for its offering in this space, Target Premium. Read about it on the [Adobe Blog](https://blog.adobe.com/en/2020/11/24/adobe-named-leader-in-forrester-wave-report-experience-optimization-platforms.html).
-> 
->* **Adobe again named a Leader in Gartner Magic Quadrant for personalization engines**
->
->   Adobe was once again named a Leader in the third-annual Gartner Magic Quadrant for Personalization Engines, 2020 report. [Read about it on The Adobe Blog](https://theblog.adobe.com/adobe-again-named-leader-in-gartner-magic-quadrant-for-personalization-engines/).
+>**[Gartner Magic Quadrant for personalization engines.](https://theblog.adobe.com/adobe-again-named-leader-in-gartner-magic-quadrant-for-personalization-engines/)** Adobe Target was once again named a Leader in the third-annual Gartner Magic Quadrant for Personalization Engines, 2020 report.
 
 The following sections point you to useful links in this guide, arranged by intended audience based on typical job functions:
 
