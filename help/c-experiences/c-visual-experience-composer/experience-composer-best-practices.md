@@ -128,7 +128,7 @@ When you use the Enhanced Experience Composer, the website is manipulated behind
 
 For example, you cannot target Shopping Cart text in the VEC if your code is like the following:
 
-```
+```html
 <a href="https://www.botanicchoice.com/shop.axd/Cart"> 
    <img alt="Shopping Cart"src="/images/ico-cart.gif"></img> 
    Shopping Cart: 
@@ -160,7 +160,7 @@ Make sure your website loads as expected after adding parameters like these.
 
 Turn OFF iframe busting techniques on your website and check whether it opens as expected within an iframe on a dummy page. For example:
 
-```
+```html
 <!DOCTYPE 
 <html> 
 <html> 
@@ -201,7 +201,7 @@ If you swap an image action on an element, then edit the text or HTML on its par
 
 For example, if your page contains:
 
-```
+```html
 <div> 
   <div class="mboxDefault" > 
   </div>
@@ -265,7 +265,7 @@ The script is executed within the scope of target.js after the page loads. There
 
 *Incorrect:*
 
-```
+```html
 <script> 
   var myVar = 123; 
   function myFunc() { 
@@ -276,7 +276,7 @@ The script is executed within the scope of target.js after the page loads. There
 
 *Correct:*
 
-```
+```html
 <script> 
   window.myVar = 123; 
   window.myFunc = function() { 
@@ -289,7 +289,7 @@ The script is executed within the scope of target.js after the page loads. There
 
 Add an anchor element inside the 'customHeaderMessage' div with some dummy text:
 
-```
+```html
 <a href="#"> 
 <span> Dummy text </span>
 </a>
@@ -299,7 +299,7 @@ Select this div using the Insert Element action to insert a image as a sibling o
 
 After image insertion, it looks like:
 
-```
+```html
 <a href="#">  
 <span> Dummy text </span> 
 <img src=""> This is inserted Image. </img> 

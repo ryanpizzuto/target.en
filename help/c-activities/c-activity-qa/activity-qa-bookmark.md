@@ -19,7 +19,7 @@ Because [QA mode](/help/c-activities/c-activity-qa/activity-qa.md) is sticky, af
 
 To use the [!DNL Target] QA bookmarklet, create a bookmarklet containing the following JavaScript code and add it to your browser's Bookmarks Toolbar:
 
-```
+```javascript
 javascript:(
     function () {
         if (window.location.href.indexOf('?') != -1) {
@@ -48,7 +48,7 @@ In contrast to at.js 1.*x*, at.js 2.*x* does not support third-party cookies, an
 
 To use the [!DNL Target] QA bookmarklet, create a bookmarklet containing the following JavaScript code and add it to your browser's Bookmarks Toolbar:
 
-```
+```javascript
 javascript:(
     function () {
         var AT_QA_MODE = 'at_qa_mode=';

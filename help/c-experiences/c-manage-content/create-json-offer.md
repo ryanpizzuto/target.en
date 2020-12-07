@@ -38,7 +38,7 @@ JSON offers are supported only in activities created using the Form-based Experi
 
 Here is an example:
 
-```
+```json
 adobe.target.getOffer({ 
   mbox: "some-mbox", 
   success: function(actions) { 
@@ -52,7 +52,7 @@ adobe.target.getOffer({
 
 The actions passed to success callback is an array of object. Assuming that we have a single JSON offer, that has this content:
 
-```
+```json
 { 
   "demo": {"a": 1, "b": 2} 
 }
@@ -60,7 +60,7 @@ The actions passed to success callback is an array of object. Assuming that we h
 
 The actions array will have this structure:
 
-```
+```json
 [ 
  { 
    action: "setJson", 
@@ -77,7 +77,7 @@ To extract the JSON offer you iterate through actions and find the action with `
 
 Let's say the following JSON offer gets delivered to your web page:
 
-```
+```json
 { 
     "_id": "5a65d24d8fafc966921e9169", 
     "index": 0, 
@@ -108,7 +108,7 @@ Let's say the following JSON offer gets delivered to your web page:
 
 The following code shows how to access the "greeting" attribute:
 
-```
+```json
 adobe.target.getOffer({   
   "mbox": "name_of_mbox", 
   "params": {}, 

@@ -124,7 +124,7 @@ This profile script can be used directly in offers for delivering attributes tha
 
 Pass `mbox3rdPartyId` as a parameter to the global mbox inside the `targetPageParams()` method. The value of `mbox3rdPartyId` should be set to the customer ID that was present in the CSV data file.
 
-```
+```javascript
 <script type="text/javascript">
             function targetPageParams() {
                return 'mbox3rdPartyId=2000578';

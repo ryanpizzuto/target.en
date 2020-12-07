@@ -13,7 +13,7 @@ When you use the steps below, [!DNL Target] always knows that the selected slide
 
 1. Create static HTML placeholders.
 
-   ```
+   ```html
    <ul>
    <li class="show"> slide 1 </li>
    <li class="hidden"> slide 2 </li>
