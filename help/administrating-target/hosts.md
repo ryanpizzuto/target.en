@@ -1,6 +1,6 @@
 ---
 keywords: host;hosts;host group;troubleshooting;best practices;ubox;redirects;redirect;whitelist;allowlist;blacklist;blocklist
-description: Organize your sites and pre-production environments for easy management and separated reporting.
+description: Organize your sites and pre-production environments for easy management and separated reporting in Adobe Target.
 title: Hosts
 feature: hosts and environments
 ---

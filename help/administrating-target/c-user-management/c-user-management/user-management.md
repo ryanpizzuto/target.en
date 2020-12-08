@@ -1,6 +1,6 @@
 ---
 keywords: add user;manage user;user permissions
-description: You can add users and manage their permissions in the Adobe Admin Console.
+description: You can add users to Adobe Target and manage their permissions in the Adobe Admin Console.
 title: Users
 feature: user management
 ---

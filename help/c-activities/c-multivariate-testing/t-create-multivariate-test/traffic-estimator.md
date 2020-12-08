@@ -1,10 +1,11 @@
 ---
-description: Because a multivariate test compares multiple experiences, it is important to know how much traffic is required to provide meaningful results. The Traffic Estimator uses statistics about your page and the number of experiences being tested to estimate the amount of traffic and the test duration needed to make the test successful.
+keyword: traffic estimate;traffic estimator
+description: Because a multivariate test compares multiple experiences, it is important to know how much traffic is required to provide meaningful results. The Adobe Target Traffic Estimator uses statistics about your page and the number of experiences being tested to estimate the amount of traffic and the test duration needed to make the test successful.
 title: Estimate the traffic required for a successful test
 feature: mvt
 ---
 
-# Estimate the traffic required for a successful test{#estimate-the-traffic-required-for-a-successful-test}
+# Estimate the traffic required for a successful test
 
 Because a multivariate test compares multiple experiences, it is important to know how much traffic is required to provide meaningful results. The Traffic Estimator uses statistics about your page and the number of experiences being tested to estimate the amount of traffic and the test duration needed to make the test successful.
 

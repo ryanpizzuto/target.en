@@ -1,13 +1,13 @@
 ---
 keywords: Mobile Web Experience Editor
-description: This topic contains suggestions for resolving some issues that might occur when designing an MVT test.
+description: This topic contains suggestions for resolving some issues that might occur when designing an MVT test in Adobe Target.
 title: Troubleshoot Multivariate Tests
 feature: mvt
 ---
 
 # Troubleshoot Multivariate Tests{#troubleshoot-multivariate-tests}
 
-This topic contains suggestions for resolving some issues that might occur when designing an MVT test.
+This topic contains suggestions for resolving some issues that might occur when designing an MVT test in Adobe Target.
 
 * When editing an activity, if you used Analytics-based metrics and the report suite doesn't load (spinner displays), switch the metrics to Target metrics and then switch again to Analytics-based metric. The report suite should now load. 
 * If make changes to a test that is already running, you might reset the test and its data.
