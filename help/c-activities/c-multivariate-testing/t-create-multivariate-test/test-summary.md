@@ -1,6 +1,6 @@
 ---
 keywords: Overview and Reference
-description: The test summary provides a visual overview of your multivariate test.
+description: The test summary provides a visual overview of your Adobe Target Multivariate Test.
 title: Test summary
 feature: mvt
 ---

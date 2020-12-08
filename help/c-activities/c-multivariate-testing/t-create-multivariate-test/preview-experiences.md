@@ -1,6 +1,6 @@
 ---
 description: Because a multivariate test compares multiple experiences on a page, it is helpful to preview the page with each experience.
-title: Preview experiences for a Multivariate Test
+title: Preview experiences for a Multivariate Test in Adobe Target
 feature: mvt
 ---
 

@@ -1,6 +1,6 @@
 ---
 keywords: automated traffic allocation;targeting;winner;statistical guarantee;confidence;determine winner;lift;confidence;default;default experience
-description: Determine a winner in an Auto-Allocate A/B activity by viewing indicators in the Target UI.
+description: Determine a winner in an Auto-Allocate A/B activity by viewing indicators in the Adobe Target UI.
 title: Determine a winner
 feature: auto-allocate 
 ---
