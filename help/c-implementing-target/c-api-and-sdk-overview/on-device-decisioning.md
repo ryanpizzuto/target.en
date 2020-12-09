@@ -1,13 +1,13 @@
 ---
 keywords: server side;server-side;sdk;sdks;on-device;decisioning;on device;ondevice;zero latency;latency;near-zero;node.js
-description: On-device decisioning provides the ability to cache your Adobe Target A/B and Experience Targeting (XT) activities on your server and perform in-memory decisioning at near-zero latency, without blocking network requests to Adobe Target's Edge Network. 
+description: On-device decisioning provides the ability to cache your Adobe Target A/B and Experience Targeting (XT) activities on your server and perform in-memory decisioning at near-zero latency, without blocking network requests to the Adobe Target Edge Network. 
 title: On-device decisioning
 feature: server-side
 ---
 
 # On-device decisioning
 
-On-device decisioning provides the ability to cache your [!DNL Adobe Target] [!UICONTROL A/B Test] and [!UICONTROL Experience Targeting] (XT) activities on your server and perform in-memory decisioning at near-zero latency, without blocking network requests to [!DNL Adobe Target]'s Edge Network.
+On-device decisioning provides the ability to cache your [!DNL Adobe Target] [!UICONTROL A/B Test] and [!UICONTROL Experience Targeting] (XT) activities on your server and perform in-memory decisioning at near-zero latency, without blocking network requests to the [!DNL Adobe Target] Edge Network.
 
 For more information, see [Introduction to on-device decisioning](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning) in the *[Adobe Target SDKs documentation](https://adobetarget-sdks.gitbook.io/docs/)*.
 
@@ -21,7 +21,7 @@ In this recorded webinar, [!DNL Adobe Target] product experts discuss how moving
 
 ## Tutorial: On-device decisioning
 
-[!DNL Adobe Targe]t on-device decisioning enables near-zero latency content delivery.
+[!DNL Adobe Target] on-device decisioning enables near-zero latency content delivery.
 
 This 7-minute video:
 
