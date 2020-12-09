@@ -29,8 +29,6 @@ In this recorded webinar, Adobe Target product experts discuss how moving critic
 
 >[!VIDEO](https://video.tv.adobe.com/v/328148)
 
-[Register here for this exciting event.](https://www.adobeeventsonline.com/Target/2020/OnDeviceDecisions/invite.html)
-
 ## Webinar: How HSBC leverages Adobe Target and AI to rapidly optimize and deliver personalization at scale
 
 * **Click here to view the [Webinar Recording](https://seminars.adobeconnect.com/ps4ozlg7qfdy/?proto=true).**
