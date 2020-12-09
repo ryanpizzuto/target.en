@@ -5,7 +5,7 @@ title: Target security overview
 feature: privacy and security
 ---
 
-# Target security overview{#target-security-overview}
+# Target security overview
 
 Information about the in-depth approach and security procedures implemented by Adobe to bolster the security of your data and Adobe Target experience.
 
