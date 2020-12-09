@@ -151,6 +151,7 @@ user-guide-description: Learn how to tailor and personalize your customers' expe
    + Server Side: implement Target {#server-side}
       + [Server Side: implement Target overview](c-implementing-target/c-api-and-sdk-overview/api-and-sdk-overview.md)
       + [Transition from Target legacy APIs to Adobe I/O](c-implementing-target/c-api-and-sdk-overview/target-api-documentation.md)
+      + [On-device decisioning](/help/c-implementing-target/c-api-and-sdk-overview/on-device-decisioning.md)
    + [Hybrid implementation](/help/c-implementing-target/hybrid-implementation.md)
    + Email: implement Target {#implement-email}
       + [Email: implement Target overview](c-implementing-target/c-non-javascript-based-implementation/non-javascript-based-implementation.md)
