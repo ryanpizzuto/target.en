@@ -31,12 +31,6 @@ This 7-minute video:
 * Shows sample Node.JS SDK code containing key configuration required for on-device decisioning
 * Demonstrates results in a browser
 
-By the end of this video, you will be able to:
-
-* Describe on-device decisioning and its benefits
-* Enable on-device decisioning in [!DNL Target]
-* Create a form-based composer activity intended for use with on-device decisioning
-* Learn more about the SDK configuration required for on-device decisioning by visiting the [Adobe Target SDK documentation](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning)
-* Understand what end users will experience for content delivered using on-device decisioning
-
 >[!VIDEO](https://video.tv.adobe.com/v/329032)
+
+For more videos and tutorials, see the [Adobe Target Tutorials](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html) guide.
