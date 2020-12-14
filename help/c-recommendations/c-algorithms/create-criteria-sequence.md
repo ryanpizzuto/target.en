@@ -1,5 +1,5 @@
 ---
-keywords: criteria sequence;multiple criteria;algorithms;criteria;recommendations criteria;sequence;limit number of items returned
+keywords: criteria sequence;multiple criteria;algorithms;criteria;recommendations criteria;sequence;limit number of items returned;slot level control;slot
 description: Use sequences of up to five criteria to exercise greater control of the items that appear in your Adobe Target Recommendations activities.
 title: Create criteria sequences
 feature: criteria
@@ -7,7 +7,7 @@ feature: criteria
 
 # ![PREMIUM](/help/assets/premium.png) Create criteria sequences
 
-Use sequences of up to five criteria to exercise greater control of the items that appear in your [!UICONTROL Recommendations] activities.
+Use sequences of up to five criteria to exercise greater control of the items that appear in your [!UICONTROL Recommendations] activities. You can also limit the number of items returned (sometimes referred to as "slot level control.")
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ The following steps assume you access the [!UICONTROL Create Criteria Sequence] 
 
    ![Limit the number of items returned toggle](/help/c-recommendations/c-algorithms/assets/limit-number.png)
 
-   To help you understand the value of the [!UICONTROL Limit the number of items returned] option, consider the following use cases:
+   To help you understand the value of the [!UICONTROL Limit the number of items returned] option (sometimes called "slot level control,") consider the following use cases:
 
    * **Use Case 1**: You want to have a mix of different kinds of items in a single recommendations tray. For example, you want to show a mix of outerwear (jackets) and tops (shirts, T-shirts). To achieve this, use a Collection for the activity that includes all of the potential product types you want in any slots in your design. Then, set up your first criteria with a static filter limiting the criteria to include only outerwear, and set up your second criteria with a static filter limiting the criteria to include only tops. Finally, add both criteria to a criteria sequence and limit the first criteria to 2 slots.
 
