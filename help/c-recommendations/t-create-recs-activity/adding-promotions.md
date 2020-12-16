@@ -1,5 +1,5 @@
 ---
-keywords: promotions;front promotions;back promotions;promotions type
+keywords: promotions;front promotions;back promotions;promotions type;list of items;promote by attribute;promote a collection
 description: Add promoted items and control their placement in your Adobe Target Recommendations designs. You can add static and dynamic promotions.
 title: Add promotions in Adobe Target Recommendations designs.
 feature: recs creation
@@ -7,7 +7,7 @@ feature: recs creation
 
 # ![PREMIUM](/help/assets/premium.png) Add promotions
 
-Add promoted items and control their placement in your Recommendations designs. You can add static and dynamic promotions.
+Add promoted items and control their placement in your Adobe Target Recommendations designs. You can add static and dynamic promotions.
 
 >[!IMPORTANT]
 >
@@ -52,15 +52,13 @@ You can promote specific items, dynamically promote items, promote items based o
 
      You can create new collections to use for promotions. See [Create a Collection](/help/c-recommendations/c-products/collections.md#task_1256DFF6842141FCAADD9E1428EF7F08) for more information.
 
-   If you chose **[!UICONTROL List of Items]** as the **[!UICONTROL Promotion Type]**, select the **[!UICONTROL Randomize Item Order]** check box, if desired.
+   If you chose **[!UICONTROL List of Items]** as the **[!UICONTROL Promotion Type]**, you can select the **[!UICONTROL Randomize Item Order]** check box, if desired.
 
-   The default sort order for [!UICONTROL List of Items] is based on the order you entered in the Target UI or API.
-
-   If your list includes more items than the number of slots you set for promotions, the [!UICONTROL Randomize Item Order] option randomizes the promoted items that are displayed in your design. Choosing this option results in [!DNL Target] randomly selecting the items enabled for promotions in the template from the entire promotion set on each hit.
+   The default sort order for [!UICONTROL List of Items] is based on the order you entered in the Target UI or API. If your list includes more items than the number of slots you set for promotions, the [!UICONTROL Randomize Item Order] option randomizes the promoted items that are displayed in your design. Choosing this option results in [!DNL Target] randomly selecting the items enabled for promotions in the template from the entire promotion set on each hit.
 
    If your entities do not have an `entity.value` attribute (for example, you do not sell products) you can pass a numeric value into the `entity.value` attribute, such as the publishing date. In this case, promoted items can be promoted based on the most-recent publishing date, in descending order. The `entity.value` attribute is of type double; it does not accept strings.
 
-   If you selected the [!UICONTROL Promote by Attribute] or [!UICONTROL Promote a Collection] option, the option to randomize the order is not applicable.
+   If you selected the **[!UICONTROL Promote by Attribute]** or **[!UICONTROL Promote a Collection]** option, the option to randomize the order is not applicable.
 
    When promoting specific items using the [!UICONTROL Promote by Attribute] or [!UICONTROL Promote a Collection] options, the default order in which items are presented is based on the `entity.value` attribute, in descending numeric order.
 
@@ -69,9 +67,9 @@ You can promote specific items, dynamically promote items, promote items based o
    |Promotion Type|Default Sort|Backup Sort|Dynamic Filtering Option|
    | --- | --- | --- | --- |
    |List of Items|Order entered in the Target UI/API|Random (when selected via UI/API|No|
-   |Promote by Attribute|entity.value (descending order)|Randomized on each request (when no entity.value attribute is present)|No|
-   |Promote a collection|entity.value (descending order)|Randomized on each request (when no entity.value attribute is present)|No|
-   
-1. Click **[!UICONTROL Save.]**.
+   |Promote by Attribute|`entity.value` (descending order)|Randomized on each request (when no `entity.value` attribute is present)|Yes|
+   |Promote a collection|`entity.value` (descending order)|Randomized on each request (when no `entity.value` attribute is present)|No|
+
+1. Click **[!UICONTROL Save]**.
 
 Promotions are applied to all experiences in the activity. 
