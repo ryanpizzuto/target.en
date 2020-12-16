@@ -1,19 +1,19 @@
 ---
 keywords: customer relationship management;customer record service;crs;crm;mbox3rdpartyid;customer attributes;targeting;csv;crm;adobe experience cloud people
-description: Information about using enterprise customer data from a customer relationship management (CRM) databases for content targeting in Adobe Target by using Customer Attributes in the Adobe Experience Cloud People core service.
+description: Information about using enterprise customer data from a customer relationship management (CRM) databases for content targeting in Adobe Target by using Customer Attributes in the Adobe Experience Cloud People service.
 title: Customer attributes in Adobe Target
 feature: visitor profiles
 ---
 
-# Customer attributes {#customer-attributes}
+# Customer attributes
 
-Information about using enterprise customer data from Customer Relationship Management (CRM) databases for content targeting in [!DNL Adobe Target] by using customer attributes in the [!DNL Adobe Enterprise Cloud People] core service.
+Information about using enterprise customer data from Customer Relationship Management (CRM) databases for content targeting in [!DNL Adobe Target] by using customer attributes in the [!DNL Adobe Enterprise Cloud People] service.
 
-Enterprise customer data collected through multiple sources and stored inside CRM databases can be used in [!DNL Target] to strategically deliver the most relevant content to customers, specifically focusing on returning customers. Audiences and customer attributes in the [!DNL People] core service (formerly Profiles and Audiences) brings together data collection and analysis with testing and optimization, making data and insights actionable.
+Enterprise customer data collected through multiple sources and stored inside CRM databases can be used in [!DNL Target] to strategically deliver the most relevant content to customers, specifically focusing on returning customers. Audiences and customer attributes in the [!DNL People] service (formerly Profiles and Audiences) brings together data collection and analysis with testing and optimization, making data and insights actionable.
 
 ## Customer attributes overview {#section_B4099971FA4B48598294C56EAE86B45A}
 
-[Customer Attributes](https://experienceleague.adobe.com/docs/core-services/interface/customer-attributes/attributes.html) in the [!DNL People] core service is part of the [!DNL Adobe Experience Cloud] and provides enterprises a tool to push their customer data to the [!DNL Experience Cloud] platform. 
+[Customer Attributes](https://experienceleague.adobe.com/docs/core-services/interface/customer-attributes/attributes.html) in the [!DNL People] service is part of the [!DNL Adobe Experience Cloud] and provides enterprises a tool to push their customer data to the [!DNL Experience Cloud] platform. 
 
 Data onboarded to the [!DNL Experience Cloud] is available for all [!DNL Experience Cloud] workflows. [!DNL Target] uses this data for targeting returning customer based on attributes. [!DNL Adobe Analytics] consumes these attributes and they can be used for analysis and segmentation.
 
@@ -21,7 +21,7 @@ Data onboarded to the [!DNL Experience Cloud] is available for all [!DNL Experie
 
 Consider the following information as your work with customer attributes and [!DNL Target]:
 
-* There are some prerequisite requirements that you must meet before you can use the [!UICONTROL Customer attributes] feature in the [!DNL People] core service. For more information, see "Prerequisites for uploading Customer Attributes" in [Customer attributes](https://experienceleague.adobe.com/docs/core-services/interface/customer-attributes/attributes.html#section_BD38693AFBF34926BA28E964963B4EA0) in the *Experience Cloud and Core Services Product documentation*. 
+* There are some prerequisite requirements that you must meet before you can use the [!UICONTROL Customer attributes] feature in the [!DNL People] service. For more information, see "Prerequisites for uploading Customer Attributes" in [Customer attributes](https://experienceleague.adobe.com/docs/core-services/interface/customer-attributes/attributes.html#section_BD38693AFBF34926BA28E964963B4EA0) in the *Experience Cloud Services and Administration documentation*. 
 
   >[!NOTE]
   >
@@ -35,7 +35,7 @@ Consider the following information as your work with customer attributes and [!D
 
 * You cannot send the following characters in `mbox3rdPartyID`: plus sign (+) and forward slash (/).
 
-## Access Customer Attributes in the People core service
+## Access Customer Attributes in the People service
 
 1. In the [!DNL Adobe Experience Cloud], click the menu icon ( ![menu icon](/help/c-target/c-visitor-profile/assets/menu-icon.png) ) then click **[!UICONTROL People]**.
 
@@ -51,7 +51,7 @@ Complete the following steps to use CRM data in [!DNL Target], as illustrated be
 
 ![crm workflow](/help/c-target/c-visitor-profile/assets/crm_workflow.png)
 
-Detailed instructions for completing each of the following tasks can be found in [Create a customer attribute source and upload the data file](https://experienceleague.adobe.com/docs/core-services/interface/customer-attributes/t-crs-usecase.html) in the *Experience Cloud and Core Services Product Documentation*.
+Detailed instructions for completing each of the following tasks can be found in [Create a customer attribute source and upload the data file](https://experienceleague.adobe.com/docs/core-services/interface/customer-attributes/t-crs-usecase.html) in the *Experience Cloud Services and Administration documentation*.
 
 1. Create a data file.
 
@@ -134,11 +134,11 @@ Pass `mbox3rdPartyId` as a parameter to the global mbox inside the `targetPagePa
 
 ### Using the Experience Cloud ID Service
 
-If you are using the Experience Cloud ID service, you need to set a Customer ID and Authentication State to use customer attributes in targeting. For more information, see [Customer IDs and Authentication State](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) in the *Experience Cloud Identity Service Help*.
+If you are using the Experience Cloud ID service, you need to set a Customer ID and Authentication State to use customer attributes in targeting. For more information, see [Customer IDs and Authentication State](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) in the *Experience Cloud ID Service Help*.
 
 For more information about using customer attributes in [!DNL Target], see the following resources:
 
-* [Create a customer attribute source and upload the data file](https://experienceleague.adobe.com/docs/core-services/interface/customer-attributes/t-crs-usecase.html) in the *Experience Cloud Product Documentation* 
+* [Create a customer attribute source and upload the data file](https://experienceleague.adobe.com/docs/core-services/interface/customer-attributes/t-crs-usecase.html) in the *Experience Cloud Services and Administration documentation* 
 * [Customer Attributes: The More You Know, The Better You Connect](https://blogs.adobe.com/digitalmarketing/analytics/customer-attributes-know-better-connect/) in the *Digital Marketing Blog*
 
 ## Issues frequently encountered by customers {#section_BE0F70E563F64294B17087DE2BC1E74C}
