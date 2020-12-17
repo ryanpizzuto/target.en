@@ -101,6 +101,12 @@ This recommendation applies to [!UICONTROL Auto-Allocate], [!UICONTROL Auto-Targ
 
 Using the [!UICONTROL Reset Report Data] option for [!UICONTROL Auto-Target] activities is not suggested. Although it removes the visible reporting data, this option does not remove all training records from the [!UICONTROL Auto-Target] model. Instead of using the [!UICONTROL Reset Report Data] option for [!UICONTROL Auto-Target] activities, create a new activity and de-activate the original activity. (Note: This guidance also applies to [!UICONTROL Auto-Allocate] and [!UICONTROL Automated Personalization] activities.)
 
+### What happens if I remove a single experience from an Auto-Target activity?
+
+[!DNL Target] builds one model per experience, so removing one experience means [!DNL Target] will just build one fewer model, and won’t affect models for the other experiences.
+
+For example, suppose you have an [!UICONTROL Auto-Target] activity with eight experiences and you don't like the performance of one experience. You can remove that experience and it won't affect the models for the seven remaining experiences.
+
 ## Troubleshooting [!UICONTROL Auto-Target] {#section_23995AB813F24525AF294D20A20875C8}
 
 Sometimes activities don't go as expected. Here are some potential challenges you may face while using [!UICONTROL Auto-Target], and some suggested solutions.
@@ -137,8 +143,3 @@ In an [!UICONTROL Auto-Target] activity, once a conversion metric (whether optim
 
 For example, there is an activity with a conversion metric (C1) and an additional metric (A1). A1 is dependent on C1. When a visitor enters the activity for the first time, and the criteria for converting A1 and C1 are not converted, metric A1 is not converted due to the success metric dependency. If the visitor converts C1 and then converts A1, A1 is still not converted because as soon as C1 is converted, the visitor is released.
 
-### What happens if I remove a single experience from an Auto-Target activity?
-
-[!DNL Target] builds one model per experience, so removing one experience means [!DNL Target] will just build one fewer model, and won’t affect models for the other experiences.
-
-For example, suppose you have an [!UICONTROL Auto-Target] activity with eight experiences and you don't like the performance of one experience. You can remove that experience and it won't affect the models for the seven remaining experiences.
