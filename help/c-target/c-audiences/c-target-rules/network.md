@@ -38,7 +38,7 @@ You can create audiences based on network details.
       >
       >When targeting based on ISP, use the ISP name, not the popular name. Ensure that you build the rule to be case-insensitive or always use lowercase format.
 
-      You can test the ISP and domain name values. [https://www.whoismyisp.org](https://www.whoismyisp.org) is a good resource for targeting purposes. You can use the sample IP addresses given in the table above, or enter your own. Then use the `themboxOverride.browserIp= URL` parameter to mimic that IP address. 
+      You can test the ISP and domain name values. [https://www.whoismyisp.org](https://www.whoismyisp.org) is a good resource for targeting purposes. You can use the sample IP addresses given in the table above, or enter your own. Then use the `mboxOverride.browserIp= URL` parameter to mimic that IP address. 
     
     * **Domain Name:** This is the domain name for the visitor's IP address. This is not the domain name of the website you are using with [!DNL Target]. This domain name is related to the visitor's IP address and is sometimes called a hostname. It is usually very similar to the ISP name. Sometimes the hostname references older names of companies that have rebranded their ISP name but not the domain name. 
     * **Connection Speed:** This is the speed of the visitor's connection to the internet. Options include: broadband, cable, dialup, mobile, oc3, oc12, satellite, t1, t2, and wireless, and xdsl.
