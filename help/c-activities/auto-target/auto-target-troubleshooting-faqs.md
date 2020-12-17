@@ -136,3 +136,9 @@ This is expected.
 In an [!UICONTROL Auto-Target] activity, once a conversion metric (whether optimization goal or post goal) is converted, the user is released from the experience and the activity is restarted.
 
 For example, there is an activity with a conversion metric (C1) and an additional metric (A1). A1 is dependent on C1. When a visitor enters the activity for the first time, and the criteria for converting A1 and C1 are not converted, metric A1 is not converted due to the success metric dependency. If the visitor converts C1 and then converts A1, A1 is still not converted because as soon as C1 is converted, the visitor is released.
+
+### What happens if I remove a single experience from an Auto-Target activity?
+
+[!DNL Target] builds one model per experience, so removing one experience means [!DNL Target] will just build one fewer model, and won’t affect models for the other experiences.
+
+For example, suppose you have an [!UICONTROL Auto-Target] activity with eight experiences and you don't like the performance of one experience. You can remove that experience and it won't affect the models for the seven remaining experiences.

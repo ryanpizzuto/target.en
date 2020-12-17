@@ -13,6 +13,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|December 16|[Auto-Target troubleshooting and FAQs](/help/c-activities/auto-target/auto-target-troubleshooting-faqs.md)|Added the following FAQ: "What happens if I remove a single experience from an Auto-Target activity?"|
 |December 9|[On-device decisioning](/help/c-implementing-target/c-api-and-sdk-overview/on-device-decisioning.md)|New topic.|
 ||[Known issues and resolved issues](/help/r-release-notes/known-issues-resolved-issues.md)|Moved the following issue from the Known issues section to the Resolved issues section: "Image offers showing “Processing” label."|
 |December 1|[Target announcements and events](/help/r-release-notes/target-announcements.md)|Embedded the webinar recording for "Personalize and test at zero latency with on-device decisions from Adobe Target."|
