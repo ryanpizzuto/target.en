@@ -5,7 +5,7 @@ title: Adobe Analytics as the reporting source for Adobe Target (A4T)
 feature: a4t general
 ---
 
-# Adobe Analytics as the reporting source for Adobe Target (A4T){#adobe-analytics-as-the-reporting-source-for-adobe-target-a-t}
+# Adobe Analytics as the reporting source for Adobe Target (A4T)
 
 [!DNL Adobe Analytics for Target] (A4T) is a cross-solution integration that lets you create activities based on [!DNL Analytics] conversion metrics and audience segments. The A4T integration lets you use [!DNL Analytics] reports to examine your results. If you use [!DNL Analytics] as the reporting source for an activity, all reporting and segmentation for that activity is based on [!DNL Analytics] data collection.
 
@@ -66,7 +66,8 @@ The following table shows you which activity types support [!DNL Analytics] as t
 |AEM 6.1 (or earlier) Cloud Service Integration|No||
 |AEM 6.2 (or later) Cloud Service Integration|Yes|For more information, see [Integrating with Adobe Target](https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/target.html) in the [!DNL Adobe Experience Manager] 6.2 documentation.|
 |Any activity using a redirect offer|Yes|There are stricter minimum requirements for using redirect offers with A4T. For more information, see [Redirect Offers - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-redirect-offers.md).|
-|Node.JS|Yes||
+|Node.JS|Yes|For more information, see [Node.js SDK](https://adobetarget-sdks.gitbook.io/docs/sdk-reference-guides/nodejs-sdk) in the *Adobe Target SDKs* guide.|
+|Java SDK|Yes|For more information, see [Java SDK](https://adobetarget-sdks.gitbook.io/docs/sdk-reference-guides/java-sdk) in the *Adobe Target* SDKs guide.|
 
 Because all activity types do not yet support A4T, it is recommended that you keep or implement important conversion mboxes, such as the `orderConfirmPage` mbox.
 
