@@ -2,7 +2,7 @@
 keywords: workspaces;manage property;permissions;product configuration;product profile;roles;project
 description: Information about creating properties and using the Properties and Permissions functionality that lets Adobe Target administrators create separate workspaces (product profiles) in Target and then assign users different roles and permissions for individual pages, properties, or web sites based on these workspaces.
 title: Enterprise user permissions
-feature: user management
+feature: Administration & Configuration
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Enterprise user permissions{#enterprise-user-permissions}

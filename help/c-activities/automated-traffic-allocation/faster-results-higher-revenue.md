@@ -2,7 +2,7 @@
 keywords: automated traffic allocation;targeting;auto-allocate
 description: The Auto Allocate activity in Adobe Target identifies a winner among two or more experiences and automatically reallocates more traffic to the winner to increase conversions while the test continues to run and learn.
 title: Auto-Allocate can give you faster test results and higher revenue than a manual test
-feature: auto-allocate
+feature: Auto-Allocate
 ---
 
 # Auto-Allocate can give you faster test results and higher revenue than a manual test
