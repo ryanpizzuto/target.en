@@ -2,7 +2,7 @@
 keywords: add user;project;user group;properties;workspace;manage property;property;at_property;roles;permissions
 description: Information about the tasks required to add users to your Adobe Target implementation; create workspaces, user groups, and properties; update your Target implementation to include the at_property parameter; and specify roles and permissions.
 title: Configure enterprise permissions
-feature: user management
+feature: Administration & Configuration
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Configure enterprise permissions{#configure-enterprise-permissions}

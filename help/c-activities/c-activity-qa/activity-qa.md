@@ -2,7 +2,7 @@
 keywords: qa;preview;preview links;adobe target;target
 description: Use Adobe Target QA URLs to perform easy end-to-end activity QA with preview links that never change, optional audience targeting, and QA reporting that stays segmented from live activity data.
 title: Activity QA
-feature: qa 
+feature: Activities 
 ---
 
 # Activity QA {#activity-qa}
