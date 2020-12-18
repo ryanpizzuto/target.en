@@ -193,6 +193,7 @@ user-guide-description: Learn how to tailor and personalize your customers' expe
       + [A/B test overview](c-activities/t-test-ab/test-ab.md)
       + [How long should you run an A/B test?](c-activities/t-test-ab/sample-size-determination.md)
       + [Ten common A/B testing pitfalls and how to avoid them](c-activities/t-test-ab/common-ab-testing-pitfalls.md)
+      + [A/A testing](/help/c-activities/t-test-ab/aa-testing.md)
       + Create an A/B test {#create}
          + [Create an A/B test](c-activities/t-test-ab/t-test-create-ab/test-create-ab.md)
          + [Activity URL](c-activities/t-test-ab/t-test-create-ab/ab-activity-url.md)
