@@ -1,17 +1,17 @@
 ---
 keywords: revenue lift;revenue;estimating lift in revenue;calculate lift;estimated value
-description: Adobe Target can estimate the revenue lift you would attain if all users view the winning experience.
+description: Use Adobe Target to estimate the revenue lift you would attain if all users view the winning experience.
 title: Estimate lift in revenue
 feature: Administration & Configuration
 ---
 
 # Estimate lift in revenue{#estimate-lift-in-revenue}
 
-Target can estimate the revenue lift you would attain if all users view the winning experience.
+Use [!DNL Adobe Target] to estimate the revenue lift you would attain if all users view the winning experience.
 
 >[!NOTE]
 >
->Estimated lift is not available for Experience Targeting (XT) activities at this time.
+>Estimated lift is not available for [!UICONTROL Experience Targeting] (XT) activities at this time.
 
 The estimated lift feature is turned off by default. It can be enabled in your account preferences. Only Experience Cloud Admin users can enable or disable this feature. If estimated lift is disabled, the corresponding fields do not appear in the interface. Disabling the feature does not result in a loss of data, including the data used for your estimates. The estimates are based on data that is collected whether or not the feature is enabled.
 

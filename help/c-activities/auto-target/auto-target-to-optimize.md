@@ -7,7 +7,7 @@ feature: Auto-Target
 
 # ![PREMIUM](/help/assets/premium.png) Auto-Target overview
 
-[!UICONTROL Auto-Target] uses advanced machine learning to select from multiple high-performing marketer-defined experiences to personalize content and drive conversions. Auto-Target serves the most tailored experience to each visitor based on his or her individual customer profile and the behavior of previous visitors with similar profiles. 
+[!UICONTROL Auto-Target] activities in Adobe Target use advanced machine learning to select from multiple high-performing marketer-defined experiences to personalize content and drive conversions. Auto-Target serves the most tailored experience to each visitor based on his or her individual customer profile and the behavior of previous visitors with similar profiles. 
 
 >[!NOTE]
 >

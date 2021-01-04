@@ -1,13 +1,13 @@
 ---
 keywords: Administration;approver role;approver
-description: This section contains the first steps Adobe Target administrators should take after receiving the emailed invitation to the Adobe Experience Cloud.
+description: The first steps Adobe Target administrators should take after receiving the emailed invitation to the Adobe Experience Cloud.
 title: Administrator first steps
 feature: Administration & Configuration
 ---
 
-# Administrator first steps{#administrator-first-steps}
+# Administrator first steps
 
-This section contains the first steps [!DNL Target] administrators should take after receiving the emailed invitation to the [!DNL Adobe Experience Cloud].
+This article contains the first steps [!DNL Adobe Target] administrators should take after receiving the emailed invitation to the [!DNL Adobe Experience Cloud].
 
 ## Get invited to Target {#task_3E0817630774431983FAA3D2CB2E75BD}
 

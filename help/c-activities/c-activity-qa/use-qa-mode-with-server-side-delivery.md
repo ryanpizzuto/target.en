@@ -5,9 +5,9 @@ title: Use Activity QA with server-side delivery
 feature: Activities
 ---
 
-# Use Activity QA with server-side delivery{#use-activity-qa-with-server-side-delivery}
+# Use Activity QA with server-side delivery
 
-Use QA URLs with server-side delivery to perform easy end-to-end activity QA with preview links that never change, optional audience targeting, and QA reporting that stays segmented from live activity data.
+Use QA URLs with server-side delivery in [!DNL Adobe Target] to perform easy end-to-end activity QA with preview links that never change, optional audience targeting, and QA reporting that stays segmented from live activity data.
 
 The standard implementation of Activity QA supports passing `qa_mode` parameters via `pageUrl` parameters. This approach is convenient for standard/ajax [!DNL Target] calls. However, for server-to-server calls, this is not the best approach for a Mobile SDK case when `pageUrl` is not available.
 
