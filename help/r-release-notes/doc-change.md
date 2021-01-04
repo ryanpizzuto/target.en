@@ -13,6 +13,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|January 4, 2021|[Target release notes (current)](/help/r-release-notes/release-notes.md)|Changed the date when Target will no longer support mbox.js from January 18, 2021 to March 31, 2021.|
 |December 18|[A/A testing](/help/c-activities/t-test-ab/aa-testing.md)|New topic.|
 |December 17|[Adobe Analytics as the reporting source for Adobe Target (A4T)](/help/c-integrating-target-with-mac/a4t/a4t.md)|Updated table to indicate that the Java SDK supports A4T.|
 |December 16|[Auto-Target troubleshooting and FAQs](/help/c-activities/auto-target/auto-target-troubleshooting-faqs.md)|Added the following FAQ: "What happens if I remove a single experience from an Auto-Target activity?"|
@@ -86,7 +87,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 | --- | --- | --- |
 |August 31|[Use Adobe Analytics with Recommendations](/help/c-recommendations/c-algorithms/use-adobe-analytics-with-recommendations.md)|Added FAQ section.|
 |August 28|[Known issues and resolved issues](/help/r-release-notes/known-issues-resolved-issues.md)|Updated the following:<ul><li>Added to the Known issues section: "Reporting - Conversions currently increment differently based on which audience is used."</li><li>Added to the Resolved issues section: "Pages not loading in the Visual Experience Composer (VEC) or Enhanced Experience Composer (EEC) when using Google Chrome version 80+."</li></ul> |
-||[Target release notes (current)](/help/r-release-notes/release-notes.md)|The deprecation date for mbox.js has been changed from August 30, 2020 to January 18, 2021.|
+||[Target release notes (current)](/help/r-release-notes/release-notes.md)|The deprecation date for mbox.js has been changed from August 30, 2020 to January 18, 2021. This has now been changed to March 31, 2020.|
 |August 26|[Use Adobe Analytics with Target Recommendations](/help/c-recommendations/c-algorithms/use-adobe-analytics-with-recommendations.md)|New topic.|
 |August 24|[Success metrics](/help/c-activities/r-success-metrics/success-metrics.md#section_7CE95A2FA8F5438E936C365A6D43BC5B)|Updated "Advanced settings" section.|
 |August 21|[Adobe Target welcome kit overview](/help/c-intro/target-welcome-kit.md)|New article and subtopics.|

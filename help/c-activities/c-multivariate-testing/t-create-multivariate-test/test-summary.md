@@ -2,12 +2,12 @@
 keywords: Overview and Reference
 description: The test summary provides a visual overview of your Adobe Target Multivariate Test.
 title: Test summary
-feature: mvt
+feature: Multivariate Tests
 ---
 
-# Test summary{#test-summary}
+# Test summary
 
-The test summary provides a visual overview of your multivariate test.
+The test summary provides a visual overview of your [!DNL Adobe Target] [!UICONTROL Multivariate Test].
 
 ![Test summary dialog box](/help/c-activities/c-multivariate-testing/t-create-multivariate-test/assets/summary2new.png)
 
