@@ -7,7 +7,7 @@ feature: Activities
 
 # Activity QA {#activity-qa}
 
-Use QA URLs in Adobe Target to perform easy end-to-end activity QA with preview links that never change, optional audience targeting, and QA reporting that stays segmented from live activity data.
+Use QA URLs in [!DNL Adobe Target] to perform easy end-to-end activity QA with preview links that never change, optional audience targeting, and QA reporting that stays segmented from live activity data.
 
 ## Overview {#section_11B761A522A14E61978275772210A4C2}
 

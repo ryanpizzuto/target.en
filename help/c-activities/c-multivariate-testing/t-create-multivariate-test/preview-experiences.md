@@ -1,14 +1,15 @@
 ---
-description: Because a multivariate test compares multiple experiences on a page, it is helpful to preview the page with each experience.
+keywords: multivariate;mvt;preview;experiences
+description: Because a Multivariate Test in Adobe Target compares multiple experiences on a page, it is helpful to preview the page with each experience.
 title: Preview experiences for a Multivariate Test in Adobe Target
-feature: mvt
+feature: Multivariate Tests
 ---
 
 # Preview experiences for a Multivariate Test{#preview-experiences-for-a-multivariate-test}
 
-Because a multivariate test compares multiple experiences on a page, it is helpful to preview the page with each experience.
+Because a [!UICONTROL Multivariate Test] in [!DNL Adobe Target] compares multiple experiences on a page, it is helpful to preview the page with each experience.
 
-1. From the Experience Composer, click **[!UICONTROL Preview]**.
+1. From the Visual Experience Composer (VEC), click **[!UICONTROL Preview]**.
 
    A list of all experiences appears.
 

@@ -1,13 +1,13 @@
 ---
-keywords: activity settings;mvt goals and settings;multivariate goals and settings;reporting settings;goal metrics;success metrics;dependent success metrics;advanced settings;primary goal;additional metrics;objective;priority;duration;reporting solution;goal;audiences for reporting;Which success metric must be reached before incrementing this metric;What will happen after a user encounters this goal metric;notes
+keywords: activity settings;goals and settings;multivariate;mvt
 description: The Goals and Settings page in Adobe Target is where you enter information about the goals of the test.
 title: Goals and settings
-feature: mvt
+feature: Multivariate Tests
 ---
 
-# Goals and settings{#goals-and-settings}
+# Goals and settings (Multivariate Tests)
 
-The Goals and Settings page is where you enter information about the goals of the test.
+The Goals and Settings page in Adobe Target is where you enter information about the goals of your [!UICONTROL Multivariate] (MVT) tests.
 
 * Activity Settings 
 * Reporting Settings 

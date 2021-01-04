@@ -5,7 +5,7 @@ title: Activity QA bookmarklet for Adobe Target
 feature: Activities
 ---
 
-# Activity QA bookmarklet{#activity-qa-bookmarklet}
+# Activity QA bookmarklet
 
 Information to help you use the [!DNL Target] QA bookmarklet to force [!DNL Target] to release you from QA mode.
 

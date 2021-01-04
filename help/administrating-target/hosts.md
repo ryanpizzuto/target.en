@@ -7,7 +7,7 @@ feature: Administration & Configuration
 
 # Hosts{#hosts}
 
-Organize your sites and pre-production environments for easy management and separated reporting.
+Organize your sites and pre-production environments for easy management and separated reporting in [!DNL Adobe Target].
 
 The primary goal of host management is to ensure that no inactive content accidentally appears on websites. Host management also lets you separate report data by [environment](/help/administrating-target/environments.md).
 

@@ -7,7 +7,7 @@ feature: APIs/SDKs
  
 # Adobe Target API overview
  
-[!DNL Adobe Target] APIs can be grouped according to type.
+[!DNL Adobe Target] APIs can be grouped according to type: Admin, Delivery, Reporting, and Profile APIs.
  
 |API type|What it enables you to do|Download link|Other helpful links|
 | --- | --- | --- |--- |
