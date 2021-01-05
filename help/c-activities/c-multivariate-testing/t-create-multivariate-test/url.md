@@ -1,8 +1,8 @@
 ---
-keywords: Targeting
+keywords: Multivariate Tests;activity url
 description: The Activity URL determines the page that is used in an Adobe Target Multivariate Test (MVT), and that opens when the test is designed in Adobe Target.
 title: Activity URL
-feature: mvt
+feature: Multivariate Tests
 ---
 
 # Activity URL{#activity-url}

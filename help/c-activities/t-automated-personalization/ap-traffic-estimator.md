@@ -1,11 +1,11 @@
 ---
-keywords: traffic estimator;automated personalization;ap
+keywords: traffic estimator;automated personalization;ap;estimate traffic
 description: The Traffic Estimator provides feedback that lets you know whether you have sufficient traffic for your Adobe Target activity to succeed.
 title: Estimate the traffic required for success
-feature: ap
+feature: Automated Personalization
 ---
 
-# ![PREMIUM](/help/assets/premium.png) Estimate the traffic required for success{#estimate-the-traffic-required-for-success}
+# ![PREMIUM](/help/assets/premium.png) Estimate the traffic required for success
 
 The [!UICONTROL Traffic Estimator] provides feedback that lets you know whether you have sufficient traffic for your [!DNL Adobe Target] activity to succeed.
 

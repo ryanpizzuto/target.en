@@ -2,10 +2,10 @@
 keywords: priority;experience create;priority;experience;audience;experience;switching experiences;visual experience composer
 description: Information about the how visitors can switch between experiences in an Experience Targeting (XT) activity as their profiles evolve.
 title: Switching Experiences in Experience Targeting
-feature: xt
+feature: Experience Targeting
 ---
 
-# Switching experiences in Experience Targeting{#switching-experiences-in-experience-targeting}
+# Switching experiences in Experience Targeting
 
 Information about the how visitors can switch between experiences in an Experience Targeting (XT) activity as their profiles evolve.
 

@@ -2,12 +2,12 @@
 keywords: multivariate test;mvt;mvt plan;multivariate test plan
 description:  Multivariate Tests in Adobe Target require some planning before you can create a successful test.
 title: Plan a Multivariate Test in Adobe Target
-feature: mvt
+feature: Multivariate Tests
 ---
 
-# Plan a Multivariate Test{#plan-a-multivariate-test}
+# Plan a Multivariate Test
 
- [!UICONTROL Multivariate Tests] (MVT) in [!DNL Adobe Target] require some planning before you can create a successful test.
+[!UICONTROL Multivariate Tests] (MVT) in [!DNL Adobe Target] require some planning before you can create a successful test.
 
 MVT require sufficient traffic to generate useful results. Before setting up your test, you should be aware of the amount of traffic you typically get, including the number of impressions and conversions. Having this information will reduce the likelihood of designing a test with requirements that exceed your site's traffic.
 

@@ -2,10 +2,10 @@
 keywords: activity settings;experience targeting goals and settings;xt goals and settings;experience targeting;reporting settings;goal metrics;success metrics;dependent success metrics;advanced settings;primary goal;additional metrics;objective;priority;duration;reporting solution;goal;audiences for reporting;Which success metric must be reached before incrementing this metric;What will happen after a user encounters this goal metric;notes
 description: The Goals and Settings page is where you enter information about the goals of the test.
 title: Goals and Settings
-feature: xt 
+feature: Experience Targeting 
 ---
 
-# Goals and Settings{#goals-and-settings}
+# Goals and Settings in Experience Targeting (XT) activities
 
 The Goals and Settings page is where you enter information about the goals of the test.
 

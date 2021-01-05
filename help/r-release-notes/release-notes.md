@@ -2,7 +2,7 @@
 keywords: Release notes;new features;releases;updates;update;release;enhancement;enhancements;fixes;bug fixes;updates
 description: These release notes provide information about features, enhancements, fixes, and known issues for each Adobe Target Standard and Target Premium release.
 title: Adobe Target release notes (current) 
-feature: release notes
+feature: Release Notes
 ---
 
 # Target release notes (current)
@@ -11,13 +11,15 @@ These release notes provide information about features, enhancements, and fixes 
 
 >[!IMPORTANT]
 >
->* **mbox.js end-of-life**: On March 31, 2021, Adobe Target will no longer support the mbox.js library. Post March 31, 2021, all calls made from mbox.js will gracefully fail and impact your pages that have Target activities running by serving default content. We recommend that all customers migrate to the most recent version of the at.js library before this date to avoid any potential issues with your sites. For more information, see [How At.js Works](/help/c-implementing-target/c-implementing-target-for-client-side-web/c-how-atjs-works/how-atjs-works.md) and [Adobe Target Skill Builder: Developer chat, migrate Adobe Target's mbox.js to at.js](https://seminars.adobeconnect.com/ptdo6mfo6qn6/?proto=true).
+>**mbox.js end-of-life**: On March 31, 2021, [!DNL Adobe Target] will no longer support the mbox.js library. Post March 31, 2021, all calls made from mbox.js will gracefully fail and impact your pages that have [!DNL Target] activities running by serving default content. We recommend that all customers migrate to the most recent version of the at.js library or the new [!DNL Adobe Experience Platform Web SDK] before this date to avoid any potential issues with your sites. 
 >
->   Although, mbox.js is currently supported, we have not provided feature updates to this library since July 2017. The newer at.js provides many advantages over mbox.js. Among other benefits, at.js improves page load times for web implementations, improves security, and provides better implementation options for single page applications.
+>* **at.js**: If you choose to migrate to at.js, see [How At.js Works](/help/c-implementing-target/c-implementing-target-for-client-side-web/c-how-atjs-works/how-atjs-works.md) and [Adobe Target Skill Builder: Developer chat, migrate Adobe Target's mbox.js to at.js](https://seminars.adobeconnect.com/ptdo6mfo6qn6/?proto=true).
 >
->   By moving all customers to at.js, our engineers and support staff will be able to provide you with new functionality and offer the support you have come to expect from Adobe.
+>* **Adobe Experience Platform Web SDK**: If you choose to migrate to the [!DNL Adobe Experience Platform Web SDK], see [What is Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html), in the *Web SDK Guide*. See [Target overview](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html) for [!DNL Target]-specific information.
 >
->* **Target Announcements**: See the Target announcements page for information about upcoming events, including Target Skill Builder sessions, developer chats, webinars, and Target Coffee Break sessions. For more information, see [Target announcements](/help/r-release-notes/target-announcements.md).
+>Although, mbox.js is currently supported (until March 31, 2021), we have not provided feature updates to this library since July 2017. The newer at.js library provides many advantages over mbox.js. Among other benefits, the at.js improves page load times for web implementations, improves security, and provides better implementation options for single page applications. The [!UICONTROL Adobe Experience Platform Web SDK] lets you interact with the various services in the [!DNL Experience Cloud] (including [!DNL Target]) through the Adobe Experience Edge Network.
+>
+>By moving all customers to at.js or the [!UICONTROL Adobe Experience Platform Web SDK], our engineers and support staff will be able to provide you with new functionality and offer the support you have come to expect from Adobe.
 
 The issue numbers in parentheses are for internal [!DNL Adobe] use.
 

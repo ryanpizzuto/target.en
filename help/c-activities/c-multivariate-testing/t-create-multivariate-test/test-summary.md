@@ -1,11 +1,11 @@
 ---
-keywords: Overview and Reference
+keywords: summary
 description: The test summary provides a visual overview of your Adobe Target Multivariate Test.
 title: Test summary
 feature: Multivariate Tests
 ---
 
-# Test summary
+# Test summary (Multivariate Tests)
 
 The test summary provides a visual overview of your [!DNL Adobe Target] [!UICONTROL Multivariate Test].
 

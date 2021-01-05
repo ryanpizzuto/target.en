@@ -1,13 +1,13 @@
 ---
-keywords: automated personalization;Audiences;ensemble;random forest
-description: Automated Personalization (AP) combines offers or messages, and uses advanced machine learning to match different offer variations to each visitor based on their individual customer profile, in order to personalize content and drive lift.
+keywords: automated personalization;ap;audiences;ensemble;random forest;multi-armed bandit;thompson sampling;ml;machine learning
+description: Automated Personalization (AP)activities in Adobe Target combine offers or messages, and uses advanced machine learning to match different offer variations to each visitor based on their individual customer profile, in order to personalize content and drive lift.
 title: Automated Personalization
-feature: ap
+feature: Automated Personalization
 ---
 
-# ![PREMIUM](/help/assets/premium.png) Automated Personalization{#automated-personalization}
+# ![PREMIUM](/help/assets/premium.png) Automated Personalization (AP)
 
-[!UICONTROL Automated Personalization] (AP) combines offers or messages, and uses advanced machine learning to match different offer variations to each visitor based on their individual customer profile, in order to personalize content and drive lift.
+[!UICONTROL Automated Personalization] (AP) activities in [!DNL Adobe Target] combine offers or messages, and uses advanced machine learning to match different offer variations to each visitor based on their individual customer profile, in order to personalize content and drive lift.
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Marketers implement one file on their site, which enables them to point and clic
 
 The following terms are useful when discussing [!UICONTROL Automated Personalization]:
 
-|  Term  | Definition  |
+|Term|Definition|
 |---|---|
-|  Multi-armed bandit  | A multi-armed bandit approach to optimization balances exploratory learning and exploitation of that learning.  |
-|  Random Forest  |Random Forest is a leading machine learning approach. In data-science speak, it is an ensemble classification or regression method that works by constructing a large number of decision trees based on visitor and visit attributes. Within Target, Random Forest is used to determine which experience is expected to have the highest likelihood of conversion (or highest revenue per visit) for each specific visitor. For more information about Random Forest in Target, see [Random Forest Algorithm](/help/c-activities/t-automated-personalization/algo-random-forest.md).  |
-|  Thompson Sampling  |The goal of Thompson Sampling is to determine which experience is the best overall (non-personalized), while minimizing the “cost” of finding that experience. Thompson sampling always picks a winner, even if there is no statistical difference between two experiences. For more information, see [Thompson Sampling](https://en.wikipedia.org/wiki/Thompson_sampling).  |
+|Multi-armed bandit| A multi-armed bandit approach to optimization balances exploratory learning and exploitation of that learning.  |
+|Random Forest|Random Forest is a leading machine learning approach. In data-science speak, it is an ensemble classification or regression method that works by constructing a large number of decision trees based on visitor and visit attributes. Within Target, Random Forest is used to determine which experience is expected to have the highest likelihood of conversion (or highest revenue per visit) for each specific visitor. For more information about Random Forest in Target, see [Random Forest Algorithm](/help/c-activities/t-automated-personalization/algo-random-forest.md).  |
+|Thompson Sampling|The goal of Thompson Sampling is to determine which experience is the best overall (non-personalized), while minimizing the “cost” of finding that experience. Thompson sampling always picks a winner, even if there is no statistical difference between two experiences. For more information, see [Thompson Sampling](https://en.wikipedia.org/wiki/Thompson_sampling).  |
 
 Consider the following details when using [!UICONTROL Automated Personalization]:
 

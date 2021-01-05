@@ -1,11 +1,11 @@
 ---
-keywords: troubleshooting;frequently asked questions;FAQ;FAQs;automated personalization
+keywords: troubleshooting;frequently asked questions;FAQ;FAQs;automated personalization;control;default experience;best practices
 description: List of frequently asked questions (FAQs) about Automated Personalization (AP).
 title: Automated Personalization FAQ
-feature: ap
+feature: Automated Personalization
 ---
 
-# ![PREMIUM](/help/assets/premium.png) Automated Personalization FAQs{#automated-personalization-faq}
+# ![PREMIUM](/help/assets/premium.png) Automated Personalization FAQs
 
 List of frequently asked questions (FAQs) about Automated Personalization (AP).
 
@@ -46,7 +46,7 @@ There is no turn-key option of comparing AP to a default experience. However, as
 
 ## Frequently Asked Questions
 
-Consult the following FAQs and answers as you work with Auto-Allocate activities:
+Consult the following FAQs and answers as you work with [!UICONTROL Automated Personalization] activities:
 
 ### What are some limits in Automated Personalization? {#section_08BA09ED51B547299963C94FE6417CFA}
 
