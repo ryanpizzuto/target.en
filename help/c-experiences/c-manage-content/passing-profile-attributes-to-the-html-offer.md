@@ -29,7 +29,7 @@ Because user-specific preferences, behaviors, status, etc. can stored in the use
 
 The following values can be "token replaced":
 
-| Values | Examples |
+|Value|Examples|
 |--- |--- |
 |In-mbox profile parameters|`${profile.age}`|
 |Script profile parameters|`${user.lifetimeSpend}`|
@@ -50,7 +50,7 @@ For profile parameters passed into an mbox, use the syntax: `${profile.parameter
 
 `${user.parameter}`
 
-When using dynamic attributes in a Recommendations design, you must insert a backslash ('\') before the dollar sign ('$') in order for the dynamic value to render properly: `\${user.endpoint.lastViewedEntity}`
+When using dynamic attributes in a Recommendations design, you must insert a backslash ( &#92; ) before the dollar sign ( $ ) in order for the dynamic value to render properly: `\${user.endpoint.lastViewedEntity}`
 
 These variables are replaced with the value on the server side, so no quotes or other JavaScript is required for the proper display. 
 
