@@ -1,13 +1,13 @@
 ---
 keywords: troubleshoot target;troubleshooting target;default content;test not live;activity not live;targeting not working;previous experience displays;cannot create activities;can't create activities;create activities;page structure changed;page structure modified;error message;error delete profile script;ajax not working
-description: If your activity does not appear on your site, these troubleshooting suggestions should help you find your solution.
+description: If your Adobe Target activity does not appear on your site, these troubleshooting suggestions should help you find your solution.
 title: Troubleshoot activities
-feature: activities
+feature: Activities
 ---
 
-# Troubleshoot activities{#troubleshoot-activities}
+# Troubleshoot activities
 
-If your activity does not appear on your site, these troubleshooting suggestions should help you find your solution.
+If your [!DNL Adobe Target] activity does not appear on your site, these troubleshooting suggestions should help you find your solution.
 
 >[!NOTE]
 >

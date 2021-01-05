@@ -1,7 +1,8 @@
 ---
+kewords: Automated Personalization;ap;troublshoot;troubleshooting;model;lift
 description: Sometimes activities don't go as expected. Here are some potential challenges you might face while using Automated Personalization, and some suggested solutions.
 title: Troubleshoot Automated Personalization
-feature: ap
+feature: Automated Personalization
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Troubleshoot Automated Personalization{#troubleshoot-automated-personalization}

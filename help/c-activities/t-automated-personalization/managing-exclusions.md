@@ -1,14 +1,14 @@
 ---
-keywords: dedupe;allow duplicates;exclude duplicate offers;automated personalization;disallow duplicate offers
+keywords: dedupe;allow duplicates;exclude duplicate offers;automated personalization;disallow duplicate offers;exclude;default content;exclusion group;
 description: Manage exclusions by creating exclusion groups, excluding duplicate offers, excluding specific experiences, and excluding default content in Adobe Target Automated Personalization (AP) activities.
 title: Manage exclusions
-feature: ap
+feature: Automated Personalization
 solution: Target,Analytics
 ---
 
-# ![Premium badge](/help/assets/premium.png) Manage exclusions{#manage-exclusions}
+# ![Premium badge](/help/assets/premium.png) Manage exclusions
 
-Manage exclusions by creating exclusion groups, excluding duplicate offers, excluding specific experiences, and excluding default content in Automated Personalization (AP) activities. 
+Manage exclusions by creating exclusion groups, excluding duplicate offers, excluding specific experiences, and excluding default content in [!UICONTROL Automated Personalization] (AP) activities in [!DNL Adobe Target] [!UICONTROL Automated Personalization] (AP) activities. 
 
 ## Create exclusion groups {#task_AAAA6C7239A84F7696C8492F04B575A2}
 

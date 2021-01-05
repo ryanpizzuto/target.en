@@ -1,5 +1,5 @@
 ---
-keywords: Recommendations
+keywords: Automated Personalization;ap;preview;exclude experience;
 description: Because an Automated Personalization (AP) activity compares multiple offers on a page, it is helpful to preview the page with each experience.
 title: Preview experiences for an Automated Personalization (AP) activity in the Adobe Target Visual Experience Composer
 feature: ap
@@ -7,9 +7,9 @@ feature: ap
 
 # ![PREMIUM](/help/assets/premium.png) Preview experiences for Automated Personalization in the Visual Experience Composer{#preview-experiences-for-automated-personalization-in-the-visual-experience-composer}
 
-Because an Automated Personalization (AP) activity compares multiple offers on a page, it is helpful to preview the page with each experience.
+Because an [!DNL Adobe Target] [!UICONTROL Automated Personalization] (AP) activity compares multiple offers on a page, it is helpful to preview the page with each experience.
 
-1. From the Visual Experience Composer, click **[!UICONTROL Preview]**.
+1. From the [!UICONTROL Visual Experience Composer] (VEC), click **[!UICONTROL Preview]**.
 
    ![Preview icon](/help/c-activities/t-automated-personalization/assets/preview.png)
 
@@ -23,7 +23,7 @@ Because an Automated Personalization (AP) activity compares multiple offers on a
 
    ![Exclude icon](/help/c-activities/t-automated-personalization/assets/ap_exclude-new.png)
 
-   The Manage Content dialog box displays.
+   The [!UICONTROL Manage Content] dialog box displays.
 
    ![Manage Content dialog box](/help/c-activities/t-automated-personalization/assets/preview-exclude.png)
 
@@ -31,10 +31,10 @@ Because an Automated Personalization (AP) activity compares multiple offers on a
 
    To exclude an experience, hover over the experience and click the **[!UICONTROL Exclude]** icon.
 
-   To exclude multiple experiences, select the checkboxes for the desired experiences, then click the **[!UICONTROL Exclude]** icon at the top right of the list.
+   To exclude multiple experiences, select the check boxes for the desired experiences, then click the **[!UICONTROL Exclude]** icon at the top right of the list.
 
-   By default, all experiences are included in the Automated Personalization activity. To include an experience that has been excluded, hover over the experience and click the  **[!UICONTROL Include]** icon.
+   By default, all experiences are included in the [!UICONTROL Automated Personalization] activity. To include an experience that has been excluded, hover over the experience and click the  **[!UICONTROL Include]** icon.
 
-   To include multiple experiences that have been excluded, select the checkboxes for the desired experiences, then click the **[!UICONTROL Include]** icon at the top right of the list. 
+   To include multiple experiences that have been excluded, select the check boxes for the desired experiences, then click the **[!UICONTROL Include]** icon at the top right of the list. 
 
 1. Click **[!UICONTROL Compose]** to return to the Visual Experience Composer so you can make changes, or click **[!UICONTROL Next]** to go to the [!UICONTROL Targeting] step. 

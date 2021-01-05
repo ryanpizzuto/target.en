@@ -1,14 +1,15 @@
 ---
-description: Offline data, such as CRM information or customer churn propensity scores, can be incredibly valuable when building personalization models.
+keywords: Automated Personalization;ap;upload data;offline data;personalization algorithm;auto target;auto-target;best practices
+description: Offline data, such as CRM information or customer churn propensity scores, can be incredibly valuable when building personalization models in Adobe Target Automated Personalization (AP) activities.
 title: Upload data for Target's personalization algorithms
-feature: ap
+feature: Automated Personalization
 ---
 
-# Upload data for the Target personalization algorithms{#upload-data-for-target-s-personalization-algorithms}
+# Upload data for the Target personalization algorithms
 
-Offline data, such as CRM information or customer churn propensity scores, can be incredibly valuable when building personalization models.
+Offline data, such as CRM information or customer churn propensity scores, can be incredibly valuable when building personalization models in [!DNL Adobe Target] [!UICONTROL Automated Personalization] (AP) activities.
 
- There are several ways to input data in Automated Personalization (AP) and Auto-Target personalization algorithms. In addition to the methods in [Methods to get Data into Target](/help/c-implementing-target/c-considerations-before-you-implement-target/c-methods-to-get-data-into-target/methods-to-get-data-into-target.md#concept_0069C0EFB56C4700BB33F2F35C2B9B17), Experience Cloud shared audiences (Adobe Analytics, Audience Management) and in-activity reporting audiences are also used in our algorithms.
+ There are several ways to input data in [!UICONTROL Automated Personalization] (AP) and [!UICONTROL Auto-Target] personalization algorithms. In addition to the methods in [Methods to get Data into Target](/help/c-implementing-target/c-considerations-before-you-implement-target/c-methods-to-get-data-into-target/methods-to-get-data-into-target.md#concept_0069C0EFB56C4700BB33F2F35C2B9B17), Experience Cloud shared audiences (Adobe Analytics, Audience Management) and in-activity reporting audiences are also used in our algorithms.
 
 For information about the data automatically collected and used by Automated Personalization and Auto-Target personalization algorithms, see [Automated Personalization Data Collection](/help/c-activities/t-automated-personalization/ap-data.md).
 

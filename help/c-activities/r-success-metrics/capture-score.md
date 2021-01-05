@@ -1,13 +1,13 @@
 ---
 keywords: capture score;score
-description: The Capture Score engagement metric calculates an aggregated score based on the value assigned to pages visited on the site, from the point the visitor first sees the campaign's first display Target Request.
+description: The Capture Score engagement metric in Adobe Target calculates an aggregated score based on the value assigned to pages visited on the site, from the point the visitor first sees the campaign's first display Target Request.
 title: Capture Score
-feature: success metrics
+feature: Success Metrics
 ---
 
-# Capture Score{#capture-score}
+# Capture Score
 
-The Capture Score engagement metric calculates an aggregated score based on the value assigned to pages visited on the site, from the point the visitor first sees the campaign's first display [!DNL Target] request.
+The Capture Score engagement metric in [!DNL Adobe Target] calculates an aggregated score based on the value assigned to pages visited on the site, from the point the visitor first sees the campaign's first display [!DNL Target] request.
 
 The following example shows how score engagement is calculated in a campaign that tests two experiences, one with a cat image, and one with a dog image.
 
@@ -21,7 +21,7 @@ You can take into account acquisition costs and affiliate link revenue by passin
 
 ![](assets/example_score2.png)
 
-**Assigning a Page Score**
+## Assigning a page score
 
 You can assign a value to any page on your site based on what the page is worth to you. For example, a cooking site might be able to sell ads for more money on their feature article pages than in their experience section. Thus, the feature articles are more valuable than the experience section. Page score allows you to develop an overall "value" of a visit, so the person who reads more feature articles gets more "points" than someone who just browses the experiences.
 

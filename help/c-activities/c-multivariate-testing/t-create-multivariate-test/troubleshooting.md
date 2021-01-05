@@ -1,24 +1,24 @@
 ---
-keywords: Mobile Web Experience Editor
+keywords: Multivariate Tests;troubleshoot;troubleshooting;mvt
 description: This topic contains suggestions for resolving some issues that might occur when designing an MVT test in Adobe Target.
 title: Troubleshoot Multivariate Tests
-feature: mvt
+feature: Multivariate Tests
 ---
 
-# Troubleshoot Multivariate Tests{#troubleshoot-multivariate-tests}
+# Troubleshoot Multivariate Tests
 
-This topic contains suggestions for resolving some issues that might occur when designing an MVT test in Adobe Target.
+This topic contains suggestions for resolving some issues that might occur when designing a [!UICONTROL Multivariate] (MVT) test in [!DNL Adobe Target].
 
-* When editing an activity, if you used Analytics-based metrics and the report suite doesn't load (spinner displays), switch the metrics to Target metrics and then switch again to Analytics-based metric. The report suite should now load. 
-* If make changes to a test that is already running, you might reset the test and its data.
+* When editing an activity, if you used [!DNL Analytics]-based metrics and the report suite doesn't load (spinner displays), switch the metrics to [!DNL Target] metrics and then switch again to [!DNL Analytics]-based metric. The report suite should now load. 
+* If you make changes to a test that is already running, you might reset the test and its data.
 
-  Target allows you to edit a live activity. Be aware that editing an activity that is in progress could reset the test, so reports might not recognize some of the changes.
+  [!DNL Target] lets you edit a live activity. Be aware that editing an activity that is in progress could reset the test, so reports might not recognize some of the changes.
 
   It is safe to make small changes, such as editing existing text or html offers.
 
   The specific actions that reset experience names and reports are:
 
-    * Adding a new location 
-    * Deleting a location 
-    * Adding new offers or deleting offers from an exiting location
+  * Adding a new location
+  * Deleting a location
+  * Adding new offers or deleting offers from an exiting location
 
