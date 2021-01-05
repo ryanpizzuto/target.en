@@ -1,8 +1,8 @@
 ---
-keywords: Overview and Reference;SEO;search engine optimization;edge clusters, central clusters
+keywords: Overview and Reference;SEO;search engine optimization;edge clusters, central clusters;at.js;mbox.js;
 description: Adobe Target integrates with websites by means of one of two JavaScript libraries. at.js or mbox.js
 title: How Adobe Target works
-feature: intro
+feature: Overview
 ---
 
 # How Adobe Target works
@@ -11,10 +11,11 @@ Information about how Adobe Target works, including information about the Target
 
 ## Target JavaScript libraries {#libraries}
 
-Adobe Target integrates with websites by means of one of two JavaScript libraries: at.js or mbox.js
+Adobe Target integrates with websites by means of JavaScript libraries:
 
-* **at.js:** The [at.js library](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-target-atjs-implementation/target-atjs-implementation.md#concept_8AC8D169E02944B1A547A0CAD97EAC17) is the new implementation library for Target. The at.js library improves page-load times for web implementations and provides better implementation options for single-page applications. at.js is the recommended implementation library and is updated frequently with new capabilities. We recommend that all customers implement or migrate to the [latest version of at.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md#reference_DBB5EDB79EC44E558F9E08D4774A0F7A). 
-* **mbox.js:** The mbox.js library is the legacy implementation library for Target. The mbox.js library is still supported, but there will be no feature updates.
+* **at.js:** The [at.js library](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-target-atjs-implementation/target-atjs-implementation.md#concept_8AC8D169E02944B1A547A0CAD97EAC17) is the new implementation library for Target. The at.js library improves page-load times for web implementations and provides better implementation options for single-page applications. at.js is the recommended implementation library and is updated frequently with new capabilities. We recommend that all customers implement or migrate to the [latest version of at.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md#reference_DBB5EDB79EC44E558F9E08D4774A0F7A).
+* **Adobe Experience Platform Web SDK:** The [Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) is a new client-side JavaScript library that allows customers of [!DNL Adobe Experience Cloud] to interact with the various services in the [!DNL Experience Cloud] through the [!DNL Adobe Experience Platform] Edge Network.
+* **mbox.js:** The [mbox.js library](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/mbox-download.md) is the legacy implementation library for Target. The mbox.js library is still supported until March 31, 2021, but there will be no feature updates.
 
 >[!IMPORTANT]
 >

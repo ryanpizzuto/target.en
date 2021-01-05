@@ -1,11 +1,11 @@
 ---
-keywords: Targeting
+keywords: random forest;decision tree;ap;Automated Personalization
 description: Target's main personalization algorithm used in both Automated Personalization and Auto-Target is Random Forest. Ensemble methods like Random Forest use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms. The Random Forest algorithm in Automated Personalization is a classification or regression method that operates by constructing a multitude of decision trees when it is being trained.
 title: Random Forest algorithm
-feature: ap
+feature: Automated Personalization
 ---
 
-# ![PREMIUM](/help/assets/premium.png) Random Forest algorithm{#random-forest-algorithm}
+# ![PREMIUM](/help/assets/premium.png) Random Forest algorithm
 
 Target's main personalization algorithm used in both Automated Personalization and Auto-Target is Random Forest. Ensemble methods like Random Forest use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms. The Random Forest algorithm in Automated Personalization is a classification or regression method that operates by constructing a multitude of decision trees when it is being trained.
 
@@ -13,7 +13,7 @@ Target's main personalization algorithm used in both Automated Personalization a
 
 The Random Forest algorithm is the key underlying personalization algorithm used in Automated Personalization and Auto-Target activities. Random Forest combines hundreds of decisions trees together in order to arrive at a better prediction than a single tree could make by itself.
 
-## What is a Decision Tree? {#section_7F5865D8064447F4856FED426243FDAC}
+## What is a decision tree? {#section_7F5865D8064447F4856FED426243FDAC}
 
 The goal of a decision tree is to break down all available visit data a system can learn from and then group that data, where visits within each group are as similar as possible to each other with regard to the goal metric. Across groups, however, the visits are as different as possible, with respect to the goal metric (e.g. conversion rate). The decision tree looks at the different variables it has in the training set to determine how to split the data in a MECE (Mutually-Exclusive-Collectively-Exhaustive) way into these groups (or "leaves") to maximize this goal.
 
@@ -36,11 +36,11 @@ Our example would result in the below tree:
 
 ![](assets/decsion_tree_2.png)
 
-## How are Decision Trees used by Random Forest? {#section_536C105EF9F540C096D60450CAC6F627}
+## How are decision trees used by Random Forest? {#section_536C105EF9F540C096D60450CAC6F627}
 
 Decision trees can be a powerful statistical tool. However, they have some disadvantages. Most critically, they can "over-fit" the data so that an individual tree poorly predicts future data that wasn't used to build the initial tree. This challenge is known as the [bias-variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff) in statistical learning. Random forests help overcome this overfitting challenge. At the highest level, a random forest is a collection of decision trees that are built slightly differently on the same data set that "vote" together to yield a better model than an individual tree. The trees are built by randomly selecting a sub-set of visits records with replacement (known as bagging), as well as randomly selecting a sub-set of the attributes, so that the forest consists of slightly different decision trees. This method introduces small variations into the trees that are created in the Random Forest. Adding in this controlled amount of variance helps improve the predictive accuracy of the algorithm.  
 
-## How do Target's Personalization Algorithms use Random Forest? {#section_32FB53CAD8DF40FB9C0F1217FBDBB691}
+## How do Target's personalization algorithms use Random Forest? {#section_32FB53CAD8DF40FB9C0F1217FBDBB691}
 
 **How Models are Built**
 
@@ -71,7 +71,7 @@ The feature transformations depend on the type of attribute. Mainly, there are t
 
 For categorical features, a set of all possible features is maintained and the likelihood transformation is used to reduce the data size. For numeric features, re-scaling ensures that the features are comparable across the board.
 
-**Balancing Learning vs. Personalizing with the Multi-Armed Bandit**
+**Balancing learning vs. personalizing with the Multi-Armed Bandit**
 
 After Target has personalization models built to personalize your traffic, there is a clear tradeoff you face for future visitors to your activity: should you personalize all the traffic based on the current model or should you continue to learn from new visitors by randomly serving them random offers? You want to make sure the personalization algorithm is always learning about new trends in your visitors, while personalizing most of the traffic.
 

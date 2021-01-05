@@ -2,7 +2,7 @@
 keywords: environmental data;session data;geo data;geographical data;device data;mobile data;attributes;profile attributes
 description: Adobe Target automatically collects and uses a variety of data to build its personalization algorithms in Automated Personalization (AP) and Auto-Target (AT) activities. When a visitor enters the AP or AT activity, a snapshot of information is passed to a set of "training records" (the visitor data that the personalization algorithms will learn on).
 title: Data collection for Adobe Target's personalization algorithms
-feature: ap
+feature: Automated Personalization
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Data collection for the Target personalization algorithms
@@ -27,7 +27,7 @@ The following table shows the data collected by [!UICONTROL Automated Personaliz
 
 The following sections contain detailed information about the various data types, including attribute names, descriptions, and sample values.
 
-## Device and Mobile data {#device-mobile}
+## Device and mobile data {#device-mobile}
 
 |Attribute name|Attribute description|Sample values|
 | --- | --- | --- |

@@ -2,10 +2,10 @@
 keywords: Targeting;experience targeting;xt;landing page;landing page campaign
 description: Experience Targeting (XT) delivers content to a specific audience based on a set of marketer-defined rules and criteria.
 title: Experience Targeting
-feature: xt
+feature: Experience Targeting
 ---
 
-# Experience Targeting{#experience-targeting}
+# Experience Targeting
 
 Experience Targeting (XT) delivers content to a specific audience based on a set of marketer-defined rules and criteria.
 

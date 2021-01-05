@@ -1,33 +1,33 @@
 ---
-keywords: automated personalization;Audiences;ensemble;random forest;residual variance;error variance;lifetime value
-description: The Automated Personalization activity workflow varies from the workflow of the other activity types.
+keywords: automated personalization;ap;audiences;ensemble;random forest;residual variance;error variance;lifetime value
+description: The Automated Personalization activity workflow in Adobe Target varies from the workflow of the other activity types.
 title: Create an Automated Personalization activity
-feature: ap
+feature: Automated Personalization
 ---
 
-# ![PREMIUM](/help/assets/premium.png) Create an Automated Personalization activity{#create-an-automated-personalization-activity}
+# ![PREMIUM](/help/assets/premium.png) Create an Automated Personalization activity
 
-The Automated Personalization activity workflow varies from the workflow of the other activity types.
+The [!UICONTROL Automated Personalization] (AP) activity workflow in [!DNL Adobe Target] varies from the workflow of the other activity types.
 
-1. From the Target Standard Activities list, click **[!UICONTROL Create Activity]** > **[!UICONTROL Automated Personalization]**.
+1. From the [!DNL Target] [!UICONTROL Activities] list, click **[!UICONTROL Create Activity]** > **[!UICONTROL Automated Personalization]**.
 
    ![Create Activity: Automated Personalization](/help/c-activities/t-automated-personalization/assets/ap_create-new.png)
 
-1. To use the Visual Experience Composer (VEC), click **[!UICONTROL Visual (Default)]**.
+1. To use the [!UICONTROL Visual Experience Composer] (VEC), click **[!UICONTROL Visual (Default)]**.
 
    ![Create Automated Personalization Activity dialog box](/help/c-activities/t-automated-personalization/assets/ap_url-new.png)
 
-   If you prefer to use the Form-Based Experience Composer, select [!UICONTROL Form]. See [Form-Based Experience Composer](/help/c-experiences/form-experience-composer.md) for more information.
+   If you prefer to use the [!UICONTROL Form-Based Experience Composer], select [!UICONTROL Form]. See [Form-Based Experience Composer](/help/c-experiences/form-experience-composer.md) for more information.
 
    >[!NOTE]
    >
-   >In addition to the VEC and Form-Based Experience Composer, Target offers the Single Page Application VEC and the VEC for Mobile Apps. For more information about the various composers, see [Experiences and Offers](/help/c-experiences/experiences.md).
+   >In addition to the VEC and [!UICONTROL Form-Based Experience Composer], [!DNL Target] offers the [!UICONTROL Single Page Application VEC] and the VEC for Mobile Apps. For more information about the various composers, see [Experiences and Offers](/help/c-experiences/experiences.md).
    >
    >For troubleshooting information about the VEC, should you have problems, see [Troubleshooting the Visual Experience Composer](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/troubleshoot-composer.md).
    >
    >The [!UICONTROL Choose Workplace] option in the preceding illustration is a [Target Premium](/help/c-intro/intro.md) feature. Your organization has a Target Standard license if you do not see this option.
 
-1. (Conditional) If you are a Target Premium customer, [choose a workspace](/help/administrating-target/c-user-management/property-channel/property-channel.md).
+1. (Conditional) If you are a [!DNL Target] Premium customer, [choose a workspace](/help/administrating-target/c-user-management/property-channel/property-channel.md).
 
 1. Verify or enter the activity URL, then click **[!UICONTROL Next]**.
 
@@ -37,7 +37,7 @@ The Automated Personalization activity workflow varies from the workflow of the 
 
    The page with the specified URL opens in the Visual Experience Composer.
  
-1. To name the activity, click the Name field and type your activity name.
+1. To name the activity, click the **[!UICONTROL Name]** field and type your activity name.
 
    ![Name field](/help/c-activities/t-automated-personalization/assets/ab_newname-new.png)
 
