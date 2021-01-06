@@ -1,13 +1,13 @@
 ---
 keywords: announcements;skill builder;developer chat;coffee break;events;forrester;gartner;webinar
-description: Information about upcoming events, including Target Skill Builder sessions, developer chats, webinars, and Target Coffee Break sessions.
+description: Information about upcoming events, including Adobe Target Skill Builder sessions, developer chats, webinars, and Target Coffee Break sessions.
 title: Target announcements
 feature: Release Notes
 ---
 
 # Target announcements and events
 
-Announcements and information about upcoming events, including Target Skill Builder sessions, developer chats, webinars, and Target Coffee Break sessions.
+Announcements and information about upcoming events, including Adobe Target Skill Builder sessions, developer chats, webinars, and Target Coffee Break sessions.
 
 ## Recognition for Adobe Target
 
