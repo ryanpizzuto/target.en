@@ -13,7 +13,8 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
-|January 4, 2021|[Target release notes (current)](/help/r-release-notes/release-notes.md)|Changed the date when Target will no longer support mbox.js from January 18, 2021 to March 31, 2021.|
+|January 6|[Target announcements and events](/help/r-release-notes/target-announcements.md)|Added information and registration information for the following live webinar:<ul><li>Successful Personalization at Scale: Key Findings from the Forrester Wave, Experience Optimization Platforms.</li></ul>|
+|January 4|[Target release notes (current)](/help/r-release-notes/release-notes.md)|Changed the date when Target will no longer support mbox.js from January 18, 2021 to March 31, 2021.|
 |December 18|[A/A testing](/help/c-activities/t-test-ab/aa-testing.md)|New topic.|
 |December 17|[Adobe Analytics as the reporting source for Adobe Target (A4T)](/help/c-integrating-target-with-mac/a4t/a4t.md)|Updated table to indicate that the Java SDK supports A4T.|
 |December 16|[Auto-Target troubleshooting and FAQs](/help/c-activities/auto-target/auto-target-troubleshooting-faqs.md)|Added the following FAQ: "What happens if I remove a single experience from an Auto-Target activity?"|

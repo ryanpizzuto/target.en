@@ -21,6 +21,21 @@ Adobe was once again named a Leader in the third-annual Gartner Magic Quadrant f
 
 [Read about it on The Adobe Blog](https://theblog.adobe.com/adobe-again-named-leader-in-gartner-magic-quadrant-for-personalization-engines/).
 
+## Webinar: Successful Personalization at Scale: Key Findings from the Forrester Wave, Experience Optimization Platforms
+
+* **Tuesday, January 19**
+* **8 a.m. PT | 10 a.m. CT | 11 a.m. ET**
+* **Duration: 60 minutes**
+* **[Register Here](https://www.adobeeventsonline.com/Webinar/2021/Personalization/index.php?source=998)**
+
+The ability to optimize customer experiences at scale is now mission-critical to meeting the dynamic needs of customers and the current surge of new digital visitors. An experience optimization platform, such as [!DNL Adobe Target], can be deployed across your digital properties to quickly determine and deliver the right experience for your customers at the right time, leveraging manual and AI‑powered behavioral targeting, testing, and recommendations capabilities. Join us and our special guest James McCormick, Principal Analyst at Forrester, as we present and discuss the key findings from The Forrester Wave, Experience Optimization Platforms, Q4 2020.
+
+In this webinar, you’ll learn:
+
+* Industry trends shaping the evolution of personalization and experience optimization tools
+* Key capabilities of a leading experience optimization platform
+* Best practices for optimizing customer experiences at scale for maximum business impact
+
 ## Webinar: Personalize and test at zero latency with on-device decisions from Adobe Target
 
 More than ever, marketers, product owners and developers are being tasked with optimizing the overall customer experience on sites, in apps, and everywhere else they connect with their customers. Multiple tools with data silos and complicated implementations won’t cut it.
