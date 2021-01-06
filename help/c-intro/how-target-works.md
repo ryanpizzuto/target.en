@@ -1,31 +1,36 @@
 ---
-keywords: Overview and Reference;SEO;search engine optimization;edge clusters, central clusters;at.js;mbox.js;
-description: Adobe Target integrates with websites by means of one of two JavaScript libraries. at.js or mbox.js
+keywords: Adobe Experience Platform Web SDK;aep web sdk;aep sdk;seo;search engine optimization;edge clusters, central clusters;at.js;mbox.js;
+description: Information about how Adobe Target works, including information about the Adobe Experience Platform Web SDK, the Target JavaScript libraries (at.js and mbox.js), and the various activity types you can create in Target.
 title: How Adobe Target works
 feature: Overview
 ---
 
 # How Adobe Target works
 
-Information about how Adobe Target works, including information about the Target JavaScript libraries (at.js and mbox.js) and the various activity types included in Target.
+Information about how [!DNL Adobe Target] works, including information about the [!DNL Adobe Experience Platform Web SDK], the [!DNL Target] JavaScript libraries (at.js and mbox.js), and the various activity types you can create using Target.
 
-## Target JavaScript libraries {#libraries}
+## Target Platform Web SDKs and JavaScript libraries {#libraries}
 
-Adobe Target integrates with websites by means of JavaScript libraries:
+Adobe Target integrates with websites by means of the [!DNL AEP Web SDK] or JavaScript libraries:
 
+* **Adobe Experience Platform Web SDK:** The [AEP Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) is a new client-side JavaScript library that allows customers of [!DNL Adobe Experience Cloud] to interact with the various services in the [!DNL Experience Cloud] (including [!DNL Target]) through the [!DNL Adobe Experience Platform] Edge Network. See [Target overview](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html) for [!DNL Target]-specific information.
 * **at.js:** The [at.js library](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-target-atjs-implementation/target-atjs-implementation.md#concept_8AC8D169E02944B1A547A0CAD97EAC17) is the new implementation library for Target. The at.js library improves page-load times for web implementations and provides better implementation options for single-page applications. at.js is the recommended implementation library and is updated frequently with new capabilities. We recommend that all customers implement or migrate to the [latest version of at.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md#reference_DBB5EDB79EC44E558F9E08D4774A0F7A).
-* **Adobe Experience Platform Web SDK:** The [Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) is a new client-side JavaScript library that allows customers of [!DNL Adobe Experience Cloud] to interact with the various services in the [!DNL Experience Cloud] through the [!DNL Adobe Experience Platform] Edge Network.
-* **mbox.js:** The [mbox.js library](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/mbox-download.md) is the legacy implementation library for Target. The mbox.js library is still supported until March 31, 2021, but there will be no feature updates.
+* **mbox.js:** The [mbox.js library](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/mbox-download.md) is the legacy implementation library for Target. The mbox.js library is supported until March 31, 2021, but there will be no feature updates.
 
 >[!IMPORTANT]
 >
->All customers should migrate to at.js. For more information, see [Migrate to at.js from mbox.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-target-atjs-implementation/target-migrate-atjs.md#task_DE55DCE9AC2F49728395665DE1B1E6EA)
+>All customers should migrate to the [!DNL AEP Web SDK] or to the latest version of at.js. For more information, see [Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) or [Migrate to at.js from mbox.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-target-atjs-implementation/target-migrate-atjs.md#task_DE55DCE9AC2F49728395665DE1B1E6EA).
 
-You must reference the Target JavaScript library file on every page on your site. For example, you might add it to your global header. Alternatively, consider using [Adobe Launch tag manager](/help/c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/cmp-implementing-target-using-adobe-launch.md) 
+You must reference the [!DNL AEP Web SDK] or at.js on every page on your site. For example, you might add one of these to your global header. Alternatively, consider using [Adobe Platform Launch](https://experienceleague.adobe.com/docs/launch/using/overview.html).
 
-Each time a visitor requests a page that has been optimized for Target, a request is sent to the targeting system to determine what content to serve to a visitor. This process occurs in real-time — every time a page is loaded, a request for the content is made and fulfilled by the system. The content is governed by the rules of marketer-controlled activities and experiences and is targeted to the individual site visitor. Content is served that each site visitor is most likely to respond to, interact with, and ultimately purchase, to maximize response rates, acquisition rates, and revenue.
+The following resources will help you implement the AEP Web SDK or at.js:
 
-In Target, each element on the page is part of a single experience for the entire page. Each experience may include multiple elements on the page.
+* [Adobe Experience Platform Web SDK Extension](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html?lang=en#configure-the-aep-web-sdk-extension)
+* [Implement Target using Adobe Launch](/help/c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/cmp-implementing-target-using-adobe-launch.md)
+
+Each time a visitor requests a page that has been optimized for [!DNL Target], a request is sent to the targeting system to determine what content to serve to a visitor. This process occurs in real-time, every time a page is loaded, a request for the content is made and fulfilled by the system. The content is governed by the rules of marketer-controlled activities and experiences and is targeted to the individual site visitor. Content is served that each site visitor is most likely to respond to, interact with, and ultimately purchase, to maximize response rates, acquisition rates, and revenue.
+
+In [!DNL Target], each element on the page is part of a single experience for the entire page. Each experience may include multiple elements on the page.
 
 The content that is displayed to visitors depends on the type of activity you create:
 
