@@ -9,24 +9,17 @@ feature: release notes
 
 Announcements and information about upcoming events, including Target Skill Builder sessions, developer chats, webinars, and Target Coffee Break sessions.
 
-## Adobe named a Leader in Forrester wave report for experience optimization platforms
-
-Adobe was named a Leader in The Forrester Wave: Experience Optimization Platforms, Q4 2020 report for its offering in this space, Adobe Target Premium. Adobe received the highest score of all participating vendors in the current offering and market presence categories, as well in the recommendations and platform experience criteria. Target Premium also received the highest score possible in the experience optimization technique innovation and supporting services criteria. The report is based on a thorough evaluation of 10 experience optimization platform providers across 22 criteria.
-
-Read about it on the [Adobe Blog](https://blog.adobe.com/en/2020/11/24/adobe-named-leader-in-forrester-wave-report-experience-optimization-platforms.html).
-
-## Adobe again named a Leader in Gartner Magic Quadrant for personalization engines
-
-Adobe was once again named a Leader in the third-annual Gartner Magic Quadrant for Personalization Engines, 2020 report. The Gartner Magic Quadrant for Personalization Engines evaluated vendors across 15 criteria that fall into two categories: completeness of vision and ability to execute. 
-
-[Read about it on The Adobe Blog](https://theblog.adobe.com/adobe-again-named-leader-in-gartner-magic-quadrant-for-personalization-engines/).
+|Research service|Details|
+| --- | --- |
+|Forrester|Adobe named a Leader in Forrester wave report for experience optimization platforms.<br>Adobe was named a Leader in The Forrester Wave: Experience Optimization Platforms, Q4 2020 report for its offering in this space, Adobe Target Premium. Adobe received the highest score of all participating vendors in the current offering and market presence categories, as well in the recommendations and platform experience criteria. Target Premium also received the highest score possible in the experience optimization technique innovation and supporting services criteria. The report is based on a thorough evaluation of 10 experience optimization platform providers across 22 criteria.<br>Read about it on the [Adobe Blog](https://blog.adobe.com/en/2020/11/24/adobe-named-leader-in-forrester-wave-report-experience-optimization-platforms.html).|
+|Gartner|Adobe again named a Leader in Gartner Magic Quadrant for personalization engines.<br>Adobe was once again named a Leader in the third-annual Gartner Magic Quadrant for Personalization Engines, 2020 report. The Gartner Magic Quadrant for Personalization Engines evaluated vendors across 15 criteria that fall into two categories: completeness of vision and ability to execute.<br>[Read about it on The Adobe Blog](https://theblog.adobe.com/adobe-again-named-leader-in-gartner-magic-quadrant-for-personalization-engines/).|
 
 ## Webinar: Successful Personalization at Scale: Key Findings from the Forrester Wave, Experience Optimization Platforms
 
 * **Tuesday, January 19**
 * **8 a.m. PT | 10 a.m. CT | 11 a.m. ET**
 * **Duration: 60 minutes**
-* **[Register Here](https://www.adobeeventsonline.com/Webinar/2021/Personalization/index.php?source=998)**
+* **[Register Here](https://www.adobeeventsonline.com/Webinar/2021/Personalization/index.php?source=998).**
 
 The ability to optimize customer experiences at scale is now mission-critical to meeting the dynamic needs of customers and the current surge of new digital visitors. An experience optimization platform, such as [!DNL Adobe Target], can be deployed across your digital properties to quickly determine and deliver the right experience for your customers at the right time, leveraging manual and AI‑powered behavioral targeting, testing, and recommendations capabilities. Join us and our special guest James McCormick, Principal Analyst at Forrester, as we present and discuss the key findings from The Forrester Wave, Experience Optimization Platforms, Q4 2020.
 
@@ -46,7 +39,7 @@ In this recorded webinar, Adobe Target product experts discuss how moving critic
 
 ## Webinar: How HSBC leverages Adobe Target and AI to rapidly optimize and deliver personalization at scale
 
-* **Click here to view the [Webinar Recording](https://seminars.adobeconnect.com/ps4ozlg7qfdy/?proto=true).**
+* **[View the webinar recording here](https://seminars.adobeconnect.com/ps4ozlg7qfdy/?proto=true).**
 
 McKinsey Digital reports that “we have vaulted five years forward in consumer and business digital adoption in a matter of around eight weeks.” *
 
@@ -64,4 +57,4 @@ Join Adobe and HSBC for this webinar to learn:
 
 With the upcoming deprecation of mbox.js on March 31, 2021, David Son, Adobe Target Product Manager recently hosted a developer chat to discuss the benefits of migrating mbox.js to at.js. 
 
-[View the webinar recording here](https://seminars.adobeconnect.com/ptdo6mfo6qn6/?proto=true).
+* **[View the webinar recording here](https://seminars.adobeconnect.com/ptdo6mfo6qn6/?proto=true).**
