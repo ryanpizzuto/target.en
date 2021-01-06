@@ -1,12 +1,13 @@
 ---
-description: Use this option when you want to send the visitor to a different page rather than showing content on the same page.
+kewords: redirect;redirect url;send to different page
+description: Use the Redirect to URL option in Adobe Target when you want to send the visitor to a different page rather than showing content on the same page.
 title: Redirect to a URL
-feature: vec
+feature: Visual Experience Composer (VEC)
 ---
 
-# Redirect to a URL{#redirect-to-a-url}
+# Redirect to a URL
 
-Use this option when you want to send the visitor to a different page rather than showing content on the same page.
+Use the [!UICONTROL Redirect to URL] option in [!DNL Adobe Target] when you want to send the visitor to a different page rather than showing content on the same page.
 
  You might have two completely different pages to test instead of just changing pieces of content within a page. In this case, your A/B test compares page A vs. page B. Set up an A/B test campaign with two experiences: one pointing to the default page A, and the other redirecting to page B. In the Experience Action menu, located by clicking the letter label for the experience, choose **[!UICONTROL Redirect to URL]** and specify the URL of page B. The offer is configured to redirect the visitor to a different page.
 

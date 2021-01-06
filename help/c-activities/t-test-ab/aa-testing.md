@@ -2,7 +2,7 @@
 keywords: a/b;a/a;aa;
 description: Before performing an A/A test on your site using Adobe Target, it is important to understand what an A/A test is, why you might want to perform an A/A test, how long you should run the test, and how to interpret the results.
 title: A/A testing
-feature: A/B tests
+feature: A/B Tests
 ---
 
 # A/A testing

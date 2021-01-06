@@ -1,13 +1,13 @@
 ---
 keywords: Targeting;visual experience composer;whitelist;white list;allowlist;allow list;enhanced visual experience composer;vec;troubleshoot visual experience composer;troubleshooting;eec;enhanced experience composer;tls;tls 1.2
-description: Display problems sometimes occur in the Visual Experience Composer (VEC) and the Enhanced Experience Composer (EEC) under certain conditions.
+description: Display problems sometimes occur in the Adobe Target Visual Experience Composer (VEC) and the Enhanced Experience Composer (EEC) under certain conditions.
 title: Troubleshooting Issues Related to the Visual Experience Composer and Enhanced Experience Composer
-feature: vec
+feature: Visual Experience Composer (VEC)
 ---
 
-# Troubleshooting Issues Related to the Visual Experience Composer and Enhanced Experience Composer{#troubleshooting-issues-related-to-the-visual-experience-composer-and-enhanced-experience-composer}
+# Troubleshooting Issues Related to the Visual Experience Composer and Enhanced Experience Composer
 
-Display problems and other issues sometimes occur in the Visual Experience Composer (VEC) and the Enhanced Experience Composer (EEC) under certain conditions.
+Display problems and other issues sometimes occur in the [!DNL Adobe Target] Visual Experience Composer (VEC) and the Enhanced Experience Composer (EEC) under certain conditions.
 
 ## How do the recently announced Google Chrome SameSite cookie enforcement policies impact the VEC and EEC? {#samesite}
 

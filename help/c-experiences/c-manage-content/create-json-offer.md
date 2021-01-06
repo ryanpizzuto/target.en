@@ -1,13 +1,13 @@
 ---
 keywords: remote offer;create remote offer
-description: Create JSON offers in the Offer Library for use in the Form-Based Experience Composer.
+description: Create JSON offers in the Offer Library in Adobe Target for use in the Form-Based Experience Composer.
 title: Create JSON offers
-feature: offers
+feature: Experiences and Offers
 ---
 
 # Create JSON offers{#create-json-offers}
 
-Create JSON offers in the Offer Library for use in the Form-Based Experience Composer.
+Create JSON offers in the [!UICONTROL Offer Library] in [!DNL Adobe Target] for use in the [!UICONTROL Form-Based Experience Composer].
 
 JSON offers can be used in form-based activities whereby enabling use cases where Target's decisioning is required to send an offer in JSON format for consumption in SPA framework or server-side integrations.
 

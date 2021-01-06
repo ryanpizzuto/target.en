@@ -1,13 +1,13 @@
 ---
 keywords: content;create folder;assets;move folder;copy folder;delete folder;download folder;folder
-description: Create a folder to hold items in the Offers library.
+description: Create a folder to hold items in the Offers library in Adobe Target.
 title: Create offer folder
-feature: offers
+feature: Experiences and Offers
 ---
 
-# Create offer folder{#create-offer-folder}
+# Create offer folder
 
-Create a folder to hold items in the Offers library.
+Create a folder to hold items in the Offers library in Adobe Target.
 
 1. Click **[!UICONTROL Offers]**, then select the **[!UICONTROL Code Offers]** or **[!UICONTROL Image Offers]** tab, as appropriate.
 1. Click **[!UICONTROL Create]** > **[!UICONTROL Folder]**.

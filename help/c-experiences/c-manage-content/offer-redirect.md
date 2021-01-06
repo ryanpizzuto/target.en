@@ -2,12 +2,12 @@
 keywords: redirect offer;create redirect offer;add html offer;Pass all URL parameters in redirect;Pass mboxSessionId in redirect (only needed when the redirect is going to a different domain)
 description: Information about redirect offers in Adobe Target that cause a browser to redirect to a new page.
 title: Create redirect offers
-feature: offers
+feature: Experiences and Offers
 ---
 
-# Create redirect offers{#create-redirect-offers}
+# Create redirect offers
 
-The Redirect Offer causes a browser to redirect to a new page.
+Redirect offers in Adobe Target cause a browser to redirect to a new page.
 
 You might have two completely different pages to test instead of just changing pieces of content within a page. In this case, your A/B test compares page A vs. page B. Set up an A/B test campaign with two experiences: one pointing to the default page A, and the other redirecting to page B. The offer is configured to redirect the visitor to a different page.
 

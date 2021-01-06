@@ -1,13 +1,13 @@
 ---
 keywords: content;update content;assets;upload content;upload asset
-description: You can add items to the Image Offers list.
+description: You can add items to the Image Offers list in Adobe Target.
 title: Upload content
-feature: offers
+feature: Experiences and Offers
 ---
 
-# Upload content{#upload-content}
+# Upload content
 
-You can add items to or remove items from the Image Offers list.
+You can add items to or remove items from the Image Offers list in [!DNL Adobe Target].
 
 1. Click **[!UICONTROL Offers]**, then select the **[!UICONTROL Image Offers]** tab.
 1. Click **[!UICONTROL Create]** > **[!UICONTROL Files]**.
