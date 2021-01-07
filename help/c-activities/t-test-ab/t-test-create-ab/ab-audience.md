@@ -1,13 +1,13 @@
 ---
 keywords: audience;select audience;choose audience;Selectors
-description: The audience determines which site visitors are entered into your activity.
+description: The audience determines which site visitors are entered into your Adobe Target activity.
 title: Select audience
-feature: ab
+feature: A/B Tests
 ---
 
-# Select audience{#select-audience}
+# Select audience
 
-The audience determines which site visitors are entered into your activity.
+The audience determines which site visitors are entered into your [!DNL Adobe Target] activity.
 
 >[!NOTE]
 >

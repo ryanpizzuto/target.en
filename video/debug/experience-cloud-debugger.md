@@ -1,9 +1,13 @@
 ---
+keywords: experience cloud debugger;mbox trace
+description: Debug Adobe Target using the Adobe Experience Cloud Debugger.
 title: Debug Target with the Experience Cloud Debugger
-feature: 
+feature: Troubleshooting
 ---
 
 # Debug Target with the Experience Cloud Debugger
+
+Debug [!DNL Adobe Target] using the [!DNL Adobe Experience Cloud Debugger].
 
 ## Add the Extension
 

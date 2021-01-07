@@ -1,13 +1,13 @@
 ---
 keywords: Targeting;visual experience composer;vec;troubleshoot visual experience composer;troubleshooting;tls;tls 1.2
-description: Display problems sometimes occur in the Visual Experience Composer (VEC) under certain conditions.
+description: Display problems sometimes occur in the Adobe Target Visual Experience Composer (VEC) under certain conditions.
 title: Troubleshooting Issues Related to the Visual Experience Composer
-feature: vec
+feature: Visual Experience Composer (VEC)
 ---
 
-# Troubleshooting Issues Related to the Visual Experience Composer{#troubleshooting-issues-related-to-the-visual-experience-composer}
+# Troubleshooting issues related to the Visual Experience Composer
 
-Display problems sometimes occur in the Visual Experience Composer (VEC) under certain conditions.
+Display problems sometimes occur in the [!DNL Adobe Target] [!UICONTROL Visual Experience Composer] (VEC) under certain conditions.
 
 ## When I open my website in the Visual Experience Composer, the Target libraries do not load. (VEC only) {#section_8A7D3F4AD2CC4C3B823EE9432B97E06F}
 

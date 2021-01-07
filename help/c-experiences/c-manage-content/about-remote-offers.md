@@ -1,13 +1,13 @@
 ---
 keywords: remote offer;remote offer selection matrix;cached content;dynamic content
-description: Use remote offers to host content outside of Target that Target references and delivers to users' websites. This content might be in a content management or other system, either for ease-of-use or for security reasons.
+description: Use remote offers to host content outside of Adobe Target that Target references and delivers to users' websites. This content might be in a content management or other system, either for ease-of-use or for security reasons.
 title: Create remote offers
-feature: offers
+feature: Experiences and Offers
 ---
 
-# Create remote offers{#create-remote-offers}
+# Create remote offers
 
-Use remote offers to host content outside of Target that Target references and delivers to users' websites. This content might be in a content management or other system, either for ease-of-use or for security reasons.
+Use remote offers to host content outside of [!DNL Adobe Target] that Target references and delivers to users' websites. This content might be in a content management or other system, either for ease-of-use or for security reasons.
 
 >[!NOTE]
 >

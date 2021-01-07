@@ -1,13 +1,13 @@
 ---
 keywords: multiple audiences;experience versions;target experience versions
-description: You can target versions of the same experience to different audiences in A/B activities. You can set up multiple audiences for an experience in the Visual Experience Composer or in the Form-Based Experience Composer.
+description: You can target versions of the same experience to different audiences in Adobe Target A/B activities. You can set up multiple audiences for an experience in the Visual Experience Composer or in the Form-Based Experience Composer.
 title: Multiple experience versions in an A/B Test
-feature: ab
+feature: A/B Tests
 ---
 
-# Multiple experience audiences in an A/B Test{#multiple-experience-versions-in-an-a-b-test}
+# Multiple experience audiences in an A/B Test
 
-You can target versions of the same experience to different audiences in A/B activities. You can set up multiple audiences for an experience in the Visual Experience Composer or in the Form-Based Experience Composer.
+You can target versions of the same experience to different audiences in [!DNL Adobe Target] A/B activities. You can set up multiple audiences for an experience in the Visual Experience Composer or in the Form-Based Experience Composer.
 
 Users can switch between experience audiences as their profile changes. They are not stuck in the same experience for the activity's lifetime.
 
@@ -17,7 +17,7 @@ Without the ability to set up experience versions, you would have to set up diff
 
 By creating different versions of an experience, you receive more accurate information without the need for manual calculations and assumptions.
 
-**Scenario**
+## Scenario
 
 You are testing two experiences, a geo-targeted banner vs. a generic banner. The banner for each geography needs to be different, but the overall test is to determine whether geotargeting is better than showing generic content. If you set up a separate experience for each location, you would actually be measuring how each geo performs against the other, rather than whether geotargeting helps meet your success goals when measured against the generic banner.
 
@@ -41,7 +41,7 @@ In this case, what you need are geo-specific versions of the experience, so you 
 
 1. Continue setting up the activity.
 
-**Best Practices**
+## Best Practices
 
 * Choose mutually-exclusive audiences. If the activity was created in the VEC, If a visitor matches more than one audience, the content for each audience is returned, with the content for the audience listed last displaying on the page. 
 * Activity-entry audiences defined in the diagram are combined with the experience audiences using an AND condition. To enter the activity, a visitor must qualify for the activity audience, and one of the experience audiences. 
