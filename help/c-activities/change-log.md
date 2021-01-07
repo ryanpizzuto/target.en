@@ -1,12 +1,13 @@
 ---
+keywords: activity change log;change log
 description: The change log provides a record of who changed your activities and when the changes occurred.
 title: Activity Change Log in Adobe Target
 feature: activities
 ---
 
-# Activity change log{#activity-change-log}
+# Activity change log
 
-The change log provides a record of who changed your activities and when the changes occurred.
+The change log in [!DNL Adobe Target] provides a record of who changed your activities and when the changes occurred.
 
 1. Open the activity, then click **[!UICONTROL Change Log]**.
 

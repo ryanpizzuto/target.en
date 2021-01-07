@@ -1,13 +1,13 @@
 ---
 keywords: activity url;url;different url
-description: The Activity URL determines the page that is used in the test and that opens when the test is designed.
+description: The Activity URL determines the page that is used in the test and that opens when the test is designed using Adobe Target.
 title: Activity URL
-feature: ab
+feature: A/B Tests
 ---
 
-# Activity URL{#activity-url}
+# Activity URL
 
-The Activity URL determines the page that is used in the test and that opens when the test is designed.
+The Activity URL determines the page that is used in the test and that opens when the test is designed using Adobe Target.
 
 When prompted during activity creation, specify the activity URL. Type the complete URL (including `https://`), then click **[!UICONTROL Create]**.
 

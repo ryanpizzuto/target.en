@@ -1,13 +1,13 @@
 ---
 keywords: content;assets;manage content;offers;manage assets;enter selection mode;selection mode
-description: Use the Offers library to manage your code offer and image offer content.
+description: Use the Offers library in Adobe Target to manage your code offer and image offer content.
 title: Offers
-feature: offers
+feature: Experiences and Offers
 ---
 
 # Offers{#offers}
 
-Use the Offers library to manage your code offer and image offer content.
+Use the Offers library in [!DNL Adobe Target] to manage your code offer and image offer content.
 
 >[!NOTE]
 >

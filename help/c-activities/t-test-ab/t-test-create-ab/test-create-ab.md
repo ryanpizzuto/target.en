@@ -2,7 +2,7 @@
 keywords: Create A/B;A/B test;A/B activity;new a/b activity;create a/b
 description: Use the Visual Experience Composer in Adobe Target to create your A/B Test activity directly on a Target-enabled page and to modify portions of the page within Target.
 title: Create an A/B Test
-feature: ab
+feature: A/B Tests
 ---
 
 # Create an A/B Test

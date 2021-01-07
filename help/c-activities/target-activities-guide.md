@@ -2,12 +2,12 @@
 keywords: activities guide;activities;activity;activity types;activity actions
 description: Download an interactive PDF that describes the different activity types in Adobe Target (with the exception of Recommendations).
 title: Target activity types
-feature: activities
+feature: Activities
 ---
 
-# Target activity types{#target-activity-types}
+# Target activity types
 
-Download an interactive PDF that describes the different activity types in Adobe Target (with the exception of Recommendations).
+Download an interactive PDF that describes the different activity types in [!DNL Adobe Target] (with the exception of Recommendations).
 
 >[!NOTE]
 >

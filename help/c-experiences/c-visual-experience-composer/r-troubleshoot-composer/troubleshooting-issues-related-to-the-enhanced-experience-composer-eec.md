@@ -1,13 +1,13 @@
 ---
 keywords: Targeting;eec;visual experience composer;troubleshoot enhanced experience composer;troubleshooting
-description: Display problems sometimes occur in the Enhanced Experience Composer (EEC) under certain conditions.
+description: Display problems sometimes occur in the Adobe Target Enhanced Experience Composer (EEC) under certain conditions.
 title: Troubleshooting Issues Related to the Enhanced Experience Composer
-feature: vec
+feature: Visual Experience Composer (VEC)
 ---
 
-# Troubleshooting Issues Related to the Enhanced Experience Composer{#troubleshooting-issues-related-to-the-enhanced-experience-composer}
+# Troubleshooting issues related to the Enhanced Experience Composer
 
-Display problems sometimes occur in the Enhanced Experience Composer (EEC) under certain conditions.
+Display problems sometimes occur in the [!DNL Adobe Target] [!UICONTROL Enhanced Experience Composer] (EEC) under certain conditions.
 
 ## The EEC won't load an internal QA URL that is not accessible on public IP. (EEC only) {#section_D29E96911D5C401889B5EACE267F13CF}
 

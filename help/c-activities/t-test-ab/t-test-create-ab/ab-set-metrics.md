@@ -1,14 +1,13 @@
 ---
 keywords: A/B;activity metrics;metrics;set metrics;goal metric;activity settings;success metric;conversion;revenue;engagement
-description: Use metrics in an A/B activity to determine when a visit is successful.
+description: Use metrics in an Adobe Target A/B activity to determine when a visit is successful.
 title: Set metrics
-feature: ab
-solution: Target
+feature: A/B Tests
 ---
 
-# Set metrics{#set-metrics}
+# Set metrics
 
-Use metrics in an A/B activity to determine when a visit is successful.
+Use metrics in an [!DNL Adobe Target] A/B activity to determine when a visit is successful.
 
 For detailed information about success metrics, see [Success Metrics](/help/c-activities/r-success-metrics/success-metrics.md#reference_D011575C85DA48E989A244593D9B9924). 
 
