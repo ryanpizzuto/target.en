@@ -5,7 +5,7 @@ title: Understand the Target JavaScript libraries
 feature: Implementation
 ---
 
-# Understand the [!DNL Target] JavaScript libraries{
+# Understand the [!DNL Target] JavaScript libraries
 
 Implement [!DNL Target] by referencing the [!DNL Adobe Target] libraries (Adobe Experience Platform Web SDK, at.js, or mbox.js) on your web pages.
 
