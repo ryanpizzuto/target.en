@@ -1,5 +1,5 @@
 ---
-keywords: release notes;releases;updates;future release;enhancements;new features;fixes;updates
+keywords: release notes;releases;updates;future release;enhancements;new features;fixes;updates;prerelease
 description: Release notes that provide information about features, enhancements, and fixes for the latest or upcoming DNL Adobe Target releases.
 title: Adobe Target prerelease notes
 feature: 
