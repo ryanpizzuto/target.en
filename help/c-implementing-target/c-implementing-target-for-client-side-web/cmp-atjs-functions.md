@@ -2,7 +2,7 @@
 keywords: at.js;functions;javascript library
 description: List of functions that can be used with the at.js JavaScript library in Adobe Target.
 title: Adobe Target at.js functions
-feature: client-side
+feature: at.js
 ---
 
 # at.js functions{#at-js-functions}

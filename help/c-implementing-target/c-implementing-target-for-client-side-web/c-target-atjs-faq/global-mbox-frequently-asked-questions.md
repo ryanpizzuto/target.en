@@ -2,7 +2,7 @@
 keywords: troubleshooting;frequently asked questions;FAQ;FAQs;global;global mbox
 description: List of frequently asked questions (FAQs) about global mboxes.
 title: Global mbox Frequently Asked Questions
-feature: client-side
+feature: at.js
 ---
 
 # Global mbox Frequently Asked Questions{#global-mbox-frequently-asked-questions}

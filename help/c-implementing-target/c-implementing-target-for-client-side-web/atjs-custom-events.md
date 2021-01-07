@@ -2,7 +2,7 @@
 keywords: custom events;at.js;request failed;request succeeded;content rendering failed;content rendering succeeded;library loaded;request start;content rendering start;content rendering no offers;content rendering rediret
 description: Information about custom events for the Adobe Target at.js JavaScript library.
 title: at.js custom events
-feature: client-side 
+feature: at.js 
 ---
 
 # at.js custom events

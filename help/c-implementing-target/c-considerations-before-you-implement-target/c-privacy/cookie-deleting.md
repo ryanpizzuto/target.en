@@ -1,12 +1,13 @@
 ---
+keywords: cookie;cookies;delete cookie;delete target cookie;google chrome;chrome;mozilla firefox;firefox;microsoft edge;safari
 description: Delete your Target browser cookies so that you can validate all of your experiences.
 title: Delete the Adobe Target cookie
-feature: privacy and security
+feature: Privacy & Security
 ---
 
-# Delete the Target cookie{#delete-the-target-cookie}
+# Delete the Target cookie
 
-You can delete your [!DNL Target] browser cookie (mbox) so that you can validate all of your experiences during testing.
+You can delete your [!DNL Adobe Target] browser cookie (mbox) so that you can validate all of your experiences during testing.
 
 If there is no [!DNL Target] cookie (mbox), you are considered a new visitor and shown a new experience. There are several ways to delete your mbox without deleting all of your browser cookies.
 
