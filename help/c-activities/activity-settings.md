@@ -1,13 +1,13 @@
 ---
-keywords: Goal &Settings;objective;priority;duration
-description: Use Activity Settings to manage the objective, priority, and duration of your activities.
+keywords: Goal & Settings;objective;priority;duration
+description: Use Activity Settings in Adobe Target to manage the objective, priority, and duration of your activities.
 title: Activity settings
-feature: activities
+feature: Activities
 ---
 
-# Activity settings{#activity-settings}
+# Activity settings
 
-Use Activity Settings to manage the objective, priority, and duration of your activities.
+Use [!UICONTROL Activity Settings] in [!DNL Adobe Target] to manage the objective, priority, and duration of your activities.
 
 1. Enter notes about the activity's objective.
 

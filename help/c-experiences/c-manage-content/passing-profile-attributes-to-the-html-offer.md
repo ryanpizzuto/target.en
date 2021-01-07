@@ -1,26 +1,25 @@
 ---
 keywords: dynamic data;assets;data;offers;personalized offers;personal offers;token replace
-description: You can display profile values and activity information directly in an HTML or JSON Offer.
+description: You can display profile values and activity information directly in an HTML or JSON offer in Adobe Target.
 title: Pass dynamic data into offers
-feature: offers
+feature: Experiences and Offers
 ---
 
-# Pass dynamic data into offers{#pass-dynamic-data-into-offers}
+# Pass dynamic data into offers
 
-You can dynamically display visitor information that is stored in the Target profile. Similarly, activity information (such as the name of the activity or the name of the experience) can also be used to create a single offer that dynamically returns personalized content based on the visitor's interests, past behavior, and overall profile.
+You can dynamically display visitor information that is stored in the [!DNL Adobe Target] profile. Similarly, activity information (such as the name of the activity or the name of the experience) can also be used to create a single offer that dynamically returns personalized content based on the visitor's interests, past behavior, and overall profile.
 
- **Business Cases**
+## Business Cases
 
 * Promote a discounted offer to "refill" or "replenish" the last product purchased. Instead of creating a separate offer for every item in your catalog, you can create an offer with dynamic text that reads the "last product purchased" from the profile and displays a link in the offer.
 * A visitor arrives on your landing page with `keyword=world` `cup`. You display the term *World cup* in the offer.
 * Personalize a recommendations label with info such as (1) the last item added to a visitor's cart (Nike Air Max 1000s), (2) the visitor's color preference (black) and (3) the visitor's favorite non-shoe category (hoodies). Example: "Accessorize your 'Nike Air Max 1000s' with these cool 'black' 'hoodies'!"
 
-
-**Technical Advantages**
+## Technical Advantages
 
 Because user-specific preferences, behaviors, status, etc. can stored in the user's profile, you can repeat this message on his or her next visits. Dynamic offers enable greater scale by allowing you to set up a single offer within an activity that displays personalized messages for all your visitors. As the visitor's intent changes, your website content automatically reflects those changes.
 
-**Example**
+## Example
 
 * `mboxCreate("landingpage"`, `"profile.keyword=World Cup");` 
 
@@ -44,7 +43,7 @@ Log information in the console for debugging purposes, such as `${campaign.name}
 
 For Recommendations designs, see additional examples in [Design Overview](/help/c-recommendations/c-design-overview/design-overview.md).
 
-**Implementation**
+## Implementation
 
 For profile parameters passed into an mbox, use the syntax: `${profile.parameter}` For profile parameters created in a profile script, use the syntax:
 

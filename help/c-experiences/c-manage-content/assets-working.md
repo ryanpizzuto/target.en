@@ -1,13 +1,13 @@
 ---
 keywords: content library;assets;annotate;copy;delete asset;download asset;edit content;share card;view content properties
-description: There are a number of tasks you can perform on an asset in the library.
+description: There are a number of tasks you can perform on an asset in the library in Adobe Target.
 title: Work with content in the library
-feature: offers
+feature: Experiences and Offers
 ---
 
-# Work with content in the library{#work-with-content-in-the-library}
+# Work with content in the library
 
-Information about the tasks you can perform on an asset in the Content Library.
+Information about the tasks you can perform on an asset in the Content Library in [!DNL Adobe Target].
 
 1. Click **[!UICONTROL Offer]**, select the **[!UICONTROL Code Offer]** or **[!UICONTROL Image Offer]** tab, then locate the asset you want to work with.
 

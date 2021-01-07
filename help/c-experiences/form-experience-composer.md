@@ -1,13 +1,13 @@
 ---
 keywords: form-based experience composer;form-based composer;refinements
-description: The Form-Based Experience Composer provides non-visual experience creation.
+description: The Adobe Target Form-Based Experience Composer provides non-visual experience creation.
 title: Form-Based Experience Composer
-feature: form-based composer
+feature: Form-based Experience Composer
 ---
 
 # Form-Based Experience Composer{#form-based-experience-composer}
 
-The Form-Based Experience Composer is a non-visual experience and offer creation interface that’s useful in creating experiences for use in A/B Tests, Experience Targeting, Automated Personalization, and Recommendations activities when the visual experience composer is not available or practical for use. For example, you might use the form-based composer to create experiences and offers for delivery in emails, kiosks, and voice assistants.
+The [!DNL Adobe Target] [!UICONTROL Form-Based Experience Composer] is a non-visual experience and offer creation interface that’s useful in creating experiences for use in A/B Tests, Experience Targeting, Automated Personalization, and Recommendations activities when the visual experience composer is not available or practical for use. For example, you might use the form-based composer to create experiences and offers for delivery in emails, kiosks, and voice assistants.
 
 If you are creating a Recommendations activity, there are no experiences. Choose your criteria and design. If you choose multiple criteria or designs, Target automatically generates the experiences. 
 

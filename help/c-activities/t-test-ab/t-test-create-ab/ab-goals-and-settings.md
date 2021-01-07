@@ -1,14 +1,13 @@
 ---
 keywords: activity settings;A/B goals and settings;reporting settings;goal metrics;success metrics;dependent success metrics;advanced settings;primary goal;additional metrics;objective;priority;duration;reporting solution;goal;audiences for reporting;Which success metric must be reached before incrementing this metric;What will happen after a user encounters this goal metric;notes
-description: The Goals and Settings page is where you enter information about the goals of the test.
+description: The Goals and Settings page in Adobe Target is where you enter information about the goals of the test.
 title: Goals and settings
-feature: ab
-snippet: y
+feature: A/B Tests
 ---
 
-# Goals and settings {#goals-and-settings}
+# Goals and settings
 
-The Goals and Settings page is where you enter information about the goals of the test.
+The Goals and Settings page in [!DNL Adobe Target] is where you enter information about the goals of the test.
 
 The available settings depend on whether you use Target or [Analytics](/help/c-integrating-target-with-mac/a4t/a4t.md) as the data source.
 

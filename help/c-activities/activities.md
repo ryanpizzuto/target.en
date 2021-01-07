@@ -2,12 +2,12 @@
 keywords: activities list;activities;activity;activity types;edit activity;activity actions;activity attribute;activity list filter;activity limitations;personalize;personalization
 description: Activities in Adobe Target let you personalize content to specific audiences and test page designs
 title: Activities in Adobe Target let you personalize content to specific audiences and test page designs.
-feature: activities
+feature: Activities
 ---
 
-# Activities{#activities}
+# Activities
 
-Activities in Adobe Target let you personalize content to specific audiences and test page designs.
+Activities in [!DNL Adobe Target] let you personalize content to specific audiences and test page designs.
 
 For example, you might design an activity that tests two different landing pages, one that highlights information about women's summer shoes, and another landing page that highlights more general summer apparel. The activity determines the conditions that control when each of these landing pages appears, and the metrics that determine which page is more successful. The activity is configured to start and end when specific conditions are met, such as between specific dates, or to start when the activity is approved and to end when it is deactivated.
 

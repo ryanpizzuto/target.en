@@ -1,13 +1,13 @@
 ---
 keywords: Recommendations
-description: The scenarios in this topic show how changes made to your page affect Target's ability to display an experience.
+description: The scenarios in this topic show how changes made to your page affect Adobe Target's ability to display an experience.
 title: Page Modification Scenarios
-feature: vec
+feature: Visual Experience Composer (VEC)
 ---
 
-# Page Modification Scenarios {#page-modification-scenarios}
+# Page Modification Scenarios
 
-The scenarios in this topic show how changes made to your page affect Target's ability to display an experience.
+The scenarios in this topic show how changes made to your page affect Adobe Target's ability to display an experience.
 
 The Target selector determines where to display an experience. If a page is modified outside of Target, the changes might affect the ability of Target to display the experience.
 
