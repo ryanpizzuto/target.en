@@ -2,10 +2,10 @@
 keywords: system diagram;flicker;at.js;implementation;javascript library;js;atjs
 description: Adobe Target system diagram showing the flow of calls and information sent or collected for an auto-created global mbox using at.js.
 title: How the Adobe Target at.js JavaScript library works
-feature: client-side
+feature: at.js
 ---
 
-# How at.js works{#how-at-js-works}
+# How at.js works
 
 To implement [!DNL Adobe Target] client-side, you must use the at.js JavaScript library. 
 

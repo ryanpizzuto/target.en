@@ -2,12 +2,12 @@
 keywords: implement;implementing;rfi;request for information
 description: There are tasks you should complete and information you should gather when preparing to implement Adobe Target.
 title: Prepare to implement Adobe Target
-feature: implementation pre-reqs
+feature: Implementation
 ---
 
-# Prepare to implement Target {#prepare-to-implement-target}
+# Prepare to implement Target
 
-There are tasks you should complete and information you should gather when preparing to implement Target.
+There are tasks you should complete and information you should gather when preparing to implement [!DNL Adobe Target].
 
 Following these guidelines and filling out the provided questionnaires will help you implement Target, whether you implement by yourself or work with Adobe Consulting (recommended).
 

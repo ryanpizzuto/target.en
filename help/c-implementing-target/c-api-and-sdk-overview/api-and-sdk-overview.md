@@ -5,7 +5,7 @@ title: Information about Adobe Target server-side delivery APIs, Node.js SDK, an
 feature: Implement Server-side
 ---
 
-# Server Side: implement Target{#server-side-implement-target}
+# Server Side: implement Target
 
 Information about [!DNL Adobe Target] server-side delivery APIs, SDKs, and [!DNL Target Recommendations] APIs.
 

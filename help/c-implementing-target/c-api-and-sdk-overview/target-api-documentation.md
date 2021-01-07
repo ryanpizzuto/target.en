@@ -1,11 +1,11 @@
 ---
 keywords: api;adobe i/o
-description: Information to help you use transition from the Target legacy APIs to the new APIs on Adobe I/O.
+description: Information to help you use transition from the Adobe Target legacy APIs to the new APIs on Adobe I/O.
 title: Transition from Target legacy APIs to Adobe I/O
 feature: Implement Server-side
 ---
 
-# Transition from Target legacy APIs to Adobe I/O{#transition-from-target-legacy-apis-to-adobe-i-o}
+# Transition from Target legacy APIs to Adobe I/O
 
 Information to help you use transition from the Target legacy APIs to the new APIs on Adobe I/O.
 

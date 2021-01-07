@@ -2,7 +2,7 @@
 keywords: single page application implementation;implement single page application;spa;at.js 2.x;at.js;single page application;single page app;spa;SPAs
 description: Information to use Adobe Target at.js 2.x to implement Single Page Applications (SPAs).
 title: Single Page Application implementation in Adobe Target
-feature: implementation general
+feature: Implementation
 ---
 
 # Single Page Application implementation{#single-page-application-implementation}

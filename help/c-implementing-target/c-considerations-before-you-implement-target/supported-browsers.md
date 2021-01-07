@@ -2,10 +2,10 @@
 keywords: Browsers;Prerequisites;Requirements;internet explorer;chrome;firefox;safari;android;surface
 description: The Adobe Target application and content delivery has been tested across a wide range of browsers and devices.
 title: Supported browsers
-feature: reference general
+feature: Implementation
 ---
 
-# Supported browsers{#supported-browsers}
+# Supported browsers
 
 The [!DNL Adobe Target] application and content delivery has been tested across a wide range of browsers and devices.
 
