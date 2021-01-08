@@ -5,9 +5,9 @@ title: Dynamic Media Classic integration configuration integration
 feature: Administration & Configuration 
 ---
 
-# Scene7 configuration
+# Dynamic Media Classic (formerly Scene7) configuration
 
-[!DNL Adobe Target] can be integrated with [!DNL Adobe Dynamic Media Classic] (formerly Scene7) to provide Digital Asset Management (DAM) in the [!UICONTROL Content Library].
+[!DNL Adobe Target] can be integrated with [!DNL Adobe Dynamic Media Classic] (formerly [!DNL Scene7]) to provide Digital Asset Management (DAM) in the [!UICONTROL Content Library].
 
 >[!NOTE]
 >
