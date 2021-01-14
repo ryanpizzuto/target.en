@@ -2,10 +2,10 @@
 keywords: global mbox;target classic;use global mbox from target classic
 description: By default, Target Standard creates a global mbox called target-global-mbox, which is used to run activities created in Target Standard. However, if you have already created a global mbox on your pages for your legacy implementations, you can use that mbox for your Target Standard activities.
 title: Use a Global mbox from a Legacy Implementation
-feature: 
+feature: at.js
 ---
 
-# Use a Global mbox from a Legacy Implementation{#use-a-global-mbox-from-a-legacy-implementation}
+# Use a Global mbox from a legacy implementation
 
 By default, [!DNL Target] creates a global mbox called target-global-mbox, which is used to run activities created in [!DNL Target]. However, if you have already created a global mbox on your pages for your legacy implementations, you can use that mbox for your [!DNL Target] activities.
 

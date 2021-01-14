@@ -2,10 +2,10 @@
 keywords: global mbox;customize global mbox;edit at.js;at.js;implement at.js
 description: Information to help you customize a global mbox for at.js.
 title: Customize a Global mbox
-feature: 
+feature: at.js 
 ---
 
-# Customize a Global mbox{#customize-a-global-mbox}
+# Customize a Global mbox
 
 Information to help you customize a global mbox for at.js.
 
