@@ -9,7 +9,7 @@ feature: Release Notes
 
 This article contains prerelease information. Release dates, features, and other information are subject to change without notice. 
 
-**Last Updated: January 12, 2021**
+**Last Updated: January 14, 2021**
 
 To view information about the current release, see [Target Release Notes](release-notes.md). The information on these pages might be the same, depending on the timing of releases. The issue numbers in parentheses are for internal [!DNL Adobe] use.
 
@@ -40,7 +40,6 @@ The issue numbers in parentheses are for internal [!DNL Adobe] use.
 * Fixed an issue that prevented users from removing an audience from an offer in an [!UICONTROL Automated Personalization] (AP) activity. (TGT-39058)
 * Fixed an issue that caused the incorrect time frame (start and end dates) to display in [!UICONTROL Audience Info] cards for some customers. (TGT-39150)
 * Fixed an issue that prevented some customers from seeing the list of activities in the [!UICONTROL Default Workspace]. (TGT-38526)
-* Increased the size limits for offers in the [!DNL Target] UI and API to 1 MB. (TGT-38304)
 
 ## Prerelease information {#section_7B9D4AAFC6A74388B9D7DEF0658D8B63} 
 
