@@ -2,7 +2,7 @@
 keywords: Targeting;AP reports;automated personalization reports;activity level report;offer level report;offer detail report
 description: Specialized reports are available to users of Automated Personalization activities in Adobe Target.
 title: Automated Personalization Summary reports
-feature: reports
+feature: Reports
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Automated Personalization Summary reports{#automated-personalization-summary-reports}

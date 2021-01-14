@@ -2,7 +2,7 @@
 keywords: custom design;velocity;decimal;comma;customize design
 description: Use the open-source Velocity design language to customize recommendation designs in Adobe Target Recommendations.
 title: Customize a design using Velocity
-feature: designs
+feature: Recommendations
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Customize a design using Velocity{#customize-a-design-using-velocity}

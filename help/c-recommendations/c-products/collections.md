@@ -2,7 +2,7 @@
 keywords: collection;Targeting
 description: A collection is a set of products or items in Adobe Target that are eligible for a recommendation.
 title: Collections in Adobe Target
-feature: entities
+feature: Recommendations
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Collections {#collections}

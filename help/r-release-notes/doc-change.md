@@ -2,7 +2,7 @@
 keywords: target documentation change log;documentation updates;new topics;edits;updates;update
 description: This page lists important changes made to the Adobe Target documentation, ordered by releases.
 title: Documentation changes in the Adobe Target product documentation.
-feature: release notes
+feature: Release Notes
 ---
 
 # Documentation changes{#documentation-changes}

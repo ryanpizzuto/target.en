@@ -2,7 +2,7 @@
 keywords: catalog;search
 description: The catalog search in Adobe Target helps you locate the products or content in your catalog.
 title: Catalog search in Adobe Target
-feature: catalog
+feature: Recommendations
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Catalog search {#catalog-search}

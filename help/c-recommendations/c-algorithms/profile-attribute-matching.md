@@ -2,7 +2,7 @@
 keywords: inclusion rules;inclusion criteria;recommendations;promotion;promotions;dynamic filtering;dynamic;profile attribute matching
 description: Filter dynamically in Adobe Target Recommendations by comparing items (entities) against a value in the user's profile.
 title: Filter by Profile Attribute Matching in dynamic inclusion rules in Adobe Target Recommendations
-feature: criteria
+feature: Recommendations
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Profile Attribute Matching

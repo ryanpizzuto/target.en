@@ -2,7 +2,7 @@
 keywords: recommendations;recommendations activity;criteria;algorithm;recommendation key;custom key;industry vertical;retail;eccommerce;lead generation;b2b;financial services;media;publishing
 description: Criteria in Adobe Target are rules that determine which products or content to recommend based on a predetermined set of visitor behaviors.
 title: Criteria in Adobe Target Recommendations
-feature: criteria
+feature: Recommendations
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Criteria

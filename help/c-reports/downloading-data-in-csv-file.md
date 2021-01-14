@@ -2,7 +2,7 @@
 keywords: reports;download reports;csv;success metrics;order details
 description: Download data in a .csv format for quick import into Excel, Access, or other data analysis programs using Adobe Target.
 title: Downloading data in a CSV file using Adobe Target
-feature: reports
+feature: Reports
 ---
 
 # Downloading data in a CSV file{#downloading-data-in-a-csv-file}

@@ -2,7 +2,7 @@
 keywords: Release notes
 description: Release notes for previous Adobe Target releases, including release notes for Target Standard/Premium, the Target platform, and the Target Javascript library (at.js). Release notes are arraigned in descending order by month and year of release.
 title: Release notes for previous releases
-feature: release notes
+feature: Release Notes
 ---
 
 # Release notes for previous releases{#release-notes-for-previous-releases}

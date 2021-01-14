@@ -2,7 +2,7 @@
 keywords: exclusions
 description: Create an exclusion in [!DNL Adobe Target Recommendations] to prevent products or content from being recommended to visitors.
 title: Exclusions in Adobe Target
-feature: entities
+feature: Recommendations
 ---
 
 # Exclusions{#exclusions}

@@ -2,7 +2,7 @@
 keywords: system update;troubleshooting;maintenance;system status;update status
 description: Use the Adobe System Status page to view the status of Adobe products and Experience Cloud solutions, including Target. This page helps you determine whether problems you might encounter are due to system updates or routine maintenance.
 title: System status updates
-feature: release notes
+feature: Release Notes
 ---
 
 # System status updates and proactive notifications

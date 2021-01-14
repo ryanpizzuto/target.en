@@ -2,7 +2,7 @@
 keywords: multi-value;attributes;recommendations;multi value;multivalue;multi-value
 description: Information about working with a multi-value field in Adobe Target Recommendations using special multi-value operators.
 title: Working with multi-value attributes in Adobe Target Recommendations
-feature: criteria
+feature: Recommendations
 ---
 
 # Work with multi-value attributes
