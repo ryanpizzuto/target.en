@@ -2,7 +2,7 @@
 keywords: reports;auto-target;auto target;AT;report
 description: Information about how to interpret the Auto-Target Summary report in Adobe Target.
 title: Auto-Target Summary report
-feature: reports
+feature: Reports
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Auto-Target Summary report{#auto-target-summary-report}

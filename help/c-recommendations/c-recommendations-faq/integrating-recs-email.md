@@ -2,7 +2,7 @@
 keywords: email;ESP;email service provider;rawbox;delivery API;download-only template;email template;batch processing;build-time email
 description: Information about the ways to integrate email with Recommendations.
 title: Integrate Recommendations with email
-feature: recommendations general
+feature: Recommendations
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Integrate Recommendations with email{#integrate-recommendations-with-email}

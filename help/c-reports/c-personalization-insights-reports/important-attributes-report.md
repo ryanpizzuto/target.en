@@ -2,7 +2,7 @@
 keywords: Targeting;AP reports;automated personalization reports;auto-target;auto target;auto target report;auto-target report;personalization;insights;faq;frequently asked questions;important attributes
 description: Information about the Important Attributes report, one of the two specialized reports available to users of Automated Personalization (AP) and Auto-Target (AT) activities.
 title: Important Attributes report
-feature: reports
+feature: Reports
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Important Attributes report{#important-attributes-report}

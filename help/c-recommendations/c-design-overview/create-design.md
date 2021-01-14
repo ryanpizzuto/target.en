@@ -2,7 +2,7 @@
 keywords: recommendations design;create design;copy design
 description: A design defines how recommendations appear on a page.
 title: Create a design
-feature: designs
+feature: Recommendations
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Create a design {#create-a-design}

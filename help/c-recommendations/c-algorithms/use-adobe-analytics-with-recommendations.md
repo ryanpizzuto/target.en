@@ -2,7 +2,7 @@
 keywords: behavioral data source;analytics;recommendations;criteria;product variables
 description: Using Adobe Analytics as the behavioral data source lets clients use the view-based and/or purchase-based behavioral data from Analytics in Adobe Recommendations.
 title: Using Adobe Analytics with Target Recommendations
-feature: criteria
+feature: Recommendations
 ---
 
 # Use Adobe Analytics with Recommendations

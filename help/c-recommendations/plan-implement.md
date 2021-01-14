@@ -2,7 +2,7 @@
 keywords: Recommendations;settings;preferences;industry vertical;filter incompatible criteria;default host group;thumb base url;recommendations api token
 description: What you need to know before creating a Recommendations activity.
 title: Plan and Implement Recommendations
-feature: recommendations general
+feature: Recommendations
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Plan and implement Recommendations {#plan-and-implement-recommendations}

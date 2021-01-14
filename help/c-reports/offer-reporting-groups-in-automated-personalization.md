@@ -2,7 +2,7 @@
 keywords: automated personalization;offer;reporting;group;reporting group
 description: Information about using reporting groups in Automated Personalization (AP) activities in Adobe Target.
 title: Offer reporting groups in Automated Personalization (AP) activities in Adobe Target
-feature: reports
+feature: Reports
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Offer reporting groups in Automated Personalization{#offer-reporting-groups-in-automated-personalization}

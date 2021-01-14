@@ -2,7 +2,7 @@
 keywords: inclusion rules;inclusion criteria;recommendations;promotion;promotions;dynamic filtering;static;static filter
 description: Manually enter one or more static values to filter using inclusion rules in Adobe Target Recommendations.
 title: Filter by static values in inclusion rules in Adobe Target Recommendations
-feature: criteria
+feature: Recommendations
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Static Filter

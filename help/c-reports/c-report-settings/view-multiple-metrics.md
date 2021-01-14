@@ -2,7 +2,7 @@
 keywords: Target;reports;report settings;multiple metrics;metrics;shown metrics;hidden metrics
 description: Select multiple metrics to view in a report using Adobe Target.
 title: View multiple metrics in a report using Adobe Target
-feature: report settings
+feature: Reports
 ---
 
 # View multiple metrics in a report{#view-multiple-metrics-in-a-report}

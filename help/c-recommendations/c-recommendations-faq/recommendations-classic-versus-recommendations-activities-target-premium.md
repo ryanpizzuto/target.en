@@ -2,7 +2,7 @@
 keywords: Recommendations;recommendations algorithms;recommendations activity;recommendations classic
 description: Information to help you choose between Recommendations Classic and Recommendations activities in Target Premium.
 title: Recommendations Classic versus Recommendations activities in Target Premium
-feature: recommendations general
+feature: Recommendations
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Recommendations Classic versus Recommendations activities in Target Premium{#recommendations-classic-versus-recommendations-activities-in-target-premium}

@@ -2,7 +2,7 @@
 keywords: recommendations;frequently asked questions;faq
 description: List of frequently asked questions (FAQs) about Adobe Target recommendations designs.
 title: Design FAQ
-feature: designs
+feature: Recommendations
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Design FAQ {#design-faq}
