@@ -25,8 +25,8 @@ The issue numbers in parentheses are for internal [!DNL Adobe] use.
 
 This release of at.js is a maintenance release and includes the following fixes:
 
-* Adds support for unified profile/platform id to delivery API customerIds
-* Fixes invalid style tag injection
+* Adds support for unified profile/platform id to delivery API customerIds.
+* Fixes invalid style tag injection.
 
 ## Target Standard/Premium 20.10.1 (October 27, 2020)
 

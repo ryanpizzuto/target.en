@@ -19,8 +19,8 @@ Details about changes in each version of the [!DNL Adobe Target] at.js JavaScrip
 
 This release of at.js is a maintenance release and includes the following fixes:
 
-* Adds support for unified profile/platform id to delivery API customerIds
-* Fixes invalid style tag injection
+* Adds support for unified profile/platform id to delivery API customerIds.
+* Fixes invalid style tag injection.
 
 ## at.js 2.3.3 (November 13, 2020)
 
