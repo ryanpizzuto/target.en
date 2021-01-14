@@ -15,6 +15,13 @@ Details about changes in each version of the [!DNL Adobe Target] at.js JavaScrip
 >
 >[Adobe Experience Platform Launch](/help/c-implementing-target/c-implementing-target-for-client-side-web/how-to-deployatjs/cmp-implementing-target-using-adobe-launch.md) is the preferred method to upgrade at.js. Extension developers continually add new features to their extensions, and frequently fix bugs. These updates are packaged into new versions of an extension and made available in the [!DNL Launch] catalog as upgrades. For more information, see [Extension Upgrade](https://experienceleague.adobe.com/docs/launch/using/reference/manage-resources/extensions/extension-upgrade.html) in the *Experience Platform Launch User Guide*.
 
+## at.js 2.4.0 (January 14, 2021)
+
+This release of at.js is a maintenance release and includes the following fixes:
+
+* Adds support for unified profile/platform id to delivery API customerIds
+* Fixes invalid style tag injection
+
 ## at.js 2.3.3 (November 13, 2020)
 
 This release of at.js is a maintenance release and includes the following fix:

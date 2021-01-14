@@ -21,11 +21,12 @@ These release notes provide information about features, enhancements, and fixes 
 
 The issue numbers in parentheses are for internal [!DNL Adobe] use.
 
-## at.js 2.3.3 (November 13, 2020)
+## at.js 2.4.0 (January 14, 2021)
 
-This release of at.js is a maintenance release and includes the following fix:
+This release of at.js is a maintenance release and includes the following fixes:
 
-* Fixed an issue related to mbox click tracking and A4T.
+* Adds support for unified profile/platform id to delivery API customerIds
+* Fixes invalid style tag injection
 
 ## Target Standard/Premium 20.10.1 (October 27, 2020)
 

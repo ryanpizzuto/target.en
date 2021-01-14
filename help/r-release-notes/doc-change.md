@@ -13,6 +13,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|January 14|[at.js version details](/help/c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md)|Added information about at.js version 2.4.0.|
 |January 12|[Target release notes (prerelease)](/help/r-release-notes/target-release-notes.md)|Added prerelease information about the Target Standard/Premium 21.1.1 release (January 19, 2021).|
 |January 11|[Target announcements and events](/help/r-release-notes/target-announcements.md)|Added information and registration information for the January 13 Adobe Target Community Q&A Coffee Break.|
 |January 6|[Target announcements and events](/help/r-release-notes/target-announcements.md)|Added information and registration information for the following live webinar:<ul><li>Successful Personalization at Scale: Key Findings from the Forrester Wave, Experience Optimization Platforms.</li></ul>|
