@@ -2,10 +2,10 @@
 keywords: Target;at.js;migrate to at.js;readiness;audit at.js;integrate at.js
 description: Migrating from mbox.js to at.js is a straightforward process.
 title: How to Migrate to at.js from mbox.js
-feature: 
+feature: at.js
 ---
 
-# How to Migrate to at.js from mbox.js{#how-to-migrate-to-at-js-from-mbox-js}
+# How to Migrate to at.js from mbox.js
 
 Migrating from mbox.js to at.js in [!DNL Adobe Target] is a straightforward process.
 

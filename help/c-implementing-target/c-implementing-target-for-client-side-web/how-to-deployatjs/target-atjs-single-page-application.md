@@ -2,10 +2,10 @@
 keywords: single page application implementation;implement single page application;spa;at.js 2.x;at.js;single page application;single page app;spa;SPAs
 description: Information to use Adobe Target at.js 2.x to implement Single Page Applications (SPAs).
 title: Single Page Application implementation in Adobe Target
-feature: Implementation
+feature: Implement Server-side
 ---
 
-# Single Page Application implementation{#single-page-application-implementation}
+# Single Page Application implementation
 
 Traditional websites worked on "Page-to-Page" navigation models, otherwise known as Multi Page Applications, where website designs were tightly coupled to URLs and transitions from one webpage to another required a page load. Modern web applications, such as Single Page Applications (SPAs), instead adopt a model that propels rapid use of browser UI rendering, which is often independent of page reloads. These experiences are often triggered by customer interactions, such as scrolls, clicks, and cursor movements. As the paradigms of the modern web have evolved, the relevance of traditional generic events, such as page-load, to deploy personalization and experimentation no longer work.
 
