@@ -187,9 +187,7 @@ If you are using a global mbox, the limit is for the whole set of content return
 
 ## productPurchasedId parameter
 
-**Limit**: 47 characters per comma-separated value.
-
-Anything longer is truncated by the system.
+**Limit**: 47 characters per comma-separated value and 250 characters in total. Individual values longer than 47 characters may be truncated by the system. Total lengths above 250 characters may result in a 400 error.
 
 ## Profile scripts
 
