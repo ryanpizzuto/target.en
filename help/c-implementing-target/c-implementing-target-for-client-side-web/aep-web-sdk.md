@@ -11,5 +11,5 @@ feature: AEP Web SDK
 
 For more information, see the following links in the *Adobe Experience Platform Web SDK* help:
 
-* For comprehensive information: [What is Adobe Experience Platform Web SDK](/help/c-implementing-target/c-implementing-target-for-client-side-web/aep-web-sdk.md)
+* For comprehensive information: [What is Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html)
 * For information specific to [!DNL Target]: [Target Overview](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html)
