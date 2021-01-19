@@ -58,7 +58,15 @@ The following are known issues with redirect offers:
 
 ### Recommendations
 
-The following are known issues with Recommendations activities:
+The following are known issues with [!UICONTROL Recommendations] activities:
+
+* Currently when copying a [!UICONTROL Recommendation] activity with an active promotion, any change in the duplicate activity also affects the original activity, and vice versa. (TGT-39155)
+
+  As a temporary workaround:
+
+  * Disable activity promotions
+  * Duplicate the activity
+  * Enable promotions again in each activity
 
 * Entities are correctly expired after 60 days of receiving no updates via feed or API; however, the expired entities are not removed from the Catalog Search index after expiration. (IRI-857)
 * The "Usage Info" overlays for Criteria and Designs do not reflect their usage in A/B and Experience Targeting activities (TGT-34331)
