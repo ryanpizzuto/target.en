@@ -60,7 +60,7 @@ The following are known issues with redirect offers:
 
 The following are known issues with [!UICONTROL Recommendations] activities:
 
-* Currently when copying a [!UICONTROL Recommendation] activity with an active promotion, any change in the duplicate activity also affects the original activity, and vice versa. (TGT-39155)
+* When copying a [!UICONTROL Recommendation] activity with an active promotion, any change in the duplicate activity currently also affects the original activity, and vice versa. (TGT-39155)
 
   As a temporary workaround:
 
