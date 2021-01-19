@@ -2,10 +2,10 @@
 keywords: troubleshoot target;troubleshooting target
 description: List of topics to help you resolve issues in Adobe Target, including troubleshooting topics, frequently asked questions (FAQs), and other helpful topics.
 title: Troubleshoot Adobe Target
-feature: troubleshooting general
+feature: Troubleshooting
 ---
 
-# Troubleshoot Target{#troubleshoot-target}
+# Troubleshoot Target
 
 List of topics to help you resolve issues in [!DNL Adobe Target], including troubleshooting topics, frequently asked questions (FAQs), and other helpful topics.
 

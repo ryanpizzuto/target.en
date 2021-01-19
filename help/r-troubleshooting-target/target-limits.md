@@ -1,13 +1,13 @@
 ---
-keywords: character limit;mbox parameters;batch delivery api;profile parameters;limits;built in profiles;maximum;limit;constraint;character;best practice;orderid;orderTotal;mbox3rdPartyID;category;categoryID
+keywords: character limit;mbox parameters;batch delivery api;profile parameters;limits;built in profiles;maximum;limit;constraint;character;best practice;orderid;orderTotal;mbox3rdPartyID;category;categoryID;troubleshooting
 description: Information about the character limits and other limits (offer size, audiences, profiles, values, parameters, etc.) that affect activities and other elements in Adobe Target.
 title: Limits
-feature: Recommendations
+feature: Troubleshooting
 ---
 
-# Limits{#limits}
+# Limits
 
-Information about the character limits and other limits (offer size, audiences, profiles, values, parameters, etc.) that affect activities and other elements in Adobe Target.
+Information about the character limits and other limits (offer size, audiences, profiles, values, parameters, etc.) that affect activities and other elements in [!DNL Adobe Target].
 
 >[!NOTE]
 >
@@ -15,7 +15,7 @@ Information about the character limits and other limits (offer size, audiences, 
 >
 >When the limits designated as "recommended" are approached or exceeded, performance can slow. Slow interface load times can also be caused by a very complex activity, such as many audiences, targets, and experiences all in one activity.
 >
->Highly complex activities should be reviewed with Adobe Consulting and tested in a limited environment before being released to production.
+>Highly complex activities should be reviewed with [!DNL Adobe] Consulting and tested in a limited environment before being released to production.
 
 ## Activities
 
