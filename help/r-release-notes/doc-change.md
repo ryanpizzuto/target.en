@@ -9,6 +9,15 @@ feature: Release Notes
 
 This page lists important changes made to the [!DNL Adobe Target] product documentation.
 
+## Adobe Target Standard/Premium 21.1.1 (January 19, 2021)
+
+|Date|Topic|Changes|
+| --- | --- | --- |
+|January 19|[Target release notes (current)](/help/r-release-notes/release-notes.md)|Added information about the Target 21.1.1 release (January 19, 2021).|
+||[Limits](/help/r-troubleshooting-target/target-limits.md)|Updated text for the `productPurchasedID` parameter.|
+||[Known issues and resolved issues](/help/r-release-notes/known-issues-resolved-issues.md)|Added a known issue when copying a [!UICONTROL Recommendation] activity with an active promotion. Any change in the duplicate activity also affects the original activity, and vice versa. A temporary workaround is included.|
+||[Release Notes](/help/r-release-notes/release-notes.md): 21.1.1|This release includes enhancements and fixes. You can read about them and link to the documentation from the Release Notes. This release also includes many documentation updates throughout the help.|
+
 ## Adobe Target Standard/Premium 20.10.1 (October 28, 2020)
 
 |Date|Topic|Changes|
