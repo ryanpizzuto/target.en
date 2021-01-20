@@ -7,9 +7,9 @@ feature: Recommendations
 
 # ![PREMIUM](/help/assets/premium.png) Catalog Search
 
-The [!UICONTROL Catalog Search] page in [!DNL Adobe Recommendations] helps you locate the products or content in your catalog. The most basic task you can perform on this page is to search for an item. In addition, you can change the environment, save search results to collections or exclusions, modify columns in the table, add new search facets, and more.
+The [!UICONTROL Catalog Search] page in [!DNL Adobe Recommendations] helps you locate the products or content in your catalog. The most basic task you can perform on this page is to search for an item. In addition, you can change the environment, save search results to collections or exclusions, add filter facets, and modify columns in the table, add new search facets, and more.
 
-Catalogs refer to your entire product set (entities). Your catalog can contain many collections (a way to organize your products in logical buckets).
+Catalogs refer to your entire product set (entities). Your catalog can contain many collections, a way to organize your products in logical buckets.
 
 ## Access Catalog Search
 
