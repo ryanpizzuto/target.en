@@ -5,9 +5,15 @@ title: Create an Order Confirmation mbox - mbox.js
 feature: 
 ---
 
-# Create an Order Confirmation mbox - mbox.js{#create-an-order-confirmation-mbox-mbox-js}
+# Create an Order Confirmation mbox - mbox.js
 
 The Order Confirmation mbox records details about orders on your site and allows reporting based on revenue and orders. The Order Confirmation mbox can also drive recommendation algorithms, such as "People who bought product x also bought product y."
+
+>[!IMPORTANT]
+>
+>**mbox.js end-of-life**: On March 31, 2021, [!DNL Adobe Target] will no longer support the mbox.js library. Post March 31, 2021, all calls made from mbox.js will gracefully fail and impact your pages that have [!DNL Target] activities running by serving default content.
+>
+>We recommend that all customers migrate to the most recent version of the new [!DNL Adobe Experience Platform Web SDK] or the at.js JavaScript library before this date to avoid any potential issues with your sites. For more information, see [Overview: implement Target for client-side web](/help/c-implementing-target/c-implementing-target-for-client-side-web/implement-target-for-client-side-web.md).
 
 >[!NOTE]
 >

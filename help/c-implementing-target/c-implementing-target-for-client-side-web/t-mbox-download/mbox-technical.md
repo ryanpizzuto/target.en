@@ -9,6 +9,12 @@ feature:
 
 Information to help your technical staff understand the mbox.js implementation and how it might affect your site.
 
+>[!IMPORTANT]
+>
+>**mbox.js end-of-life**: On March 31, 2021, [!DNL Adobe Target] will no longer support the mbox.js library. Post March 31, 2021, all calls made from mbox.js will gracefully fail and impact your pages that have [!DNL Target] activities running by serving default content.
+>
+>We recommend that all customers migrate to the most recent version of the new [!DNL Adobe Experience Platform Web SDK] or the at.js JavaScript library before this date to avoid any potential issues with your sites. For more information, see [Overview: implement Target for client-side web](/help/c-implementing-target/c-implementing-target-for-client-side-web/implement-target-for-client-side-web.md).
+
 Target Standard requires [!DNL mbox.js] version 58 or later. For instructions on how to download and update [!DNL mbox.js], see [Mbox Implementation](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/mbox-download.md#task_4EAE26BB84FD4E1D858F411AEDF4B420).
 
 For Target Standard, [!DNL mbox.js] calls another JavaScript file, [!DNL target.js]. [!DNL Target.js] is hosted by Adobe and is automatically updated by Adobe. There is nothing you need to do to update [!DNL target.js], and there are no client-specific customizations.

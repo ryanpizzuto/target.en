@@ -8,6 +8,12 @@ feature: at.js
 
 The way Target makes and responds to calls from your page depends on the version of the Target library you are using, whether the Experience Cloud Visitor ID implementation is present, and whether the visitor ID exists.
 
+>[!IMPORTANT]
+>
+>**mbox.js end-of-life**: On March 31, 2021, [!DNL Adobe Target] will no longer support the mbox.js library. Post March 31, 2021, all calls made from mbox.js will gracefully fail and impact your pages that have [!DNL Target] activities running by serving default content.
+>
+>We recommend that all customers migrate to the most recent version of the new [!DNL Adobe Experience Platform Web SDK] or the at.js JavaScript library before this date to avoid any potential issues with your sites. For more information, see [Overview: implement Target for client-side web](/help/c-implementing-target/c-implementing-target-for-client-side-web/implement-target-for-client-side-web.md).
+
 >[!NOTE]
 >
 >If you use [!DNL at.js], all calls are made using JSON. This page provides details about [!DNL mbox.js] library versions. The behaviors described in the scenarios below do not apply to [!DNL at.js].
