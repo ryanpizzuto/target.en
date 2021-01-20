@@ -1,21 +1,21 @@
 ---
-keywords: catalog;search
-description: The catalog search in Adobe Target helps you locate the products or content in your catalog.
-title: Catalog search in Adobe Target
+keywords: catalog search;catalog;search;exclusion;collection
+description: Learn how to use the Recommendations Catalog Search to locate products or content, create collections or exclusions, remove items from your catalog, and more.
+title: How to use the Recommendations Catalog Search
 feature: Recommendations
 ---
 
-# ![PREMIUM](/help/assets/premium.png) Catalog search {#catalog-search}
+# ![PREMIUM](/help/assets/premium.png) Catalog Search
 
-The [!UICONTROL Catalog Search] page helps you locate the products or content in your catalog.
+The [!UICONTROL Catalog Search] page in [!DNL Adobe Recommendations] helps you locate the products or content in your catalog. The most basic task you can perform on this page is to search for an item. In addition, you can change the environment, save search results to collections or exclusions, modify columns in the table, add new search facets, and more.
 
-Catalogs refer to your entire product set (entities). Your catalog can contain many collections--a way to organize your products in logical buckets.
+Catalogs refer to your entire product set (entities). Your catalog can contain many collections (a way to organize your products in logical buckets).
+
+## Access Catalog Search
 
 To access the [!UICONTROL Catalog Search] page, click **[!UICONTROL Recommendations]** > **[!UICONTROL Catalog Search]**.
 
 ![Catalog Search page](/help/c-recommendations/c-products/assets/catalog-search.png)
-
-The most basic task you can perform on this page is to search for an item. In addition, you can change the environment; save search results to collections or exclusions; add, remove, or rearrange columns in the table, and add new search facets to the [!UICONTROL Filters] panel.
 
 ## Search for an item
 
@@ -52,9 +52,9 @@ You can use a simple search or an advanced search to locate items in your catalo
 
    >[!NOTE]
    >
-   >When you perform a catalog search on a custom attribute with a numeric value, the results treat the custom attribute to be a String type instead of a numeric value.
+   >When you perform a catalog search on a custom attribute with a numeric value, the results treat the custom attribute to be a string type instead of a numeric value.
    >
-   >Currently, there is no functionality available that allows customers to change the type of an attribute. To make a change, [open a customer issue](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C) referencing the attributes that need the type changed from string to numeric.
+   >Currently, there is no functionality available that lets you change the type of an attribute. To make a change, [open a customer issue](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C) referencing the attributes that need the type changed from string to numeric.
 
 1. You can also use filters to find the desired product. In the following example, by expanding the [!UICONTROL Collections] facet and selecting "Bike Tools," all bike tools in your catalog display.
 
@@ -146,7 +146,7 @@ You can add additional filter facets to the [!UICONTROL Catalog Search] page.
 
    ![Modify filters link](/help/c-recommendations/c-products/assets/modify-filters.png)
 
-1. Select the desired search facets (ID, name, message, etc.).
+1. Select the desired search facets (ID, name, message, etc.), then click **[!UICONTROL Save]**.
 
    ![Add filters](/help/c-recommendations/c-products/assets/add-filters.png)
 
