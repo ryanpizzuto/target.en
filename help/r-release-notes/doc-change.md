@@ -13,6 +13,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|January 20|[Adobe Experience Platform Web SDK](/help/c-implementing-target/c-implementing-target-for-client-side-web/aep-web-sdk.md)|New topic.|
 |January 19|[Target release notes (current)](/help/r-release-notes/release-notes.md)|Added information about the Target 21.1.1 release (January 19, 2021).|
 ||[Limits](/help/r-troubleshooting-target/target-limits.md)|Updated text for the `productPurchasedID` parameter.|
 ||[Known issues and resolved issues](/help/r-release-notes/known-issues-resolved-issues.md)|Added a known issue when copying a [!UICONTROL Recommendation] activity with an active promotion. Any change in the duplicate activity also affects the original activity, and vice versa. A temporary workaround is included.|

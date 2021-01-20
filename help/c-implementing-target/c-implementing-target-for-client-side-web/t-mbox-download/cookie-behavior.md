@@ -11,6 +11,12 @@ The cookie behavior depends on whether it is a first-party cookie, a third-party
 
 >[!IMPORTANT]
 >
+>**mbox.js end-of-life**: On March 31, 2021, [!DNL Adobe Target] will no longer support the mbox.js library. Post March 31, 2021, all calls made from mbox.js will gracefully fail and impact your pages that have [!DNL Target] activities running by serving default content.
+>
+>We recommend that all customers migrate to the most recent version of the new [!DNL Adobe Experience Platform Web SDK] or the at.js JavaScript library before this date to avoid any potential issues with your sites. For more information, see [Overview: implement Target for client-side web](/help/c-implementing-target/c-implementing-target-for-client-side-web/implement-target-for-client-side-web.md).
+
+>[!NOTE]
+>
 >This topic contains information about `mboxSession` and `mboxPC`. Our implementation best practices recommends that you do not link or store any sensitive information with the cookie data: `mboxSession` or `mboxPC`.
 
 See also [Delete the Target cookie](/help/c-implementing-target/c-considerations-before-you-implement-target/c-privacy/cookie-deleting.md).

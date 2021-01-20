@@ -9,6 +9,12 @@ feature:
 
 This page shows changes to each version of mbox.js.
 
+>[!IMPORTANT]
+>
+>**mbox.js end-of-life**: On March 31, 2021, [!DNL Adobe Target] will no longer support the mbox.js library. Post March 31, 2021, all calls made from mbox.js will gracefully fail and impact your pages that have [!DNL Target] activities running by serving default content.
+>
+>We recommend that all customers migrate to the most recent version of the new [!DNL Adobe Experience Platform Web SDK] or the at.js JavaScript library before this date to avoid any potential issues with your sites. For more information, see [Overview: implement Target for client-side web](/help/c-implementing-target/c-implementing-target-for-client-side-web/implement-target-for-client-side-web.md).
+
 >[!NOTE]
 >
 >We recommend that all mbox.js users upgrade to version 57 or later. Some users have experienced timeout issues when `target.js` couldn't be loaded. Version 57 fixed that issue. However, if you are using the [!DNL Experience Cloud Visitor ID] service, version 58 or later is required.
