@@ -62,6 +62,9 @@ In other reports, "unspecified" means data did not meet a classification rule, b
 
 After the classification period, data appears in these reports approximately an hour after it is collected from the website. All metrics, segments, and values in the reports come from the report suite you selected when you set up the activity.
 
+In case classification was done for that activity, and you still see an "unspecified" row in the report, make sure the report isn't using a non-target metric to display the data. Unless the report is using a Target-specific metric, that "unspecified" row will contain events for calls which are not associated with Target. 
+Respectively, that row will not contain any Target-associated information (e.g. no visitors/visits/impressions).
+
 ## Why are Target metrics sent to Analytics even after the activity has been deactivated? {#section_38AA8380A4D54A18972F1EF3E73E22EF}
 
 The [!DNL Target] variable sent to [!DNL Analytics] has a default 90-day expiration period. This expiration period can be adjusted by Customer Care if needed. This setting is global for all activities, however, so it should not be adjusted for one case.
