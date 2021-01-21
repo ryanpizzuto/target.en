@@ -25,6 +25,8 @@ There are several reasons why this could happen:
 
   [Contact Customer Care](/help/cmp-resources-and-contact-information.md#reference_ACA3391A00EF467B87930A450050077C) for assistance.
 
+If you break down the "unspecified" row by the "Analytics for Target" dimension and it consists no activity ids, it means everything is classified properly.  If activity ids are listed there, then it serves as an indication for a classification issue.
+
 >[!NOTE]
 >
 >Sometimes data displays correctly in reports, but then reverts back to "unspecified" because a new activity was added that hasn’t completed classification. Remember that it generally takes between 24 and 72 hours to classify reports after the first save.
@@ -33,12 +35,14 @@ There are several reasons why this could happen:
 
 ## A4T Activities reports include a row with a large number of "unspecified" events. {#added_unspecified_events}
 
-There will always be an unspecified events row shown, depending on the metric you use to display the data.  
-If you use a Target-only metric, that "unspecified" row will not be displayed. 
-If you use a more common metric, that row will appear again in the report.
+There might be an "unspecified" events row shown in your report, depending on the metric you use to display your data with.
 
-That "unspecified" line item won't have any Target-associated information (e.g. no visitors/visits/impressions).  
-The only way to avoid having it in the report is to set Target on absolutely every request sent from that page, which makes no sense. 
+Typically, this row displays if you choose a common metric in the report that is not Target-specific (for example, Page Views, Visits, Unique Visitors, etc).
+In this case, the “Unspecified” row will include all the Page Views, Visits, and Unique Visitors that are not associated to Target activities.
+That row won’t have any Target-associated information (e.g. no visitors, visits, or impressions). For more information, see [“Unspecified,” “None,” “Other,” and “Unknown” in reporting](https://experienceleague.adobe.com/docs/analytics/technotes/unspecified.html?lang=en) in the *Analytics tech notes*.
+
+If you choose a Target-specific metric in the report, that “Unspecified” row will not be displayed.
+The only way to avoid having it in the report altogether is to set a Target call on every request sent from that page, which is not common or necessary.
 
 ## My Analytics data shows an inflated visit or visitor count since starting A4T. {#section_4BE374E573D44FB7918611699B74F58E}
 
