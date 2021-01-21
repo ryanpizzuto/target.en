@@ -33,6 +33,7 @@ If you break down the "unspecified" row by the "Analytics for Target" dimension 
 >
 >No data is lost when listed as "unspecified." The data is properly assigned to the appropriate activity or experience after the classification runs.
 
+
 ## A4T Activities reports include a row with a large number of "unspecified" events. {#added_unspecified_events}
 
 There might be an "unspecified" events row shown in your report, depending on the metric you use to display your data with.
