@@ -13,6 +13,8 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|January 21|[Troubleshoot the Analytics and Target integration (A4T)](/help/c-integrating-target-with-mac/a4t/c-a4t-troubleshooting/a4t-troubleshooting.md)|Added new section: "A4T Activity reports include a row with a large number of "unspecified" events."|
+||[View reports - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-viewing-reports.md)|Udated following section: "Why do I see "unspecified" in the Analytics reports? What does it mean?"|
 |January 20|[Adobe Experience Platform Web SDK](/help/c-implementing-target/c-implementing-target-for-client-side-web/aep-web-sdk.md)|New topic.|
 |January 19|[Target release notes (current)](/help/r-release-notes/release-notes.md)|Added information about the Target 21.1.1 release (January 19, 2021).|
 ||[Limits](/help/r-troubleshooting-target/target-limits.md)|Updated text for the `productPurchasedID` parameter.|

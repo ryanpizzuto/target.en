@@ -5,7 +5,7 @@ title: Troubleshoot the Analytics and Target integration (A4T)
 feature: a4t troubleshooting
 ---
 
-# Troubleshoot the Analytics and Target integration (A4T){#troubleshoot-the-analytics-and-target-integration-a-t}
+# Troubleshoot the Analytics and Target integration (A4T)
 
 This topic covers some common issues that have been encountered when using Analytics as the reporting source for Target (A4T).
 
@@ -33,17 +33,15 @@ If you break down the "unspecified" row by the "Analytics for Target" dimension 
 >
 >No data is lost when listed as "unspecified." The data is properly assigned to the appropriate activity or experience after the classification runs.
 
+## A4T Activity reports include a row with a large number of "unspecified" events. {#added_unspecified_events}
 
-## A4T Activities reports include a row with a large number of "unspecified" events. {#added_unspecified_events}
+There might be an "[!UICONTROL Unspecified]" events row shown in your report, depending on the metric you use to display your data with.
 
-There might be an "unspecified" events row shown in your report, depending on the metric you use to display your data with.
+Typically, this row displays if you choose a common metric in the report that is not [!DNL Target]-specific (for example, [!UICONTROL Page Views], [!UICONTROL Visits], [!UICONTROL Unique Visitors], etc). In this case, the [!UICONTROL “Unspecified”] row includes all the [!UICONTROL Page Views], [!UICONTROL Visits], and [!UICONTROL Unique Visitors] that are not associated to [!DNL Target] activities.
 
-Typically, this row displays if you choose a common metric in the report that is not Target-specific (for example, Page Views, Visits, Unique Visitors, etc).
-In this case, the “Unspecified” row will include all the Page Views, Visits, and Unique Visitors that are not associated to Target activities.
-That row won’t have any Target-associated information (e.g. no visitors, visits, or impressions). For more information, see [“Unspecified,” “None,” “Other,” and “Unknown” in reporting](https://experienceleague.adobe.com/docs/analytics/technotes/unspecified.html?lang=en) in the *Analytics tech notes*.
+That row won’t have any [!DNL Target]-associated information (e.g. no visitors, visits, or impressions). For more information, see [“Unspecified,” “None,” “Other,” and “Unknown” in reporting](https://experienceleague.adobe.com/docs/analytics/technotes/unspecified.html?lang=en) in the *Analytics tech notes*.
 
-If you choose a Target-specific metric in the report, that “Unspecified” row will not be displayed.
-The only way to avoid having it in the report altogether is to set a Target call on every request sent from that page, which is not common or necessary.
+If you choose a [!DNL Target]-specific metric in the report, that [!UICONTROL “Unspecified”] row does not display. The only way to avoid having it in the report altogether is to set a [!DNL Target] call on every request sent from that page, which is not common or necessary.
 
 ## My Analytics data shows an inflated visit or visitor count since starting A4T. {#section_4BE374E573D44FB7918611699B74F58E}
 
