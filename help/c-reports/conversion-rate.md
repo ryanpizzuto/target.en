@@ -5,7 +5,7 @@ title: Conversion rate
 feature: Reports
 ---
 
-# Conversion rate{#conversion-rate}
+# Conversion rate
 
 The conversion rate, lift, confidence (statistical significance) and confidence interval are reported for each experience.
 
@@ -178,3 +178,27 @@ You can view reports by the following counting methodologies:
 >[!NOTE]
 >
 >Usually, counts are determined by cookies and session activity. However, if you reach the final conversion point of an activity and then re-enter the activity, you are considered a new entrant and a new visit to the activity. This is true even if your PCID and `sessionID` values do not change.
+
+## Why does Target use Student's t-tests? {#t-test}
+
+A/B tests are experiments to compare the mean value of some business metric in a control variant (also known as an experience) to the mean value of that same metric in one or more alternate experiences.
+
+[!DNL Target] recommends using two sample [Student's t-tests](https://en.wikipedia.org/wiki/Student%27s_t-test#:~:text=The%20t%2Dtest%20is%20any,the%20test%20statistic%20were%20known.), as these require fewer assumptions than alternatives like z-tests, and are the appropriate statistical test for doing pairwise comparisons of (quantitative) business metrics between a control experiences and alternate experiences. 
+
+### In more detail
+
+When running online A/B tests, each user/visitor is randomly assigned to a single variant. Subsequently, we make measurements of the business metric(s) of interest (e.g. conversions, orders, revenue, etc.) for visitors in each variant. The statistical test we use then tests the hypothesis that the mean business metric (e.g. conversion rate, orders per user, revenue per user, etc.) is equal for the control and a given alternate variant.
+
+Although the business metric itself might be distributed according to some arbitrary distribution, the distribution of the mean of this metric (within each variant) should converge to a normal distribution via the [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem). Note that although there is no guarantee on how quickly this sampling distribution of the mean will converge to normal, this condition is typically achieved given the scale of visitors in online testing. 
+
+Given this normality of the mean, the test statistic to be used can be shown to follow a t-distribution, because it is the ratio of a normally distributed value (the difference in means of the business metric) to a scaling term based on an estimate from the data (the standard error of the difference in means). The **Student's t-test** is then the appropriate hypothesis test, given the test statistic follows a t-distribution.
+
+### Why other tests are not used
+
+A **z-test** is inappropriate because in the typical A/B testing scenario, the denominator of the test statistic is not a derived from a known variance, and instead must be estimated from the data. 
+
+**Chi-squared tests** are not used because these are appropriate for determining whether there is a qualitative relationship between two variants (i.e. a null hypothesis that there is no difference between variants). T-tests are more appropriate for the scenario of _quantitatively_ comparing metrics.
+
+The **Mann-Whitney U test** is a nonparametric test, which is appropriate when the sampling distribution of the mean business metric (for each variant) is not normally distributed. However as discussed earlier, given the magnitudes of traffic involved in online testing, the Central Limit Theorem typically applies, and so the t-test can be safely applied.
+
+More complex methods like **ANOVA** (which generalize t-tests to more than two variants) can be applied when a test has more than two experiences ("A/Bn tests"). However, ANOVA answers the question of "whether all variants have the same mean," while in the typical A/Bn test we are more interest in _which specific variant_ is best. In [!DNL Target], we therefore apply regular t-tests comparing each variant to a control, with a Bonferroni correction to account for multiple comparisons.
