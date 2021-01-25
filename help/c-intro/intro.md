@@ -77,7 +77,7 @@ This functionality opens up entirely new capabilities, such as:
 
 >[!IMPORTANT]
 >
->[!DNL Recommendations Classic] is a legacy product. For the best [!DNL Recommendations] experience, upgrade to [!DNL Recommendations] activities available in [Adobe Target Premium](/help/c-intro).
+>[!DNL Recommendations Classic] is a legacy product. For the best [!DNL Recommendations] experience, upgrade to [!DNL Recommendations] activities available in Adobe Target Premium, described above.
 
 [!DNL Recommendations Classic] automatically displays products or content that might interest your customers based on previous user activity on your website. Recommendations help direct customers to items they might otherwise not know about, improving sales generated on your website.
 
