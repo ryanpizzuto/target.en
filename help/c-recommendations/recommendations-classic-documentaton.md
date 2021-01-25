@@ -5,7 +5,7 @@ title: Adobe Recommendations Classic documentation.
 feature: Recommendations
 ---
 
-Recommendations Classic documentation
+# Recommendations Classic documentation
 
 [!DNL Recommendations Classic] automatically displays products or content that might interest your customers based on previous user activity on your website.
 
