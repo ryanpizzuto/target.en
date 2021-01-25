@@ -5,9 +5,13 @@ title: Adobe Recommendations Classic documentation.
 feature: Recommendations
 ---
 
-# ![PREMIUM](/help/assets/premium.png) Recommendations Classic documentation
+Recommendations Classic documentation
 
 [!DNL Recommendations Classic] automatically displays products or content that might interest your customers based on previous user activity on your website.
+
+>[!IMPORTANT]
+>
+>[!DNL Recommendations Classic] is a legacy product. For the best [!DNL Recommendations] experience, upgrade to [!DNL Recommendations] activities available in [Adobe Target Premium](/help/c-intro#premium).
 
 Recommendations help direct customers to items they might otherwise not know about, improving sales generated on your website.
 
