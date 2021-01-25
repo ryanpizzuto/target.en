@@ -11,7 +11,7 @@ feature: Recommendations
 
 >[!IMPORTANT]
 >
->[!DNL Recommendations Classic] is a legacy product. For the best [!DNL Recommendations] experience, upgrade to [!DNL Recommendations] activities available in [Adobe Target Premium](/help/c-intro/intro.md).
+>[!DNL Recommendations Classic] is a legacy product and is no longer licensed to new customers. For the best [!DNL Recommendations] experience, upgrade to [!DNL Recommendations] activities available in [Adobe Target Premium](/help/c-intro/intro.md).
 
 Recommendations help direct customers to items they might otherwise not know about, improving sales generated on your website.
 
