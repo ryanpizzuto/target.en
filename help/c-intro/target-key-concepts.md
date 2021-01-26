@@ -2,7 +2,7 @@
 keywords: Overview and Reference;act
 description: Information about key concepts that will help you understand the features and capabilities of Adobe Target.
 title: Target key concepts
-feature: intro
+feature: Overview
 ---
 
 # Target key concepts{#target-key-concepts}

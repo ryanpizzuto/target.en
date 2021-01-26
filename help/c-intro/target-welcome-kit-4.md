@@ -2,7 +2,7 @@
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
 description: Adobe Target welcome kit - Chapter 4 - Tips for using Target
 title: Adobe Target welcome kit - Chapter 4 - Tips for using Target
-feature: intro
+feature: Overview
 ---
 
 # Chapter 4: Tips for using Target

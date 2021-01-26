@@ -2,7 +2,7 @@
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
 description: Adobe Target welcome kit - Chapter 2 - Target at a glance
 title: Adobe Target welcome kit - Chapter 2 - Target at a glance
-feature: intro
+feature: Overview
 ---
 
 # Chapter 2: Adobe Target at a glance

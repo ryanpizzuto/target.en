@@ -2,7 +2,7 @@
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
 description: Adobe Target welcome kit - Chapter 6 - Easily avoidable pitfalls
 title: Adobe Target welcome kit - Chapter 6 - Easily avoidable pitfalls
-feature: intro
+feature: Overview
 ---
 
 # Chapter 6: Easily avoidable pitfalls

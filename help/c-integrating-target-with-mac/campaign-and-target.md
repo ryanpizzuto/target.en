@@ -2,7 +2,7 @@
 keywords: Overview and Reference
 description: Use Target with Adobe Campaign to optimize email content.
 title: Integrate Target with Adobe Campaign
-feature: campaign
+feature: Integrations
 ---
 
 # Integrate Target with Adobe Campaign{#integrate-target-with-adobe-campaign}

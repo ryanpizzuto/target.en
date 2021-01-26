@@ -2,7 +2,7 @@
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
 description: Adobe Target welcome kit - Chapter 8 - Communicate your activity results
 title: Adobe Target welcome kit - Chapter 8 - Communicate your activity results
-feature: intro
+feature: Overview
 ---
 
 # Chapter 8: Communicate your activity results

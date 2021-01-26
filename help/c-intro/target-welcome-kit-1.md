@@ -2,7 +2,7 @@
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
 description: Adobe Target welcome kit - Chapter 1 - Introduction
 title: Adobe Target welcome kit - Chapter 1 - Introduction
-feature: intro
+feature: Overview
 ---
 
 # Chapter 1: Introduction

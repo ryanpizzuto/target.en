@@ -2,7 +2,7 @@
 keywords: faq;frequently asked questions;analytics for target;a4T;classifications;classification;classifications importer;post-tnt-action
 description: This topic contains answers to questions that are frequently asked about classifications and using Analytics as the reporting source for Target (A4T).
 title: Classifications - A4T FAQ
-feature: a4t troubleshooting
+feature: Analytics for Target (A4T)
 ---
 
 # Classifications - A4T FAQ{#classifications-a-t-faq}

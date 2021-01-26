@@ -1,7 +1,7 @@
 ---
 description: Definitions of terms.
 title: Adobe Target Glossary
-feature: intro
+feature: Overview
 ---
 
 # Glossary{#glossary}

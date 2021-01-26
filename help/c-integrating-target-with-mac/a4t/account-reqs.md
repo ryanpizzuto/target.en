@@ -2,7 +2,7 @@
 keywords: Analytics as reporting source;a4t;A4T;requirements
 description: User account requirements to create an Adobe Analytics-based activity in Adobe Target (A4T).
 title: User permission requirements
-feature: a4t implementation
+feature: Analytics for Target (A4T)
 solution: Target,Analytics
 ---
 
