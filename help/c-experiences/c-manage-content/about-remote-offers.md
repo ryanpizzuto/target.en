@@ -1,5 +1,5 @@
 ---
-keywords: remote offer;remote offer selection matrix;cached content;dynamic content
+keywords: remote offer;remote offer selection matrix;cached content;dynamic content;url type
 description: Can I use remote offers to host outside content?
 title: Create remote offers
 feature: Experiences and Offers
