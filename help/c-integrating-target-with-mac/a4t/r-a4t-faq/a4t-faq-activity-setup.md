@@ -2,7 +2,7 @@
 keywords: faq;frequently asked questions;analytics for target;a4T;activity setup
 description: This topic contains answers to questions that are frequently asked about activity setup and using Analytics as the reporting source for Target (A4T).
 title: Activity settings - A4T FAQ
-feature: a4t troubleshooting
+feature: Analytics for Target (A4T)
 ---
 
 # Activity settings - A4T FAQ

@@ -2,7 +2,7 @@
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
 description: Adobe Target welcome kit - Chapter 5 - Inspiration for testing and personalization activities
 title: Adobe Target welcome kit - Chapter 5 - Inspiration for testing and personalization activities
-feature: intro
+feature: Overview
 ---
 
 # Chapter 5: Inspiration for testing and personalization activities.

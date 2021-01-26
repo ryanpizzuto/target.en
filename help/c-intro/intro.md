@@ -3,7 +3,7 @@ keywords: Target Standard;Recommendations;Target Premium;Automated Personalizati
 description: Adobe Target is the Adobe Experience Cloud solution that provides everything you need to tailor and personalize your customers' experience to maximize revenue on your web and mobile sites, apps, social media, and other digital channels.
 landing-page-description: Personalize your customers' experience to maximize revenue on your web and mobile sites, apps, social media, and other digital channels.
 title: Introduction to Adobe Target
-feature: intro
+feature: Overview
 ---
 
 # Introduction to Target{#introduction-to-target}

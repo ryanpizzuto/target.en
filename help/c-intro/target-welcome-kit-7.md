@@ -2,7 +2,7 @@
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
 description: Adobe Target welcome kit - Chapter 7 - Create and run your first Target activity
 title: Adobe Target welcome kit - Chapter 7 - Create and run your first Target activity
-feature: intro
+feature: Overview
 ---
 
 # Chapter 7: Create and run your first Target activity

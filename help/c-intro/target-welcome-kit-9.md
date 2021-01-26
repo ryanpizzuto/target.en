@@ -2,7 +2,7 @@
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
 description: Adobe Target welcome kit - Chapter 9 - Next steps and resources
 title: Adobe Target welcome kit - Chapter 9 - Next steps and resources
-feature: intro
+feature: Overview
 ---
 
 # Chapter 9: Next steps and resources

@@ -2,7 +2,7 @@
 keywords: target user interface;user interface;ui
 description: Understanding the Adobe Target user interface
 title: Understand the Target UI
-feature: intro
+feature: Overview
 ---
 
 # Understand the Target UI

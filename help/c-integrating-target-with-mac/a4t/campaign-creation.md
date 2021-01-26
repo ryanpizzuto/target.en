@@ -2,7 +2,7 @@
 keywords: a4t;A4T;Analytics as the reporting source for Target
 description: You can configure an activity in Target Standard/Premium to use Adobe Analytics as the reporting source (A4T).
 title: Create an activity that uses A4T as the reporting source
-feature: a4t general
+feature: Analytics for Target (A4T)
 ---
 
 # Create an activity that uses Analytics as the reporting source
@@ -126,7 +126,7 @@ Some limitations and notes apply to both Auto-Allocate and Auto-Target. Other li
 
 * The reporting source cannot be changed from [!DNL Analytics] to [!DNL Target] or vice versa after an activity has been activated.
 * Although calculated metrics are not supported as primary goal metrics, it is often possible to achieve the intended result by instead selecting a custom event as the primary goal metric. For example, if you want to optimize for a metric such as "form completions per visitor," select a custom event corresponding to "form completions" as your primary goal metric. [!DNL Target] automatically normalizes conversion metrics on a per-visit basis to account for uneven traffic distribution, so it is not necessary to use a calculated metric to perform normalization.
-* [!DNL Target] uses the "Same Touch" attribution model in the [!UICONTROL Auto-Allocate] A4T implementation.
+* [!DNL Target] uses the "Same Touch" attribution model in the [!UICONTROL Auto-Allocate] feature: Analytics for Target (A4T).
 
 #### Auto-Allocate
 
