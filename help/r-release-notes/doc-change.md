@@ -13,7 +13,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
-|January 26|[Conversion rate](/help/c-reports/conversion-rate.md#t-test)|Clarified how Target uses the "sum of squares" in Student's t-tests.|
+|January 26|[Conversion rate](/help/c-reports/conversion-rate.md)|Clarified how Target uses the "sum of squares" in Student's t-tests.|
 |January 22|[Conversion rate](/help/c-reports/conversion-rate.md#t-test)|Added following section: "Why does Target recommend using Student's t-tests?"|
 |January 21|[Troubleshoot the Analytics and Target integration (A4T)](/help/c-integrating-target-with-mac/a4t/c-a4t-troubleshooting/a4t-troubleshooting.md)|Added new section: "A4T Activity reports include a row with a large number of "unspecified" events."|
 ||[View reports - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-viewing-reports.md)|Updated following section: "Why do I see "unspecified" in the Analytics reports? What does it mean?"|
