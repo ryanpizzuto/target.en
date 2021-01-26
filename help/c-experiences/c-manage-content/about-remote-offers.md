@@ -75,7 +75,7 @@ Some examples of remote offers include:
 
 The following information helps you understand the differences between the two options:
 
-### Cached URL type
+### Cached URL
 
 The content for a cached remote offer is served from [!DNL Target].
 
@@ -85,7 +85,7 @@ Cached remote offers provide enhanced security because somebody logged in to [!D
 
 You can specify an absolute or relative URL for a cached remote offer.
 
-### Dynamic URL type
+### Dynamic URL
 
 A dynamic remote offer is served from the content management or other system rather than from [!DNL Target].
 
