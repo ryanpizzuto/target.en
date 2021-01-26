@@ -5,7 +5,7 @@ title: Documentation changes in the Adobe Target product documentation.
 feature: Release Notes
 ---
 
-# Documentation changes{#documentation-changes}
+# Documentation changes
 
 This page lists important changes made to the [!DNL Adobe Target] product documentation.
 
@@ -13,9 +13,10 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|January 26|[Conversion rate](/help/c-reports/conversion-rate.md#t-test)|Clarified how Target uses the "sum of squares" in Student's t-tests.|
 |January 22|[Conversion rate](/help/c-reports/conversion-rate.md#t-test)|Added following section: "Why does Target recommend using Student's t-tests?"|
 |January 21|[Troubleshoot the Analytics and Target integration (A4T)](/help/c-integrating-target-with-mac/a4t/c-a4t-troubleshooting/a4t-troubleshooting.md)|Added new section: "A4T Activity reports include a row with a large number of "unspecified" events."|
-||[View reports - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-viewing-reports.md)|Udated following section: "Why do I see "unspecified" in the Analytics reports? What does it mean?"|
+||[View reports - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-viewing-reports.md)|Updated following section: "Why do I see "unspecified" in the Analytics reports? What does it mean?"|
 |January 20|[Adobe Experience Platform Web SDK](/help/c-implementing-target/c-implementing-target-for-client-side-web/aep-web-sdk.md)|New topic.|
 |January 19|[Target release notes (current)](/help/r-release-notes/release-notes.md)|Added information about the Target 21.1.1 release (January 19, 2021).|
 ||[Limits](/help/r-troubleshooting-target/target-limits.md)|Updated text for the `productPurchasedID` parameter.|
