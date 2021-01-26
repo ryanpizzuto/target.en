@@ -35,14 +35,13 @@ Some examples of remote offers include:
 
 1. Provide a descriptive name for the offer.
 
-   A descriptive name helps you and others quickly find the offer in the [!UICONTROL Assets] library. 
+   A descriptive name helps you and others quickly find the offer in the [!UICONTROL Assets] library.
 
-1. Specify the remote URL for the remote offer:
+1. Specify the Redirect URL type.
 
-   | Option | Description |
-   |--- |--- |
-   |Cached|The content for a cached remote offer is served from [!DNL Target].<br>Every two hours, [!DNL Target] fetches the content at the remote URL and then stores the content inside [!DNL Target]. When visitors load a site with an experience that includes a remote offer, the offer is delivered by [!DNL Target].<br>Cached remote offers provide enhanced security because somebody logged in to [!DNL Target] cannot change the content. To change the content, someone would need to log in to the content management or other system and change the content there.<br>You can specify an absolute or relative URL for a cached remote offer.|
-   |Dynamic|A dynamic remote offer is served from the content management or other system rather than from [!DNL Target].<br>You might not want the content periodically cached and then delivered by [!DNL Target] whenever visitors load a site with an experience that includes a remote offer. Instead, you want to call the system that is hosting the content, possibly pass in specific information so that the returned offer can be dynamic (or different) for each user.<br>For example, if a user logs in to a website for a credit card that includes an experience with a dynamic remote offer, you could pass parameters into the URL for the user's account information. Then the website could provide user-specific information, such as account balance.<br>Click **[!UICONTROL Add Parameter]** to add one or more [!DNL Target] requests or request parameters.|
+   See [Redirect URL Type: Cached or Dynamic](#url-type) below for more information.
+
+1. Specify the remote URL for the remote offer.
 
 1. Click **[!UICONTROL Save]**.
 
@@ -64,14 +63,35 @@ Some examples of remote offers include:
 
    A descriptive name helps you and others quickly find the offer in the [!UICONTROL Assets] library. 
 
-1. Specify the remote URL for the remote offer:
+1. Specify the Redirect URL type.
 
-   | Option | Description |
-   |--- |--- |
-   |Cached|The content for a cached remote offer is served from [!DNL Target].<br>Every two hours, [!DNL Target] fetches the content at the remote URL and then stores the content inside [!DNL Target]. When visitors load a site with an experience that includes a remote offer, the offer is delivered by [!DNL Target].<br>Cached remote offers provide enhanced security because somebody logged in to [!DNL Target] cannot change the content. To change the content, someone would need to log in to the content management or other system and change the content there.<br>You can specify an absolute or relative URL for a cached remote offer.|
-   |Dynamic|A dynamic remote offer is served from the content management or other system rather than from [!DNL Target].<br>You might not want the content periodically cached and then delivered by [!DNL Target] whenever visitors load a site with an experience that includes a remote offer. Instead, you want to call the system that is hosting the content, possibly pass in specific information so that the returned offer can be dynamic (or different) for each user.<br>For example, if a user logs in to a website for a credit card that includes an experience with a dynamic remote offer, you could pass parameters into the URL for the user's account information. Then the website could provide user-specific information, such as account balance.<br>Click **[!UICONTROL Add Parameter]** to add one or more [!DNL Target] requests or request parameters.|
+   See [Redirect URL Type: Cached or Dynamic](#url-type) below for more information.
+
+1. Specify the remote URL for the remote offer.
 
 1. Click **[!UICONTROL Save]**.
+
+## Redirect URL Type: Cached or Dynamic {#url-type}
+
+The following information helps you understand the differences between the two options:
+
+### Cached URL type
+
+The content for a cached remote offer is served from [!DNL Target].
+
+Every two hours, [!DNL Target] fetches the content at the remote URL and then stores the content inside [!DNL Target]. When visitors load a site with an experience that includes a remote offer, the offer is delivered by [!DNL Target].
+
+Cached remote offers provide enhanced security because somebody logged in to [!DNL Target] cannot change the content. To change the content, someone would need to log in to the content management or other system and change the content there.
+
+You can specify an absolute or relative URL for a cached remote offer.
+
+### Dynamic URL type
+
+A dynamic remote offer is served from the content management or other system rather than from [!DNL Target].
+
+You might not want the content periodically cached and then delivered by [!DNL Target] whenever visitors load a site with an experience that includes a remote offer. Instead, you want to call the system that is hosting the content, possibly pass in specific information so that the returned offer can be dynamic (or different) for each user. For example, if a user logs in to a website for a credit card that includes an experience with a dynamic remote offer, you could pass parameters into the URL for the user's account information. Then the website could provide user-specific information, such as account balance.
+
+You can click **[!UICONTROL Add Parameter]** to add one or more [!DNL Target] requests or request parameters.
 
 ## Best practices for using remote offers {#section_7718512D08E14121B6F6B8C38134F4BC}
 
