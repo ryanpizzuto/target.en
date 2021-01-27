@@ -123,12 +123,12 @@ The [!DNL Adobe Target] [!UICONTROL Form-Based Experience Composer] is a non-vis
 
 1. Finish configuring the activity.
 
-## Training video: The Content Repository (4:56) ![Overview badge](/help/assets/overview.png)
+## Training video: Form-based Composer ![Tutorial badge](/help/assets/tutorial.png)
 
-This video includes information about managing content.
+This video provides a demo of the form-based composer, which you can use to create redirect offers.
 
-* Connection between the [Experience Cloud Asset Library](https://experienceleague.adobe.com/docs/core-services/interface/assets/creative-cloud.html) and the Target Content Library 
-* Custom HTML Offers 
-* Custom HTML Offer in the Visual Experience Composer
+* Create an activity using the Form-Based Experience Composer 
+* Understand when to use Form-Based Experience Composer vs. the Visual Experience Composer 
+* Use refinements to target a location
 
->[!VIDEO](https://video.tv.adobe.com/v/17387) 
+>[!VIDEO](https://video.tv.adobe.com/v/17390)
