@@ -1,37 +1,60 @@
 ---
 keywords: content;assets;manage content;offers;manage assets;enter selection mode;selection mode
-description: Use the Offers library in Adobe Target to manage your code offer and image offer content.
+description: How do I manage code and image offers?
 title: Offers
 feature: Experiences and Offers
 ---
 
-# Offers{#offers}
+# Offers
 
-Use the Offers library in [!DNL Adobe Target] to manage your code offer and image offer content.
+Use the [!UICONTROL Offers] library in [!DNL Adobe Target] to manage your code offer and image offer content.
 
->[!NOTE]
->
->In the January 2017 release, offers created via [!DNL Target Classic], [!DNL Adobe Experience Manager] (AEM), [!DNL Adobe Mobile Services] (AMS), and APIs are visible in the [!DNL Target Standard/Premium] user interface. Offers updated in the last two years using these methods will be visible (i.e. January 2015 and beyond). The initial synchronization will occur the first time any user in your organization opens the [!UICONTROL Offers] page. The amount of time for the initial synchronization will depend on the amount of data. After the initial synchronization, data will sync incrementally. If you had code and images in the same folder before this release, [!DNL Target] will split them into two duplicate folders. Note that the Updated date and time refers to the time when the folder was migrated and does not reflect the date you originally created the folder.
+1. Click **[!UICONTROL Offers]** to open the library.
 
-Click **[!UICONTROL Offers]** to open the library. The library contains the offers that have been set up via [!DNL Target Standard/Premium], [!DNL Target Classic], [!DNL Adobe Experience Manager] (AEM), [!DNL Adobe Mobile Services] (AMS), and APIs. Offers created in [!DNL Target Classic] or other solutions are editable in [!DNL Target Standard/Premium].
+   The library contains the offers that have been set up via [!DNL Target Standard/Premium], [!DNL Target Classic], [!DNL Adobe Experience Manager] (AEM), [!DNL Adobe Mobile Services] (AMS), and APIs. Offers created in [!DNL Target Classic] or other solutions are editable in [!DNL Target Standard/Premium].
 
-The [!UICONTROL Offers] page has two tabs along the right side: Code Offers and Image Offers that let you view offers by type.
+   The [!UICONTROL Offers] page has two tabs along the right side: [!UICONTROL Code Offers] and [!UICONTROL Image Offers] that let you view offers by type.
 
-![](assets/offers_page.png)
+   ![Offers page showing the Code Offers and Image Offers tabs](/help/c-experiences/c-manage-content/assets/offers-page.png)
 
-You can filter offers by type ( HTML Offer, Redirect Offer, Remote Offer, or Folder) and by source (Adobe Target, Adobe Target Classic, Adobe Experience Manager, Adobe Mobile Services, or API).
+1. (Optional) Click the **[!UICONTROL Type]** drop-down list to filter offers by type (HTML Offer, [Experience Fragments](/help/c-experiences/c-manage-content/aem-experience-fragments.md), [Redirect Offer](/help/c-experiences/c-manage-content/offer-redirect.md), [Remote Offer](/help/c-experiences/c-manage-content/about-remote-offers.md), [JSON Offers](/help/c-experiences/c-manage-content/create-json-offer.md), and [Folders](/help/c-experiences/c-manage-content/create-content-folder.md)).
 
-![](assets/offers_filter.png)
+   ![](assets/offers_filter.png)
 
-You can edit or copy a folder or offer by hovering over the desired item, then by clicking the Edit or Copy icons.
+1. (Optional) Click the **[!UICONTROL Source]** drop-down list to filter offers by source (Adobe Target, Adobe Target Classic, and Adobe Experience Manager).
 
-![](assets/offer-picker-large.png)
+1. (Optional) Perform additional tasks by hovering over the desired offer or folder on the [!UICONTROL Code Offers] tab, then by clicking the desired icon.
 
-## Viewing Offer Definitions {#section_6B059DD121434E6292CAB393507D010E}
+   ![Code Offers options](assets/offer-picker-large.png)
 
-You can view offer definition details on a pop-up card in the Offers Library without opening the offer.
+   Options include:
 
-For example, the following offer definition card for an HTML offer is accessed by hovering over an offer on the Contents List, then clicking the information icon:
+   * View (For more information, see [Viewing offer definitions](#section_6B059DD121434E6292CAB393507D010E) below.)
+   * Edit
+   * Copy
+   * Move (For example, to move one or more items into a folder, click the **[!UICONTROL Move]** icon for the desired item, click the desired folder, then click **[!UICONTROL Drop]**.)
+   * Delete
+
+   Depending on your permissions, you might not see icons for all options. For example, a user with [!UICONTROL Observer] permissions does not have the rights to use the [!UICONTROL Copy] option.
+
+1. (Optional) Perform additional tasks by hovering over the desired image offer or folder on the [!UICONTROL Image Offers] tab, then by clicking the desired icon.
+
+   ![Image Offers options](/help/c-experiences/c-manage-content/assets/image-offers-icons.png)
+
+   Options include:
+
+   * Select
+   * Download
+   * View Properties
+   * Edit
+   * Annotate
+   * Copy
+
+## Viewing offer definitions {#section_6B059DD121434E6292CAB393507D010E}
+
+You can view offer definition details on a pop-up card in the [!UICONTROL Offers] library without opening the offer.
+
+For example, the following offer definition card for an HTML offer is accessed by hovering over an offer on the [!UICONTROL Content] list, then clicking the information icon:
 
 ![](assets/offer-card-html.png)
 
@@ -44,7 +67,7 @@ The following information is available:
 * Offer path 
 * Last Modified
 
-Click the [!UICONTROL Offer Usage] tab to view the activities that reference a code offer in each offer's definition pop-up card. This functionality does not apply to image offers. This way you can avoid impact to other activities while editing offers. Information includes Live Activities and Inactive Activities.
+Click the [!UICONTROL Offer Usage] tab to view the activities that reference a code offer in each offer's definition pop-up card. This functionality does not apply to image offers. This way you can avoid impact to other activities while editing offers. Information includes [!UICONTROL Live Activities] and [!UICONTROL Inactive Activities].
 
 ![](assets/offer-card-usage.png)
 
@@ -61,8 +84,8 @@ The following information is available:
 * Offer Path 
 * Last Modified 
 * Redirect URL 
-* Include all URL parameters (on or off) 
-* Pass mbox session ID (on or off)
+* Include all URL parameters (On or Off) 
+* Pass mbox session ID (On or Off)
 
 The following offer definition card for a Remote offer:
 
