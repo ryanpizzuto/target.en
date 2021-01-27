@@ -149,3 +149,13 @@ The Remote Offer Selection Matrix helps you decide which type of remote offer to
 |Offers can include JavaScript|Yes|Yes|
 |Offer URL|Absolute or Relative|Relative|
 |Requesting computer|Adobe servers|The visitor's computer, which carries the visitor's cookies|
+
+## Training video: Form-based Composer ![Tutorial badge](/help/assets/tutorial.png)
+
+This video provides a demo of the form-based composer, which you can use to create remote offers.
+
+* Create an activity using the Form-Based Experience Composer 
+* Understand when to use Form-Based Experience Composer vs. the Visual Experience Composer 
+* Use refinements to target a location
+
+>[!VIDEO](https://video.tv.adobe.com/v/17390)
