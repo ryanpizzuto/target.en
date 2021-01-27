@@ -11,7 +11,7 @@ Use remote offers to host content outside of [!DNL Adobe Target] that [!DNL Targ
 
 >[!NOTE]
 >
->Remote offers can be created on the Offers > Code Offers page or in the [Forms-Based Experience Composer](/help/c-experiences/form-experience-composer.md). You cannot create remote offers in the Visual Experience Composer (VEC). Content will be injected in the [!DNL Target] request locations, so these are most likely not appropriate for a global [!DNL Target] request.
+>Remote offers can be created on the [!UICONTROL Offers] > [!UICONTROL Code Offers] page or in the [Forms-Based Experience Composer](/help/c-experiences/form-experience-composer.md). You cannot create or apply remote offers in the Visual Experience Composer (VEC). Content will be injected in the [!DNL Target] request locations, so these are most likely not appropriate for a global [!DNL Target] request.
 >
 >[!DNL Target Classic] included similar features: [!UICONTROL Offer on Your Site] and [!UICONTROL Offer Outside Test&Target].
 
@@ -71,11 +71,11 @@ Some examples of remote offers include:
 
 1. Click **[!UICONTROL Save]**.
 
-## Redirect URL Type: Cached or Dynamic {#url-type}
+### Redirect URL Type: Cached or Dynamic {#url-type}
 
 The following information helps you understand the differences between the two options:
 
-### Cached URL
+#### Cached URL
 
 The content for a cached remote offer is served from [!DNL Target].
 
@@ -85,13 +85,31 @@ Cached remote offers provide enhanced security because somebody logged in to [!D
 
 You can specify an absolute or relative URL for a cached remote offer.
 
-### Dynamic URL
+#### Dynamic URL
 
 A dynamic remote offer is served from the content management or other system rather than from [!DNL Target].
 
 You might not want the content periodically cached and then delivered by [!DNL Target] whenever visitors load a site with an experience that includes a remote offer. Instead, you want to call the system that is hosting the content, possibly pass in specific information so that the returned offer can be dynamic (or different) for each user. For example, if a user logs in to a website for a credit card that includes an experience with a dynamic remote offer, you could pass parameters into the URL for the user's account information. Then the website could provide user-specific information, such as account balance.
 
 You can click **[!UICONTROL Add Parameter]** to add one or more [!DNL Target] requests or request parameters.
+
+## Use remote offers in activities
+
+You must apply remote offers using the [!UICONTROL Form-Based Experience Composer]. You cannot currently apply remote offers using the VEC.
+
+1. Create or edit an activity in the [!UICONTROL Form-Based Experience Composer].
+
+   See [Form-Based Experience Composer](/help/c-experiences/form-experience-composer.md) for detailed step-by-step instructions.
+
+1. Specify the desired location and add any audience refinements as necessary.
+
+1. Click the drop-down list in the **[!UICONTROL Content]** section, then click **[!UICONTROL Change Remote Offer]**.
+
+   ![Change Remote Offer option](/help/c-experiences/c-manage-content/assets/change-remote-offer.png)
+
+1. Select the desired remote offer from the [!UICONTROL Select Remote Offer] dialog box, then click **[!UICONTROL Done]**.
+
+1. Finish configuring the activity.
 
 ## Best practices for using remote offers {#section_7718512D08E14121B6F6B8C38134F4BC}
 

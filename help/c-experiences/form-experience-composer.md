@@ -14,14 +14,18 @@ If you are creating a Recommendations activity, there are no experiences. Choose
 1. Click **[!UICONTROL Create Activity]**, then select the type of activity you want to create.
 
    The Form-Based Experience Composer is available for A/B tests, Experience Targeting, Automated Personalization, and Recommendations activities. 
-1. Select **[!UICONTROL Form-Based Experience Composer]** from the [!UICONTROL New Activity]dialog box.
+1. Select **[!UICONTROL Form-Based Experience Composer]** from the [!UICONTROL Create Activity] dialog box.
+
+1. (Conditional) Choose a workspace and property.
+
+1. Click **[!UICONTROL Next]**.
 
    The Form-Based Experience Composer opens.
 
    ![](assets/location_refinements.png)
 
    This screen is different if you are creating a Recommendations activity. Recommendations activities do not include experiences. 
-1. Name the activity.
+1. Name the activity by clicking "[!UICONTROL Untitled Activity]."
 1. Select a location.
 
    When you click in the [!UICONTROL Select Location] box, a list of available locations appears. Select one of those locations. To choose the global location delivered via target.js, choose “target-global-mbox.”
@@ -57,9 +61,9 @@ If you are creating a Recommendations activity, there are no experiences. Choose
 
    **Change Experience Fragment:** Choose an Experience Fragment.
 
-   **Change Redirect Offer:** Choose a redirect offer.
+   **Change Redirect Offer:** Choose a redirect offer. For more information, see [Create redirect offers](/help/c-experiences/c-manage-content/offer-redirect.md).
 
-   **Change Remote Offer:** Choose a remote offer.
+   **Change Remote Offer:** Choose a remote offer. For more information, see [Create remote offers](/help/c-experiences/c-manage-content/about-remote-offers.md).
 
    **Create HTML Offer:**
 
