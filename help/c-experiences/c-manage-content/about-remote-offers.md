@@ -22,6 +22,9 @@ Some examples of remote offers include:
 * Forms
 * Calculators
 * Interest rate updates
+* Emails
+* Kiosks
+* Voice assistants
 
 ## Create a remote offer from the Code Offers page
 
@@ -96,6 +99,8 @@ You can click **[!UICONTROL Add Parameter]** to add one or more [!DNL Target] re
 ## Use remote offers in activities
 
 You must apply remote offers using the [!UICONTROL Form-Based Experience Composer]. You cannot currently apply remote offers using the VEC.
+
+The [!DNL Adobe Target] [!UICONTROL Form-Based Experience Composer] is a non-visual experience and offer creation interface that’s useful in creating experiences for use in [!UICONTROL A/B Tests], [!UICONTROL Experience Targeting] (XT), [!UICONTROL Automated Personalization] (AP), and [!UICONTROL Recommendations] activities when the visual experience composer is not available or practical for use. For example, you might use the [!UICONTROL Form-Based Experience Composer] to create experiences that use remote offers.
 
 1. Create or edit an activity in the [!UICONTROL Form-Based Experience Composer].
 
