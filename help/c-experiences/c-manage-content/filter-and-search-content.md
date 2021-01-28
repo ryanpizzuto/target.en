@@ -1,6 +1,6 @@
 ---
 keywords: content library;assets;search;smart collections;search folder;filter
-description: Search for assets by keywords and save search folders, called smart collections, that are automatically updated with search results.
+description: How do I search for assets by keywords and save search folders?
 title: Search content and create smart collections
 feature: Experiences and Offers
 ---
@@ -11,10 +11,7 @@ Search for assets by keywords and save search folders, called smart collections,
 
 This section contains the following information:
 
-* [Search for Assets by Keyword](/help/c-experiences/c-manage-content/filter-and-search-content.md#section_2465A71BC95942588F586B1EC8B9E5DB) 
-* [Save Smart Collection](/help/c-experiences/c-manage-content/filter-and-search-content.md#section_5C95159543B5405EB8C8E47B518DF4AB)
-
-## Search for Assets by Keyword {#section_2465A71BC95942588F586B1EC8B9E5DB}
+## Search for assets by keyword {#section_2465A71BC95942588F586B1EC8B9E5DB}
 
 1. Click **[!UICONTROL Offers]** > **[!UICONTROL Image Offers]** to access the [!UICONTROL Asset Library].
 
