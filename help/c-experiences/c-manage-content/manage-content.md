@@ -37,6 +37,8 @@ Use the [!UICONTROL Offers] library in [!DNL Adobe Target] to manage your code o
 
    Depending on your permissions, you might not see icons for all options. For example, a user with [!UICONTROL Observer] permissions does not have the rights to use the [!UICONTROL Copy] option.
 
+   For detailed information about the tasks you can perform on offers and folders, see [Work with content in the Asset library](/help/c-experiences/c-manage-content/assets-working.md).
+
 1. (Optional) Perform additional tasks by hovering over the desired image offer or folder on the [!UICONTROL Image Offers] tab, then by clicking the desired icon.
 
    ![Image Offers options](/help/c-experiences/c-manage-content/assets/image-offers-icons.png)
@@ -49,6 +51,8 @@ Use the [!UICONTROL Offers] library in [!DNL Adobe Target] to manage your code o
    * Edit
    * Annotate
    * Copy
+
+   For detailed information about the tasks you can perform on offers and folders, see [Work with content in the Asset library](/help/c-experiences/c-manage-content/assets-working.md).
 
 ## Viewing offer definitions {#section_6B059DD121434E6292CAB393507D010E}
 
