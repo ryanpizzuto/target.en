@@ -25,14 +25,14 @@ The process to create folders for code offers and image offers differs slightly.
 
 ### Code Offers options
 
-When viewing the [!UICONTROL Code Offers] page, you can perform the following actions on the folder by hovering over the folder, then selecting the appropriate icon.
+When viewing the [!UICONTROL Code Offers] page, you can perform the following actions on an item by hovering over an offer or folder, then selecting the appropriate icon.
 
 ![Hover icons on Code Offers tab](/help/c-experiences/c-manage-content/assets/code-offers-hover-icons.png)
 
 * **Information**: View the offer's information.
 * **Edit**: Edit the folder or offer.
 * **Copy**: Copy the offer. Copying and then editing the offer lets you easily create a similar new offer.
-* **Move**: Click the Move icon, navigate to the location to which you want to move the folder, then click the **[!UICONTROL Drop]** icon. For example, you can move one or more folders into another folder to create sub-folders. Click [!UICONTROL Clear Selection] to deselect offers or folders you have selected.
+* **Move**: Click the Move icon, navigate to the location to which you want to move the offer or folder, then click the **[!UICONTROL Drop]** icon. For example, you can move one or more folders into another folder to create sub-folders. Click [!UICONTROL Clear Selection] to deselect offers or folders you have selected.
 * **Delete**: Delete the offer or folder.
 
 ## Image offer folders
@@ -44,7 +44,9 @@ When viewing the [!UICONTROL Code Offers] page, you can perform the following ac
 1. Click **[!UICONTROL Create]** > **[!UICONTROL Folder]**.
 1. Specify a descriptive **[!UICONTROL Title]** for the folder. 
 
-   For example, you could include the type of content it will hold. The name cannot contain the following characters: Percent sign `%`,Forward slash `/`,Backslash `\`, Colon `:`, Asterisk `*`, Question mark `?`, Double quotes `"`, Square bracket `[`, Square bracket `]`, Plus sign: `+`, Pipe: `|`, Period: `.`, Number sign: `#`, Curly bracket: `{`, Curly bracket `}`, Caret `^`, or Semicolon `;`. You can use a hyphen ( `- `) instead of these characters.
+   For example, you could include the type of content it will hold. 
+   
+   The name cannot contain the following characters: Percent sign `%`,Forward slash `/`,Backslash `\`, Colon `:`, Asterisk `*`, Question mark `?`, Double quotes `"`, Square bracket `[`, Square bracket `]`, Plus sign: `+`, Pipe: `|`, Period: `.`, Number sign: `#`, Curly bracket: `{`, Curly bracket `}`, Caret `^`, or Semicolon `;`. You can use a hyphen ( `- `) instead of these characters.
 
 1. (Optional) Edit the **[!UICONTROL Name]**.
 1. (Optional) Select the **[!UICONTROL Private]** check box.
@@ -53,7 +55,7 @@ When viewing the [!UICONTROL Code Offers] page, you can perform the following ac
 
 1. (Optional) Select the **[!UICONTROL Reorder-able in List View]** check box.
 
-   Specifies that you and others can reorder the folder's position in the List View.
+   Specifies that you and others can reorder the folder's position in the [!UICONTROL List View].
 
 1. Click **[!UICONTROL Create]**.
 
@@ -67,7 +69,7 @@ The following illustration shows the available options when viewing the [!UICONT
 
 ### Image Offers options
 
-When viewing the [!UICONTROL Image Offers] page, you can perform the following actions on the folder by hovering over the folder, then selecting the appropriate icon.
+When viewing the [!UICONTROL Image Offers] page, you can perform the following actions on an item by hovering over an offer or folder, then selecting the appropriate icon.
 
 The following illustration shows the hover icons when viewing the [!UICONTROL Card View].
 
