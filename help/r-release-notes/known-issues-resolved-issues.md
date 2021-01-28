@@ -68,6 +68,7 @@ The following are known issues with [!UICONTROL Recommendations] activities:
   * Duplicate the activity
   * Enable promotions again in each activity
 
+* When [!DNL Target] returns a JSON offer with getOffer(), it returns with type of JSON. However, if you return a JSON Recommendations design it returns with a type of HTML.
 * Entities are correctly expired after 60 days of receiving no updates via feed or API; however, the expired entities are not removed from the Catalog Search index after expiration. (IRI-857)
 * The "Usage Info" overlays for Criteria and Designs do not reflect their usage in A/B and Experience Targeting activities (TGT-34331)
 * Recommendations Offers in A/B and Experience Targeting activities do not show a visual preview of the Recommendations tray (TGT-33426)

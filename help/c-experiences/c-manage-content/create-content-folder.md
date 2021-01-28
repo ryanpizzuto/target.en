@@ -23,17 +23,7 @@ The process to create folders for code offers and image offers differs slightly.
 
 1. Click **[!UICONTROL Create]**.
 
-### Code Offers options
-
-When viewing the [!UICONTROL Code Offers] page, you can perform the following actions on an item by hovering over an offer or folder, then selecting the appropriate icon.
-
-![Hover icons on Code Offers tab](/help/c-experiences/c-manage-content/assets/code-offers-hover-icons.png)
-
-* **Information**: View the offer's information.
-* **Edit**: Edit the folder or offer.
-* **Copy**: Copy the offer. Copying and then editing the offer lets you easily create a similar new offer.
-* **Move**: Click the Move icon, navigate to the location to which you want to move the offer or folder, then click the **[!UICONTROL Drop]** icon. For example, you can move one or more folders into another folder to create sub-folders. Click [!UICONTROL Clear Selection] to deselect offers or folders you have selected.
-* **Delete**: Delete the offer or folder.
+For information about the tasks you can perform on offers and folders, see [Work with content in the Asset library](/help/c-experiences/c-manage-content/assets-working.md).
 
 ## Image offer folders
 
@@ -45,7 +35,7 @@ When viewing the [!UICONTROL Code Offers] page, you can perform the following ac
 1. Specify a descriptive **[!UICONTROL Title]** for the folder. 
 
    For example, you could include the type of content it will hold. 
-   
+
    The name cannot contain the following characters: Percent sign `%`,Forward slash `/`,Backslash `\`, Colon `:`, Asterisk `*`, Question mark `?`, Double quotes `"`, Square bracket `[`, Square bracket `]`, Plus sign: `+`, Pipe: `|`, Period: `.`, Number sign: `#`, Curly bracket: `{`, Curly bracket `}`, Caret `^`, or Semicolon `;`. You can use a hyphen ( `- `) instead of these characters.
 
 1. (Optional) Edit the **[!UICONTROL Name]**.
@@ -59,45 +49,4 @@ When viewing the [!UICONTROL Code Offers] page, you can perform the following ac
 
 1. Click **[!UICONTROL Create]**.
 
-### Toggle between Card View and List View
-
-To toggle between the [!UICONTROL Card View] and [!UICONTROL List View], click the [!UICONTROL Card View] icon or the [!UICONTROL List View] icon in the upper right corner of the content library. You can also use [!UICONTROL View Settings] to further configure the columns when viewing the [!UICONTROL List View]. 
-
-The following illustration shows the available options when viewing the [!UICONTROL List View]:
-
-![List View options](/help/c-experiences/c-manage-content/assets/view-settings-options.png)
-
-### Image Offers options
-
-When viewing the [!UICONTROL Image Offers] page, you can perform the following actions on an item by hovering over an offer or folder, then selecting the appropriate icon.
-
-The following illustration shows the hover icons when viewing the [!UICONTROL Card View].
-
-![Hover icons on the Image Offers tab when in Card View](/help/c-experiences/c-manage-content/assets/image-offers-hover-icons.png)
-
-The following illustration shows the hover icons when viewing the [!UICONTROL List View]. To display the icons, click an item in the list.
-
-![Hover icons on the Image Offers tab when in List View](/help/c-experiences/c-manage-content/assets/list-view-hover.png)
-
-* **Select**: Select one or more folders on which to perform the following actions:
-
-  * Download
-  * Copy
-  * Move
-  * Delete
-
-  Select one or more image offers on which to perform the following actions:
-
-  * Share
-  * Download
-  * View Properties
-  * Edit
-  * Annotate
-  * Move
-
-* **Download**: Download the image offer or the folder and its contents.
-* **View Properties**: View the item's properties. Be sure to click the [!UICONTROL Basic] tab and the [!UICONTROL Advanced] tab to view all available information.
-* **More Actions**: Display additional options when in [!UICONTROL Card View].
-* **Edit**: Edit the folder or offer.
-* **Annotate**: Add annotations to the image offer.
-* **Copy**: Copy the offer. Copying and then editing the offer lets you easily create a similar new offer.
+For information about the tasks you can perform on offers and folders, see [Work with content in the Asset library](/help/c-experiences/c-manage-content/assets-working.md).
