@@ -26,7 +26,7 @@ This release of at.js is a maintenance release and includes the following fixes:
 
 This release of at.js is a maintenance release and includes the following fix:
 
-* Fixed an issue related to mbox click tracking and A4T.
+* Fixed an issue related to mbox click tracking and A4T. With 0n-click, Target fired a Delivery API call with the correct mbox and mbox parameters. However, the SDID did not match the one in the [!DNL Analytics] call, hence there was no hit stitching and conversion. (TNT-38372) 
 
 ## at.js 2.3.2 (July 24, 2020)
 
