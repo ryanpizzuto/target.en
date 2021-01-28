@@ -55,13 +55,15 @@ When viewing the [!UICONTROL Code Offers] page, you can perform the following ac
 
    Specifies that you and others can reorder the folder's position in the List View.
 
-1. (Optional) To toggle between the [!UICONTROL Card View] and [!UICONTROL List View], click the [!UICONTROL Card View] icon or the [!UICONTROL List View] icon in the upper right corner of the content library. You can also use [!UICONTROL View Settings] to further configure the columns when viewing the [!UICONTROL List View]. 
-
-   The following illustration shows the available options when viewing the [!UICONTROL List View]:
-
-   ![List View options](/help/c-experiences/c-manage-content/assets/view-settings-options.png)
-
 1. Click **[!UICONTROL Create]**.
+
+### Toggle between Card View and List View
+
+To toggle between the [!UICONTROL Card View] and [!UICONTROL List View], click the [!UICONTROL Card View] icon or the [!UICONTROL List View] icon in the upper right corner of the content library. You can also use [!UICONTROL View Settings] to further configure the columns when viewing the [!UICONTROL List View]. 
+
+The following illustration shows the available options when viewing the [!UICONTROL List View]:
+
+![List View options](/help/c-experiences/c-manage-content/assets/view-settings-options.png)
 
 ### Image Offers options
 
