@@ -337,7 +337,7 @@ user-guide-description: Learn how to tailor and personalize your customers' expe
       + [Create remote offers](c-experiences/c-manage-content/about-remote-offers.md)
       + [Create JSON offers](c-experiences/c-manage-content/create-json-offer.md)
       + [Working with Content in the Library](c-experiences/c-manage-content/assets-working.md)
-      + [Search content and create smart collections](c-experiences/c-manage-content/filter-and-search-content.md)
+      + [Search content](c-experiences/c-manage-content/filter-and-search-content.md)
       + [Pass dynamic data into offers](c-experiences/c-manage-content/passing-profile-attributes-to-the-html-offer.md)
       + [AEM experience fragments](c-experiences/c-manage-content/aem-experience-fragments.md)
 + Reports {#reports}

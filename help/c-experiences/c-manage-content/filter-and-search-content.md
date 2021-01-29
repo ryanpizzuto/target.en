@@ -1,58 +1,51 @@
 ---
-keywords: content library;assets;search;smart collections;search folder;filter
-description: How do I search for assets by keywords and save search folders?
-title: Search content and create smart collections
+keywords: content library;assets;search;filter
+description: How do I search for assets by keywords?
+title: Search content
 feature: Experiences and Offers
 ---
 
-# Search content and create smart collections
+# Search content
 
-Search for assets by keywords and save search folders, called smart collections, that are automatically updated with search results.
+Search for assets by keywords in the [!UICONTROL Offers] library in [!DNL Adobe Target].
 
-This section contains the following information:
+## Search for code offers by keyword
 
-## Search for assets by keyword {#section_2465A71BC95942588F586B1EC8B9E5DB}
+1. Click **[!UICONTROL Offers]** > **[!UICONTROL Code Offers]**.
+1. Type the desired keywords in the [!UICONTROL Search] box.
 
-1. Click **[!UICONTROL Offers]** > **[!UICONTROL Image Offers]** to access the [!UICONTROL Asset Library].
+   Note that you can also filter by using the [!UICONTROL Type] and [!UICONTROL Source] drop-down lists to further refine your search.
 
-   You can click the [!UICONTROL Card View] icon in the top right corner to display assets in card-view format.
+## Search for image offers by keyword {#section_2465A71BC95942588F586B1EC8B9E5DB}
 
-   Or
+1. Click **[!UICONTROL Offers]** > **[!UICONTROL Image Offers]**.
 
-   You can click the [!UICONTROL List View] icon in the top right corner to display assets in list-view format. 
+1. (Optional) Toggle between the [!UICONTROL Card View] and [!UICONTROL List View], click the [!UICONTROL Card View] icon or the [!UICONTROL List View] icon in the upper right corner of the content library. You can also use [!UICONTROL View Settings] to further configure the columns when viewing the [!UICONTROL List View]. 
+
+   The following illustration shows the available options when viewing the [!UICONTROL List View]:
+
+   ![List View options](/help/c-experiences/c-manage-content/assets/view-settings-options.png)
 
 1. Click the **[!UICONTROL Content Only]** icon in the top left corner to display the search box.
 
-   ![](assets/search_assets.png)
+   ![Content Only option](/help/c-experiences/c-manage-content/assets/content-only.png)
 
 1. In the search box, type a keyword for the asset(s) you want to locate, then press Enter.
 
-## Save Smart Collection {#section_5C95159543B5405EB8C8E47B518DF4AB}
+1. (Optional) use the **[!UICONTROL Filters and Options]** pane to further refine your search.
 
-You can create saved searches, called smart collections, to save time when performing similar searches. A saved search creates a smart collection that is automatically updated with search results.
+   ![Filter and Options pane](/help/c-experiences/c-manage-content/assets/filter-and-options.png)
 
-1. Click **[!UICONTROL Offers]** > **[!UICONTROL Image Offers]** to access the [!UICONTROL Assets Library].
+   You can filter by:
 
-   ![](assets/content.png)
-
-1. Click the **[!UICONTROL Content Only]** icon in the top left corner to display the [!UICONTROL Filter & Options] panel in the left rail. 
-1. Click the **[!UICONTROL Browse]** icon to display the [!UICONTROL Select Path] dialog box.
-
-   ![](assets/browse_folders.png)
-
-1. Browse to and select the desired folder that you want to base the smart collection on, then click the **[!UICONTROL Confirm]** icon.
-
-   ![](assets/browse_folders2.png)
-
-1. (Optional) Select from among the various options to narrow your filter, for example, file type and size. 
-1. Click **[!UICONTROL Save Smart Collection]** at the bottom of the [!UICONTROL Filter & Options] panel to display the Save options.
-
-   ![](assets/save_smart_collection_options.png)
-
-1. Specify a name for the smart collection, select the **[!UICONTROL Public]** check box if you want all users in your [!DNL Target] account to be able to access this smart collection, then click **[!UICONTROL Save]**.
-
-   The smart collection is added to your saved searches list for future use:
-
-   ![](assets/saved_smart_collection.png)
-
-You can edit a saved smart collection by selecting it from the [!UICONTROL Saved Searches] drop-down list to open it, then by clicking [!UICONTROL Edit Smart Collection]. 
+   * File Type: Images, Documents, Multimedia, or Archives.
+   * File Size: Small, Medium, or Large
+   * Last Modified: Hour, Day, Week, Month, or Year.
+   * Approval Status: Approved or Rejected.
+   * Expiry Status: Expired.
+   * Average Rating: 1 through 5.
+   * Orientation: Horizontal, Vertical, or Square.
+   * Style: Color, or Black & White.
+   * Usage Score: Minimum to Maximum
+   * Impression Score: Minimum to Maximum
+   * Click Score: 1 through 5.
