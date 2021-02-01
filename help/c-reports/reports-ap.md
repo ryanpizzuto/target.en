@@ -66,7 +66,7 @@ For more information, see [Important Attributes report](/help/c-reports/c-person
 
 ## Frequently Asked Questions
 
-### Are there differences in data between the Activity Level and Offer Level reports?
+### Why are there differences in data between the Activity Level and Offer Level reports?
 
 **[!UICONTROL Activity Level] report**: Visits recorded on the [!UICONTROL Activity Level] report capture the number of visits to the control experience(s) vs. “targeted” traffic. Targeted traffic includes a mix of exploration traffic and personalized traffic.
 
