@@ -7,7 +7,7 @@ feature: Reports
 
 # ![PREMIUM](/help/assets/premium.png) Automated Personalization Summary reports
 
-Specialized reports are available to users of [!UICONTROL Automated Personalization] activities in [!DNL Adobe Target].
+Specialized summary reports are available to users of [!UICONTROL Automated Personalization] activities in [!DNL Adobe Target].
 
 >[!NOTE]
 >
