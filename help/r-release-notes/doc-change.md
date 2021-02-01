@@ -13,6 +13,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|February 1|[Automated Personalization Summary reports](/help/c-reports/reports-ap.md)|Added new section: "Differences in data between the Activity Level and Offer Level reports."|
 |January 27|[Create redirect offers](/help/c-experiences/c-manage-content/offer-redirect.md)|Updated topic.|
 ||[Create remote offers](/help/c-experiences/c-manage-content/about-remote-offers.md)|Updated topic.|
 |January 26|[Conversion rate](/help/c-reports/conversion-rate.md)|Clarified how Target uses the "sum of squares" in Student's t-tests.|

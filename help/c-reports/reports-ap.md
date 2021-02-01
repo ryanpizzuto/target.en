@@ -1,11 +1,11 @@
 ---
 keywords: Targeting;AP reports;automated personalization reports;activity level report;offer level report;offer detail report
-description: Specialized reports are available to users of Automated Personalization activities in Adobe Target.
+description: How do I use the Automated Personalization Summary reports?
 title: Automated Personalization Summary reports
 feature: Reports
 ---
 
-# ![PREMIUM](/help/assets/premium.png) Automated Personalization Summary reports{#automated-personalization-summary-reports}
+# ![PREMIUM](/help/assets/premium.png) Automated Personalization Summary reports
 
 Specialized reports are available to users of [!UICONTROL Automated Personalization] activities in [!DNL Adobe Target].
 
@@ -17,9 +17,14 @@ Specialized reports are available to users of [!UICONTROL Automated Personalizat
 
    If you have many activities, you can filter the list by selecting [!UICONTROL Automated Personalization] from the [!UICONTROL Type] drop-down list. 
 
-1. (Optional) Click the [!UICONTROL Download] icon to download the summary view (for example, comparing Control and Targeted traffic) as broken down by all available success metrics.
+1. (Optional) Click the **[!UICONTROL Download]** icon to download the summary view (for example, comparing Control and Targeted traffic) as broken down by all available success metrics.
 
-[!UICONTROL Automated Personalization] provides the following reports:
+[!UICONTROL Automated Personalization] provides the following reports: 
+
+* Activity Level
+* Offer Level
+* Automated Segments
+* Important Attributes
 
 ## Activity Level report {#section_6F72FC5C790B4492B3DCECBFFA971337}
 
@@ -41,7 +46,17 @@ Offers can be shown within report groups, and these report groups can be collaps
 
 >[!NOTE]
 >
->The clock icon indicates that the algorithm model is still building. The checkmark icon indicates that the base algorithm has been established.
+>The clock icon indicates that the algorithm model is still building. The check mark icon indicates that the base algorithm has been established.
+
+## Differences in data between the Activity Level and Offer Level reports
+
+**[!UICONTROL Activity Level] report**: Visits recorded on the [!UICONTROL Activity Level] report capture the number of visits to the control experience(s) vs. “targeted” traffic. Targeted traffic includes a mix of exploration traffic and personalized traffic.
+
+**Offer Level report**: Impressions recorded on the [!UICONTROL Offer Level] report capture the number of impressions for each offer. Therefore, in an activity with more than one location, the total number of visits recorded in the [!UICONTROL Offer Level] report across all Reporting Groups is equal to the multiple of the number of visits recorded for Control or Targeted traffic in the [!UICONTROL Activity Level] report times the total number of locations in the activity. Impressions of default content occurring in locations where default content was an available option are recorded in the “Default Content” offer group. Impressions of offers that were unassigned to a reporting group are recorded in the “Ungrouped” offer group.
+
+>[!NOTE]
+>
+The number of impressions recorded on the [!UICONTROL Offer Level] report might not be an exact integer multiple of the number of visits recorded in the [!UICONTROL Activity Level] report. This is due to minor discrepancies that occur in the capture of reporting data traffic over the internet (typical discrepancy rate is below 5%). Thus, the number of impression will not be an exact multiple when the number of locations available in the activity changed after the activity was activated.
 
 ## Automated Segments
 
