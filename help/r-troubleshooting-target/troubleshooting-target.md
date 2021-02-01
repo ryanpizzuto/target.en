@@ -36,6 +36,7 @@ The following sections contain troubleshooting information about activities, sep
 
 * [Automated Personalization FAQ](/help/c-activities/t-automated-personalization/automated-personalization-faq.md)
 * [Troubleshooting Automated Personalization](/help/c-activities/t-automated-personalization/ap-trouble.md)
+* [Automated Personalization Summary reports](/help/c-reports/reports-ap.md)
 
 ### Multivariate Test (MVT)
 
