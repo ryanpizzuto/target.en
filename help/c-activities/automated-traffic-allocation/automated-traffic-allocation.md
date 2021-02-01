@@ -113,7 +113,7 @@ Some factors that can be ignored during a standard A/B test because they affect 
 
   For example:
 
-  * "Thank God it's Friday" results in higher conversions on Friday 
+  * "Thank God it's Friday" results in higher conversions on Friday
   * "Jump-start your Monday" has higher conversion on Monday 
   * "Gear up for an East-coast winter" provides higher conversion in East-Coast or winter-afflicted locations
 
@@ -129,7 +129,7 @@ Consult the following FAQs and answers as you work with [!UICONTROL Auto-Allocat
 
 ### Does Analytics for Target (A4T) support Auto-Allocate activities?
 
-Yes. For more information, see [Analytics for Target (A4T) support for Auto-Allocate activities](/help/c-integrating-target-with-mac/a4t/campaign-creation.md#a4t-aa) in *Activity creation*.
+Yes. For more information, see [A4T support for Auto-Allocate and Auto-Target activities](/help/c-integrating-target-with-mac/a4t/a4t-at-aa.md).
 
 ### Are returning visitors automatically reallocated to high-performing experiences?
 
