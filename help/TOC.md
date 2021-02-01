@@ -168,6 +168,7 @@ user-guide-description: Learn how to tailor and personalize your customers' expe
       + [Analytics for Target implementation](c-integrating-target-with-mac/a4t/a4timplementation.md)
       + [User permission requirements](c-integrating-target-with-mac/a4t/account-reqs.md)
       + [Create an activity that uses Analytics as the reporting source](c-integrating-target-with-mac/a4t/campaign-creation.md)
+      + [A4T support for Auto-Allocate and Auto-Target activities](/help/c-integrating-target-with-mac/a4t/a4t-at-aa.md)
       + [Use an Analytics tracking server](c-integrating-target-with-mac/a4t/analytics-tracking-server.md)
       + [A4T reporting](c-integrating-target-with-mac/a4t/reporting.md)
       + Troubleshooting the Analytics and Target integration (A4T) {#troubleshoot-a4t}
