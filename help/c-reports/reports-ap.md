@@ -7,7 +7,7 @@ feature: Reports
 
 # ![PREMIUM](/help/assets/premium.png) Automated Personalization Summary reports
 
-Specialized reports are available to users of [!UICONTROL Automated Personalization] activities in [!DNL Adobe Target].
+Specialized summary reports are available to users of [!UICONTROL Automated Personalization] activities in [!DNL Adobe Target].
 
 >[!NOTE]
 >
@@ -74,4 +74,4 @@ For more information, see [Important Attributes report](/help/c-reports/c-person
 
 >[!NOTE]
 >
-The number of impressions recorded on the [!UICONTROL Offer Level] report might not be an exact integer multiple of the number of visits recorded in the [!UICONTROL Activity Level] report. This is due to minor discrepancies that occur in the capture of reporting data traffic over the internet (typical discrepancy rate is below 5%). Thus, the number of impression will not be an exact multiple when the number of locations available in the activity changed after the activity was activated.
+>The number of impressions recorded on the [!UICONTROL Offer Level] report might not be an exact integer multiple of the number of visits recorded in the [!UICONTROL Activity Level] report. This is due to minor discrepancies that occur in the capture of reporting data traffic over the internet (typical discrepancy rate is below 5%). Thus, the number of impression will not be an exact multiple when the number of locations available in the activity changed after the activity was activated.
