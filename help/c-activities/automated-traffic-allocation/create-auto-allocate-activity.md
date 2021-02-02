@@ -114,6 +114,10 @@ To create an [!UICONTROL Auto-Allocate] activity:
 
    ![A/B Activity Settings](/help/c-activities/t-test-ab/t-test-create-ab/assets/ab_settings-new.png)
 
+   >[!NOTE]
+   >
+   >If you want to use [Analytics for Target](/help/c-integrating-target-with-mac/a4t/a4t.md) (A4T) with this activity, see important information in [A4T support for Auto-Allocate and Auto-Target activities](/help/c-integrating-target-with-mac/a4t/a4t-at-aa.md).
+
 1. Click **[!UICONTROL Save & Close]** or **[!UICONTROL Save]**.
 
 After you create the activity, the [!UICONTROL Overview] tab shows information about the activity, including a diagram of your activity.
