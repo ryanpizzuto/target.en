@@ -29,10 +29,14 @@ To get started:
 
 1. Select **[!UICONTROL Adobe Analytics]** for your **[!UICONTROL Reporting Source]** on the **[!UICONTROL Goals & Settings]** page and select the report suite corresponding to your desired optimization goal.
 
+   ![Reporting Source section on Goals & Settings page](/help/c-integrating-target-with-mac/a4t/assets/a4t-select.png)
+
 1. Choose a Primary Goal metric.
 
    * Choose **[!UICONTROL Conversion]** to use [!DNL Adobe Target] to specify the optimization goal.
    * Choose **[!UICONTROL Use an Analytics metric]** and then select a metric from [!DNL Analytics] for use as the optimization goal. You can use an out-of-box [!DNL Analytics] conversion metric or an [!DNL Analytics] custom event.
+
+   See [Supported goal metrics](#supported) below for more information.
 
 1. Save and activate your activity.
 
@@ -44,7 +48,7 @@ To get started:
 
 1. Use the **[!UICONTROL Reports]** tab to view your activity’s reporting by your choice of [!DNL Adobe Analytics] metrics. Click **[!UICONTROL View in Analytics]** to dive deep and further segment your reporting data.
 
-## Supported goal metrics
+## Supported goal metrics {#supported}
 
 [!UICONTROL A4T] for [!UICONTROL Auto-Allocate] and [!UICONTROL Auto-Target] let you choose any of the following metric types as your primary goal metric for optimization:
 
