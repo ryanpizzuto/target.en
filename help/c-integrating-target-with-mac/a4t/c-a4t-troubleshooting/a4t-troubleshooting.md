@@ -1,7 +1,7 @@
 ---
 keywords: analytics tracking server;A4T;analytics segments;report suites;incorrect data;orphaned;sdid;VisitorAPI.js;mboxMCSDID;phantom;unspecified
 description: This topic covers some common issues that have been encountered when using Analytics as the reporting source for Target (A4T).
-title: Troubleshoot the Analytics and Target integration (A4T)
+title: Troubleshoot the Analytics And Target Integration (A4T)
 feature: Analytics for Target (A4T)
 ---
 

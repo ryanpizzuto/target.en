@@ -1,7 +1,7 @@
 ---
 keywords: recommendation key;recommendation logic;current category;custom attribute;last purchased item;last viewed item;most viewed item;most viewed item;favorite category;popularity;recently viewed item;last purchased;last viewed;most viewed;favorite;recently viewed
 description: Recommendations based on keys use visitor behavior context to show relevant results in Adobe Target Recommendations activities.
-title: Base the recommendation on a recommendation key
+title: Base the Recommendation on a Recommendation Key
 feature: Recommendations
 mini-toc-levels: 2
 ---

@@ -1,7 +1,7 @@
 ---
 keywords: inclusion rules;inclusion criteria;recommendations;promotion;promotions;dynamic filtering;dynamic;entity attribute matching
 description: Filter dynamically in Adobe Target Recommendations by comparing a pool of potential recommendations items to a specific item that the user has interacted with.
-title: Filter by Entity Attribute Matching in dynamic inclusion rules in Adobe Target Recommendations
+title: Filter by Entity Attribute Matching in Dynamic Inclusion Rules in Target Recommendations
 feature: Recommendations
 ---
 

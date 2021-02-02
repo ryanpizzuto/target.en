@@ -1,7 +1,7 @@
 ---
 keywords: security;security practices
 description: Information about the in-depth approach and security procedures implemented by Adobe to bolster the security of your data and Adobe Target experience.
-title: Target security overview
+title: Security Overview
 feature: Privacy & Security
 ---
 

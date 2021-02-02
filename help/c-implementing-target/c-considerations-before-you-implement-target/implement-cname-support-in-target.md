@@ -1,7 +1,7 @@
 ---
 keywords: client care;cname;certificate program;canonical name;cookies;certificate;amc;adobe managed certificate;digicert;domain control validation;dcv
 description: Information about working with Adobe Client Care to implement CNAME (Canonical Name) support in Adobe Target.
-title: CNAME and Adobe Target
+title: CNAME
 feature: Privacy & Security
 ---
 

@@ -1,8 +1,8 @@
 ---
 keywords: implementation;mbox.js;dom manipulation library;target.js;visual experience composer;iframe;angular sites;single page applications;single page app;SPA
 description: Information to help your technical staff understand the mbox.js implementation and how it might affect your site.
-title: What mbox.js does
-feature: 
+title: What mbox.js Does
+feature: at.js
 ---
 
 # What mbox.js does{#what-mbox-js-does}

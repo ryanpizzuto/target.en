@@ -1,7 +1,7 @@
 ---
 keywords: recommendations design;create design;copy design
 description: A design defines how recommendations appear on a page.
-title: Create a design
+title: Create a Design
 feature: Recommendations
 ---
 

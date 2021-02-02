@@ -1,7 +1,7 @@
 ---
 keywords: implement;implementing
 description: Considerations you should address before you implement Adobe Target.
-title: Before you implement
+title: Before You Implement
 feature: Implementation
 ---
 

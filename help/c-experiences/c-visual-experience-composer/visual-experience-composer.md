@@ -1,7 +1,7 @@
 ---
 keywords: visual experience composer;vec;wysiwyg
 description: Information about using the Visual Experience Composer (VEC) in Adobe Target.
-title: Adobe Target Visual Experience Composer (VEC)
+title: Visual Experience Composer (VEC)
 feature: Visual Experience Composer (VEC)
 ---
 

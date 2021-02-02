@@ -1,7 +1,7 @@
 ---
 keywords: Targeting;AP reports;automated personalization reports;activity level report;offer level report;offer detail report;faq
 description: How do I use the Automated Personalization Summary reports?
-title: Automated Personalization Summary reports
+title: Automated Personalization Summary Reports
 feature: Reports
 ---
 

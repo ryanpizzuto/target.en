@@ -1,7 +1,7 @@
 ---
 keywords: cookie;cookies;delete cookie;delete target cookie;google chrome;chrome;mozilla firefox;firefox;microsoft edge;safari
 description: Delete your Target browser cookies so that you can validate all of your experiences.
-title: Delete the Adobe Target cookie
+title: Delete the Target Cookie
 feature: Privacy & Security
 ---
 

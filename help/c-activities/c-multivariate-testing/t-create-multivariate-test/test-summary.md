@@ -1,7 +1,7 @@
 ---
 keywords: summary
 description: The test summary provides a visual overview of your Adobe Target Multivariate Test.
-title: Test summary
+title: Test Summary
 feature: Multivariate Tests
 ---
 

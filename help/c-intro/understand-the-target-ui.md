@@ -1,7 +1,7 @@
 ---
 keywords: target user interface;user interface;ui
-description: Understanding the Adobe Target user interface
-title: Understand the Target UI
+description: How do I use the user interface (UI)?
+title: Understand The User Interface
 feature: Overview
 ---
 

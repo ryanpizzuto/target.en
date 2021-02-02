@@ -1,7 +1,7 @@
 ---
 keywords: faq;frequently asked questions;analytics for target;a4T;metric;metric definitions
 description: This topic contains answers to questions that are frequently asked about metric definitions and using Analytics as the reporting source for Target (A4T).
-title: Metric definitions - A4T FAQ
+title: Metric Definitions - A4T FAQ
 feature: Analytics for Target (A4T)
 ---
 

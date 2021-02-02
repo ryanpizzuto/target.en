@@ -1,7 +1,7 @@
 ---
 keywords: mixed content;secure;insecure;chrome;troubleshooting;vec;visual experience composer;unsecure;http;https;firefox;internet explorer
 description: Some browsers block the display of a page if secure content is mixed with insecure content.
-title: Enabling mixed content in your browser
+title: Enabling Mixed Content in Your Browser
 feature: Visual Experience Composer (VEC)
 ---
 

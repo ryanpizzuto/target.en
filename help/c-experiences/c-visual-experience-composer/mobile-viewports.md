@@ -1,7 +1,7 @@
 ---
 keywords: responsive;mobile viewports;viewport;devices;mobile;responsive web design;rwd
 description: Mobile viewports help you preview how your Adobe Target activities appear on screens of various sizes.
-title: Mobile Viewports for responsive experiences
+title: Mobile Viewports for Responsive Experiences
 feature: Visual Experience Composer (VEC)
 ---
 

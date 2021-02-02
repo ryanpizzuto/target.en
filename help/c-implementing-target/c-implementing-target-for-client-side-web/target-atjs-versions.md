@@ -1,7 +1,7 @@
 ---
 keywords: at.js releases;at.js versions;release notes
 description: Details about changes in each version of Adobe Target at.js.
-title: at.js version details
+title: at.js Version Details
 feature: at.js
 ---
 

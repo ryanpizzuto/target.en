@@ -1,8 +1,8 @@
 ---
 keywords: mbox.js changes;mbox.js versions
 description: This page shows changes to each version of mbox.js.
-title: mbox.js version details
-feature: 
+title: mbox.js Version Details
+feature: at.js
 ---
 
 # mbox.js version details{#mbox-js-version-details}

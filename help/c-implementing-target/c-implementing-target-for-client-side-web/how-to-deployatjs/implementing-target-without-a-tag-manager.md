@@ -1,7 +1,7 @@
 ---
 keywords: implement target;implementation;implement at.js;tag manager
 description: Information about implementing Adobe Target without using a tag manager (Adobe Launch or Dynamic Tag Management).
-title: Implement Target without a tag manager
+title: Implement without a Tag Manager
 feature: Implement Server-side
 ---
 

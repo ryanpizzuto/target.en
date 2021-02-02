@@ -1,7 +1,7 @@
 ---
 keywords: IP address;IP addresses;whitelist;allowlist;firewall;recs;feed;servers;adobe marketing cloud;recommendations
 description: List of IP addresses used in Recommendations feed-processing servers located in the Oregon data center to help you configure your firewall to allow IP addresses originating from Adobe servers.
-title: IP addresses used by Recommendations feed-processing servers
+title: IP Addresses Used by Recommendations Feed-Processing Servers
 feature: Recommendations
 ---
 

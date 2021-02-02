@@ -1,7 +1,7 @@
 ---
 keywords: experience;json;aem;adobe experience manager;export to adobe target;experience fragments;fragments;XF
 description: How can I use AEM experience fragments in Target activities?
-title: Adobe Experience Manager (AEM) experience fragments in Adobe Target
+title: Adobe Experience Manager (AEM) Experience Fragments
 feature: Experiences and Offers
 ---
 

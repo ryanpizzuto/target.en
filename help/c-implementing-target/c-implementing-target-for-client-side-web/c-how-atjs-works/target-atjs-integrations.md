@@ -1,7 +1,7 @@
 ---
 keywords: at.js integration;supported integrations;unsupported integrations;third party integrations
 description: Information about common integrations with Target and their support status with at.js.
-title: at.js integrations
+title: at.js Integrations
 feature: at.js
 ---
 

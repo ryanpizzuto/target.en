@@ -1,8 +1,8 @@
 ---
 keywords: implementation;mbox;download mbox.js;download api;mbox.js api
 description: To use Adobe Target Standard or Target Premium, add one line of code to call mbox.js.
-title: mbox.js implementation
-feature: 
+title: mbox.js Implementation
+feature: at.js
 ---
 
 # mbox.js implementation

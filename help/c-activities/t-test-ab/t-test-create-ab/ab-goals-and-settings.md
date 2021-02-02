@@ -1,7 +1,7 @@
 ---
 keywords: activity settings;A/B goals and settings;reporting settings;goal metrics;success metrics;dependent success metrics;advanced settings;primary goal;additional metrics;objective;priority;duration;reporting solution;goal;audiences for reporting;Which success metric must be reached before incrementing this metric;What will happen after a user encounters this goal metric;notes
 description: The Goals and Settings page in Adobe Target is where you enter information about the goals of the test.
-title: Goals and settings
+title: Goals and Settings
 feature: A/B Tests
 ---
 

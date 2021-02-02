@@ -1,8 +1,8 @@
 ---
 keywords: Implementation;mbox.js non javascript;redirector;costs per click;revenue per click
 description: Use a Redirector similarly to how you use an mbox in your tests.
-title: Work with redirectors
-feature: email implementation
+title: Work with Redirectors
+feature: Implement Email
 ---
 
 # Work with redirectors{#work-with-redirectors}

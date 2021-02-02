@@ -1,7 +1,7 @@
 ---
 keywords: Click tracking;track clicks;clicks;AppMeasurement
 description: Adobe Target lets you track clicks on any element as a success metric.
-title: Click tracking
+title: Click Tracking
 feature: Success Metrics
 ---
 

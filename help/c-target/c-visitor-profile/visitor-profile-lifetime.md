@@ -1,8 +1,8 @@
 ---
 keywords: Overview and Reference
 description: By default, visitor profiles are stored for 14 days. This profile lifetime can be extended.
-title: Visitor profile lifetime
-feature: visitor profiles
+title: Visitor Profile Lifetime
+feature: Audiences
 ---
 
 # Visitor profile lifetime{#visitor-profile-lifetime}

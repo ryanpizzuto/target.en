@@ -1,8 +1,8 @@
 ---
 keywords: Targeting;traffic sources;target traffic sources;target search engine;search engine;landing page;target landing page;referring landing page
 description: Create audiences in Adobe Target to target visitors based on the search engine or landing page that refers them to your site.
-title: Traffic Sources options in Adobe Target audiences
-feature: audiences
+title: Traffic Sources Options in Audiences
+feature: Audiences
 ---
 
 # Traffic Sources{#traffic-sources}

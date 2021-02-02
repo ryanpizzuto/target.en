@@ -1,8 +1,8 @@
 ---
 keywords: Targeting;target library;library
 description: Target users based on pre-built targeting rules.
-title: Target library options in Adobe Target audiences
-feature: audiences
+title: Target Library Options in Audiences
+feature: Audiences
 ---
 
 # Target Library{#target-library}

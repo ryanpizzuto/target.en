@@ -1,8 +1,8 @@
 ---
 keywords: troubleshooting;frequently asked questions;FAQ;FAQs;targets;audiences
 description: List of frequently asked questions (FAQs) about experience targeting and audiences.
-title: Targets and audiences FAQ
-feature: audiences
+title: Targets and Audiences FAQ
+feature: Audiences
 ---
 
 # Targets and audiences FAQ{#targets-and-audiences-faq}

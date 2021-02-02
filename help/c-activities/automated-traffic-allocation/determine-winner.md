@@ -1,8 +1,8 @@
 ---
 keywords: automated traffic allocation;targeting;winner;statistical guarantee;confidence;determine winner;lift;confidence;default;default experience;auto-allocate;auto allocate
 description: Interpret the results of an Auto-Allocate A/B activity in Adobe Target by examining important indicators, including lift and confidence.
-title: Interpret Auto-Allocate reports
-feature: Auto-Allocate 
+title: Interpret Auto-Allocate Reports
+feature: Auto-Allocate
 ---
 
 # Interpret Auto-Allocate reports {#determine-a-winner}

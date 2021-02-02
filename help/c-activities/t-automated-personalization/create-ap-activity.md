@@ -1,7 +1,7 @@
 ---
 keywords: automated personalization;ap;audiences;ensemble;random forest;residual variance;error variance;lifetime value
 description: The Automated Personalization activity workflow in Adobe Target varies from the workflow of the other activity types.
-title: Create an Automated Personalization activity
+title: Create an Automated Personalization Activity
 feature: Automated Personalization
 ---
 

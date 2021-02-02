@@ -1,7 +1,7 @@
 ---
 keywords: content;update content;assets;upload content;upload asset
 description: How do I upload images to use as image offers?
-title: Upload content
+title: Upload Content
 feature: Experiences and Offers
 ---
 

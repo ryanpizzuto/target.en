@@ -1,7 +1,7 @@
 ---
 keywords: Recommendations;Recommendations criteria;recommendations algorithms;recommendations activity;criteria;recommendations targeting;recs
 description: Recommendations activities in Adobe Target automatically display products or content that might interest your customers based on previous user activity or other algorithms. Recommendations help direct customers to relevant items they might otherwise not know about.
-title: Adobe Target Recommendations
+title: Target Recommendations
 feature: Recommendations
 ---
 

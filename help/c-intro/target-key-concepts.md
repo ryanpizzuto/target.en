@@ -1,7 +1,7 @@
 ---
 keywords: Overview and Reference;act
-description: Information about key concepts that will help you understand the features and capabilities of Adobe Target.
-title: Target key concepts
+description: How do I understand and use Target?
+title: Key Concepts
 feature: Overview
 ---
 

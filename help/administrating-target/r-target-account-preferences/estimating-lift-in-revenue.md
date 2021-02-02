@@ -1,7 +1,7 @@
 ---
 keywords: revenue lift;revenue;estimating lift in revenue;calculate lift;estimated value
 description: Use Adobe Target to estimate the revenue lift you would attain if all users view the winning experience.
-title: Estimate lift in revenue
+title: Estimate Lift in Revenue
 feature: Administration & Configuration
 ---
 

@@ -1,7 +1,7 @@
 ---
 keywords: recommendation;backup;back up
 description: If you use the backup recommendation feature in Adobe Target, any recommendation that does not have enough recommended items will not display default content. Instead, recommendations display the results of the backup algorithm.
-title: Use a backup recommendation in Adobe Target Recommendations
+title: Use a Backup Recommendation in Target Recommendations
 feature: Recommendations
 ---
 

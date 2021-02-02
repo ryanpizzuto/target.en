@@ -1,7 +1,7 @@
 ---
 keywords: experience cloud;device co-op;device co op;analytics;audience manager;aam;media optimizer;device graph
 description: Information about the Adobe Experience Cloud Device Co-op, a program that lets participants work together to better identify consumers across digital touch points while ensuring the highest level of privacy and transparency.
-title: Experience Cloud Device Co-op
+title: Experience Cloud Device Co-Op
 feature: Integrations
 ---
 

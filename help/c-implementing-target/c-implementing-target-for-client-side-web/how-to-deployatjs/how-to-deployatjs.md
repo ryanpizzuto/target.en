@@ -1,7 +1,7 @@
 ---
 keywords: implement;at.js;javascript library
 description: Information about how to deploy the Adobe Target JavaScript library, at.js, using Adobe Launch, without a tag manager, or using Adobe Dynamic Tag Management (DTM).
-title: How to deploy at.js
+title: How to Deploy at.js
 feature: Implement Server-side
 ---
 

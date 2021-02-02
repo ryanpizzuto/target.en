@@ -1,7 +1,7 @@
 ---
 keywords: multiple audiences;experience versions;target experience versions
 description: You can target versions of the same experience to different audiences in Adobe Target A/B activities. You can set up multiple audiences for an experience in the Visual Experience Composer or in the Form-Based Experience Composer.
-title: Multiple experience versions in an A/B Test
+title: Multiple Experience Versions in an A/B Test
 feature: A/B Tests
 ---
 

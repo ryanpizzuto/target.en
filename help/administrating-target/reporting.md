@@ -1,7 +1,7 @@
 ---
 keywords: report;reports;reporting;experience cloud solution;timezone;time zone;currency;exclude IPs;estimated lift in revenue;revenue;lift in revenue;fine-grained priorities;fine-grained
 description: Configure general settings to use in Adobe Target reporting that apply to your entire Target account. You can configure the Adobe Experience Cloud solution to use for reporting (Target or Analytics), the time zone and currency format to use for reporting, IP addresses to exclude from reporting, and whether to show the estimated lift in revenue and fine-grained priorities in reporting.
-title: Configure reporting in Adobe Target
+title: Configure Reporting
 feature: Administration & Configuration
 ---
 

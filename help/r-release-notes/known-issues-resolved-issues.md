@@ -1,8 +1,8 @@
 ---
 keywords: known issues;resolved issues;release notes;bugs;issues;fixes
-description: Information about known issues for this release of Adobe Target. Also includes information about issues that have been resolved.
-title: Known issues and resolved issues in Adobe Target
-feature: known issues
+description: Where can I find known issues and resolved issues?
+title: Known Issues and Resolved Issues
+feature: Release Notes
 ---
 
 # Known issues and resolved issues

@@ -1,8 +1,8 @@
 ---
 keywords: visitor profile;target visitor profile
 description: Create audiences in Adobe Target to target visitors who meet specific profile parameters.
-title: Visitor Profile options in Adobe Target audiences
-feature: audiences
+title: Visitor Profile Options in Audiences
+feature: Audiences
 ---
 
 # Visitor Profile{#visitor-profile}

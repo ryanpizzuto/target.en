@@ -1,7 +1,7 @@
 ---
 keywords: reports;auto-target;auto target;AT;report
 description: Information about how to interpret the Auto-Target Summary report in Adobe Target.
-title: Auto-Target Summary report
+title: Auto-Target Summary Report
 feature: Reports
 ---
 

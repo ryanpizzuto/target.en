@@ -1,8 +1,8 @@
 ---
 keywords: activity change log;change log
 description: The change log provides a record of who changed your activities and when the changes occurred.
-title: Activity Change Log in Adobe Target
-feature: activities
+title: Activity Change Log
+feature: Activities
 ---
 
 # Activity change log

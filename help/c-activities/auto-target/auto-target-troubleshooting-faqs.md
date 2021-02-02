@@ -1,7 +1,7 @@
 ---
 keywords: auto-target;targeting;traffic allocation;frequently asked questions;faq;troubleshooting;trouble shooting;traffic
 description: Troubleshooting and Frequently Asked Questions about Auto-Target in Adobe Target.
-title: Auto-Target troubleshooting and FAQs
+title: Auto-Target Troubleshooting and FAQs
 feature: Auto-Target
 ---
 

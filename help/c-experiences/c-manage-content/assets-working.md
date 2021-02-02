@@ -1,7 +1,7 @@
 ---
 keywords: content library;assets;annotate;copy;delete asset;download asset;edit content;share card;view content properties
 description: How do I work with assets in the Content library
-title: Work with content in the library
+title: Work with Content in the Library
 feature: Experiences and Offers
 ---
 
