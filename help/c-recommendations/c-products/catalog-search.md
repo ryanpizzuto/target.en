@@ -1,7 +1,7 @@
 ---
 keywords: catalog search;catalog;search;exclusion;collection;filter
 description: Learn how to use the Recommendations Catalog Search to locate products or content, create collections or exclusions, remove items from your catalog, and more.
-title: How to use the Recommendations Catalog Search
+title: How to Use the Recommendations Catalog Search
 feature: Recommendations
 ---
 

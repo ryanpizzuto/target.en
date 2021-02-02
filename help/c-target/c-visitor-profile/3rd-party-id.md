@@ -1,8 +1,8 @@
 ---
 keywords: mbox;mbox3rdPartyId;profile syncing;profile synch;PCID
-description: Information about real-time profile 
-title: Real-time profile syncing for mbox3rdPartyId in Adobe Target
-feature: visitor profiles
+description: Information about real-time profile
+title: Real-Time Profile Syncing for Mbox3Rdpartyid
+feature: Audiences
 ---
 
 # Real-time profile syncing for mbox3rdPartyId{#real-time-profile-syncing-for-mbox-rdpartyid}

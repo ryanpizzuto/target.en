@@ -1,7 +1,7 @@
 ---
 keywords: Targeting
 description: The conversion rate, lift, confidence (statistical significance) and confidence interval are reported for each experience.
-title: Conversion rate
+title: Conversion Rate
 feature: Reports
 ---
 

@@ -1,8 +1,8 @@
 ---
 keywords: offer;prefetch;iOS;android;sdk;mobile;mobile sdk
 description: The Adobe Target prefetch feature uses the iOS and Android Mobile SDKs to fetch offer content as few times as possible by caching the server responses.
-title: Prefetch offer content
-feature: mobile implementation
+title: Prefetch Offer Content
+feature: Implement Mobile
 ---
 
 # Prefetch offer content{#prefetch-offer-content}

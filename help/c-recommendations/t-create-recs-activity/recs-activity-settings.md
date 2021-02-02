@@ -1,7 +1,7 @@
 ---
 keywords: Recommendations;Settings;name;objective;priority;duration;reporting settings;other metadata
 description: Several settings can be used to describe and control a Recommendations activity in Adobe Target.
-title: Recommendations Activity settings in Adobe Target
+title: Recommendations Activity Settings
 feature: Recommendations
 ---
 

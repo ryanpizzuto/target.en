@@ -1,7 +1,7 @@
 ---
 keywords: at.js;debug at.js;adobe Experience Cloud debugger;experience cloud debugger;mbox trace;mbox highlight;debug;debugging
 description: Information about using the Adobe Experience Cloud Debugger extension, which makes it fast and easy to understand your Target implementation.
-title: Debug at.js using the Adobe Experience Cloud Debugger
+title: Debug At.Js Using the Adobe Experience Cloud Debugger
 feature: at.js
 ---
 

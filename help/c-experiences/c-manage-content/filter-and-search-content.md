@@ -1,7 +1,7 @@
 ---
 keywords: content library;assets;search;filter
 description: How do I search for assets by keywords?
-title: Search content
+title: Search Content
 feature: Experiences and Offers
 ---
 

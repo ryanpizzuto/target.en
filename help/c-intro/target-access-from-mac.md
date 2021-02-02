@@ -1,7 +1,7 @@
 ---
 keywords: Experience Cloud;sign in;language;default ui language;default language
-description: Instructions to access Adobe Target from the Adobe Experience Cloud.
-title: Access Target from the Adobe Experience Cloud
+description: How do I access Target from the Adobe Experience Cloud?
+title: Access Target From the Adobe Experience Cloud
 feature: Overview
 ---
 

@@ -1,7 +1,7 @@
 ---
 keywords: traffic estimator;automated personalization;ap;estimate traffic
 description: The Traffic Estimator provides feedback that lets you know whether you have sufficient traffic for your Adobe Target activity to succeed.
-title: Estimate the traffic required for success
+title: Estimate the Traffic Required for Success
 feature: Automated Personalization
 ---
 

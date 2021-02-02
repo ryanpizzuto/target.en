@@ -1,6 +1,6 @@
 ---
 description: The way Target makes and responds to calls from your page depends on the version of the Target library you are using, whether the Experience Cloud Visitor ID implementation is present, and whether the visitor ID exists.
-title: Target page methods by mbox.js library version
+title: Page Methods by mbox.js Library Version
 feature: at.js
 ---
 

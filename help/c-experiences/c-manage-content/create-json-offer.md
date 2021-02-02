@@ -1,7 +1,7 @@
 ---
 keywords: remote offer;create remote offer
 description: How do I create JSON offers?
-title: Create JSON offers
+title: Create JSON Offers
 feature: Experiences and Offers
 ---
 

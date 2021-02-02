@@ -1,7 +1,7 @@
 ---
 keywords: creating custom criteria;algorithms;criteria;recommendations criteria;csv;ftp;upload csv
 description: Upload a CSV file to customize your recommendations.
-title: Upload custom criteria
+title: Upload Custom Criteria
 feature: Recommendations
 ---
 

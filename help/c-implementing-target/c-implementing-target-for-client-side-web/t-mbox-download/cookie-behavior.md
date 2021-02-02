@@ -1,8 +1,8 @@
 ---
 keywords: Overview and Reference;webkit
 description: The cookie behavior depends on whether it is a first-party cookie, a third-party cookie with a first-party cookie, or a third-party cookie alone.
-title: mbox.js cookies
-feature: 
+title: mbox.js Cookies
+feature: at.js
 ---
 
 # mbox.js cookies{#mbox-js-cookies}

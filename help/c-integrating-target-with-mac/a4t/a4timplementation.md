@@ -1,7 +1,7 @@
 ---
 keywords: A4T;Adobe Analytics;Analytics-based activity;Analytics report suite;report suite;Analytics Target integration;configure report suite
 description: Several steps are required when implementing Adobe Analytics as the reporting source for Target (A4T).
-title: Analytics for Target implementation
+title: Analytics for Target Implementation
 feature: Analytics for Target (A4T)
 ---
 

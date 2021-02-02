@@ -1,7 +1,7 @@
 ---
 keywords: at.js faq;at.js frequently asked questions;faq;flicker;loader;page loader;cross domain;file size;filesize;x-domain;at.js and mbox.js;x only;cross domain;safari;single page app;missing selectors;selectors;single page application;tt.omtrdc.net;spa;Adobe Experience Manager;AEM;ip address;httponly;HttpOnly;secure;ip;cookie domain
 description: Answers to frequently asked questions about the Adobe Target at.js JavaScript library.
-title: Adobe Target at.js Frequently Asked Questions
+title: at.js Frequently Asked Questions
 feature: at.js
 ---
 

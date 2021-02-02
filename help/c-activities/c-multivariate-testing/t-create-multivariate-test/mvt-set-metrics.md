@@ -1,7 +1,7 @@
 ---
 keywords: multivariate;mvt;metrics;set metrics;goal metric;activity settings;success metric;conversion;revenue;engagement
 description: Use metrics in an Adobe Target Multivariate Test to determine when a visit is successful.
-title: Set metrics
+title: Set Metrics
 feature: Multivariate Tests
 ---
 

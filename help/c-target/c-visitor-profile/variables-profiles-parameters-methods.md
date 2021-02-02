@@ -1,8 +1,8 @@
 ---
 keywords: variables;profiles;parameters;built in profiles;methods;url variables;geo profiles;third party profiles;mbox variables;campaign variables;customer attributes
 description: This page lists profiles, variables, and parameters that are useful in profile scripts.
-title: Profile and variable glossary
-feature: visitor profiles
+title: Profile and Variable Glossary
+feature: Audiences
 ---
 
 # Profile and variable glossary{#profile-and-variable-glossary}

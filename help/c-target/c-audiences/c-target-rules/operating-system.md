@@ -1,8 +1,8 @@
 ---
 keywords: Targeting;target operating system;operating system;target os;os;target linux;linux;target windows;windows;target macintosh;macintosh;mac;target mac;win;target win
 description: You can target visitors who use a certain operating system.
-title: Operating System options in Adobe Target audiences
-feature: audiences
+title: Operating System Options in Audiences
+feature: Audiences
 ---
 
 # Operating System{#operating-system}

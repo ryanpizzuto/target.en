@@ -1,8 +1,8 @@
 ---
 keywords: mbox functions
 description: List of mbox.js functions to use when implementing with mbox.js.
-title: mbox.js functions
-feature: 
+title: mbox.js Functions
+feature: at.js
 ---
 
 # mbox.js functions{#mbox-js-functions}

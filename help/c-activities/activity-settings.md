@@ -1,7 +1,7 @@
 ---
 keywords: Goal & Settings;objective;priority;duration
 description: Use Activity Settings in Adobe Target to manage the objective, priority, and duration of your activities.
-title: Activity settings
+title: Activity Settings
 feature: Activities
 ---
 

@@ -1,7 +1,7 @@
 ---
 keywords: dedupe;allow duplicates;exclude duplicate offers;automated personalization;disallow duplicate offers;exclude;default content;exclusion group;
 description: Manage exclusions by creating exclusion groups, excluding duplicate offers, excluding specific experiences, and excluding default content in Adobe Target Automated Personalization (AP) activities.
-title: Manage exclusions
+title: Manage Exclusions
 feature: Automated Personalization
 solution: Target,Analytics
 ---

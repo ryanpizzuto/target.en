@@ -1,7 +1,7 @@
 ---
 keywords: a4t;A4T;Analytics as the reporting source for Target
 description: Can I use A4T with Auto-Target and Auto-Allocate activities?
-title: A4T support for Auto-Allocate and Auto-Target activities
+title: A4T Support for Auto-Allocate and Auto-Target Activities
 feature: Analytics for Target (A4T)
 ---
 

@@ -1,7 +1,7 @@
 ---
 keywords: targetPageParams;targetpageparams;pageParams;pageparams;page params;page parameters;at.js;functions;function
 description: Information about the targetPageParams() function for the Adobe Target at.js JavaScript library.
-title: targetPageParams()
+title: Targetpageparams()
 feature: at.js
 ---
 

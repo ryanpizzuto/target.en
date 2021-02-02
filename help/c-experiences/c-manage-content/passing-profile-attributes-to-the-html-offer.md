@@ -1,7 +1,7 @@
 ---
 keywords: dynamic data;assets;data;offers;personalized offers;personal offers;token replace
 description: How can I pass profile values and activity information directly in an HTML or JSON offer?
-title: Pass dynamic data into offers
+title: Pass Dynamic Data into Offers
 feature: Experiences and Offers
 ---
 

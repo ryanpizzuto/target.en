@@ -1,8 +1,8 @@
 ---
 keywords: targeting;mobile;target mobile;deviceatlas;iphone;iphone models;device atlas;displaywidth;display width;display height;type of device;displayheight;phone;tablet;device model
 description: Create audiences to in Adobe Target to target mobile devices based on parameters such as mobile device, type of device, device vendor, screen dimensions (by pixels), and more.
-title: Mobile options in Adobe Target audiences
-feature: audiences
+title: Mobile Options in Audiences
+feature: Audiences
 ---
 
 # Mobile{#mobile}

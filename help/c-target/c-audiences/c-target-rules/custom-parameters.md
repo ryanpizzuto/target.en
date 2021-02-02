@@ -1,8 +1,8 @@
 ---
 keywords: custom parameters;target custom parameters;targetpageparams;targeting mbox parameters
 description: Custom parameters are mbox parameters. If you pass any mbox parameters to mboxes, or use the targetPageParams function, those parameters appear here for use in audiences.
-title: Custom parameters in Adobe Target
-feature: audiences
+title: Custom Parameters
+feature: Audiences
 ---
 
 # Custom parameters{#custom-parameters}

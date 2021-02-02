@@ -1,6 +1,6 @@
 ---
 description: Definitions of terms.
-title: Adobe Target Glossary
+title: Glossary
 feature: Overview
 ---
 

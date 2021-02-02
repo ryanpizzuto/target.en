@@ -1,7 +1,7 @@
 ---
 keywords: mvt;multivariate test;location contribution report
 description: The Location Contribution report shows the performance of each element and each offer.
-title: Location Contribution report (MVT)
+title: Location Contribution Report (MVT)
 feature: Reports
 ---
 

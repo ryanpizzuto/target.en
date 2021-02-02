@@ -1,7 +1,7 @@
 ---
 keywords: faq;frequently asked questions;analytics for target;a4T;redirect;redirect offer;adobe-mc-sdid;adobe_mc_ref
 description: This topic contains answers to questions that are frequently asked about using redirect offers when using Analytics as the reporting source for Target (A4T).
-title: Redirect offers - A4T FAQ
+title: Redirect Offers - A4T FAQ
 feature: Analytics for Target (A4T)
 ---
 

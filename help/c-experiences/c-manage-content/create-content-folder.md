@@ -1,7 +1,7 @@
 ---
 keywords: content;create folder;assets;move folder;copy folder;delete folder;download folder;folder
 description: How do I create folders in the Offers library?
-title: Create offer folder
+title: Create Offer Folder
 feature: Experiences and Offers
 ---
 

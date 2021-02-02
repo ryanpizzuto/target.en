@@ -1,7 +1,7 @@
 ---
 keywords: implement;implementing;rfi;request for information
 description: There are tasks you should complete and information you should gather when preparing to implement Adobe Target.
-title: Prepare to implement Adobe Target
+title: Prepare to Implement
 feature: Implementation
 ---
 

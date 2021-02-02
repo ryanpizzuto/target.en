@@ -1,8 +1,8 @@
 ---
 keywords: mobile app;mobile app process;target mobile app;mobile target locations;mobile app success metrics
 description: Target can be used for mobile app optimization and personalization
-title: Target for mobile apps
-feature: mobile implementation
+title: Target for Mobile Apps
+feature: Implement Mobile
 ---
 
 # Target for mobile apps{#target-for-mobile-apps}

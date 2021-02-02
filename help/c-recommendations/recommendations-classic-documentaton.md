@@ -1,7 +1,7 @@
 ---
 keywords: recommendations Classic
 description: Adobe Recommendations Classic documentation.
-title: Adobe Recommendations Classic documentation.
+title: Adobe Recommendations Classic Documentation
 feature: Recommendations
 ---
 

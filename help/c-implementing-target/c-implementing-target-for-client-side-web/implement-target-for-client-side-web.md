@@ -1,7 +1,7 @@
 ---
 keywords: implement;implementation;at.js;adobe experience platform web sdk;aep web sdk
 description: Information about implementing Adobe Target for client-side web using at.js.
-title: Implement Adobe Target for client-side web
+title: Implement Adobe Target for Client-Side Web
 feature: at.js
 ---
 

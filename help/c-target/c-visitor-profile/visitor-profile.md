@@ -1,8 +1,8 @@
 ---
 keywords: Overview and Reference
 description: Visitor profiles contain information about how your visitors use your pages and other optimized content locations
-title: Visitor profiles
-feature: visitor profiles 
+title: Visitor Profiles
+feature: Audiences
 ---
 
 # Visitor profiles{#visitor-profiles}

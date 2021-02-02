@@ -1,7 +1,7 @@
 ---
-keywords: faq;frequently asked questions;analytics for target;a4T;report;reports;view reports;reporting;counting methodology;impressions;visitors;visits;default metric;activity conversions;unspecified 
+keywords: faq;frequently asked questions;analytics for target;a4T;report;reports;view reports;reporting;counting methodology;impressions;visitors;visits;default metric;activity conversions;unspecified
 description: This topic contains answers to questions that are frequently asked about viewing reports when using Analytics as the reporting source for Target (A4T).
-title: View reports - A4T FAQ
+title: View Reports - A4T FAQ
 feature: Analytics for Target (A4T)
 ---
 

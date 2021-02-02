@@ -1,7 +1,7 @@
 ---
 keywords: Release notes;new features;releases;updates;update;release;enhancement;enhancements;fixes;bug fixes;updates
-description: These release notes provide information about features, enhancements, fixes, and known issues for each Adobe Target Standard and Target Premium release.
-title: Adobe Target release notes (current) 
+description: What new features are included the current release?
+title: Release Notes (Current)
 feature: Release Notes
 ---
 
