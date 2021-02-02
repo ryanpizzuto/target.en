@@ -65,3 +65,6 @@ Creating a [!DNL Target] activity that uses [!DNL Analytics] as the reporting so
 
 1. Click **[!UICONTROL Save]**.
 
+## A4T and Auto-Allocate and Auto-Target activities
+
+For more information, see [A4T support for Auto-Allocate and Auto-Target activities](/help/c-integrating-target-with-mac/a4t/a4t-at-aa.md).

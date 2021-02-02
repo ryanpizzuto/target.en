@@ -23,6 +23,8 @@ To get started:
    * [!UICONTROL Auto-allocate to best experience]
    * [!UICONTROL Auto-target for personalized experiences]
 
+   ![Traffic Allocation Methods options: Manual, Auto-Allocate, and Auto-Target](/help/c-integrating-target-with-mac/a4t/assets/traffic-allocation-methods.png)
+
    For more information and step-by-step instructions, see [Create an Auto-Allocate activity](/help/c-activities/automated-traffic-allocation/create-auto-allocate-activity.md) and [Create an Auto-Target activity](/help/c-activities/auto-target/create-auto-target.md).
 
 1. Select **[!UICONTROL Adobe Analytics]** for your **[!UICONTROL Reporting Source]** on the **[!UICONTROL Goals & Settings]** page and select the report suite corresponding to your desired optimization goal.
