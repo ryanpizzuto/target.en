@@ -2,7 +2,6 @@
 keywords: Target;home;popular topics;adobe target;standard;premium;target documentation;adobe target documentation
 title: Where can I find Target documentation?
 description: Learn how to use Adobe Target to personalize your customers' experience to maximize revenue on your web and mobile sites, apps, and other digital channels.
-seo-description: Adobe Target is the Adobe Experience Cloud solution that provides everything you need to tailor and personalize your customers' experience so you can maximize revenue on your web and mobile sites, apps, social media, and other digital channels.
 feature: Overview
 ---
 
