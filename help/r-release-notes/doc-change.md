@@ -14,6 +14,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 |Date|Topic|Changes|
 | --- | --- | --- |
 |February 8|[Target mobile preview](/help/c-target-mobile-app/target-mobile-preview.md)|Added the code snippet you should add to the AndroidManifest.xml file for version 4 of the Adobe Mobile SDK.|
+||[Known issues and resolved issues](/help/r-release-notes/known-issues-resolved-issues.md)|Clarified the following known issue:<ul><li>Collections, exclusions, criteria, and designs created via API are not visible in the Target user interface and can be edited only via API. Likewise, if you create any of these items in the Target UI and later edit them via API, those changes will not be reflected in the Target UI. Items edited via API should continue to be edited via API to avoid loss of any modifications.</li></ul>|
 |February 1|[Automated Personalization Summary reports](/help/c-reports/reports-ap.md)|Added new section: "Frequently Asked Questions."|
 |January 27|[Create redirect offers](/help/c-experiences/c-manage-content/offer-redirect.md)|Updated topic.|
 ||[Create remote offers](/help/c-experiences/c-manage-content/about-remote-offers.md)|Updated topic.|
