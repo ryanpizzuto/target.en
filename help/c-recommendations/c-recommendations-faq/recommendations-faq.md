@@ -1,7 +1,7 @@
 ---
 keywords: troubleshooting;frequently asked questions;FAQ;FAQs;recommendations;special characters;attribute weighting;content similarity
-description: List of frequently asked questions (FAQs) about Adobe Target Recommendations activities.
-title: Target Recommendations FAQ
+description: View a list of frequently asked questions and answers about Adobe Target Recommendations activities.
+title: Where Can I find Questions and Answers about Target Recommendations?
 feature: Recommendations
 ---
 

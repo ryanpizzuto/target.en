@@ -1,7 +1,7 @@
 ---
 keywords: Targeting;audience filter;audiences;filter
-description: Audience filters in Adobe Target (or audiences) are groups of visitors who share a specific characteristic or set of characteristics.
-title: Audience Filters for Reporting
+description: Learn how to use audience filters in Adobe Target to view data from groups of visitors who share a specific characteristic or set of characteristics.
+title: Can I Use Audience Filters for Reporting?
 feature: Audiences
 ---
 

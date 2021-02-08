@@ -1,7 +1,7 @@
 ---
 keywords: promotions;front promotions;back promotions;promotions type;list of items;promote by attribute;promote a collection
-description: Add promoted items and control their placement in your Adobe Target Recommendations designs. You can add static and dynamic promotions.
-title: Add Promotions in Target Recommendations Designs
+description: Learn how to add promoted items and control their placement in your Adobe Target Recommendations designs. You can add static and dynamic promotions.
+title: How Do I Add Promotions in Recommendations Designs?
 feature: Recommendations
 ---
 

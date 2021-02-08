@@ -1,8 +1,9 @@
 ---
 keywords: mbox.js changes;mbox.js versions
-description: This page shows changes to each version of mbox.js.
-title: mbox.js Version Details
+description: Learn about the legacy mbox.js implementation of Adobe Target. Migrate to the Adobe Experience Platform Web SDK (AEP Web SDK) or to the latest version of at.js.
+title: What is Included in Each Version of mbox.js?
 feature: at.js
+role: Developer
 ---
 
 # mbox.js version details{#mbox-js-version-details}

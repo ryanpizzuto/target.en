@@ -1,7 +1,7 @@
 ---
 keywords: Targeting;experience;add experience;experience add
-description: The Adobe Target Visual Experience Composer (VEC) in Adobe Target provides a visual interface for editing the experiences on your page.
-title: Add Experience
+description: Learn how to use the Visual Experience Composer (VEC) in Adobe Target. The VEC provides a visual interface for adding and editing experiences on your page.
+title: How Do I Add Experiences in a Target A/B Activity?
 feature: A/B Tests
 ---
 

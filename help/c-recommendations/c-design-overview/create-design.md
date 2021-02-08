@@ -1,7 +1,7 @@
 ---
 keywords: recommendations design;create design;copy design
-description: A design defines how recommendations appear on a page.
-title: Create a Design
+description: Learn how to create an Adobe Target Recommendations design using a default design or by creating a custom design to best fit the layout of your page.
+title: How Do I Create a Design in Recommendations?
 feature: Recommendations
 ---
 

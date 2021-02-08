@@ -1,7 +1,7 @@
 ---
 keywords: audience;audience rules;create audience;creating audience
-description: You can create customized audiences and save them to the Target library for use in your activities. You can copy an existing audience that you can then edit to create a similar audience and combine multiple audiences.
-title: Build Audiences
+description: Learn how to create customized audiences and save them to the Adobe Target Audiences library for use in your activities.
+title: How Do I Build Audiences?
 feature: Audiences
 ---
 

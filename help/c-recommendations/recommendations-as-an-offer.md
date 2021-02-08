@@ -1,7 +1,7 @@
 ---
 keywords: Recommendations;offer
-description: Adobe Recommendations as an offer in A/B Tests (including Auto-Allocate and Auto-Target) and Experience Targeting (XT) activities
-title: Recommendations as an Offer in A/B Tests (Including Auto-Allocate and Auto-Target) and Experience Targeting (XT) Activities
+description: Learn how to use Adobe Recommendations as an offer in A/B Tests (including Auto-Allocate and Auto-Target) and Experience Targeting (XT) activities.
+title: How Do I Use Recommendations as an Offer in Other Activity Types?
 feature: Recommendations
 ---
 

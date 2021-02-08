@@ -1,7 +1,7 @@
 ---
 keywords: multi-page;journey testing;multipage activity
-description: A multipage activity in Adobe Target lets you create a story over multiple pages, with a design that is specific to each page.
-title: Multipage Activity
+description: Learn how to create a multipage activity in Adobe Target lets you create a story over multiple pages, with a design that is specific to each page.
+title: How Do I Create a Multipage Activity?
 feature: Visual Experience Composer (VEC)
 ---
 

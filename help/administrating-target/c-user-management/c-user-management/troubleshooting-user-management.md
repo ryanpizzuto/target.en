@@ -1,8 +1,9 @@
 ---
 keywords: troubleshoot target;troubleshooting target;users;user management
 description: Troubleshooting information about managing users in Adobe Target.
-title: Troubleshoot User Management
+title: How Can I Troubleshoot Problems with User Management?
 feature: Administration & Configuration
+role: Administrator
 ---
 
 # Troubleshoot user management{#troubleshoot-user-management}

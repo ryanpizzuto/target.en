@@ -1,7 +1,7 @@
 ---
 keywords: experience;control;automated personalization;auto-target
-description: Select an experience to be used as control while creating an Automated Personalization (AP) or Auto-Target activity in Adobe Target.
-title: Use a Specific Experience as Control
+description: Learn how to select an experience to be used as control while creating an Automated Personalization (AP) or Auto-Target activity in Adobe Target.
+title: How Can I Use a Specific Experience as Control in an AP Activity?
 feature: Automated Personalization
 solution: Target,Analytics
 ---

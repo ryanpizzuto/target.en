@@ -1,7 +1,7 @@
 ---
 keywords: site pages;target site pages;targeting;current page;target current page;previous page;target previous page;landing page;target landing page;http header
-description: You can target visitors who are on a specific page on your site.
-title: Site Pages Options in Audiences
+description: Learn how to target visitors using Adobe Target who are on a specific page on your site.
+title: Can I Target Visitors Based on Site Pages?
 feature: Audiences
 ---
 

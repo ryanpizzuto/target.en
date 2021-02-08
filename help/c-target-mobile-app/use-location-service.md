@@ -1,8 +1,9 @@
 ---
 keywords: mobile app;mobile app location;target mobile app;mobile target locations;location service;adobe experience cloud location service;pois;points of interest;sdk;location
-description: This topic is an overview of how to use Adobe Experience Platform Location Service in Adobe Target.
-title: Use Location Service
+description: Learn how to use the Adobe Experience Platform Location Service to enable your mobile apps with location awareness.
+title: How do I Use the Adobe Location Service?
 feature: Implement Mobile
+role: Developer
 ---
 
 # Use Location Service

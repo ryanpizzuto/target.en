@@ -1,7 +1,7 @@
 ---
 keywords: content library;assets;annotate;copy;delete asset;download asset;edit content;share card;view content properties
-description: How do I work with assets in the Content library
-title: Work with Content in the Library
+description: Learn how to manage code and image offers in the Adobe Target Offers library. Learn how to view an offer's details and how to edit, copy, move, or delete offers.
+title: How Do I Work with Content in the Offers Library?
 feature: Experiences and Offers
 ---
 

@@ -1,8 +1,9 @@
 ---
 keywords: adobe.target.getOffers;getOffers;getoffers;get offers;at.js;functions;function
-description: Information about the adobe.target.getOffers(options) function for the Adobe Target at.js JavaScript library.
-title: Adobe.Target.Getoffers(Options) - at.js 2.x
+description: Use the adobe.target.getOffers() function and its options for the Adobe Target at.js library to fire requests to get multiple Target offers. (at.js 2.x)
+title: How Do I Use the adobe.target.getOffers() Function?
 feature: at.js
+role: Developer
 ---
 
 # adobe.target.getOffers(options) - at.js 2.x

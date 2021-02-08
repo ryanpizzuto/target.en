@@ -1,7 +1,7 @@
 ---
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
-description: Adobe Target welcome kit - Chapter 8 - Communicate your activity results
-title: Welcome Kit - Chapter 8 - Communicate Your Activity Results
+description: Ust the Executive Summary Results template to help you communicate your successes with your Adobe Target activities.
+title: How Can I Share the Results of My Target Actities with My Organization?
 feature: Overview
 ---
 

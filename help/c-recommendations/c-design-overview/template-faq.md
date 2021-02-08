@@ -1,7 +1,7 @@
 ---
 keywords: recommendations;frequently asked questions;faq
-description: List of frequently asked questions (FAQs) about Adobe Target recommendations designs.
-title: Design FAQ
+description: Review a list of frequently asked questions (FAQs) and their answers about Adobe Target Recommendations designs.
+title: Where Can I Answers to Design Questions for Target Recommendations?
 feature: Recommendations
 ---
 

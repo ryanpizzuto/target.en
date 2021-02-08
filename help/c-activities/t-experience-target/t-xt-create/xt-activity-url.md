@@ -1,7 +1,7 @@
 ---
 keywords: Experience Targeting;xt;activity url;url
-description: The Activity URL determines the page that is used in the Adobe Target Experience Targeting activity, and that opens in the Visual Experience Composer (VEC) or Form-Based Experience Composer when the activity is designed.
-title: Activity URL
+description: Learn how to specify the Activity URL that determines the page that is used in the test and that opens when the Experience Targeting activity is designed using Adobe Target.
+title: What Is the Activity URL In an Experience Targeting (XT) Activity?
 feature: Experience Targeting
 ---
 

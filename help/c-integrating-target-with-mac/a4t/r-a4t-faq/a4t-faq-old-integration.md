@@ -1,7 +1,7 @@
 ---
 keywords: faq;frequently asked questions;analytics for target;a4T;sitecatalyst;campaign>recipe;test&target;integration
-description: This topic contains answers to questions that are frequently asked about the legacy SiteCatalyst to Test&Target integration and using Analytics as the reporting source for Target (A4T).
-title: Legacy Sitecatalyst to Test&Target Integration - A4T FAQ
+description: Find answers to questions that are frequently asked about the legacy SiteCatalyst to Test&Target integration and using Analytics for Target (A4T).
+title: Where Can I Find FAQs About the Sitecatalyst to Test&Target Integration?
 feature: Analytics for Target (A4T)
 ---
 

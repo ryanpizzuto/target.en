@@ -1,7 +1,7 @@
 ---
 keywords: recommendations
-description: Recommendations activities in Adobe Target automatically display products or content that might interest your customers based on previous user activity or other algorithms. Recommendations help direct customers to relevant items they might otherwise not know about.
-title: Recommendations Activity
+description: Find information about Recommendations activities in Adobe Target that automatically display products or content that might interest your customers based on previous user activity.
+title: Where Can I Find Information About Recommendations Activities?
 feature: Recommendations
 ---
 

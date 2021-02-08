@@ -1,7 +1,7 @@
 ---
 keywords: content;update content;assets;upload content;upload asset
-description: How do I upload images to use as image offers?
-title: Upload Content
+description: Learn how to upload images to use as image offers in Adobe Target.
+title: How Do I Upload Content to the Offers Library?
 feature: Experiences and Offers
 ---
 

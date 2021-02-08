@@ -1,7 +1,7 @@
 ---
 keywords: activity settings;goals and settings;multivariate;mvt
-description: The Goals and Settings page in Adobe Target is where you enter information about the goals of the test.
-title: Goals and Settings
+description: Learn how to use the Goals and Settings page in Adobe Target to specify information about the goals of a Multivariate Test (MVT) activity.
+title: How Do I Specify Goals and Settings in a Multivariate Test (MVT) Activity?
 feature: Multivariate Tests
 ---
 

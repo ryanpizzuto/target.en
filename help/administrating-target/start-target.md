@@ -1,8 +1,9 @@
 ---
 keywords: Administration;approver role;approver
-description: The first steps Adobe Target administrators should take after receiving the emailed invitation to the Adobe Experience Cloud.
-title: Administrator First Steps
+description: Perform the first tasks Adobe Target administrators should take after receiving the emailed invitation to the Adobe Experience Cloud.
+title: Where Do I Get Started Administering Target?
 feature: Administration & Configuration
+role: Administrator
 ---
 
 # Administrator first steps

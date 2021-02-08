@@ -1,8 +1,9 @@
 ---
 keywords: custom events;at.js;request failed;request succeeded;content rendering failed;content rendering succeeded;library loaded;request start;content rendering start;content rendering no offers;content rendering rediret
-description: Information about custom events for the Adobe Target at.js JavaScript library.
-title: at.js Custom Events
+description: Use custom events for the Adobe Target at.js JavaScript library to be notified when an mbox request or offer fails or succeeds.
+title: How Do I Use at.js Custom Events?
 feature: at.js
+role: Developer
 ---
 
 # at.js custom events

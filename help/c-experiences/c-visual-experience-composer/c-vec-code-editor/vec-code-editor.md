@@ -1,7 +1,7 @@
 ---
 keywords: css selector;custom code;code editor;Mobile Web Experience Editor
-description: Information about the Modifications page in Adobe Target that lets you view modifications to your page and add additional modifications (CSS Selector, Mbox, and Custom Code).
-title: Modifications
+description: Learn how to use the Modifications panel in Adobe Target to view page modifications and to add additional modifications (CSS Selector, Mbox, and Custom Code).
+title: What Modifications Can I Make to My Page?
 feature: Visual Experience Composer (VEC)
 ---
 

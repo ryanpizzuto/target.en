@@ -1,8 +1,9 @@
 ---
 keywords: security;security practices
-description: Information about the in-depth approach and security procedures implemented by Adobe to bolster the security of your data and Adobe Target experience.
-title: Security Overview
+description: Learn about the procedures Adobe uses to bolster the security of your data and Adobe Target experience. Download the Adobe Target Security Overview white paper.
+title: How Does Target Handle Security of My Data?
 feature: Privacy & Security
+role: Developer
 ---
 
 # Target security overview

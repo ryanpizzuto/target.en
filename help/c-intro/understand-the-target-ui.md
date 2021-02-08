@@ -1,7 +1,7 @@
 ---
 keywords: target user interface;user interface;ui
-description: How do I use the user interface (UI)?
-title: Understand The User Interface
+description: Familiarize yourself with the user interface and find links to more in-depth information to help you get the most out of Target.
+title: How Do I Use the Target UI?
 feature: Overview
 ---
 

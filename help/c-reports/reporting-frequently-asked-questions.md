@@ -1,7 +1,7 @@
 ---
 keywords: troubleshooting;metric discrepancies;FAQ;reports;new visitor;new visitors;returning visitor;returning visitors;return visit;new visit
-description: List of frequently asked questions about reporting in Adobe Target.
-title: Reporting FAQ
+description: Explore a list of frequently asked questions and answers about Adobe Target reporting.
+title: Where Can I Find Answers to Questions About Target Reporting?
 feature: Reports
 ---
 

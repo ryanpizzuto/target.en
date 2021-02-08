@@ -1,7 +1,7 @@
 ---
 keywords: Targeting;audiences;percentage target
-description: Use audiences in Adobe Target to target different content and experiences to specific audiences to optimize your web marketing by displaying the right messages to the right people at the right time.
-title: Audiences
+description: Learn how to use audiences in Adobe Target to target different content and experiences to specific audiences to optimize your web marketing efforts.
+title: How Can I Use Audiences to Target Different Content to Specific Segments?
 feature: Audiences
 ---
 

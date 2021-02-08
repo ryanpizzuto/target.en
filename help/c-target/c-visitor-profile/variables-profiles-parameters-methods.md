@@ -1,7 +1,7 @@
 ---
 keywords: variables;profiles;parameters;built in profiles;methods;url variables;geo profiles;third party profiles;mbox variables;campaign variables;customer attributes
-description: This page lists profiles, variables, and parameters that are useful in profile scripts.
-title: Profile and Variable Glossary
+description: View a list of various profiles, variables, and parameters that are useful in profile scripts in Adobe Target.
+title: Which Profiles, Variables, and Parameters Are Used in Target?
 feature: Audiences
 ---
 

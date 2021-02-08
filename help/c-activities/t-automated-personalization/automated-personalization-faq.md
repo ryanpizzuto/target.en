@@ -1,7 +1,7 @@
 ---
 keywords: troubleshooting;frequently asked questions;FAQ;FAQs;automated personalization;control;default experience;best practices
-description: List of frequently asked questions (FAQs) about Automated Personalization (AP).
-title: Automated Personalization FAQ
+description: Explore a list of frequently asked questions (FAQs) and answers about Automated Personalization (AP) activities in Adobe Target.
+title: How Can I Find FAQs about Automated Personalization Activities?
 feature: Automated Personalization
 ---
 

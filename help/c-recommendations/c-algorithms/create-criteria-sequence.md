@@ -1,7 +1,7 @@
 ---
 keywords: criteria sequence;multiple criteria;algorithms;criteria;recommendations criteria;sequence;limit number of items returned;slot level control;slot
-description: Use sequences of up to five criteria to exercise greater control of the items that appear in your Adobe Target Recommendations activities.
-title: Create Criteria Sequences
+description: Learn how to set sequences of up to five criteria to exercise greater control of the items that appear in your Adobe Target Recommendations activities.
+title: How Do I Create Criteria Sequences in Recommendations?
 feature: Recommendations
 ---
 

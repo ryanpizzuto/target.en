@@ -1,7 +1,7 @@
 ---
 keywords: dynamic data;assets;data;offers;personalized offers;personal offers;token replace
-description: How can I pass profile values and activity information directly in an HTML or JSON offer?
-title: Pass Dynamic Data into Offers
+description: Learn how to pass dynamic data into Adobe Target Offers. Explore business cases that show why you might want to use dynamic offers and view examples and implementation information.
+title: How Do I Pass Dynamic Data into Offers?
 feature: Experiences and Offers
 ---
 

@@ -1,7 +1,7 @@
 ---
 keywords: exclusions
-description: Create an exclusion in [!DNL Adobe Target Recommendations] to prevent products or content from being recommended to visitors.
-title: Exclusions
+description: Learn how to create exclusions in Adobe Target Recommendations to prevent products or content from being recommended to visitors.
+title: How Do I Use Exclusions in Recommendations Activities?
 feature: Recommendations
 ---
 

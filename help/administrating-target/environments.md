@@ -1,8 +1,9 @@
 ---
 keywords: environment;troubleshooting;best practices;ubox;redirects;redirect;whitelist;blacklist;blocklist;allowlist
-description: Organize your sites and pre-production environments for easy management and separated reporting in Adobe Target.
-title: Environments
+description: Learn how to use environments in Adobe Target to organize your sites and pre-production environments for easy management and separated reporting.
+title: What are Environments and How Do I Use Them?
 feature: Administration & Configuration
+role: Administrator
 ---
 
 # Environments

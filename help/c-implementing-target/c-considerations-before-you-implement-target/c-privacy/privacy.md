@@ -1,8 +1,9 @@
 ---
 keywords: privacy;ip address;geosegmentation;opt out;optout;opt-out;data privacy;government regulations;regulations;gdpr;ccpa
-description: Adobe Target has enabled processes and settings that allow you to use Target in compliance with applicable data privacy laws.
-title: Privacy
+description: Learn how Adobe Target complies with applicable data privacy laws including collection and handling of IP addresses, and opt-out instructions.
+title: How Does Target Handle Privacy Issues?
 feature: Privacy & Security
+role: Developer
 ---
 
 # Privacy

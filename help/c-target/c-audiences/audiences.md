@@ -1,7 +1,7 @@
 ---
 keywords: audience;audience rules;create audience;creating audience;targeting audience;reporting audience;report audience;segment;custom profile parameters;audience definition;audiences list
-description: Audiences in Adobe Target determine who will see content and experiences in a targeted activity.
-title: Create Audiences
+description: Learn how to use the Audiences page in Adobe Target and how to view Audience Definition cards that contain audience details and usage information.
+title: How Do I Use the Audience List?
 feature: Audiences
 ---
 

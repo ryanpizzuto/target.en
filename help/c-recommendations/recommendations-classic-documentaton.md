@@ -1,7 +1,7 @@
 ---
 keywords: recommendations Classic
-description: Adobe Recommendations Classic documentation.
-title: Adobe Recommendations Classic Documentation
+description: Download a PDF of the legacy Adobe Recommendations Classic documentation.
+title: Where Can I Find Documentation for Adobe Recommendations Classic?
 feature: Recommendations
 ---
 

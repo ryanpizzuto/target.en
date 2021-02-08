@@ -1,7 +1,7 @@
 ---
 keywords: Release notes
-description: Where can I find information about previous releases?
-title: Release Notes For Previous Releases
+description: View a list of features, enhancements, and fixes included in previous releases of Adobe Target.
+title: What Features Are Included in Previous Releases?
 feature: Release Notes
 ---
 

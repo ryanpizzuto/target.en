@@ -1,7 +1,7 @@
 ---
 keywords: activities list;activities;activity;activity types;edit activity;activity actions;activity attribute;activity list filter;activity limitations;personalize;personalization
-description: Activities in Adobe Target let you personalize content to specific audiences and test page designs
-title: Personalize Content to Specific Audiences and Test Page Designs
+description: Learn how activities in Adobe Target let you personalize content to specific audiences and test page designs
+title: How Can I Personalize Content and Test Page Designs with Target?
 feature: Activities
 ---
 

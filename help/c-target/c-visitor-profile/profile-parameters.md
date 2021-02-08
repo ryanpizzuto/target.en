@@ -1,7 +1,7 @@
 ---
 keywords: Profile script;profile script attributes;profile script best practices;debug;debugging;scripts;profile scripts;attributes;attribute;parameter
-description: Profile attributes are parameters that are specific to the visitor. These attributes are stored in the visitor's profile to provide information about the visitor that can be used in your Adobe Target activities.
-title: Profile Attributes
+description: Learn about visitor-specific attributes that are stored in the visitor's profile to provide information about that can be used in your Adobe Target activities.
+title: What Are Profile Attributes?
 feature: Audiences
 ---
 

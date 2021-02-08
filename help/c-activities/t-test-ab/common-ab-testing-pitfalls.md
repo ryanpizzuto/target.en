@@ -1,7 +1,7 @@
 ---
 keywords: AB;A/B;AB...n;mistakes;pitfalls;mistake;pitfall;significance;winner;statistically difference;statistical;statistical power;traffic allocation;allocation;
-description: A/B testing in Adobe Target forms the backbone of most digital marketing optimization programs, helping marketers offer optimized and targeted experiences to their visitors and customers. This section outlines nine of the most significant pitfalls that companies fall prey to when performing A/B testing in Adobe Target. It also includes ways to avoid them, so your company can achieve greater ROI through its testing efforts and have greater confidence in its reported A/B test results.
-title: Nine Common A/B Testing Pitfalls and How to Avoid Them
+description: Learn how to avoid the most common pitfalls and mistakes that companies make when performing A/B testing in Adobe Target and other testing solutions.
+title: How Do I Avoid Common A/B Testing Mistakes?
 feature: A/B Tests
 ---
 

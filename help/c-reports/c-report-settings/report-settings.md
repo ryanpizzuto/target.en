@@ -1,7 +1,7 @@
 ---
 keywords: Target;reports;report settings;preset;target preset;metric;audience;date range;settings;download;table view;graph view;average lift;lift;lift bound;confidence interval;confidence;location contribution;running average;counting methodology
-description: Information to help you set the elements you want to appear in your Adobe Target report. Report settings can be saved for later use.
-title: Report Settings
+description: Learn how to configure report settings in Adobe Target, including metrics, audiences, date ranges,  and more.
+title: How Do I Configure Report Settings?
 feature: Reports
 ---
 

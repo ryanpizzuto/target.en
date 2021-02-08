@@ -1,8 +1,9 @@
 ---
 keywords: troubleshooting;frequently asked questions;FAQ;FAQs;global;global mbox
-description: List of frequently asked questions (FAQs) about global mboxes.
-title: Global mbox Frequently Asked Questions
+description: Read frequently asked questions (FAQs) and answers about Adobe Target global mboxes.
+title: What Are Frequently Asked Questions About the Global mbox?
 feature: at.js
+role: Developer
 ---
 
 # Global mbox Frequently Asked Questions{#global-mbox-frequently-asked-questions}

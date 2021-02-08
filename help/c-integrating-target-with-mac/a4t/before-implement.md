@@ -1,7 +1,7 @@
 ---
 keywords: Recommendations
-description: Several changes occur in your data collection process when enabling Analytics as the reporting source for Target (A4T).
-title: Before You Implement Analytics as the Reporting Source (A4T)
+description: Learn the implementation requirements for Analytics for Target (A4T) and what to consider before you implement this integration.
+title: What Should I Know Before Implementing A4T?
 feature: Analytics for Target (A4T)
 ---
 

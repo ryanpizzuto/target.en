@@ -1,7 +1,7 @@
 ---
 keywords: Targeting;target categories;target conditions;audience manager;custom profile parameters;visitor profile;custom user parameters;target rules
-description: You can target on any of several categories. Each category functions as a tab that enables you to create targeting rules (or groups) for each category.
-title: Categories for Audiences
+description: Learn how to use categories (such as Browser, Geo, Network, Operating System, Visitor Profile) to target content.
+title: What Are the Categories for Audiences?
 feature: Audiences
 ---
 

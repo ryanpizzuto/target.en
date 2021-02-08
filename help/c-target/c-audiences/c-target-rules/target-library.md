@@ -1,7 +1,7 @@
 ---
 keywords: Targeting;target library;library
-description: Target users based on pre-built targeting rules.
-title: Target Library Options in Audiences
+description: Learn about targeting visitors using pre-built legacy audiences. Best practice is to use the newer audience categories for improved performance.
+title: Can I Target Visitors Based on Pre-built Targeting Rules?
 feature: Audiences
 ---
 

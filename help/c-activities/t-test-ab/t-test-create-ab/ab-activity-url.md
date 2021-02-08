@@ -1,7 +1,7 @@
 ---
 keywords: activity url;url;different url
-description: The Activity URL determines the page that is used in the test and that opens when the test is designed using Adobe Target.
-title: Activity URL
+description: Learn how to specify the Activity URL that determines the page that is used in the test and that opens when the test is designed using Adobe Target.
+title: What Is the  Activity URL In an A/B Activity?
 feature: A/B Tests
 ---
 

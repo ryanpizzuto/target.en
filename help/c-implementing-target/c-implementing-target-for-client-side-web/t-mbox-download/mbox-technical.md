@@ -1,8 +1,9 @@
 ---
 keywords: implementation;mbox.js;dom manipulation library;target.js;visual experience composer;iframe;angular sites;single page applications;single page app;SPA
-description: Information to help your technical staff understand the mbox.js implementation and how it might affect your site.
-title: What mbox.js Does
+description: Learn about the legacy mbox.js implementation of Adobe Target. Migrate to the Adobe Experience Platform Web SDK (AEP Web SDK) or to the latest version of at.js.
+title: What does the Target mbox.js Library Do?
 feature: at.js
+role: Developer
 ---
 
 # What mbox.js does{#what-mbox-js-does}

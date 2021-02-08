@@ -1,8 +1,9 @@
 ---
 keywords: Overview and Reference;webkit
-description: The cookie behavior depends on whether it is a first-party cookie, a third-party cookie with a first-party cookie, or a third-party cookie alone.
-title: mbox.js Cookies
+description: Learn about the legacy mbox.js implementation of Adobe Target. Migrate to the Adobe Experience Platform Web SDK (AEP Web SDK) or to the latest version of at.js.
+title: Where Can I Find Information About mbox.js Cookies?
 feature: at.js
+role: Developer
 ---
 
 # mbox.js cookies{#mbox-js-cookies}

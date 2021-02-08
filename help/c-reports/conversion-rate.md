@@ -1,7 +1,7 @@
 ---
 keywords: Targeting
-description: The conversion rate, lift, confidence (statistical significance) and confidence interval are reported for each experience.
-title: Conversion Rate
+description: Learn how Adobe Target shows and calculates the conversion rate, lift, confidence (statistical significance), and confidence interval for each experience.
+title: How Do I View the Conversion Rate, Lift, and Confidence Level?
 feature: Reports
 ---
 

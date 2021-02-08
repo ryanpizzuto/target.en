@@ -1,7 +1,7 @@
 ---
 keywords: redirect offer;create redirect offer;add html offer;Pass all URL parameters in redirect;Pass mboxSessionId in redirect (only needed when the redirect is going to a different domain)
-description: Can I use redirect offers to cause a browser to redirect to a new page?
-title: Create Redirect Offers
+description: Learn how to create redirect offers in Adobe Target to cause a browser to redirect to a new page. 
+title: How Do I Create Redirect Offers?
 feature: Experiences and Offers
 ---
 

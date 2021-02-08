@@ -1,7 +1,7 @@
 ---
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
-description: Adobe Target welcome kit - Chapter 6 - Easily avoidable pitfalls
-title: Welcome Kit - Chapter 6 - Easily Avoidable Pitfalls
+description: Learn from others' mistakes so that you don't make the same ones when using Adobe Target as part of your testing and personalization strategy.
+title: What are Common Mistakes When Using Target and How Can I Avoid Them?
 feature: Overview
 ---
 

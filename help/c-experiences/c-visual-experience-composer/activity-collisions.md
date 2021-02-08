@@ -1,7 +1,7 @@
 ---
 keywords: targeting;collisions;conflicts
-description: The Collisions tab on the Activity Overview page in Adobe Target lists activity collisions on your site.
-title: Activity Collisions
+description: Collisions occur when multiple activities are set up to deliver content to the same page. Learn how to avoid collisions when using Adobe Target.
+title: How Can I Avoid Activity Collisions?
 feature: Visual Experience Composer (VEC)
 ---
 

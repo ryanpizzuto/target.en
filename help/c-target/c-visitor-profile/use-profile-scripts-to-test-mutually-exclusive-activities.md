@@ -1,7 +1,7 @@
 ---
 keywords: Profile script;profile script attributes;mutually exclusive activities
-description: You can use profile attributes to set up tests that compare two or more activities but do not let the same visitors participate in each activity.
-title: Use Profile Scripts to Test Mutually Exclusive Activities
+description: Learn how to use profile attributes to set up tests in Adobe Target that compare multiple activities but do not let the same visitors participate in each activity.
+title: Can I Use Profile Scripts to Test Mutually Exclusive Activities?
 feature: Audiences
 ---
 

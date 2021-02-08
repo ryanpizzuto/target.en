@@ -1,7 +1,7 @@
 ---
 keywords: customer relationship management;customer record service;crs;crm;mbox3rdpartyid;customer attributes;targeting;csv;crm;adobe experience cloud people
-description: Information about using enterprise customer data from a customer relationship management (CRM) databases for content targeting in Adobe Target by using Customer Attributes in the Adobe Experience Cloud People service.
-title: Customer Attributes
+description: Learn how to use enterprise customer data from a customer relationship management (CRM) database for content targeting in Adobe Target.
+title: What Are Customer Attributes and How Do I Use Them?
 feature: Audiences
 ---
 

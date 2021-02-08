@@ -1,7 +1,7 @@
 ---
 keywords: Targeting;network;target network;isp;domain name;connection speed;target isp;target domain name;target connection speed
-description: You can create audiences in Adobe Target based on network details.
-title: Network Options in Audiences
+description: Learn how to create audiences in Adobe Target based on network details such as ISP, Domain Name, and Connection Speed.
+title: Can I Target Visitors Based on Network Options?
 feature: Audiences
 ---
 

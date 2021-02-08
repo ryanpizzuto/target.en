@@ -1,7 +1,7 @@
 ---
 keywords: partial data;partial-data;A4T;discrepancies;analytics for target;orphaned;virtual report suite;phantom;troubleshooting;unstitched;inflated;unspecified
-description: Information to help you minimize the effects of inflated Visit and Visitor counts when using Analytics as a reporting source.
-title: Minimizing Inflated Visit and Visitor Counts in A4T
+description: Learn how to minimize the effects of inflated Visit and Visitor counts when using Analytics for Target (A4t). Learn what "partial data" is and how to reduce it.
+title: How Do I Minimize Inflated Visit and Visitor Counts in A4T?
 feature: Analytics for Target (A4T)
 ---
 

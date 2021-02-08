@@ -1,7 +1,7 @@
 ---
 keywords: training videos;youtube;videos;video training;tutorial;tutorials;video
 description: Watch training videos to help you get the most out of Target Standard and Target Premium.
-title: Training Videos
+title: Where Can I Find Target Training Videos?
 feature: Overview
 ---
 

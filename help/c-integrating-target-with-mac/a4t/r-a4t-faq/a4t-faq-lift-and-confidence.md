@@ -1,7 +1,7 @@
 ---
 keywords: faq;frequently asked questions;analytics for target;a4T;lift;ad hoc;report builder;confidence
-description: This topic contains answers to questions that are frequently asked about lift and confidence when using Analytics as the reporting source for Target (A4T).
-title: Lift And Confidence - A4T FAQ
+description: Find answers to questions about lift and confidence when using Analytics for Target (A4T). A4T lets you use Analytics reporting for Target activities.
+title: Where Can I Find Information about Lift And Confidence with A4T?
 feature: Analytics for Target (A4T)
 ---
 

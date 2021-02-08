@@ -1,7 +1,7 @@
 ---
 keywords: collection;Targeting
-description: A collection is a set of products or items in Adobe Target that are eligible for a recommendation.
-title: Collections
+description: Learn how to use collections in Adobe Target Recommendations. A collection is a set of products or items that are eligible for a recommendation.
+title: How Do I Use Collections in Recommendations Activities?
 feature: Recommendations
 ---
 

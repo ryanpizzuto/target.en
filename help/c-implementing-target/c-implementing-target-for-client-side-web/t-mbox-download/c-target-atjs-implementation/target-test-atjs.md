@@ -1,8 +1,9 @@
 ---
 keywords: at.js;non-production;non production;deploy
-description: Information about how to safely deploy at.js to a non-production environment.
-title: Deploy at.js to a Non-Production Environment
+description: Learn about the legacy mbox.js implementation of Adobe Target. Migrate to the Adobe Experience Platform Web SDK (AEP Web SDK) or to the latest version of at.js.
+title: How Do I Deploy at.js to a Non-Production Environment?
 feature: at.js
+role: Developer
 ---
 
 # Deploy at.js to a non-production environment

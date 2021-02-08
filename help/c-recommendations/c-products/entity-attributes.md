@@ -1,7 +1,7 @@
 ---
 keywords: entity;entity attributes;pass information to Recommendations;behavioral data;data counter;define relative URL;display inventory level;define price;define profit margin;custom attributes
-description: Use entity attributes to pass product or content information to Adobe Target Recommendations.
-title: Entity Attributes
+description: Learn how to use entity attributes to pass product or content information to Adobe Target Recommendations.
+title: How Do I Use Entity Attributes?
 feature: Recommendations
 ---
 

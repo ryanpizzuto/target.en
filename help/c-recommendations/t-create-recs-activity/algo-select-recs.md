@@ -1,7 +1,7 @@
 ---
 keywords: recommendations;recommendations activity;criteria;algorithm
-description: Select the criteria to use in your Adobe Target Recommendations activity.
-title: Select Criteria
+description: Learn how to select the criteria (rules that determine which products or content to recommend) to use in your Adobe Target Recommendations activity.
+title: How Do I Select Criteria for A Recommendations Activity?
 feature: Recommendations
 ---
 

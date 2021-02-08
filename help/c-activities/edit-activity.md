@@ -1,7 +1,7 @@
 ---
 keywords: activities;activity;activity types;edit activity;edit;draft
-description: Information about the different ways you can edit an existing activity in Adobe Target, including saving an activity in draft form.
-title: Edit an Activity or Save As Draft
+description: Learn about the different ways you can edit an existing activity in Adobe Target, including saving an activity in draft form.
+title: How Do I Edit an Activity or Save As Draft?
 feature: Activities
 ---
 

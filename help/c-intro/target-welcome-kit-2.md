@@ -1,7 +1,7 @@
 ---
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
-description: Adobe Target welcome kit - Chapter 2 - Target at a glance
-title: Welcome Kit - Chapter 2 -At a Glance
+description: Take a high-level look at Adobe Target. Learn about available activities, channels, implementation, integrations, and more.
+title: Where Can I Find a High-level Introduction to Target?
 feature: Overview
 ---
 

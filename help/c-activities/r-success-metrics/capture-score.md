@@ -1,7 +1,7 @@
 ---
 keywords: capture score;score
-description: The Capture Score engagement metric in Adobe Target calculates an aggregated score based on the value assigned to pages visited on the site, from the point the visitor first sees the campaign's first display Target Request.
-title: Capture Score
+description: Learn about the Capture Score engagement metric in Adobe Target that calculates an aggregated score based on the value assigned to pages visited on the site.
+title: What Is the Capture Score metric?
 feature: Success Metrics
 ---
 

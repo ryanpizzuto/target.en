@@ -1,8 +1,9 @@
 ---
 keywords: mbox.js faq;mbox.js frequently asked questions;document.write;tt.omtrdc.net;parser blocking
-description: Answers to frequently asked questions about mbox.js.
-title: mbox.js Frequently Asked Questions
+description: Learn about the legacy mbox.js implementation of Adobe Target. Migrate to the Adobe Experience Platform Web SDK (AEP Web SDK) or to the latest version of at.js.
+title: What Are Some Frequently Asked Questions about Target mbox.js?
 feature: at.js
+role: Developer
 ---
 
 # mbox.js Frequently Asked Questions{#mbox-js-frequently-asked-questions}

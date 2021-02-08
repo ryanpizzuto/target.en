@@ -1,8 +1,9 @@
 ---
 keywords: Implementation;mbox.js non javascript;mbox;adbox
-description: Use an AdBox to deliver images in an off-site implementation, using Adobe Target.
-title: Create an Adbox for an Image
+description: Use an AdBox to deliver images in an off-site implementation using Adobe Target. An AdBox is like an mbox, but controlled by a URL instead of JavaScript.
+title: How Do I Create an Adbox for an Image?
 feature: Implement Email
+role: Developer
 ---
 
 # Create an Adbox for an image{#create-an-adbox-for-an-image}

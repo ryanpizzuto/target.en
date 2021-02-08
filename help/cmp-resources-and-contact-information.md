@@ -1,7 +1,7 @@
 ---
 keywords: contact;legal;technical support;tech support;support;service;capability;billing;feedback
-description: Information about additional resources to help you learn about Target features and how to contact Adobe should you need help with Target.
-title: Resources and Contact Information
+description: Learn about additional resources to help you learn about Adobe Target features and how to contact Adobe should you need help with Target.
+title: Where Can I Find Resources and Contact Information for Target?
 feature: Release Notes,Overview
 ---
 
