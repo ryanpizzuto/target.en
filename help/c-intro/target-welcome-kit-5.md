@@ -57,7 +57,7 @@ Maybe just change the order of options to choose from when customers want to tak
 
 If your company is spending resources to develop a mobile app for iOS, Android, or other devices, don’t just sit back and hope users will stumble on your app within the app store. Instead, have a sound strategy in place for how to promote it. Test different approaches to drive app downloads and usage. If your non-mobile site has a link to download your app, try testing the effectiveness of an interstitial landing page that explicitly promotes your app when visitors arrive on your home page. Set up a redirect test that filters half your mobile traffic to your current site page and the other half to the interstitial landing page.
 
-## Idea 9: use mobile app innovations.
+## Idea 9: Use mobile app innovations.
 
 Explore aspects of the smartphone beyond geolocation, such as the accelerometer or gyroscope. For example, test an experience that uses the accelerometer to add a displayed item to a shopping cart by shaking the phone. Even test it to users of different brands of devices, like iOS versus Android to see if their response differs. Such tests let you uncover new visitor behavior to consider using in future tests.
 
