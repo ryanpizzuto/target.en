@@ -13,6 +13,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|February 8|[Target mobile preview](/help/c-target-mobile-app/target-mobile-preview.md)|Added the code snippet you should add to the AndroidManifest.xml file for version 4 of the Adobe Mobile SDK.|
 |February 1|[Automated Personalization Summary reports](/help/c-reports/reports-ap.md)|Added new section: "Frequently Asked Questions."|
 |January 27|[Create redirect offers](/help/c-experiences/c-manage-content/offer-redirect.md)|Updated topic.|
 ||[Create remote offers](/help/c-experiences/c-manage-content/about-remote-offers.md)|Updated topic.|
