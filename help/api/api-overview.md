@@ -4,7 +4,6 @@ description: Find Adobe Target APIs, including the Admin, Delivery, Reporting, a
 title: Where Can I Find Target API and SDK Documentation?
 feature: APIs/SDKs
 role: Developer
-docid: ec588288-dba5-4b65-8e5a-5cad08e3a556
 ---
  
 # Adobe Target API overview

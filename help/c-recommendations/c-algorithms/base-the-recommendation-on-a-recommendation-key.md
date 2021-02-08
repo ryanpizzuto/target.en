@@ -4,7 +4,6 @@ description: Learn how to use recommendations based on keys that use visitor beh
 title: How Do I Base the Recommendation on a Recommendation Key?
 feature: Recommendations
 mini-toc-levels: 2
-docid: fdb9d24f-52ea-4eaf-ac93-5ee4f33ad528
 ---
 
 # Base the recommendation on a recommendation key

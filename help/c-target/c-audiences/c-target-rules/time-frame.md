@@ -3,7 +3,6 @@ keywords: time frame;start date;end date;start/end dates;timeframe;target schedu
 description: Learn how to use start/end dates and times to target users who visit your site during a specific time frame. You can also set Week and Day Parting options.
 title: Can I Target Visitors Who Visit My Site at Specific Times?
 feature: Audiences
-docid: 4dbae409-b958-40c7-b890-d314948ad986
 ---
 
 # Time Frame{#time-frame}

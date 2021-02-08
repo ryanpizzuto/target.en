@@ -4,7 +4,6 @@ description: Learn how to configure the Adobe Target Visual Experience Composer 
 title: How Do I Configure the Visual Experience Composer (VEC)?
 feature: Administration & Configuration
 role: Administrator
-docid: 96dbf400-ab98-472c-a4a1-377b8398deca
 ---
 
 # Configure the Visual Experience Composer

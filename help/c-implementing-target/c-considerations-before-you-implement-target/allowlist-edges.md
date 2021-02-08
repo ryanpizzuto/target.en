@@ -4,7 +4,6 @@ description: View a list of hosts to help you allowlist Adobe Target edges (geog
 title: How Do I Allowlist Target Edge Nodes?
 feature: Privacy & Security
 role: Developer
-docid: 83129521-de17-4b84-8f97-7f6e10fa5e04
 ---
 
 # Allowlist Target edge nodes

@@ -4,7 +4,6 @@ description: Learn about the legacy mbox.js implementation of Adobe Target. Migr
 title: How Do I Create an Order Confirmation mbox using mbox.js?
 feature: at.js
 role: Developer
-docid: 113fcadd-99ac-48c4-a0d5-c7bd883c9e42
 ---
 
 # Create an Order Confirmation mbox - mbox.js

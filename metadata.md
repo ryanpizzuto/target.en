@@ -8,7 +8,6 @@ git-repo: https://github.com/AdobeDocs/target.en
 index: yes
 role: Business Practitioner
 level: Intermediate
-docid: 3e30f6de-df25-4c09-a858-41e3a365187f
 ---
 
 # Metadata for internal use

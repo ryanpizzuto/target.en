@@ -3,7 +3,6 @@ keywords: Adobe Experience Platform Web SDK;aep web sdk;aep sdk;seo;search engin
 description: Learn about how Adobe Target works, including information about the Target JavaScript libraries (at.js and AEP Web SDK), Adobe data centers, and SEO testing.
 title: How Does Target Work?
 feature: Overview
-docid: 09423062-2ffb-411d-bc17-c8039c4fb6d4
 ---
 
 # How Adobe Target works

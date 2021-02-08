@@ -3,7 +3,6 @@ keywords: entity;entity attributes;pass information to Recommendations;behaviora
 description: Learn how to use entity attributes to pass product or content information to Adobe Target Recommendations.
 title: How Do I Use Entity Attributes?
 feature: Recommendations
-docid: 51f7a18c-990c-4bb2-be64-0895572a7601
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Entity attributes{#entity-attributes}

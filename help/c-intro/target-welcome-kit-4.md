@@ -3,7 +3,6 @@ keywords: welcome kit;target welcome kit;intro;introduction;getting started
 description: Read tips from our panel of experts about using Adobe Target as part of your testing and personalization efforts.
 title: Where Can I Find Tips and Tricks for Using Target?
 feature: Overview
-docid: 090bee51-30a7-444e-bb08-12fcbf14b010
 ---
 
 # Chapter 4: Tips for using Target

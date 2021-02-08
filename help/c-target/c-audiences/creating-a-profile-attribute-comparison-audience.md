@@ -3,7 +3,6 @@ keywords: audience;propensity;profile attribute;compare;comparison;create audien
 description: Learn how to define an audience to compare two profile attributes for your Target Audience library or in an activity-only audience.
 title: Can I Compare Two Profile Attributes for Use in Audiences?
 feature: Audiences
-docid: d4d670f9-15b5-4f7f-b0a2-1630b5cdc7a8
 ---
 
 # Create a profile attribute comparison audience{#create-a-profile-attribute-comparison-audience}

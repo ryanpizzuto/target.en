@@ -3,7 +3,6 @@ keywords: Profile script;profile script attributes;profile script best practices
 description: Learn about visitor-specific attributes that are stored in the visitor's profile to provide information about that can be used in your Adobe Target activities.
 title: What Are Profile Attributes?
 feature: Audiences
-docid: d4459d4f-1889-499b-9570-133f58392e9e
 ---
 
 # Profile attributes{#profile-attributes}

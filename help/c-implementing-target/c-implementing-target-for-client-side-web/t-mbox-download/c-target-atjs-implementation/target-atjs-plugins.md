@@ -4,7 +4,6 @@ description: Learn about the legacy mbox.js implementation of Adobe Target. Migr
 title: What Legacy Plug-ins Are Not Supported in Target at.js?
 feature: at.js
 role: Developer
-docid: af1eb30d-99d5-454b-a179-796fee61f4cf
 ---
 
 # at.js plug-ins

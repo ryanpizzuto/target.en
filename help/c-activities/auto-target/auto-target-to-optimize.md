@@ -3,7 +3,6 @@ keywords: auto-target;targeting;traffic allocation;frequently aske questions;faq
 description: Learn how an Auto-Target activity in Target serves the most tailored experience to each visitor based on customer profiles and the behavior of similar visitors.
 title: What Is an Auto-Target Activity?
 feature: Auto-Target
-docid: e547e601-fcb7-42cb-bb35-3be059ef4c05
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Auto-Target overview

@@ -3,7 +3,6 @@ keywords: a4t;analytics;analytics for target;analytics reporting source;adobe an
 description: Use Analytics for Target (A4T) to create activities based on Analytics conversion metrics and audience segments and use Analytics reports to examine results.
 title: What is Analytics for Target (A4T)?
 feature: Analytics for Target (A4T)
-docid: 6dc69c0e-ad14-4c48-9910-e0152af24ff3
 ---
 
 # Adobe Analytics as the reporting source for Adobe Target (A4T)

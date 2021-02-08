@@ -3,7 +3,6 @@ keywords: custom parameters;target custom parameters;targetpageparams;targeting 
 description: Learn how to pass custom parameters to Adobe Target for use in audiences.
 title: Can I Target Visitors Based on Custom Parameters?
 feature: Audiences
-docid: 7b6b02f6-3266-4fe4-89e9-abb8bd2aada9
 ---
 
 # Custom parameters{#custom-parameters}

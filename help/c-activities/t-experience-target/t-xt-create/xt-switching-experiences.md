@@ -3,7 +3,6 @@ keywords: priority;experience create;priority;experience;audience;experience;swi
 description: Learn how visitors can switch between experiences in an Adobe Target Experience Targeting (XT) activity as their profiles evolve.
 title: Can Visitors Switch Experiences in an Experience Targeting Activity?
 feature: Experience Targeting
-docid: 6d5ff050-a5cd-4a9a-99f4-5b5984f2c565
 ---
 
 # Switching experiences in Experience Targeting

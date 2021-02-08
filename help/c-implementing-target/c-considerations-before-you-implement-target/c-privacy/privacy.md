@@ -4,7 +4,6 @@ description: Learn how Adobe Target complies with applicable data privacy laws i
 title: How Does Target Handle Privacy Issues?
 feature: Privacy & Security
 role: Developer
-docid: bf89af4b-56f6-4ec7-8aca-71d28fbcf079
 ---
 
 # Privacy

@@ -3,7 +3,6 @@ keywords: Experience Targeting;xt;activity url;url
 description: Learn how to specify the Activity URL that determines the page that is used in the test and that opens when the Experience Targeting activity is designed using Adobe Target.
 title: What Is the Activity URL In an Experience Targeting (XT) Activity?
 feature: Experience Targeting
-docid: 10144f83-adf1-4ae5-add1-0a2376c70c60
 ---
 
 # Activity URL in Experience Targeting (XT) activities

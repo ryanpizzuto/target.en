@@ -3,7 +3,6 @@ keywords: mvt;multivariate test;location contribution report
 description: Learn how to use the Location Contribution report for Adobe Target Experience Targeting activities that shows the performance of each element and each offer.
 title: How Do I Use the Location Contribution Report for Multivariate Tests?
 feature: Reports
-docid: 0b7d828b-97c5-4307-b3c0-5f5672a2e6d1
 ---
 
 # Location Contribution report (MVT){#location-contribution-report-mvt}

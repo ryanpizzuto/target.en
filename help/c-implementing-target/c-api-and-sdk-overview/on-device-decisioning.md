@@ -4,7 +4,6 @@ description: Learn how to use on-device decisioning to cache your Target A/B and
 title: What is On-Device Decisioning?
 feature: Implement Server-side
 role: Developer
-docid: 69c91d30-fd7d-4db3-bfe2-6e15ae78a899
 ---
 
 # On-device decisioning

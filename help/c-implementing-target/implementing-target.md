@@ -5,7 +5,6 @@ landing-page-description: Before you start using Adobe Target, you should implem
 title: How Do I Implement Target?
 feature: Implementation
 role: Developer
-docid: d237ecab-c5d2-4706-8fdc-d34786b18497
 ---
 
 # Implement Target{#implement-target}

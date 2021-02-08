@@ -4,7 +4,6 @@ description: Read answers to frequently asked questions about the Adobe Target a
 title: What Are Common Questions and Answers About at.js?
 feature: at.js
 role: Developer
-docid: 6bcba937-f2f0-46d5-abca-53f6c61e432d
 ---
 
 # at.js Frequently Asked Questions{#at-js-frequently-asked-questions}

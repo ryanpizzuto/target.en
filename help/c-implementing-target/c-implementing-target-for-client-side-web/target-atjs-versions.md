@@ -4,7 +4,6 @@ description: View the details about changes in each version of the Adobe Target 
 title: What is Included in Each Version of at.js?
 feature: at.js
 role: Developer
-docid: debccedb-a3cd-4313-bd79-411ed273756a
 ---
 
 # at.js version details

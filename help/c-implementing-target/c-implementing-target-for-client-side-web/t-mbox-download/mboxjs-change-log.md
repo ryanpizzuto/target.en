@@ -4,7 +4,6 @@ description: Learn about the legacy mbox.js implementation of Adobe Target. Migr
 title: What is Included in Each Version of mbox.js?
 feature: at.js
 role: Developer
-docid: 948438c2-0106-4254-96bd-971dc10a707c
 ---
 
 # mbox.js version details{#mbox-js-version-details}

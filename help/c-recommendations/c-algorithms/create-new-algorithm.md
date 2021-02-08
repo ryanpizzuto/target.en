@@ -3,7 +3,6 @@ keywords: criteria;algorithm;industry vertical;page type;recommendation key;reco
 description: Learn how to create criteria that controls the content of your Adobe Recommendations activities to show the recommendations that are most appropriate for your activity.
 title: How Do I Create Criteria in Recommendations?
 feature: Recommendations
-docid: f5b68ea0-fac0-4089-84b8-c8363dda70a0
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Create criteria{#create-criteria}

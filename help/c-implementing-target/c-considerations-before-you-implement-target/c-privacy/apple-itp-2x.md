@@ -4,7 +4,6 @@ description: Learn about Adobe Target and the impact of the Apple Intelligent Tr
 title: How Does Target Handle Apple ITP Support?
 feature: Privacy & Security
 role: Developer
-docid: f646924f-319c-4c76-96a9-31767d24ec13
 ---
 
 # Apple Intelligent Tracking Prevention (ITP) 2.x

@@ -3,7 +3,6 @@ keywords: Targeting;visual experience composer;vec;troubleshoot visual experienc
 description: Learn how to troubleshoot problems that sometimes occur in the Adobe Target Visual Experience Composer (VEC) under certain conditions.
 title: How Do I Troubleshoot Issues Related to the Visual Experience Composer?
 feature: Visual Experience Composer (VEC)
-docid: 520276c9-bd77-4a5c-afd4-c4a83ea25515
 ---
 
 # Troubleshooting issues related to the Visual Experience Composer

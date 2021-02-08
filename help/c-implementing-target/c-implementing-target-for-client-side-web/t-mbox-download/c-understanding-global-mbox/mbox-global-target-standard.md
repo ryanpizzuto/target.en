@@ -4,7 +4,6 @@ description: Learn how to use a legacy global mbox for your Adobe Target activit
 title: Can I Use a Global mbox from a Legacy Implementation?
 feature: at.js
 role: Developer
-docid: 226012aa-14ce-454f-9020-3dda984a97c4
 ---
 
 # Use a Global mbox from a legacy implementation

@@ -4,7 +4,6 @@ description: Learn how to implement the Adobe Target at.js library using the leg
 title: Can I Implement Target using Dynamic Tag Management (DTM)?
 feature: Implement Server-side
 role: Developer
-docid: 062d1e8a-60c5-47a4-a2a8-e0af16f711a8
 ---
 
 # Implement Target using Dynamic Tag Management (DTM)

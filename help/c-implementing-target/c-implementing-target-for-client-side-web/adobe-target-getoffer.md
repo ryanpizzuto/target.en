@@ -4,7 +4,6 @@ description: Use the adobe.target.getOffer() function and its options for the Ad
 title: How Do I Use the adobe.target.getOffer() Function?
 feature: at.js
 role: Developer
-docid: 9b3ffd60-a641-468d-acf3-677adb6b1f60
 ---
 
 # adobe.target.getOffer(options)

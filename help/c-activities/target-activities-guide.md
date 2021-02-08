@@ -3,7 +3,6 @@ keywords: activities guide;activities;activity;activity types;activity actions
 description: Download an interactive PDF that describes the different activity types in Adobe Target.
 title: What Activity Types Are Available in Target?
 feature: Activities
-docid: 9c8a2089-c287-49f8-b9d7-e218d4e8961e
 ---
 
 # Target activity types

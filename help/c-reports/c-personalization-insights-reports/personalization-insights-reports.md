@@ -3,7 +3,6 @@ keywords: Targeting;AP reports;automated personalization reports;auto-target;aut
 description: Learn how to use the specialized reports for Automated Personalization (AP) and Auto-Target (AT) activities: Automated Segments and Important Attributes.
 title: How Do I Use the Personalization Insights Reports?
 feature: Reports
-docid: 0c371913-6214-4ff7-a441-2a5fefef44f7
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Personalization Insights reports{#personalization-insights-reports}

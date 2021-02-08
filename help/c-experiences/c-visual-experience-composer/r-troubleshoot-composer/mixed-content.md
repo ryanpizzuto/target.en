@@ -3,7 +3,6 @@ keywords: mixed content;secure;insecure;chrome;troubleshooting;vec;visual experi
 description: Some browsers block the display of a page if secure content is mixed with insecure content. Learn how to enable mixed content in Chrome, Firefox, and Edge.
 title: How Do I Enable Mixed Content in My Browser?
 feature: Visual Experience Composer (VEC)
-docid: 255d52b3-a4e9-4aac-8017-c8773cbb86ea
 ---
 
 # Enabling mixed content in your browser

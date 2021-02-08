@@ -4,7 +4,6 @@ description: Perform the first tasks Adobe Target administrators should take aft
 title: Where Do I Get Started Administering Target?
 feature: Administration & Configuration
 role: Administrator
-docid: 92ef5cea-f8d6-40e1-9410-1d2a4df1bd9d
 ---
 
 # Administrator first steps

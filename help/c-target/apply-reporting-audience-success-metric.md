@@ -3,7 +3,6 @@ keywords: Targeting;audience;reporting;success metric
 description: Learn how to choose a success metric in Adobe Target that qualifies the user for the reporting audience.
 title: Can I Apply a Reporting Audience To A Success Metric?
 feature: Success Metrics
-docid: 96fb9386-7adc-4a74-86d4-71a617b3abac
 ---
 
 # Apply a reporting audience to a success metric{#apply-a-reporting-audience-to-a-success-metric}

@@ -3,7 +3,6 @@ keywords: reports;auto-target;auto target;AT;report
 description: Learn how to interpret the Auto-Target Summary report in Adobe Target. You can switch to the Automated Segments and Important Attributes reports from this report.
 title: How Do I Use the Auto-Target Summary Report?
 feature: Reports
-docid: ffd51131-9fb9-4f07-8b04-4ee38925a4eb
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Auto-Target Summary report{#auto-target-summary-report}

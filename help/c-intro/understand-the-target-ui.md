@@ -3,7 +3,6 @@ keywords: target user interface;user interface;ui
 description: Familiarize yourself with the user interface and find links to more in-depth information to help you get the most out of Target.
 title: How Do I Use the Target UI?
 feature: Overview
-docid: 4e4d69f1-3764-4a52-8046-39dcafd8bf5e
 ---
 
 # Understand the Target UI

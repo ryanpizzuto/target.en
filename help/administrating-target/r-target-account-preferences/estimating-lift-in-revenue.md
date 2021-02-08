@@ -4,7 +4,6 @@ description: Estimate the lift you might achieve if every visitor sees the winni
 title: What Do I Estimate Lift in Revenue?
 feature: Administration & Configuration
 role: Administrator
-docid: 207e19f2-8cad-4514-9e47-c18bf5f2623d
 ---
 
 # Estimate lift in revenue{#estimate-lift-in-revenue}

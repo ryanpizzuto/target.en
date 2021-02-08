@@ -3,7 +3,6 @@ keywords: audience;audience rules;create audience;creating audience;targeting au
 description: Learn how to use the Audiences page in Adobe Target and how to view Audience Definition cards that contain audience details and usage information.
 title: How Do I Use the Audience List?
 feature: Audiences
-docid: 54c5aba7-8515-4bef-9ad5-ccda469490ac
 ---
 
 # Create audiences{#create-audiences}

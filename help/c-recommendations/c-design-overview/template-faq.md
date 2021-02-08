@@ -3,7 +3,6 @@ keywords: recommendations;frequently asked questions;faq
 description: Review a list of frequently asked questions (FAQs) and their answers about Adobe Target Recommendations designs.
 title: Where Can I Answers to Design Questions for Target Recommendations?
 feature: Recommendations
-docid: b015f182-b589-4d09-9ce6-1506ad948350
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Design FAQ {#design-faq}

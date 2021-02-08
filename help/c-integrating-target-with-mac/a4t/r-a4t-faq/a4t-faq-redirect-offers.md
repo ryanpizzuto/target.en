@@ -3,7 +3,6 @@ keywords: faq;frequently asked questions;analytics for target;a4T;redirect;redir
 description: Find answers to questions about using redirect offers when using Analytics for Target (A4T). A4T lets you use Analytics reporting for Target activities.
 title: Where Can I Find FAQs About Redirect Offers with A4T?
 feature: Analytics for Target (A4T)
-docid: a0e61a1e-ff4d-42b5-a1ac-5b8ca79df674
 ---
 
 # Redirect offers - A4T FAQ{#redirect-offers-a-t-faq}

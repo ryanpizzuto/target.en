@@ -4,7 +4,6 @@ description: Learn how the Target at.js JavaScript library functions, including 
 title: How Does the at.js Javascript Library Work?
 feature: at.js
 role: Developer
-docid: b8b119e6-14bf-4088-a27c-25a8139bb6b8
 ---
 
 # How at.js works

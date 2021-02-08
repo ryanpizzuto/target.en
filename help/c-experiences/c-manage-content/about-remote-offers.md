@@ -3,7 +3,6 @@ keywords: remote offer;remote offer selection matrix;cached content;dynamic cont
 description: Learn how to use remote offers in Adobe Target to host outside content (content in a CMS or other system). Discover why you might want to use remote offers.
 title: How Do I Create Remote Offers?
 feature: Experiences and Offers
-docid: 8a909222-fc0a-40b2-b485-ed8071cb5d9e
 ---
 
 # Create remote offers

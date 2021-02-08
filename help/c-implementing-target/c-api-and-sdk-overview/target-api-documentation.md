@@ -4,7 +4,6 @@ description: Learn how to transition from the Adobe Target Classic legacy APIs t
 title: How Do I Transition From Legacy APIs to Adobe I/O?
 feature: Implement Server-side
 role: Developer
-docid: 96655cc9-5a68-4388-ad47-7135dd1396f9
 ---
 
 # Transition from Target legacy APIs to Adobe I/O

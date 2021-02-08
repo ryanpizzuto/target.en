@@ -4,7 +4,6 @@ description: Use the Adobe Experience Cloud Debugger to view your library config
 title: How Do I Debug at.Js with Adobe Experience Cloud Debugger?
 feature: at.js
 role: Developer
-docid: 5db21762-a857-4b69-af2c-85e1deaafc4f
 ---
 
 # Debug at.js using the Adobe Experience Cloud Debugger{#debug-at-js-using-the-adobe-experience-cloud-debugger}

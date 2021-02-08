@@ -3,7 +3,6 @@ keywords: welcome kit;target welcome kit;intro;introduction;getting started
 description: You've create your first activity in Adobe Target. What's next? Use this article to find links to additional resouces, training tutorials, and how-to videos.
 title: Where Can I Find Additional Resources to More Effectively Use Target?
 feature: Overview
-docid: d4d14338-6290-44e0-9516-a981dd2062ee
 ---
 
 # Chapter 9: Next steps and resources

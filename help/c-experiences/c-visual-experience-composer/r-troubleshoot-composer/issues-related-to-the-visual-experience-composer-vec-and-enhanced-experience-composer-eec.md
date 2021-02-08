@@ -3,7 +3,6 @@ keywords: Targeting;visual experience composer;whitelist;white list;allowlist;al
 description: Learn how to troubleshoot problems that sometimes occur in the Adobe Target Visual Experience Composer (VEC) and the Enhanced Experience Composer (EEC) under certain conditions.
 title: How Do I Troubleshoot Issues Related to the Visual Experience Composer and Enhanced Experience Composer?
 feature: Visual Experience Composer (VEC)
-docid: 95ff783d-682c-4ca5-8852-5ab6b75a4727
 ---
 
 # Troubleshooting Issues Related to the Visual Experience Composer and Enhanced Experience Composer

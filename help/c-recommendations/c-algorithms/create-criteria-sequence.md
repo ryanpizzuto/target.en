@@ -3,7 +3,6 @@ keywords: criteria sequence;multiple criteria;algorithms;criteria;recommendation
 description: Learn how to set sequences of up to five criteria to exercise greater control of the items that appear in your Adobe Target Recommendations activities.
 title: How Do I Create Criteria Sequences in Recommendations?
 feature: Recommendations
-docid: 836a6289-5c32-48b0-855b-fdc626ffca33
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Create criteria sequences

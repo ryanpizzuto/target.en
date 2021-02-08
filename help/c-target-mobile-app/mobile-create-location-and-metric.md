@@ -4,7 +4,6 @@ description: View sample code to help you learn how to create locations and succ
 title: How Do I Create Target Locations and Success Metrics in an iOS app?
 feature: Implement Mobile
 role: Developer
-docid: 83d30e38-a19a-4ec7-82e2-4953660da781
 ---
 
 # iOS - create a Target location and success metric{#ios-create-a-target-location-and-success-metric}

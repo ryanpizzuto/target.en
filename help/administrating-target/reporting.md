@@ -4,7 +4,6 @@ description: Use Target or Adobe Analytics as the reporting source, specify the 
 title: How Do I Configure Reporting in Target?
 feature: Administration & Configuration
 role: Administrator
-docid: e61c6e26-d9da-49c5-a97c-687bf68b0f20
 ---
 
 # Configure reporting in Target

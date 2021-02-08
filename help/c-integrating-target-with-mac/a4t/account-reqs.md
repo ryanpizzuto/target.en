@@ -4,7 +4,6 @@ description: Learn how to configure the user account requirements necessary to c
 title: Which User Permission Requirements Are Needed for A4T?
 feature: Analytics for Target (A4T)
 solution: Target,Analytics
-docid: fd6313eb-fb0a-4d05-b9a3-41a167baeede
 ---
 
 # User permission requirements

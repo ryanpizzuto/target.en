@@ -3,7 +3,6 @@ keywords: analytics tracking server;A4T;analytics segments;report suites;incorre
 description: Explore common issues customers have encountered when using Analytics for Target (A4T).
 title: How Do I Troubleshoot the Analytics and Target Integration (A4T)
 feature: Analytics for Target (A4T)
-docid: 1f8ef5cf-ec27-45a0-acca-714fa223fb68
 ---
 
 # Troubleshoot the Analytics and Target integration (A4T)

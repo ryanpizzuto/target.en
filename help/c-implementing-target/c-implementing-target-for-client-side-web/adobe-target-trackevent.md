@@ -4,7 +4,6 @@ description: Use the adobe.target.trackEvent() function for the Adobe Target at.
 title: How Do I Use the adobe.target.trackEvent() Function?
 feature: at.js
 role: Developer
-docid: 84e8e3f3-cecb-43db-9227-36f6c935b46c
 ---
 
 # adobe.target.trackEvent(options)

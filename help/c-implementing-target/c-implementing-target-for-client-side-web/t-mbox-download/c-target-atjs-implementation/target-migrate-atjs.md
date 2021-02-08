@@ -4,7 +4,6 @@ description: Learn how to migrate to at.js, the new implementation library for A
 title: How to Migrate to at.js from mbox.js
 feature: at.js
 role: Developer
-docid: 555d2df2-c8a5-4461-895d-a7bf385db6fb
 ---
 
 # How to Migrate to at.js from mbox.js

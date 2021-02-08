@@ -4,7 +4,6 @@ description: Know the considerations you should address before implementing Adob
 title: How Should I Prepare to Implement Target?
 feature: Implementation
 role: Developer
-docid: 1993459c-e9a2-4c7f-b90e-d79edc7a1228
 ---
 
 # Prepare to implement Target

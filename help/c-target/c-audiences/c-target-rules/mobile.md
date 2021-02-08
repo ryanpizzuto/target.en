@@ -3,7 +3,6 @@ keywords: targeting;mobile;target mobile;deviceatlas;iphone;iphone models;device
 description: Learn how to create audiences in Adobe Target to target mobile devices based on parameters such as mobile device, type of device, device vendor, screen dimensions (by pixels), and more.
 title: Can I Target Visitors Based on Mobile Options?
 feature: Audiences
-docid: eae6445f-68f3-4742-a5bf-3bc65316c78d
 ---
 
 # Mobile{#mobile}

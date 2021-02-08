@@ -4,7 +4,6 @@ description: Learn about the procedures Adobe uses to bolster the security of yo
 title: How Does Target Handle Security of My Data?
 feature: Privacy & Security
 role: Developer
-docid: 75953923-d565-423d-96a3-a231f1fc6c03
 ---
 
 # Target security overview

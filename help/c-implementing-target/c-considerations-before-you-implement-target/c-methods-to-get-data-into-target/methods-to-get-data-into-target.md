@@ -4,7 +4,6 @@ description: Get data into Target (page parameters, profile attributes, script p
 title: How Do I Get Data into Target?
 feature: Implementation
 role: Developer
-docid: f328410b-3b45-47c5-9bca-0c52e5700e33
 ---
 
 # Methods to get data into Target

@@ -3,7 +3,6 @@ keywords: Target;reports;report settings;multiple metrics;metrics;shown metrics;
 description: Learn how to select multiple metrics to view in a report using Adobe Target.
 title: How Do I View Multiple Metrics in a Report?
 feature: Reports
-docid: 708d24ca-8f84-40c2-8422-007a748c79de
 ---
 
 # View multiple metrics in a report{#view-multiple-metrics-in-a-report}

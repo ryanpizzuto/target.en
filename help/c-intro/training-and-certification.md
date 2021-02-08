@@ -3,7 +3,6 @@ keywords: training;certification;target;online courses;courses;class;classes
 description: Find Adobe Target classes and certifications offered by Adobe Training Services.
 title: Where Can I Find Training and Certification classes?
 feature: Overview
-docid: c0d1f914-5931-40ff-a271-0064dfa555a9
 ---
 
 # Training and certification{#training-and-certification}

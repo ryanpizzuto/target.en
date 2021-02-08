@@ -4,7 +4,6 @@ description: Learn how to use environments in Adobe Target to organize your site
 title: What are Environments and How Do I Use Them?
 feature: Administration & Configuration
 role: Administrator
-docid: 4bb8b540-c97a-49ac-bdd5-134610ed7aca
 ---
 
 # Environments

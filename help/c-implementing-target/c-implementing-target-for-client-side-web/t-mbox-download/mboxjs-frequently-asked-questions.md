@@ -4,7 +4,6 @@ description: Learn about the legacy mbox.js implementation of Adobe Target. Migr
 title: What Are Some Frequently Asked Questions about Target mbox.js?
 feature: at.js
 role: Developer
-docid: 76d96504-83c5-4fc0-986c-0d4010fb69d9
 ---
 
 # mbox.js Frequently Asked Questions{#mbox-js-frequently-asked-questions}

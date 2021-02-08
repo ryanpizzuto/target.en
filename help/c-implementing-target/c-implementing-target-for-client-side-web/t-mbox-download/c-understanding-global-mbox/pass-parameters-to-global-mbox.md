@@ -4,7 +4,6 @@ description: Learn how to use the targetPageParams function to pass additional t
 title: How Do I Pass Parameters to a Global mbox?
 feature: at.js
 role: Developer
-docid: 248712c5-7571-40f6-a3e8-d02f30c65957
 ---
 
 # Pass Parameters to a global mbox

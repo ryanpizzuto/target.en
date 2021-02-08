@@ -3,7 +3,6 @@ keywords: visual experience composer;vec;wysiwyg
 description: Learn the basics of using the Visual Experience Composer (VEC) in Adobe Target. The VEC is a WYSIWYG editor that lets you easily create personalized experiences.
 title: How Do I Use the Visual Experience Composer (VEC)?
 feature: Visual Experience Composer (VEC)
-docid: 321169d0-9a5f-4988-bbfb-b4516d3c470d
 ---
 
 # Visual Experience Composer (VEC)

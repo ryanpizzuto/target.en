@@ -4,7 +4,6 @@ description: Learn how to use response tokens in Adobe Target output specific in
 title: What are Response Tokens and How Do I Use Them?
 feature: Administration & Configuration
 role: Administrator
-docid: 9e88894b-517c-420c-aeb3-48a0a542ce4f
 ---
 
 # Response tokens{#response-tokens}

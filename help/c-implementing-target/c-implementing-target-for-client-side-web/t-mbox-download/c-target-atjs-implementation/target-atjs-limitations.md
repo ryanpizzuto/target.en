@@ -4,7 +4,6 @@ description: Learn about the legacy mbox.js implementation of Adobe Target. Migr
 title: What Are the Differences Between at.js and mbox.js?
 feature: at.js
 role: Developer
-docid: 7253fee5-4ac8-4879-8016-e9fa3ed1e26c
 ---
 
 # at.js Limitations

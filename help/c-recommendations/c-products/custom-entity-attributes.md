@@ -4,7 +4,6 @@ description: Learn how to use single- and multi-value custom entity attributes t
 title: How Do I Use Custom Entity Attributes?
 feature: Recommendations
 mini-toc-levels: 3
-docid: a6a337f6-c160-4ee8-96f1-e4a6db5d5bc4
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Custom entity attributes{#custom-entity-attributes}

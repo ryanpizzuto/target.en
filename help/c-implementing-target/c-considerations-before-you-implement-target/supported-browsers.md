@@ -4,7 +4,6 @@ description: Learn which internet browsers Adobe Target supports for its interfa
 title: What Browsers Does Target Support?
 feature: Implementation
 role: Developer
-docid: 24247e24-253f-406f-b6c3-1721d0c60586
 ---
 
 # Supported browsers

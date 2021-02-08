@@ -3,7 +3,6 @@ keywords: Overview and Reference
 description: Learn more about visitor profiles that contain information about how your visitors use your pages and other optimized content locations.
 title: What Are Visitor Profiles?
 feature: Audiences
-docid: 9a7a4c00-2ef8-4f64-86b8-f5605d3afaac
 ---
 
 # Visitor profiles{#visitor-profiles}

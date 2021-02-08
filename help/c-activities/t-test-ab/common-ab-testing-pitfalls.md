@@ -3,7 +3,6 @@ keywords: AB;A/B;AB...n;mistakes;pitfalls;mistake;pitfall;significance;winner;st
 description: Learn how to avoid the most common pitfalls and mistakes that companies make when performing A/B testing in Adobe Target and other testing solutions.
 title: How Do I Avoid Common A/B Testing Mistakes?
 feature: A/B Tests
-docid: da9778d1-ea25-4118-bf08-c730e2e36d38
 ---
 
 # Ten common A/B testing pitfalls and how to avoid them

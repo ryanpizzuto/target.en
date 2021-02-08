@@ -3,7 +3,6 @@ keywords: variables;profiles;parameters;built in profiles;methods;url variables;
 description: View a list of various profiles, variables, and parameters that are useful in profile scripts in Adobe Target.
 title: Which Profiles, Variables, and Parameters Are Used in Target?
 feature: Audiences
-docid: 773c0dff-51c4-4d9a-ac84-547c3e0d2201
 ---
 
 # Profile and variable glossary{#profile-and-variable-glossary}

@@ -4,7 +4,6 @@ description: Learn how to create Adobe Target audiences to target users based on
 title: Can I Target Visitors Based Location?
 feature: Audiences
 solution: Target,Analytics
-docid: 1c38a4bc-fbc8-450a-bd65-2c3d81e40821
 ---
 
 # Geo{#geo}

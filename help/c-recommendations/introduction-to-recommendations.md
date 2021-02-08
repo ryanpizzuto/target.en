@@ -3,7 +3,6 @@ keywords: Recommendations;intro;introduction;webinar;demo
 description: Learn about Recommendations activities in Adobe Target that automatically display content that might interest your customers based on previous user activity or other algorithms.
 title: What Are Recommendations Activities?
 feature: Recommendations
-docid: 4fdb7742-8534-45da-a0c9-9828b79a8d1b
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Introduction to Recommendations

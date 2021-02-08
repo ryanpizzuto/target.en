@@ -3,7 +3,6 @@ keywords: experience;json;aem;adobe experience manager;export to adobe target;ex
 description: Learn how to use AEM experience fragments in Adobe Target activities. Combine the ease-of-use and power of AEM with powerful AI and ML capabilities in Target.
 title: How Do I Use Adobe Experience Manager (AEM) Experience Fragments?
 feature: Experiences and Offers
-docid: c3c0cc54-8f25-4bee-92ef-6ca6dfffd552
 ---
 
 # AEM experience fragments

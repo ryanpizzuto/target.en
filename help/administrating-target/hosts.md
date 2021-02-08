@@ -4,7 +4,6 @@ description: Learn how to organize your websites and pre-production environments
 title: What are Hosts and How Do I Use Them?
 feature: Administration & Configuration
 role: Administrator
-docid: a1b37a08-b88c-426a-a2ed-a0ef53451888
 ---
 
 # Hosts{#hosts}

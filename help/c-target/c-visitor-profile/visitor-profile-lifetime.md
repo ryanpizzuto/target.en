@@ -3,7 +3,6 @@ keywords: Overview and Reference
 description: Learn more about when a visitor profile expires (by default, 14 days) in Adobe Target. The profile lifetime can be extended by contacting Adobe Client Care.
 title: What Is the Visitor Profile Lifetime and Can I Extend It?
 feature: Audiences
-docid: e7e90ea8-87f1-48a9-b300-3907f8d301c2
 ---
 
 # Visitor profile lifetime{#visitor-profile-lifetime}

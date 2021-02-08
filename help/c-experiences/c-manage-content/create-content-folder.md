@@ -3,7 +3,6 @@ keywords: content;create folder;assets;move folder;copy folder;delete folder;dow
 description: How do I create folders in the Offers library?
 title: Learn how to create folders in the Adobe Target Offers library to hold code and image offers, as well as other folders.
 feature: Experiences and Offers
-docid: 7b3e41b5-7c2b-4c82-acd9-728457cec1b5
 ---
 
 # Create offer folders

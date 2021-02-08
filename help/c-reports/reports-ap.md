@@ -3,7 +3,6 @@ keywords: Targeting;AP reports;automated personalization reports;activity level 
 description: Learn how to interpret the Automated Personalization Summary report in Adobe Target. You can switch to the Automated Segments and Important Attributes reports from this report.
 title: How Do I Use the Automated Personalization Summary Reports?
 feature: Reports
-docid: c4a91f41-70ce-4197-9f92-d0b21743604f
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Automated Personalization Summary reports

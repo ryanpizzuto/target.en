@@ -3,7 +3,6 @@ keywords: AB;A/B;AB...n;compare experiences;Targeting;compare content;auto-targe
 description: Learn about the different types of A/B Test activities in Adobe Target: Manual, Auto-Allocate, and Auto-Target. Choose the one that's right for you.
 title: Which Type of A/B Activities Are Available in Target?
 feature: A/B Tests
-docid: 063a291b-e36f-4c55-b961-c937efe8d549
 ---
 
 # A/B Test overview

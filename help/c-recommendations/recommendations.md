@@ -3,7 +3,6 @@ keywords: Recommendations;Recommendations criteria;recommendations algorithms;re
 description: Learn about Recommendations activities in Adobe Target that automatically display content that might interest your customers based on previous user activity or other algorithms.
 title: What is Target Recommendations?
 feature: Recommendations
-docid: 0b31c483-c046-4915-b446-bac88897e023
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Recommendations{#recommendations}

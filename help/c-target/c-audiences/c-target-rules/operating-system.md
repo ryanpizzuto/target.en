@@ -3,7 +3,6 @@ keywords: Targeting;target operating system;operating system;target os;os;target
 description: Learn how to target visitors who use a certain operating system (Linux, Macintosh, or Windows).
 title: Can I Target Visitors Based on Operating System?
 feature: Audiences
-docid: b3533925-ce4f-467d-b8f7-05fd3768a89e
 ---
 
 # Operating System{#operating-system}

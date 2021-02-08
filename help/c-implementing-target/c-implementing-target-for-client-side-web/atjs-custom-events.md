@@ -4,7 +4,6 @@ description: Use custom events for the Adobe Target at.js JavaScript library to 
 title: How Do I Use at.js Custom Events?
 feature: at.js
 role: Developer
-docid: 22184ed2-6f77-4e73-b1b5-b29cbc87769e
 ---
 
 # at.js custom events

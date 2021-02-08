@@ -4,7 +4,6 @@ description: Learn how to use Redirectors in email implementations, similarly to
 title: How Do I Work with Redirectors?
 feature: Implement Email
 role: Developer
-docid: 507fac81-0d29-4f55-b25e-bf1223845aa7
 ---
 
 # Work with redirectors{#work-with-redirectors}

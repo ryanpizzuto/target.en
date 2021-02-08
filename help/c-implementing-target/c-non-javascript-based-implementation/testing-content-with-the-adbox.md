@@ -4,7 +4,6 @@ description: Use an AdBox to deliver images in an off-site implementation using 
 title: How Do I Create an Adbox for an Image?
 feature: Implement Email
 role: Developer
-docid: a60765b4-e7d9-488a-adfd-7d2b7efdf92c
 ---
 
 # Create an Adbox for an image{#create-an-adbox-for-an-image}

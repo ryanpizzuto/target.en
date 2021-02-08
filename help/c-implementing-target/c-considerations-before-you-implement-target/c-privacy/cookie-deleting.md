@@ -4,7 +4,6 @@ description: Learn how to delete your Target browser cookies so that you can val
 title: How Do I Delete the Target Cookie?
 feature: Privacy & Security
 role: Developer
-docid: dad26ffe-98ba-4226-b440-47312897d9f2
 ---
 
 # Delete the Target cookie

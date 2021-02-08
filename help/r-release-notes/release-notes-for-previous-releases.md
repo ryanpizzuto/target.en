@@ -3,7 +3,6 @@ keywords: Release notes
 description: View a list of features, enhancements, and fixes included in previous releases of Adobe Target.
 title: What Features Are Included in Previous Releases?
 feature: Release Notes
-docid: 3141c082-a7b7-410e-a952-419944924124
 ---
 
 # Release notes for previous releases{#release-notes-for-previous-releases}

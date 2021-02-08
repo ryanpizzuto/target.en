@@ -3,7 +3,6 @@ keywords: recommendations Classic
 description: Download a PDF of the legacy Adobe Recommendations Classic documentation.
 title: Where Can I Find Documentation for Adobe Recommendations Classic?
 feature: Recommendations
-docid: a080a3ba-bba3-4176-896e-0702fc19e440
 ---
 
 # Recommendations Classic documentation

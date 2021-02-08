@@ -3,7 +3,6 @@ keywords: recommendations
 description: Find information about Recommendations activities in Adobe Target that automatically display products or content that might interest your customers based on previous user activity.
 title: Where Can I Find Information About Recommendations Activities?
 feature: Recommendations
-docid: c84ca5ca-b3de-43b9-84e5-349583ee3348
 ---
 
 # Recommendations activity

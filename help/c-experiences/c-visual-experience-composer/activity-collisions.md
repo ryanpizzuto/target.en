@@ -3,7 +3,6 @@ keywords: targeting;collisions;conflicts
 description: Collisions occur when multiple activities are set up to deliver content to the same page. Learn how to avoid collisions when using Adobe Target.
 title: How Can I Avoid Activity Collisions?
 feature: Visual Experience Composer (VEC)
-docid: 54b2ce5b-9379-4769-87cf-bd129f613f24
 ---
 
 # Activity collisions

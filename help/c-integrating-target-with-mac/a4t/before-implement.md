@@ -3,7 +3,6 @@ keywords: Recommendations
 description: Learn the implementation requirements for Analytics for Target (A4T) and what to consider before you implement this integration.
 title: What Should I Know Before Implementing A4T?
 feature: Analytics for Target (A4T)
-docid: d56c7aa2-2018-4a48-9756-cb1800ac2d82
 ---
 
 # Before you implement{#before-you-implement}

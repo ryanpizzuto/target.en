@@ -3,7 +3,6 @@ keywords: customer relationship management;customer record service;crs;crm;mbox3
 description: Learn how to use enterprise customer data from a customer relationship management (CRM) database for content targeting in Adobe Target.
 title: What Are Customer Attributes and How Do I Use Them?
 feature: Audiences
-docid: 5594e811-bb13-4842-abb9-2c8499d23098
 ---
 
 # Customer attributes

@@ -3,7 +3,6 @@ keywords: character limit;mbox parameters;batch delivery api;profile parameters;
 description: View a list of character limits and other limits (offer size, audiences, profiles, values, parameters, etc.) that affect activities and other elements in Adobe Target.
 title: Review a list of character limits and other limits (offer size, audiences, profiles, values, parameters, etc.) that affect activities and other elements in Adobe Target.
 feature: Troubleshooting
-docid: e92a1764-211c-460f-9186-f177baba186a
 ---
 
 # Limits

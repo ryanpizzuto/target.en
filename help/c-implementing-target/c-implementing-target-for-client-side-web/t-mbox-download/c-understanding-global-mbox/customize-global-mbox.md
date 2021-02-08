@@ -4,7 +4,6 @@ description: Learn how to customize a global mbox for at.js on the Administratio
 title: How Do I Customize a Global mbox?
 feature: at.js
 role: Developer
-docid: 0e480ce2-8563-42de-9b51-dd42f0bd88a3
 ---
 
 # Customize a Global mbox

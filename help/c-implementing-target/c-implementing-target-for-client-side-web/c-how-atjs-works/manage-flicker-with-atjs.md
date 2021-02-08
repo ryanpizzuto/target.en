@@ -4,7 +4,6 @@ description: Learn how at.js and Adobe Target prevent flicker (default content m
 title: How does at.js Manage Flicker?
 feature: at.js
 role: Developer
-docid: 1cfab592-ebed-4a9b-a696-f57a47675cbb
 ---
 
 # How at.js manages flicker{#how-at-js-manages-flicker}

@@ -4,7 +4,6 @@ description: Learn how to add users to Adobe Target; create workspaces, user gro
 title: How Do I Configure Enterprise Permissions?
 feature: Administration & Configuration
 role: Administrator
-docid: 9c8a505c-ba30-4399-8017-f4fadd306349
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Configure enterprise permissions{#configure-enterprise-permissions}

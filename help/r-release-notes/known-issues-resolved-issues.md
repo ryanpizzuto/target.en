@@ -3,7 +3,6 @@ keywords: known issues;resolved issues;release notes;bugs;issues;fixes
 description: Find information about known issues in Adobe Target, including workaround information. When issues are resolved, they are moved to the Resolved section.
 title: Where Can I Find Information About Known Issues and Resolved Issues?
 feature: Release Notes
-docid: d474f82f-ab54-46d6-99d4-3c7df93051da
 ---
 
 # Known issues and resolved issues

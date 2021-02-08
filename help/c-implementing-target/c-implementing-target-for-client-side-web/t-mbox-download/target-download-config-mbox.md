@@ -4,7 +4,6 @@ description: Learn about the legacy mbox.js implementation of Adobe Target. Migr
 title: How Do I Download the Target mbox.js library?
 feature: at.js
 role: Developer
-docid: 33e6acae-3743-472d-a389-091fd982873d
 ---
 
 # Download mbox.js{#download-mbox-js}

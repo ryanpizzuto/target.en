@@ -3,7 +3,6 @@ keywords: troubleshooting;metric discrepancies;FAQ;reports;new visitor;new visit
 description: Explore a list of frequently asked questions and answers about Adobe Target reporting.
 title: Where Can I Find Answers to Questions About Target Reporting?
 feature: Reports
-docid: 1d89ff9f-6766-4515-986a-01cc5751dc14
 ---
 
 # Reporting FAQ{#reporting-faq}

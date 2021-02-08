@@ -4,7 +4,6 @@ description: Use the adobe.target.triggerView() function for the Adobe Target at
 title: How Do I Use the adobe.target.triggerView() Function?
 feature: at.js
 role: Developer
-docid: f46a0545-1f26-46d2-8267-1a80adbfbac6
 ---
 
 # adobe.target.triggerView (viewName, options) - at.js 2.x

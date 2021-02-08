@@ -3,7 +3,6 @@ keywords: faq;frequently asked questions;analytics for target;a4T;report;reports
 description: Find answers to questions that are frequently asked about viewing reports when using Analytics for Target (A4T). A4T lets you use Analytics reporting for Target activities.
 title: Find Answers to Questions About Viewing Reports with A4T?
 feature: Analytics for Target (A4T)
-docid: 13b5ea42-fd4a-416c-abf6-692e6730a424
 ---
 
 # View reports - A4T FAQ

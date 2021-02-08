@@ -3,7 +3,6 @@ description: Learn how to use the Adobe Mobile SDK to show the optimal experienc
 title: How Does Target Work in Mobile Apps?
 feature: Implement Mobile
 role: Developer
-docid: ac25fe04-9318-4ff2-ba4a-6683647fe561
 ---
 
 # How Target works in mobile apps{#how-target-works-in-mobile-apps}

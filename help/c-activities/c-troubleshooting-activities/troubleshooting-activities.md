@@ -3,7 +3,6 @@ keywords: troubleshoot target;troubleshooting target;default content;test not li
 description: Find troubleshooting suggestions should your Adobe Target activity not appear on your site.
 title: How Can I Troubleshoot Activities?
 feature: Activities
-docid: 54991c32-963e-46e6-bb34-3dfd10e28482
 ---
 
 # Troubleshoot activities

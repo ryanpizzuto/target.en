@@ -3,7 +3,6 @@ keywords: release notes;releases;updates;future release;enhancements;new feature
 description: Learn about the new features, enhancements, and fixes included in the upcoming release of Adobe Target, including SDKs, APIs, and JavaScript libraries.
 title: What New Features Are Included in the Upcoming Release?
 feature: Release Notes
-docid: d1460007-5f7a-4255-93f0-e265b9e129b5
 ---
 
 # Target release notes (prerelease)

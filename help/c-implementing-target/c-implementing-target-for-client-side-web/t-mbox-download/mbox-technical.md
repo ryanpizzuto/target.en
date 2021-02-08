@@ -4,7 +4,6 @@ description: Learn about the legacy mbox.js implementation of Adobe Target. Migr
 title: What does the Target mbox.js Library Do?
 feature: at.js
 role: Developer
-docid: 9a42563a-221f-4bbb-8de5-725226ad0557
 ---
 
 # What mbox.js does{#what-mbox-js-does}

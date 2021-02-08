@@ -4,7 +4,6 @@ description: Work with Adobe Client Care to implement CNAME (Canonical Name) sup
 title: How Do I Use CNAME in Target?
 feature: Privacy & Security
 role: Developer
-docid: 0395d193-2761-4bc7-8641-8b93cfa0fb02
 ---
 
 # CNAME and Adobe Target

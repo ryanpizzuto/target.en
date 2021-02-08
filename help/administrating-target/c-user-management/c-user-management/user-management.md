@@ -4,7 +4,6 @@ description: Learn how to use the Adobe Admin Console to manage users and their 
 title: How Do I Add Users and Manage Permissions?
 feature: Administration & Configuration
 role: Administrator
-docid: 5eabd7d7-0c7a-4d14-838a-823c2d331dc0
 ---
 
 # Users{#users}

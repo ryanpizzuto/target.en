@@ -3,7 +3,6 @@ keywords: faq;frequently asked questions;analytics for target;a4T;metric;metric 
 description: Find answers to questions about metric definitions and using Analytics for Target (A4T). A4T lets you use Analytics reporting with Adobe Target activities.
 title: Where Can I Find Information About Metric Definitions with A4T?
 feature: Analytics for Target (A4T)
-docid: 4a1fb273-f0ea-4d16-b24e-c32fa2b14dc8
 ---
 
 # Metric definitions - A4T FAQ

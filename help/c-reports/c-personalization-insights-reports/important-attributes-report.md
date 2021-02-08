@@ -3,7 +3,6 @@ keywords: Targeting;AP reports;automated personalization reports;auto-target;aut
 description: Learn how to use the Important Attributes report in Adobe Target that shows the top attributes that influenced the personalization model and their relative importance.
 title: What Is the Important Attributes Report?
 feature: Reports
-docid: 535dba03-e448-4d9d-a76b-4be5921d65b6
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Important Attributes report{#important-attributes-report}

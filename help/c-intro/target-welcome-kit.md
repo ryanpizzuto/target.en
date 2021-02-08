@@ -3,7 +3,6 @@ keywords: welcome kit;target welcome kit;intro;introduction;getting started
 description: New to Adobe Target? Get a jump-start with the Adobe Target Welcome Kit.
 title: How Do I Get Started with Target
 feature: Overview
-docid: 0d55a2d7-4fd4-4104-a300-355659aa89f3
 ---
 
 # Adobe Target welcome kit

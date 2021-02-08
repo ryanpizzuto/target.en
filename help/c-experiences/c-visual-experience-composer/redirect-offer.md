@@ -3,7 +3,6 @@ kewords: redirect;redirect url;send to different page
 description: Learn how to use the Redirect to URL option in Adobe Target when you want to send the visitor to a different page rather than showing content on the same page.
 title: Can I Redirect a Page to a Different URL?
 feature: Visual Experience Composer (VEC)
-docid: 3b44091a-cac3-4908-8106-fa92d9ab4f99
 ---
 
 # Redirect to a URL

@@ -4,7 +4,6 @@ description: Learn how to select an experience to be used as control while creat
 title: How Can I Use a Specific Experience as Control in an AP Activity?
 feature: Automated Personalization
 solution: Target,Analytics
-docid: 716cccfa-a541-4806-aeba-626cce8e3f7e
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Select the control for your Automated Personalization or Auto-Target activity

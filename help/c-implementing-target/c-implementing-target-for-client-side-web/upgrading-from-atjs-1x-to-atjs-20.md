@@ -4,7 +4,6 @@ description: Learn how to upgrade from Adobe Target at.js 1.x to at.js 2.x. Exam
 title: How Do I Upgrade from at.js Version 1.x to Version 2.x?
 feature: at.js
 role: Developer
-docid: 1d02a765-d37b-4893-94ed-caf69a9de025
 ---
 
 # Upgrading from at.js 1.*x* to at.js 2.*x* {#upgrading-from-atjs-1x-to-atjs-200}

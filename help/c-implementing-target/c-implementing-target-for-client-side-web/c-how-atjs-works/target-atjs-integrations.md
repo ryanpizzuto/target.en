@@ -4,7 +4,6 @@ description: See the integrations supported (and not supported) by Adobe Target 
 title: What Integrations Does at.js Support?
 feature: at.js
 role: Developer
-docid: 88ea2f16-2168-442c-a234-a54100865923
 ---
 
 # at.js integrations{#at-js-integrations}

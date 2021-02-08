@@ -4,7 +4,6 @@ description: Learn about Target and the European Union General Data Protection R
 title: How Does Target Handle Privacy and Data Protection Regulations?
 feature: Privacy & Security
 role: Developer
-docid: 010c88c1-7d40-4d57-84b8-acedf5fb947d
 ---
 
 # Privacy and data protection regulations

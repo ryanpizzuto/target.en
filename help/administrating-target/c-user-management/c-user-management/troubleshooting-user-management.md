@@ -4,7 +4,6 @@ description: Troubleshooting information about managing users in Adobe Target.
 title: How Can I Troubleshoot Problems with User Management?
 feature: Administration & Configuration
 role: Administrator
-docid: cbddfa6f-b8fb-4609-bc97-8d881c2899d0
 ---
 
 # Troubleshoot user management{#troubleshoot-user-management}

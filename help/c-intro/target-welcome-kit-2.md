@@ -3,7 +3,6 @@ keywords: welcome kit;target welcome kit;intro;introduction;getting started
 description: Take a high-level look at Adobe Target. Learn about available activities, channels, implementation, integrations, and more.
 title: Where Can I Find a High-level Introduction to Target?
 feature: Overview
-docid: be13c017-134f-48d4-afff-c5f92fa61c02
 ---
 
 # Chapter 2: Adobe Target at a glance

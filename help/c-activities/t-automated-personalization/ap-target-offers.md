@@ -4,7 +4,6 @@ description: Learn how to target individual offers to specific audiences by usin
 title: How Can I Target Automated Personalization Offers?
 feature: Automated Personalization
 solution: Target,Analytics
-docid: d089d764-21ef-490b-9cc1-79a5d5fd3a55
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Target Automated Personalization offers{#target-automated-personalization-offers}

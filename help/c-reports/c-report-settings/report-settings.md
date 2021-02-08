@@ -3,7 +3,6 @@ keywords: Target;reports;report settings;preset;target preset;metric;audience;da
 description: Learn how to configure report settings in Adobe Target, including metrics, audiences, date ranges,  and more.
 title: How Do I Configure Report Settings?
 feature: Reports
-docid: 1e98fd8f-92e7-4766-96ac-0315d8b017ce
 ---
 
 # Report settings{#report-settings}

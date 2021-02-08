@@ -4,7 +4,6 @@ description: Learn how to implement the Adobe Target at.js library using Adobe E
 title: How Do I Implement Target using Adobe Launch?
 feature: Implement Server-side
 role: Developer
-docid: d15f3f94-075a-45f9-a3a0-14803d3ee31c
 ---
 
 # Implement Target using Adobe Launch

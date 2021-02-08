@@ -3,7 +3,6 @@ keywords: recommendation;backup;back up
 description: Learn how to use backup recommendations in Adobe Target Recommendations. Recommendation that do not have enough recommended items displays the results of the backup algorithm.
 title: How Do I Use a Backup Recommendation in Recommendations?
 feature: Recommendations
-docid: aac453d7-3c8b-4fdb-891b-f399a618cd23
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Use a backup recommendation{#use-a-backup-recommendation}

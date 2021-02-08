@@ -3,7 +3,6 @@ keywords: redirect offer;create redirect offer;add html offer;Pass all URL param
 description: Learn how to create redirect offers in Adobe Target to cause a browser to redirect to a new page. 
 title: How Do I Create Redirect Offers?
 feature: Experiences and Offers
-docid: 3045dd82-03bc-4249-93b3-07c5cf7e0533
 ---
 
 # Create redirect offers

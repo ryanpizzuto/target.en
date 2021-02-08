@@ -4,7 +4,6 @@ description: Learn how to use the Adobe Experience Platform Location Service to 
 title: How do I Use the Adobe Location Service?
 feature: Implement Mobile
 role: Developer
-docid: 71e55ee4-f3ca-4015-9279-575ec3cba1d1
 ---
 
 # Use Location Service

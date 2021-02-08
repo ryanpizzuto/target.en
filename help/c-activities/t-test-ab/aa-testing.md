@@ -3,7 +3,6 @@ keywords: a/b;a/a;aa;
 description: Learn what an A/A test is, why you might want to perform an A/A test, how long you should run the test, and how to interpret the results.
 title: What is A/A Testing?
 feature: A/B Tests
-docid: f6be6813-5cc8-40e0-a60e-ef33c10ee4c9
 ---
 
 # A/A testing

@@ -4,7 +4,6 @@ description: Learn how to send Adobe Target mobile app activity information to A
 title: Can I Send Mobile App Activity Information to Analytics?
 feature: Implement Mobile
 role: Developer
-docid: 6dde6eb8-8e24-4b21-8000-31533a2999ba
 ---
 
 # Send activity information to Adobe Analytics{#send-activity-information-to-adobe-analytics}

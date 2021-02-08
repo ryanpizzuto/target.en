@@ -4,7 +4,6 @@ description: Learn about the legacy mbox.js implementation of Adobe Target. Migr
 title: Which Functions does mbox.js support?
 feature: at.js
 role: Developer
-docid: 42bc86f6-4b11-430e-b2aa-55220f9e8358
 ---
 
 # mbox.js functions{#mbox-js-functions}

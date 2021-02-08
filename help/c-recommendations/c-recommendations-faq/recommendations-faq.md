@@ -3,7 +3,6 @@ keywords: troubleshooting;frequently asked questions;FAQ;FAQs;recommendations;sp
 description: View a list of frequently asked questions and answers about Adobe Target Recommendations activities.
 title: Where Can I find Questions and Answers about Target Recommendations?
 feature: Recommendations
-docid: 8153b9bb-e111-4ec8-a918-9e0cd797ee67
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Recommendations FAQ{#recommendations-faq}

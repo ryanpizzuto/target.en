@@ -3,7 +3,6 @@ keywords: announcements;skill builder;developer chat;coffee break;events;forrest
 description: Read announcements and sign up for Adobe Target events, including Skill Builder sessions, developer and product manager chats, webinars, and more.
 title: Where Can I find Target Announcements and Events?
 feature: Release Notes
-docid: a6e113b2-a182-432d-a657-89672dfb0351
 ---
 
 # Target announcements and events

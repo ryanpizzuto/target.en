@@ -3,7 +3,6 @@ keywords: auto-target;targeting;traffic allocation;frequently asked questions;fa
 description: Explore troubleshooting topics and Frequently Asked Questions about Auto-Target activities in Adobe Target.
 title: How Can I Troubleshoot Auto-Target Activities?
 feature: Auto-Target
-docid: f73b9a19-25a5-4762-ad47-d7822630713b
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Auto-Target troubleshooting and FAQs

@@ -4,7 +4,6 @@ description: Learn how to integrate Adobe Target with Adobe Dynamic Media Classi
 title: How Do I Configure the Dynamic Media Classic (Scene7) Integration?
 feature: Administration & Configuration
 role: Administrator
-docid: d0aec8b8-c4e8-47d4-88a0-865cb17511c6
 ---
 
 # Dynamic Media Classic (formerly Scene7) configuration

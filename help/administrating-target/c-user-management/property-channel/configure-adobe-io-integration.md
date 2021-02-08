@@ -4,7 +4,6 @@ description: Learn how to grant existing Adobe I/O integrations access to all wo
 title: How Do I Grant Adobe I/O Access to Workspaces and Assign Roles?
 feature: Administration & Configuration
 role: Administrator
-docid: bd48ea89-e788-4356-b936-b6575432a3d1
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Grant Adobe I/O integrations access to workspaces and assign roles

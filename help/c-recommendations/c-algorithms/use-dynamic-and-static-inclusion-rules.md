@@ -4,7 +4,6 @@ description: Learn how to create inclusion rules in Adobe Target Recommendations
 title: How Do I Use Dynamic and Static Inclusion Rules in Recommendations?
 feature: Recommendations
 mini-toc-levels: 3
-docid: e9e57021-4dc5-4081-9290-ffeb2a400dd1
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Use dynamic and static inclusion rules{#use-dynamic-and-static-inclusion-rules}

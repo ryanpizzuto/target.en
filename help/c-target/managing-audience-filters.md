@@ -3,7 +3,6 @@ keywords: Targeting;audience filter;audiences;filter
 description: Learn how to use audience filters in Adobe Target to view data from groups of visitors who share a specific characteristic or set of characteristics.
 title: Can I Use Audience Filters for Reporting?
 feature: Audiences
-docid: 59300ea9-c1a5-400e-8b3a-24b3c7016ed5
 ---
 
 # Audience filters for reporting{#audience-filters-for-reporting}

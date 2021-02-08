@@ -3,7 +3,6 @@ keywords: form-based experience composer;form-based composer;refinements
 description: Learn how to use the Adobe Target Form-Based Experience Composer for non-visual experience creation. Use this composer when the VEC is not available or not practical to use.
 title: How Do I Use the Form-Based Experience Composer?
 feature: Form-based Experience Composer
-docid: 0ffa2444-5b16-4675-a201-f4d5acb84d7c
 ---
 
 # Form-Based Experience Composer{#form-based-experience-composer}

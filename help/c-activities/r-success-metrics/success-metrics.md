@@ -3,7 +3,6 @@ keywords: Targeting;success;conversion metric;page score metric;page views metri
 description: Learn about success metrics in Adobe Target that help you determine the success of an activity. Success metrics include Conversion, Revenue, Page Views, Custom Scoring, and Time on Site.
 title: What Are Success Metrics?
 feature: Success Metrics
-docid: c8b511e9-842a-4c4c-99cf-87670557dabe
 ---
 
 # Success metrics

@@ -3,7 +3,6 @@ keywords: troubleshooting;frequently asked questions;FAQ;FAQs;targets;audiences
 description: View frequently asked questions (FAQs) about experience targeting and audiences used in Adobe Target activities.
 title: Where Can I Find Questions and Answers about Targets and Audiences?
 feature: Audiences
-docid: 1c5a37d9-7996-46c3-bf42-d2965b80051f
 ---
 
 # Targets and audiences FAQ{#targets-and-audiences-faq}

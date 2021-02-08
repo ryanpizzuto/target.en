@@ -3,7 +3,6 @@ keywords: activity settings;experience targeting goals and settings;xt goals and
 description: Learn how to use the Goals and Settings page in Adobe Target to specify information about the goals of an Experience Targeting (XT) activity.
 title: How Do I Specify Goals and Settings in an Experience Targeting Activity?
 feature: Experience Targeting
-docid: 39458456-20b2-4f12-9ec0-ed4fd7788a82
 ---
 
 # Goals and Settings in Experience Targeting (XT) activities

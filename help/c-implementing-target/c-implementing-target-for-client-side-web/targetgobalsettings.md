@@ -4,7 +4,6 @@ description: Use the targetGlobalSettings() function for the Adobe Target at.js 
 title: How Do I Use the targetGlobalSettings() Function?
 feature: at.js
 role: Developer
-docid: 1c663d77-8720-43c7-af72-498a5a00343f
 ---
 
 # targetGlobalSettings()

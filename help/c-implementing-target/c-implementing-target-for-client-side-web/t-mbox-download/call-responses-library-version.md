@@ -3,7 +3,6 @@ description: Learn about the legacy mbox.js implementation of Adobe Target. Migr
 title: Which Page Methods Does mbox.js Use?
 feature: at.js
 role: Developer
-docid: 67fa2657-e050-43f8-aae7-328cc96f734d
 ---
 
 # Target page methods by mbox.js library version{#target-page-methods-by-mbox-js-library-version}

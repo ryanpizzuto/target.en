@@ -3,7 +3,6 @@ keywords: Multivariate Tests;troubleshoot;troubleshooting;mvt
 description: Explore potential challenges you might face while using Multivariate Test (MVT) activities in Adobe Target, along with suggested solutions.
 title: How Do I Troubleshoot Multivariate Tests?
 feature: Multivariate Tests
-docid: 03cad900-1f66-4340-9426-2a8dc666985a
 ---
 
 # Troubleshoot Multivariate Tests

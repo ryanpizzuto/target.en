@@ -4,7 +4,6 @@ description: Learn how Target uses the TLS (Transport Layer Security) protocol t
 title: How Does Target Use TLS to Provide Security?
 feature: Privacy & Security
 role: Developer
-docid: ae8e9834-5422-4cf7-8a66-9f66f4b5dcd9
 ---
 
 # TLS (Transport Layer Security) encryption changes{#tls-transport-layer-security-encryption-changes}

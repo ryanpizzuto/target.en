@@ -4,7 +4,6 @@ description: Learn how to specify the settings (account details, implementation 
 title: Can I Implement Target without a Tag Manager?
 feature: Implement Server-side
 role: Developer
-docid: 389889dc-8e91-4c8a-98e0-69642f3c8fb1
 ---
 
 # Implement Target without a tag manager

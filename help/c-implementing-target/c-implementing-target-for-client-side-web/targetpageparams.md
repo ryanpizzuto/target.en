@@ -4,7 +4,6 @@ description: Use the targetPageParams() function for the Adobe Target at.js Java
 title: How Do I Use the targetPageParams() Function?
 feature: at.js
 role: Developer
-docid: c3d39eab-b4a5-4fae-926f-741c1a84ba93
 ---
 
 # targetPageParams() {#reference_B235C9F6DA79449ABE3E23F914FEABAE}

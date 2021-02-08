@@ -4,7 +4,6 @@ description: Learn about the Content Security Policy (CSP) directives you should
 title: How Does Target Handle Content Security Policies (CSP)?
 feature: Privacy & Security
 role: Developer
-docid: 10533f28-4f89-42cb-9223-d9a5801763a9
 ---
 
 # Content Security Policy (CSP) directives
