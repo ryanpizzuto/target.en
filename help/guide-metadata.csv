@@ -1,7 +1,7 @@
 filename,title,description,feature,topic,role,level
 metadata.md,,,,,Business Practitioner,Intermediate
 ./help/TOC.md,,,,,,
-./help/target-home.md,Where can I find Target documentation?,"Learn how to use Adobe Target to personalize your customers’ experience to maximize revenue on your web and mobile sites, apps, and other digital channels.",Overview,,,
+./help/target-home.md,Where can I find Target documentation?,"Learn how to use Adobe Target to personalize your customers' experience to maximize revenue on your web and mobile sites, apps, and other digital channels.",Overview,,,
 help/r-release-notes/target-announcements.md,Where Can I find Target Announcements and Events?,"Read announcements and sign up for Adobe Target events, including Skill Builder sessions, developer and product manager chats, webinars, and more.",Release Notes,,,
 ./help/r-release-notes/release-notes.md,What New Features Are Included in the current Release?,"Learn about the new features, enhancements, and fixes included in the current release of Adobe Target, including SDKs, APIs, and JavaScript libraries.",Release Notes,,,
 ./help/r-release-notes/target-release-notes.md,What New Features Are Included in the Upcoming Release?,"Learn about the new features, enhancements, and fixes included in the upcoming release of Adobe Target, including SDKs, APIs, and JavaScript libraries.",Release Notes,,,
