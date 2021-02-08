@@ -1,8 +1,10 @@
 ---
 keywords: apple;ITP;intelligent tracking prevention;experience cloud id;ecid
-description: Information about Adobe Target support for Apple’s ITP 2.x via the Experience Cloud ID (ECID) library 4.3.
-title: Target and Apple ITP Support
+description: Learn about Adobe Target and the impact of the Apple Intelligent Tracking Prevention (ITP) initiative that seeks to protect Safari users' privacy.
+title: How Does Target Handle Apple ITP Support?
 feature: Privacy & Security
+role: Developer
+docid: f646924f-319c-4c76-96a9-31767d24ec13
 ---
 
 # Apple Intelligent Tracking Prevention (ITP) 2.x

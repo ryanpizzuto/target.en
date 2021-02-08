@@ -3,6 +3,8 @@ keywords: at.js;2.0;1.x;cookies
 description: Details about how Adobe Target at.js 2.x and at.js 1.x handle cookies
 title: at.js Cookies
 feature: at.js
+role: Developer
+docid: c8690551-5dcc-4dd9-86ff-727ed735c4bf
 ---
 
 # at.js cookies {#at-js-cookies}

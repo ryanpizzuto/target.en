@@ -1,8 +1,9 @@
 ---
 keywords: criteria;algorithm;industry vertical;page type;recommendation key;recommendation logic;logic;data range;behavior data source;partial design;backup recommendations;inclusion rules;attribute weighting;current category;custom attribute;last purchased item;last viewed item;most viewed item;most viewed item;favorite category;popularity;recently viewed item;last purchased;last viewed;most viewed;favorite;recently viewed
-description: Criteria control the content of your Adobe Recommendations activities. Create criteria to show the recommendations that are most appropriate for your activity.
-title: Create Criteria
+description: Learn how to create criteria that controls the content of your Adobe Recommendations activities to show the recommendations that are most appropriate for your activity.
+title: How Do I Create Criteria in Recommendations?
 feature: Recommendations
+docid: f5b68ea0-fac0-4089-84b8-c8363dda70a0
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Create criteria{#create-criteria}

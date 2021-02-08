@@ -1,8 +1,9 @@
 ---
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
-description: Adobe Target welcome kit - Chapter 7 - Create and run your first Target activity
-title: Welcome Kit - Chapter 7 - Create and Run Your First Target Activity
+description: Let's get started with your first activity in Adobe Target so you can obtain ROI on your investment.
+title: I Need to Create My Fist Activity in Target. Where Do I Start?
 feature: Overview
+docid: 8d8ce807-0984-4cb3-805f-37dacead0aa4
 ---
 
 # Chapter 7: Create and run your first Target activity

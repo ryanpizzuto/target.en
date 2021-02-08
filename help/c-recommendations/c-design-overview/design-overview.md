@@ -1,8 +1,9 @@
 ---
 keywords: recommendations design;template;create design;delivery;output
-description: Designs in Adobe Target Recommendations define how recommendations appear on a page. Designs define the layout and format of your recommendations to improve visitor engagement, conversion, and revenue.
-title: Design Overview
+description: Learn how to use designs in Adobe Target Recommendations to define how recommendations appear on a page (1X4, 1X6, 2X2, and so forth).
+title: How Do I Use Designs in Recommendations?
 feature: Recommendations
+docid: a71b93b4-cc4c-429c-ba51-2d555a2df332
 ---
 
 # Design overview{#design-overview}

@@ -1,8 +1,9 @@
 ---
 keywords: email;ESP;email service provider;rawbox;delivery API;download-only template;email template;batch processing;build-time email
-description: Information about the ways to integrate email with Recommendations.
-title: Integrate Recommendations with Email
+description: Learn how to integrate email with Adobe Target Recommendations, including using the Target Delivery API, rawbox templates, and down-load only templates.
+title: How Do I Integrate Recommendations with Email?
 feature: Recommendations
+docid: 7353ead1-c014-49bd-9821-4d66eb0db0e4
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Integrate Recommendations with email{#integrate-recommendations-with-email}

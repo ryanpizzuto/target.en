@@ -1,8 +1,9 @@
 ---
 keywords: adobe target;target;documentation;api;apis;sdk;sdks;tutorials;doc;documentation
-description: Where can I find Target documentation?
-title: Documentation Overview
+description: Access Adobe Target documentation, including online help, tutorials, videos, and developer documentation (SDKs, APIs, and JavaScript libraries).
+title: Where can I find documentation for Target?
 feature: Release Notes
+docid: b04b17ad-c2a0-466b-9ccd-3ed2796bf3c5
 ---
 
 # Target documentation overview

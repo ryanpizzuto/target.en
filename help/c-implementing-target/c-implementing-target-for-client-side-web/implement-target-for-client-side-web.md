@@ -1,8 +1,10 @@
 ---
 keywords: implement;implementation;at.js;adobe experience platform web sdk;aep web sdk
-description: Information about implementing Adobe Target for client-side web using at.js.
-title: Implement Adobe Target for Client-Side Web
+description: Learn how to implement Adobe Target for client-side web using the Adobe Experience Platform Web SDK  (AEP Web SDK) or the Target at.js JavaScript library.
+title: How Do I Implement Target for Client-Side Web
 feature: at.js
+role: Developer
+docid: 99147ed6-ea72-4243-8b32-27f0375d5802
 ---
 
 # Overview: implement Target for client-side web

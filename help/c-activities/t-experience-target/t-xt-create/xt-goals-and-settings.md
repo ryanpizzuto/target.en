@@ -1,8 +1,9 @@
 ---
 keywords: activity settings;experience targeting goals and settings;xt goals and settings;experience targeting;reporting settings;goal metrics;success metrics;dependent success metrics;advanced settings;primary goal;additional metrics;objective;priority;duration;reporting solution;goal;audiences for reporting;Which success metric must be reached before incrementing this metric;What will happen after a user encounters this goal metric;notes
-description: The Goals and Settings page is where you enter information about the goals of the test.
-title: Goals and Settings
+description: Learn how to use the Goals and Settings page in Adobe Target to specify information about the goals of an Experience Targeting (XT) activity.
+title: How Do I Specify Goals and Settings in an Experience Targeting Activity?
 feature: Experience Targeting
+docid: 39458456-20b2-4f12-9ec0-ed4fd7788a82
 ---
 
 # Goals and Settings in Experience Targeting (XT) activities

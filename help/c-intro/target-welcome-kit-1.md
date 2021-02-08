@@ -1,8 +1,9 @@
 ---
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
-description: Adobe Target welcome kit - Chapter 1 - Introduction
-title: Welcome Kit - Chapter 1 - Introduction
+description: Kick start your optimization and personalization program with Adobe Target. The Adobe Target Welcome Kit is a good starting place.
+title: How Do I Get Started with Target?
 feature: Overview
+docid: 14bf16f3-10dd-46c1-989e-946d729a6a47
 ---
 
 # Chapter 1: Introduction

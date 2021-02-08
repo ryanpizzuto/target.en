@@ -1,8 +1,10 @@
 ---
 keywords: cookie;cookies;delete cookie;delete target cookie;google chrome;chrome;mozilla firefox;firefox;microsoft edge;safari
-description: Delete your Target browser cookies so that you can validate all of your experiences.
-title: Delete the Target Cookie
+description: Learn how to delete your Target browser cookies so that you can validate your experiences.
+title: How Do I Delete the Target Cookie?
 feature: Privacy & Security
+role: Developer
+docid: dad26ffe-98ba-4226-b440-47312897d9f2
 ---
 
 # Delete the Target cookie

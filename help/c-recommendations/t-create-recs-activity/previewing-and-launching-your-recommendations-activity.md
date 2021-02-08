@@ -1,8 +1,9 @@
 ---
 keywords: Recommendations;offer;preview;launch;status;criteria;algorithm
-description: After you created your Recommendations, A/B Test, or Experience Targeting (XT) activity containing Adobe Target Recommendations offers, you will want to preview it to ensure results are available before launching the activity. Target Recommendations offers multiple ways to preview your recommendations.
-title: Preview and Launch your Recommendations Activity
+description: Learn how to preview your Adobe Target Recommendations activity to ensure results are available before launching the activity. 
+title: How Do I Preview and Launch a Recommendations Activity?
 feature: Recommendations
+docid: ad21bc08-ea6a-4fe3-a3ac-c5977182f54b
 ---
 
 # Preview and launch your Recommendations activity

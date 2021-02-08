@@ -1,8 +1,10 @@
 ---
 keywords: integration;roles;user permissions;admin console
-description: Grant existing Adobe I/O integrations access to all workspaces with the desired role in Adobe Target
-title: Grant Adobe I/O Integrations Access to Workspaces and Assign Roles
+description: Learn how to grant existing Adobe I/O integrations access to all workspaces with the desired role in Adobe Target.
+title: How Do I Grant Adobe I/O Access to Workspaces and Assign Roles?
 feature: Administration & Configuration
+role: Administrator
+docid: bd48ea89-e788-4356-b936-b6575432a3d1
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Grant Adobe I/O integrations access to workspaces and assign roles

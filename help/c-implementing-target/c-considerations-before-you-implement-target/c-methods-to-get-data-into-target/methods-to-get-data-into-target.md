@@ -1,8 +1,10 @@
 ---
 keywords: implement;implementing;setting up;setup;page parameter;tomcat;url encoded;in-page profile attribute;mbox parameter;in-page profile attributes;script profile attribute;bulk profile update API;single file update API;customer attributes;data providers;dataprovider;data provider
-description: Information about the various methods you can use to get data into Adobe Target, including page parameters, in-page profile attributes, script profile attributes, data providers, the bulk profile update API, the single profile update API, and Customer Attributes.
-title: Methods to Get Data into Target
+description: Get data into Target (page parameters, profile attributes, script profile attributes, data providers, single and bulk profile update APIs, Customer Attributes).
+title: How Do I Get Data into Target?
 feature: Implementation
+role: Developer
+docid: f328410b-3b45-47c5-9bca-0c52e5700e33
 ---
 
 # Methods to get data into Target

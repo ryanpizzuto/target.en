@@ -1,8 +1,9 @@
 ---
 keywords: welcome kit;target welcome kit;intro;introduction;getting started
-description: Adobe Target welcome kit - Chapter 3 - Develop your testing and personalization ideas
-title: Welcome Kit - Chapter 3 - Develop Your Testing and Personalization Ideas
+description: Learn six steps that outline a proven process for improving your testing and personalization ideas before creating activities in Adobe Target.
+title: How Can I Develop My Testing and Personalization Ideas?
 feature: Overview
+docid: 786b323e-0db6-4d3f-ad20-3b4b042dd92f
 ---
 
 # Chapter 3: Develop your testing and personalization ideas

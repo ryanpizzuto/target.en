@@ -1,8 +1,9 @@
 ---
 keywords: a4t;A4T;Analytics as the reporting source for Target
-description: Can I use A4T with Auto-Target and Auto-Allocate activities?
-title: A4T Support for Auto-Allocate and Auto-Target Activities
+description: Learn how to create Auto-Allocate and Auto-Target activities in Adobe Target that use Analytics as the reporting source (A4T).
+title: Does A4T Support Auto-Allocate and Auto-Target Activities?
 feature: Analytics for Target (A4T)
+docid: b75cde73-df5e-4136-9bb4-0e6b37778744
 ---
 
 # A4T support for Auto-Allocate and Auto-Target activities

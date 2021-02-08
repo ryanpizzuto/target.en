@@ -1,8 +1,9 @@
 ---
 keywords: environmental data;session data;geo data;geographical data;device data;mobile data;attributes;profile attributes
-description: Adobe Target automatically collects and uses a variety of data to build its personalization algorithms in Automated Personalization (AP) and Auto-Target (AT) activities. When a visitor enters the AP or AT activity, a snapshot of information is passed to a set of "training records" (the visitor data that the personalization algorithms will learn on).
-title: Data Collection for Personalization Algorithms
+description: Learn which data Adobe Target collects and uses to build its personalization algorithms in Automated Personalization (AP) and Auto-Target (AT) activities.
+title: What Data is Collected to Build Personalization Algorithms?
 feature: Automated Personalization
+docid: 15627327-abcc-4610-9aa9-1798b5053d47
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Data collection for the Target personalization algorithms

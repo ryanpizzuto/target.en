@@ -1,8 +1,9 @@
 ---
 keywords: Targeting;analytics;tracking server;analytics for target;a4t
-description: You can configure an activity in Adobe Target Standard to use Adobe Analytics as the reporting source (A4T).
-title: Using Analytics Data
+description: Learn how to configure an activity in Adobe Target to use Adobe Analytics as the reporting source. This integration is called Analytics for Target (A4T).
+title: How Can I Use Analytics Data in Target?
 feature: Analytics for Target (A4T)
+docid: 624124ab-2f84-4c67-9bbf-9f4b88d49791
 ---
 
 # Using Analytics data

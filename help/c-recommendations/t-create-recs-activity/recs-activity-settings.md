@@ -1,8 +1,9 @@
 ---
 keywords: Recommendations;Settings;name;objective;priority;duration;reporting settings;other metadata
-description: Several settings can be used to describe and control a Recommendations activity in Adobe Target.
-title: Recommendations Activity Settings
+description: Learn how to configure the settings used to describe and control a Recommendations activity in Adobe Target.
+title: How Do I Configure Recommendations Activity Settings?
 feature: Recommendations
+docid: b92a4125-dbe4-4803-8fdd-c86343d9d5eb
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Recommendations Activity settings{#recommendations-activity-settings}

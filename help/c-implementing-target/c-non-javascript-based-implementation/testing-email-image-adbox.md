@@ -1,8 +1,10 @@
 ---
 keywords: email;adbox;email image adbox
-description: Using Adobe Target, dynamically test images in email, and even change those images on the fly when someone opens the email.
-title: Test an Email Image Adbox
+description: Learn how to use Adobe Target to dynamically test images in email, and even change those images on the fly when someone opens the email.
+title: How Do I Test an Email Image Adbox?
 feature: Implement Email
+role: Developer
+docid: 6694298c-793c-4f72-b730-f6d4e9a3746a
 ---
 
 # Test an email image Adbox{#test-an-email-image-adbox}

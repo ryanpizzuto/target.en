@@ -1,8 +1,10 @@
 ---
 keywords: api;apis;admin api;delivery api;reporting api;profile api
-description: Information about Adobe Target APIs, including the Admin, Delivery, Reporting, and Profile APIs.
-title: Adobe Target API Overview
+description: Find Adobe Target APIs, including the Admin, Delivery, Reporting, and Profile APIs.
+title: Where Can I Find Target API and SDK Documentation?
 feature: APIs/SDKs
+role: Developer
+docid: ec588288-dba5-4b65-8e5a-5cad08e3a556
 ---
  
 # Adobe Target API overview

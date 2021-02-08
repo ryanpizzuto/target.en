@@ -1,8 +1,10 @@
 ---
 keywords: implement target;implementation;implement at.js;tag manager
-description: Information about implementing Adobe Target without using a tag manager (Adobe Launch or Dynamic Tag Management).
-title: Implement without a Tag Manager
+description: Learn how to specify the settings (account details, implementation methods, etc.) to implement the Adobe Target at.js library without using a tag manager.
+title: Can I Implement Target without a Tag Manager?
 feature: Implement Server-side
+role: Developer
+docid: 389889dc-8e91-4c8a-98e0-69642f3c8fb1
 ---
 
 # Implement Target without a tag manager

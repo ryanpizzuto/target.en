@@ -1,8 +1,10 @@
 ---
 keywords: serverstate;targetGlobalSettings;targetglobalsettings;globalSettings;globalsettings;global settings;at.js;functions;function;clientCode;clientcode;serverDomain;serverdomain;cookieDomain;cookiedomain;crossDomain;crossdomain;timeout;globalMboxAutoCreate;visitorApiTimeout;defaultContentHiddenStyle;defaultContentVisibleStyle;bodyHiddenStyle;bodyHidingEnabled;imsOrgId;secureOnly;overrideMboxEdgeServer;overrideMboxEdgeServerTimeout;optoutEnabled;optout;opt out;selectorsPollingTimeout;dataProviders;Hybrid Personalization;deviceIdLifetime
-description: Information about the targetGlobalSettings() function for the Adobe Target at.js JavaScript library.
-title: Targetglobalsettings()
+description: Use the targetGlobalSettings() function for the Adobe Target at.js JavaScript library to override settings instead of using the Target UI or REST APIs.
+title: How Do I Use the targetGlobalSettings() Function?
 feature: at.js
+role: Developer
+docid: 1c663d77-8720-43c7-af72-498a5a00343f
 ---
 
 # targetGlobalSettings()

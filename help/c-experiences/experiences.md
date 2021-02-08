@@ -1,8 +1,9 @@
 ---
 keywords: experience;visual experience composer;enhanced experience composer;form based experience composer;form composer;visual composer;experience composer;mixed content;iframe;iframe busting;bust iframe;x-frame-options;x frame options;cross origin;cross origin issues;authentication workflow
-description: An experience in Adobe Target determines which content displays when the visitor meets the audience criteria for an activity.
-title: Experiences and Offers
+description: Learn more about the Adobe Experience Composers: Visual Experience Composer (VEC), Form-Based Experience Composer, and the Single Page Visual Experience Composer.
+title: Which Experience Composers Does Target Offer?
 feature: Experiences and Offers
+docid: ec45ac41-d5ee-4332-b647-f29b3869fa6a
 ---
 
 # Experiences and offers

@@ -1,8 +1,9 @@
 ---
 keywords: faq;frequently asked questions;analytics for target;a4t;provisioning;provisioning;adobe Experience Cloud
-description: This topic contains answers to questions that are frequently asked about provisioning Analytics as the reporting source for Target (A4T).
-title: Initial Provisioning - A4T FAQ
+description: Find answers to questions that are frequently asked about provisioning Analytics for Target (A4T), which lets you use Analytics reporting for Target activities.
+title: Where Can I Find Information about A4T Initial Provisioning?
 feature: Analytics for Target (A4T)
+docid: 0a8e2427-353e-4110-b904-70468301fd53
 ---
 
 # Initial provisioning - A4T FAQ{#initial-provisioning-a-t-faq}

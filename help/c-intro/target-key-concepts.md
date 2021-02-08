@@ -1,8 +1,9 @@
 ---
 keywords: Overview and Reference;act
-description: How do I understand and use Target?
-title: Key Concepts
+description: Learn the basics of Adobe Target. This is a good place to become acquainted with Target, its activity types, and other features.
+title: How do I use Target?
 feature: Overview
+docid: 98868e73-a517-4249-be1e-b91c49d74751
 ---
 
 # Target key concepts{#target-key-concepts}

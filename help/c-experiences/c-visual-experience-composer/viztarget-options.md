@@ -1,8 +1,9 @@
 ---
 keywords: visual experience composer options;experience composer options;experience options;edit text;edit html;edit text/html;edit background color;background color;insert element;edit link;link;visual experience composer link;edit css class;css class;swap offer;offer swap;swap image;image swap;remove item;item remove;hide item;item hide;rearrange;move element;element move;resize element;element resize;element;expand selection;navigate to this link;navigate link;link navigate;navigate;link;undo;redo;undo/redo
-description: When you click on a page element in the Adobe Target Visual Experience Composer (VEC), a menu shows the options that are available for that element type.
-title: Visual Experience Composer (VEC) Options
+description: Explore the options available in Adobe Target's Visual Experience Composer (VEC). Simply click an element to see which options are available for that element.
+title: How Do I Use the Visual Experience Composer (VEC) Options?
 feature: Visual Experience Composer (VEC)
+docid: a6991f48-bf50-483d-832d-a2068feabb4e
 ---
 
 # Visual Experience Composer Options

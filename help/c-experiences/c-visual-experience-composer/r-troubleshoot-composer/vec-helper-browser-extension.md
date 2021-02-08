@@ -1,8 +1,9 @@
 ---
 keywords: vec;visual experience composer; vec;iframe;extension;browser
-description: Information to use the Adobe Target Visual Experience Composer (VEC) Helper browser extension to load websites reliably within the VEC to rapidly author and QA experiences.
-title: Visual Experience Composer (VEC) Helper Extension
+description: Discover why some websites might not open reliably in the Visual Experience Composer (VEC). The VEC Helper browser extension lets you load websites reliably within the VEC.
+title: How Do I Use the Visual Experience Composer (VEC) Helper Extension?
 feature: Visual Experience Composer (VEC)
+docid: dbe8f9c5-8dcf-42f7-8e88-33f49a75c4a7
 ---
 
 # Visual Experience Composer helper extension

@@ -1,8 +1,10 @@
 ---
 keywords: gdpr;eu;european union;privacy;faq;frequently asked questions;california consumer privacy act;ccpa;privacy;data protection;opt-out;opt out;government;regulation
-description: Information about the European Union General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and other international privacy requirements, and how these regulations impact your organization and Adobe Target.
-title: Privacy and Data Protection Regulations
+description: Learn about Target and the European Union General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and other privacy requirements.
+title: How Does Target Handle Privacy and Data Protection Regulations?
 feature: Privacy & Security
+role: Developer
+docid: 010c88c1-7d40-4d57-84b8-acedf5fb947d
 ---
 
 # Privacy and data protection regulations

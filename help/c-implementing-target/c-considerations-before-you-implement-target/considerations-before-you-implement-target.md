@@ -1,8 +1,10 @@
 ---
 keywords: implement;implementing
-description: Considerations you should address before you implement Adobe Target.
-title: Before You Implement
+description: Know the considerations you should address before implementing Adobe Target.
+title: What Should I Know Before Implementing?
 feature: Implementation
+role: Developer
+docid: 328b86a1-5103-4cca-87f6-c105aca3186d
 ---
 
 # Before you implement

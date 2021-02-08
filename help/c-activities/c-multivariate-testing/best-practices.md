@@ -1,8 +1,9 @@
 ---
 keywords: mvt;multivariate test;multivariate test best practices;mvt best practices;mvt combinations;mvt reports
-description: Tips to help you improve performance, avoid issues, and correct known issues that might occur when creating and running Multivariate Test activities in Adobe Target.
-title: Multivariate Test Best Practices Using Adobe Target
+description: Learn how to improve performance, avoid issues, and correct known issues that might occur when creating and running Multivariate Test activities in Adobe Target.
+title: What Best Practices for Multivariate Tests?
 feature: Multivariate Tests
+docid: fba93bb8-308a-4ccd-abd1-36d7ed543b64
 ---
 
 # Multivariate Test best practices

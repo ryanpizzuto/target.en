@@ -1,8 +1,9 @@
 ---
 keywords: automated personalization;offer;reporting;group;reporting group
-description: Information about using reporting groups in Automated Personalization (AP) activities in Adobe Target.
-title: Offer Reporting Groups in Automated Personalization (AP) Activities
+description: Learn how to use offer reporting groups in Adobe Target Automated Personalization activities. Using reporting groups, Target creates only one personalization model for each reporting group.
+title: Can I Use Offer Reporting Groups in Automated Personalization Activities?
 feature: Reports
+docid: cc411fca-3c26-4b15-8d22-50f5526c63ab
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Offer reporting groups in Automated Personalization{#offer-reporting-groups-in-automated-personalization}

@@ -1,8 +1,10 @@
 ---
 keywords: Implementation;Mbox;mbox.js;download mbox.js;configure mbox.js
-description: Target Standard and Premium use a modified version of the Adobe Target mbox.js file.
-title: Download mbox.js
+description: Learn about the legacy mbox.js implementation of Adobe Target. Migrate to the Adobe Experience Platform Web SDK (AEP Web SDK) or to the latest version of at.js.
+title: How Do I Download the Target mbox.js library?
 feature: at.js
+role: Developer
+docid: 33e6acae-3743-472d-a389-091fd982873d
 ---
 
 # Download mbox.js{#download-mbox-js}

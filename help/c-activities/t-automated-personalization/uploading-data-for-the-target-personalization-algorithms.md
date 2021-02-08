@@ -1,8 +1,9 @@
 ---
 keywords: Automated Personalization;ap;upload data;offline data;personalization algorithm;auto target;auto-target;best practices
-description: Offline data, such as CRM information or customer churn propensity scores, can be incredibly valuable when building personalization models in Adobe Target Automated Personalization (AP) activities.
-title: Upload Data for Personalization Algorithms
+description: Learn how to upload offline data, such as CRM information, when building personalization models in Adobe Target Automated Personalization (AP) activities.
+title: How Can I Upload Data for Personalization Algorithms?
 feature: Automated Personalization
+docid: 18e536cb-eca4-4daf-8b24-500ce4c38d3d
 ---
 
 # Upload data for the Target personalization algorithms

@@ -1,8 +1,9 @@
 ---
 keywords: content;assets;manage content;offers;manage assets;enter selection mode;selection mode
-description: How do I manage code and image offers?
-title: Offers
+description: Learn how to manage code and image offers by using the Offers library in Adobe Target.
+title: How Do I Manage Code and Image Offers?
 feature: Experiences and Offers
+docid: 6015fed0-b6fb-475f-9f20-71c94c076bc8
 ---
 
 # Offers

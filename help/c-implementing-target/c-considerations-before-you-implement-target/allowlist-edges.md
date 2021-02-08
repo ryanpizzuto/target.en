@@ -1,8 +1,10 @@
 ---
 keywords: implement;implementing;whitelist;white list;allowlist;allow list;edge;edges
-description: Allowlist Adobe Target edge nodes
-title: Allowlist Target Edge Nodes
+description: View a list of hosts to help you allowlist Adobe Target edges (geographically distributed serving nodes that ensure optimum response times end-users).
+title: How Do I Allowlist Target Edge Nodes?
 feature: Privacy & Security
+role: Developer
+docid: 83129521-de17-4b84-8f97-7f6e10fa5e04
 ---
 
 # Allowlist Target edge nodes

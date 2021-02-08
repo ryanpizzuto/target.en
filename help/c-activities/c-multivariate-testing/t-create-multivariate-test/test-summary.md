@@ -1,8 +1,9 @@
 ---
 keywords: summary
-description: The test summary provides a visual overview of your Adobe Target Multivariate Test.
-title: Test Summary
+description: View a Multivariate Test (MVT) activity's summary that provides a visual overview of your MVT activity in Adobe Target.
+title: How Can I View a Multivariate Test (MVT) acitivity's Summary?
 feature: Multivariate Tests
+docid: 4076e6c2-d315-4f33-ba24-a40822785e7c
 ---
 
 # Test summary (Multivariate Tests)

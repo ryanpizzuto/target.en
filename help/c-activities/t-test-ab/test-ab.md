@@ -1,8 +1,9 @@
 ---
 keywords: AB;A/B;AB...n;compare experiences;Targeting;compare content;auto-target;auto-allocate
-description: A manual A/B Test activity compares two or more versions of your website content to see which version best improves your conversions during a pre-specified test period.
-title: A/B Test Overview
+description: Learn about the different types of A/B Test activities in Adobe Target: Manual, Auto-Allocate, and Auto-Target. Choose the one that's right for you.
+title: Which Type of A/B Activities Are Available in Target?
 feature: A/B Tests
+docid: 063a291b-e36f-4c55-b961-c937efe8d549
 ---
 
 # A/B Test overview

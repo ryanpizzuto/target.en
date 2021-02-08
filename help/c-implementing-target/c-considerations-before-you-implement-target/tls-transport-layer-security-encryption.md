@@ -1,8 +1,10 @@
 ---
 keywords: tls;tls 1.0;transport layer security;encryption;tls 1.1;tls 1.2
-description: Information about changes to how Adobe and Target use TLS (Transport Layer Security) to maintain the highest security standards and promote the safety of customer data.
-title: TLS (Transport Layer Security) Encryption Changes
+description: Learn how Target uses the TLS (Transport Layer Security) protocol to maintain the highest security standards and promote the safety of your customer data.
+title: How Does Target Use TLS to Provide Security?
 feature: Privacy & Security
+role: Developer
+docid: ae8e9834-5422-4cf7-8a66-9f66f4b5dcd9
 ---
 
 # TLS (Transport Layer Security) encryption changes{#tls-transport-layer-security-encryption-changes}

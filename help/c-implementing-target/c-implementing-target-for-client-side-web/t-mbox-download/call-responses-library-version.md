@@ -1,7 +1,9 @@
 ---
-description: The way Target makes and responds to calls from your page depends on the version of the Target library you are using, whether the Experience Cloud Visitor ID implementation is present, and whether the visitor ID exists.
-title: Page Methods by mbox.js Library Version
+description: Learn about the legacy mbox.js implementation of Adobe Target. Migrate to the Adobe Experience Platform Web SDK (AEP Web SDK) or to the latest version of at.js.
+title: Which Page Methods Does mbox.js Use?
 feature: at.js
+role: Developer
+docid: 67fa2657-e050-43f8-aae7-328cc96f734d
 ---
 
 # Target page methods by mbox.js library version{#target-page-methods-by-mbox-js-library-version}

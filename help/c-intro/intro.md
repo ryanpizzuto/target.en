@@ -1,9 +1,10 @@
 ---
 keywords: Target Standard;Recommendations;Target Premium;Automated Personalization;auto-target;auto target;permissions;what is adobe target;
-description: What is Target?
+description: Learn the basics of Adobe Target Standard and Adobe Target Premium. Target Premium includes advanced features not available in standard product.
 landing-page-description: Personalize your customers' experience to maximize revenue on your web and mobile sites, apps, social media, and other digital channels.
-title: Introduction
+title: What is Target?
 feature: Overview
+docid: 71c34a93-132e-407d-9b8b-00b2789e3f01
 ---
 
 # Introduction to Target{#introduction-to-target}

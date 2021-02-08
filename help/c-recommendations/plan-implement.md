@@ -1,8 +1,9 @@
 ---
 keywords: Recommendations;settings;preferences;industry vertical;filter incompatible criteria;default host group;thumb base url;recommendations api token
-description: What you need to know before creating a Recommendations activity.
-title: Plan and Implement Recommendations
+description: Learn how to implement Recommendations activities in Adobe Target. Ensure that your implementation meets the necessary prerequisite requirements. 
+title: How Do I Implement Recommendations Activities?
 feature: Recommendations
+docid: 654e323a-00f6-412c-8b3a-1c3d5d1e387d
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Plan and implement Recommendations {#plan-and-implement-recommendations}

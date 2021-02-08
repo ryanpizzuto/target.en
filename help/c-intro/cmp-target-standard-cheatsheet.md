@@ -1,8 +1,9 @@
 ---
 keywords: Target Standard;faq;frequently asked questions;cheat sheet;cheatsheet
-description: A list of frequently asked questions about using the features in Adobe Target, along with information and links for more information.
-title: Optimization and Personalization FAQ
+description: Explore a list of frequently asked questions about using the features in Adobe Target, along with information and links for more information.
+title: Where Can I Find Answers to My Optimization and Personalization Questions?
 feature: Overview
+docid: 296baf07-96bc-4e28-be8f-66282fbcb637
 ---
 
 # Target optimization and personalization FAQ{#target-optimization-and-personalization-faq}

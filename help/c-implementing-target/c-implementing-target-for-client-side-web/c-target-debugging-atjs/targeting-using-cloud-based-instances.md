@@ -1,8 +1,10 @@
 ---
 keywords: cloud instances;public suffix list;public suffix;cookie;first-party cookie;1st-party cookie;azurewebsites.net;cloudapp.net;amazonaws.com;cloudfront.net;herokuapp.com;firebaseapp.com;targetGlobalSettings;cookieDomain
-description: Information about issues customers face when using cloud-based instances to test Adobe Target.
-title: Use Cloud-Based Instances
+description: Explore issues (with solutions) customers face when using cloud-based instances to test Adobe Target or for proof-of-concept purposes.
+title: Can I Use Target with Cloud-based Instances?
 feature: at.js
+role: Developer
+docid: e73663f6-35aa-4449-bc71-442e75555619
 ---
 
 # Use cloud-based instances with Target{#use-cloud-based-instances-with-target}

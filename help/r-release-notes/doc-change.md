@@ -1,8 +1,9 @@
 ---
 keywords: target documentation change log;documentation updates;new topics;edits;updates;update
-description: What changes have been made to the documentation?
-title: Documentation Changes
+description: Keep up to date with important additions and changes to the Adobe Target product documentation.
+title: Where Can I View Documentation Updates for Target?
 feature: Release Notes
+docid: aeb1592d-6fa7-41aa-a634-37d427d255a4
 ---
 
 # Documentation changes

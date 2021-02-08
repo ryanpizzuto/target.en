@@ -1,8 +1,9 @@
 ---
 keywords: Recommendations;recommendations algorithms;recommendations activity;recommendations classic
-description: Information to help you choose between Recommendations Classic and Recommendations activities in Target Premium.
-title: Recommendations Classic Versus Recommendations Activities in Target Premium
+description: Review information to help you understand the differences between the legacy Recommendations Classic and Recommendations activities in Target Premium.
+title: What is the Difference Between Recommendations Classic and Recommendations in Target Premium?
 feature: Recommendations
+docid: 09eb2c34-db00-45b4-b144-60d12a0e48d9
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Recommendations Classic versus Recommendations activities in Target Premium{#recommendations-classic-versus-recommendations-activities-in-target-premium}

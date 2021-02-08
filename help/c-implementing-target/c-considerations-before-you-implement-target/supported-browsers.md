@@ -1,8 +1,10 @@
 ---
 keywords: Browsers;Prerequisites;Requirements;internet explorer;chrome;firefox;safari;android;surface
-description: The Adobe Target application and content delivery has been tested across a wide range of browsers and devices.
-title: Supported Browsers
+description: Learn which internet browsers Adobe Target supports for its interface and for content delivery.
+title: What Browsers Does Target Support?
 feature: Implementation
+role: Developer
+docid: 24247e24-253f-406f-b6c3-1721d0c60586
 ---
 
 # Supported browsers

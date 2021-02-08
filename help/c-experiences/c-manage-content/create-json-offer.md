@@ -1,8 +1,9 @@
 ---
 keywords: remote offer;create remote offer
-description: How do I create JSON offers?
-title: Create JSON Offers
+description: Learn how to create JSON offers in Adobe Target for use in the Form-based Experience Composer. JSON offers are useful for SPA frameworks or server-side integrations.
+title: How Do I Create JSON Offers?
 feature: Experiences and Offers
+docid: dcbc010f-03d3-4e6b-9083-8d0aab0d3740
 ---
 
 # Create JSON offers{#create-json-offers}

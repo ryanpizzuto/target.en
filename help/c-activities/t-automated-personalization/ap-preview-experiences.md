@@ -1,8 +1,9 @@
 ---
 keywords: Automated Personalization;ap;preview;exclude experience;
-description: Because an Automated Personalization (AP) activity compares multiple offers on a page, it is helpful to preview the page with each experience.
-title: Preview Automated Personalization Experiences in the Visual Experience Composer (VEC)
+description: Learn how to preview each experience in an Automated Personalization (AP) activity in Adobe Target using the Visual Experience Composer (VEC).
+title: How Can I Preview Automated Personalization Experiences in the VEC?
 feature: Automated Personalization
+docid: c166f264-760c-43e6-bd61-da0db23e8d3d
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Preview experiences for Automated Personalization in the Visual Experience Composer{#preview-experiences-for-automated-personalization-in-the-visual-experience-composer}

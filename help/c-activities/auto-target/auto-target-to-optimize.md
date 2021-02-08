@@ -1,8 +1,9 @@
 ---
 keywords: auto-target;targeting;traffic allocation;frequently aske questions;faq;troubleshooting;trouble shooting
-description: Auto-Target in Adobe Target uses advanced machine learning to select from multiple high-performing marketer-defined experiences to personalize content and drive conversions. Auto-Target serves the most tailored experience to each visitor based on his or her individual customer profile and the behavior of previous visitors with similar profiles.
-title: Auto-Target Overview
+description: Learn how an Auto-Target activity in Target serves the most tailored experience to each visitor based on customer profiles and the behavior of similar visitors.
+title: What Is an Auto-Target Activity?
 feature: Auto-Target
+docid: e547e601-fcb7-42cb-bb35-3be059ef4c05
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Auto-Target overview

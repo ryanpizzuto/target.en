@@ -1,8 +1,10 @@
 ---
 keywords: at.js plugins;supported plugins;unsupported plugins;ttMeta;ttmeta;mboxTrack
-description: Information about supported and not-supported at.js plug-ins for Adobe Target.
-title: at.js Plug-Ins
+description: Learn about the legacy mbox.js implementation of Adobe Target. Migrate to the Adobe Experience Platform Web SDK (AEP Web SDK) or to the latest version of at.js.
+title: What Legacy Plug-ins Are Not Supported in Target at.js?
 feature: at.js
+role: Developer
+docid: af1eb30d-99d5-454b-a179-796fee61f4cf
 ---
 
 # at.js plug-ins

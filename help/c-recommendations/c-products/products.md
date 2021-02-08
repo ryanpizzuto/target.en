@@ -1,8 +1,9 @@
 ---
 keywords: product;collections
-description: Entities refer to the items you want to recommend using Adobe Target. Entities can be anything such as products, content (such as articles, slide shows, images, movies, and tv shows), job listings, restaurants, and so forth.
-title: Entities in Adobe Target
+description: Learn about entities in Adobe Target Recommendations. Entities refer to the items you want to recommend using Target, such as articles, movies, or products.
+title: How Do I use Entities?
 feature: Recommendations
+docid: 0f43e269-6c23-4214-bb85-bc9f224a1747
 ---
 
 # ![PREMIUM](/help/assets/premium.png) Entities{#entities}

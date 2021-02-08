@@ -1,8 +1,10 @@
 ---
 keywords: mobile app;frequently asked questions;faq;target mobile app
-description: Frequently Asked Questions about Adobe Target for mobile apps.
-title: Frequently Asked Questions About Target for Mobile Apps
+description: View frequently asked questions and their answers about Adobe Target for mobile apps.
+title: What Are Frequently Asked Questions About Target for Mobile Apps?
 feature: Implement Mobile
+role: Developer
+docid: 0f565426-354a-4c94-9679-a84513744f8e
 ---
 
 # Target for mobile apps FAQ

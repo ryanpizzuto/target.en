@@ -1,8 +1,9 @@
 ---
 keywords: debug mbox;troubleshoot mbox;mbox issues;flicker;mboxDebug;mboxTrace;token;debugger;priority;activity priority;Adobe Experience Cloud Debugger;orderConfirmPage mbox;SiteCatalyst  purchase mbox;top selling;top seller
-description: If your page does not display the expected content, there are a few steps you can take to debug content delivery in Adobe Target.
-title: Troubleshoot Content Delivery
+description: Find suggestions to help remedy issues if your page does not display the expected content. Learn how to debug content delivery in Adobe Target.
+title: How Can I Troubleshoot Content Delivery?
 feature: Activities
+docid: 8a639cfc-6765-4c15-9920-7c4fa507f06c
 ---
 
 # Troubleshoot content delivery

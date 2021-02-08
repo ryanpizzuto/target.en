@@ -1,8 +1,10 @@
 ---
 keywords: implement;implementing
-description: Before you start using Adobe Target, you should implement it on your site, understand a few basic concepts and terms, be familiar with how Target works and integrates with your infrastructure, and understand how visitors are tracked by the Target system.
-title: Implement
+description: Learn how to  implement Adobe Target on your site. Set your global settings, implementation method (AEP Web SDK or at.js), and more.
+title: How Do Implement Target on My Site?
 feature: Administration & Configuration
+role: Administrator
+docid: 27b69bda-6aaa-4492-9d60-f3e4849424f3
 ---
 
 # Implementation

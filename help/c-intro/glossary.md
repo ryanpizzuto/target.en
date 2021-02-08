@@ -1,7 +1,8 @@
 ---
-description: Definitions of terms.
-title: Glossary
+description: What do different terms used in Adobe Target mean? Find definitions of common terms to help you get more out Target.
+title: Where Can I Find Terms and Definitions Used in Target?
 feature: Overview
+docid: 626fe0e9-6c8a-44d6-862e-b43c8a49407e
 ---
 
 # Glossary{#glossary}

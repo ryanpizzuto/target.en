@@ -1,8 +1,10 @@
 ---
 keywords: add user;manage user;user permissions
-description: Manage users in Adobe Target Standard and manage Enterprise Properties and Permissions in Adobe Target Premium.
-title: User Management
+description: Learn how to manage users in Adobe Target Standard and manage enterprise properties and permissions in Adobe Target Premium.
+title: How Do I Configure User Management?
 feature: Administration & Configuration
+role: Administrator
+docid: 56e932eb-2ac8-4e21-8dca-97bd1d19b4a1
 ---
 
 # User management{#user-management}

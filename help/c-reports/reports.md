@@ -1,8 +1,9 @@
 ---
 keywords: reports;block ip address;block visitor from ip address;download reports;csv;reporting
-description: Reports provide information about the performance of your Adobe Target activities
-title: Reports
+description: Learn how to use the reporting features in Adobe Target to examine the performance of your activities. Make better decisions based on your data to increase ROI.
+title: How Do I View Reports?
 feature: Reports
+docid: 756fbf97-217b-4380-bc77-6cc6d57d82bb
 ---
 
 # Reports{#reports}

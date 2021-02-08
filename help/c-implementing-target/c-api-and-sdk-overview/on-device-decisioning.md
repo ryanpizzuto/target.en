@@ -1,8 +1,10 @@
 ---
 keywords: server side;server-side;sdk;sdks;on-device;decisioning;on device;ondevice;zero latency;latency;near-zero;node.js
-description: On-device decisioning provides the ability to cache your Adobe Target A/B and Experience Targeting (XT) activities on your server and perform in-memory decisioning at near-zero latency, without blocking network requests to the Adobe Target Edge Network.
-title: On-Device Decisioning
+description: Learn how to use on-device decisioning to cache your Target A/B and MVT activities on your server to perform in-memory decisioning at near-zero latency.
+title: What is On-Device Decisioning?
 feature: Implement Server-side
+role: Developer
+docid: 69c91d30-fd7d-4db3-bfe2-6e15ae78a899
 ---
 
 # On-device decisioning

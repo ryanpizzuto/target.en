@@ -1,8 +1,9 @@
 ---
 keywords: Adobe Experience Platform Web SDK;aep web sdk;aep sdk;seo;search engine optimization;edge clusters, central clusters;at.js;mbox.js;
-description: Information about how Adobe Target works, including information about the Adobe Experience Platform Web SDK, the Target JavaScript libraries (at.js and mbox.js), and the various activity types you can create in Target.
-title: How Target Works
+description: Learn about how Adobe Target works, including information about the Target JavaScript libraries (at.js and AEP Web SDK), Adobe data centers, and SEO testing.
+title: How Does Target Work?
 feature: Overview
+docid: 09423062-2ffb-411d-bc17-c8039c4fb6d4
 ---
 
 # How Adobe Target works

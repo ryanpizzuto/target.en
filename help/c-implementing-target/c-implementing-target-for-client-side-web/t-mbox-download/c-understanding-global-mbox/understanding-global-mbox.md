@@ -1,8 +1,10 @@
 ---
 keywords: global mbox;implement mbox.js;implement at.js
-description: Information about the global mbox, a name used to refer to the single server call made at the top of each web page in your Adobe Target implementation.
-title: Understand the Global mbox
+description: Learn about the global mbox in Adobe Target, a name used to refer to the single server call made at the top of each web page in your Target implementation.
+title: What Is a Global mbox?
 feature: at.js
+role: Developer
+docid: b84d4cc9-e4a7-43c0-abd4-8bae91a31494
 ---
 
 # Understand the Global mbox

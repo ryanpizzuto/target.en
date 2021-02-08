@@ -1,8 +1,9 @@
 ---
 keywords: faq;frequently asked questions;analytics for target;a4T;inflated;visit;visitor;partial hit;orphaned;orphan;partial-hit
-description: This topic contains answers to questions that are frequently asked about inflated visit and visitor counts when using Analytics as the reporting source for Target (A4T).
-title: Inflated Visit and Visitor Counts - A4T FAQ
+description: Find answers to questions about inflated visit and visitor counts when using Analytics for Target (A4T). Learn how to minimize "partial data."
+title: Where Can I Find FAQs About Inflated Visit and Visitor Counts with A4T?
 feature: Analytics for Target (A4T)
+docid: 6b2e8fee-2edb-49d6-af23-cbbb9c1014eb
 ---
 
 # Inflated visit and visitor counts - A4T FAQ{#inflated-visit-and-visitor-counts-a-t-faq}

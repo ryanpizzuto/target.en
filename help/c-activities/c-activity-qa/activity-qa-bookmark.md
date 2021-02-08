@@ -1,8 +1,9 @@
 ---
 keywords: qa;preview;bookmarklet;preview links
-description: Information to help you use the Adobe Target QA bookmarklet to force Target to release you from QA mode.
-title: Activity QA Bookmarklet
+description: Learn how to use the Adobe Target QA bookmarklet to force Target to release you from QA mode.
+title: How Do I use the Activity QA Bookmarklet?
 feature: Activities
+docid: 331c26bf-0e68-4cbf-9e0c-9e798517d0fc
 ---
 
 # Activity QA bookmarklet

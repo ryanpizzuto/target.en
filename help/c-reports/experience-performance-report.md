@@ -1,8 +1,9 @@
 ---
 keywords: multivariate test;mvt;experience performance report
-description: The Experience Performance report shows how each experience in the activity performs.This report includes information about the number of entrants, the conversion rate, the lift, and the confidence.
-title: Experience Performance Report (MVT)
+description: Learn how to use the Experience Performance report for Adobe Target Experience Targeting activities that show how each experience in the activity performs.
+title: How Do I Use the Experience Performance Report for Multivariate Tests?
 feature: Reports
+docid: bc2fc611-0c53-49db-9d04-bde701ec146f
 ---
 
 # Experience Performance report (MVT){#experience-performance-report-mvt}

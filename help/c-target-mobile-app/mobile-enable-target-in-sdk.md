@@ -1,8 +1,10 @@
 ---
 keywords: mobile app;mobile app sdk;target mobile app;mobile target sdk;mobile app sdk;enable target in sdk
-description: Add the Adobe Mobile Services SDK to your app.
-title: Enable Target in the SDK
+description: Learn how to add the Adobe Mobile Services SDK to your mobile app.
+title: How Do I Enable Target in the Adobe Mobile SDK?
 feature: Implement Mobile
+role: Developer
+docid: dd7f2ac5-3226-4ff7-a988-ded72309c958
 ---
 
 # Enable Target in the SDK{#enable-target-in-the-sdk}

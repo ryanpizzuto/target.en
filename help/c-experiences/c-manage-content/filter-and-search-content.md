@@ -1,8 +1,9 @@
 ---
 keywords: content library;assets;search;filter
-description: How do I search for assets by keywords?
-title: Search Content
+description: Learn how to search for code and image offers in the Adobe Target Offers library.
+title: How Do I Search for Content in the Offers Library?
 feature: Experiences and Offers
+docid: 41d80e01-be3d-4d88-b7e5-1cdefabaf118
 ---
 
 # Search content
