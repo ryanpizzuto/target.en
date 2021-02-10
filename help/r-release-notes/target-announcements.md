@@ -23,7 +23,7 @@ Adobe Target was recently recognized by both Forrester and Gartner as a market l
 * **Wednesday, February 24**
 * **9 a.m. PST | 11 a.m. CST | 12 noon EST**
 * **Duration 60 minutes**
-* **[More Information Here](/https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-2-24-21-9am-pt-rob-hornick/td-p/396626)**
+* **[More Information Here](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-2-24-21-9am-pt-rob-hornick/td-p/396626)**
 
 We'll be joined by Adobe Target Senior Product Manager Rob Hornick. Rob will answer your questions pertaining to Target and his areas of expertise:
 
