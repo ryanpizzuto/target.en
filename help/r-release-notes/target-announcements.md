@@ -18,20 +18,20 @@ Adobe Target was recently recognized by both Forrester and Gartner as a market l
 |Forrester|**Adobe named a Leader in Forrester wave report for experience optimization platforms.**<br>Adobe was named a Leader in The Forrester Wave: Experience Optimization Platforms, Q4 2020 report for its offering in this space, Adobe Target Premium. Adobe received the highest score of all participating vendors in the current offering and market presence categories, as well in the recommendations and platform experience criteria. Target Premium also received the highest score possible in the experience optimization technique innovation and supporting services criteria. The report is based on a thorough evaluation of 10 experience optimization platform providers across 22 criteria.<br>Read about it on the [Adobe Blog](https://blog.adobe.com/en/2020/11/24/adobe-named-leader-in-forrester-wave-report-experience-optimization-platforms.html).|
 |Gartner|**Adobe again named a Leader in Gartner Magic Quadrant for personalization engines.**<br>Adobe was once again named a Leader in the third-annual Gartner Magic Quadrant for Personalization Engines, 2020 report. The Gartner Magic Quadrant for Personalization Engines evaluated vendors across 15 criteria that fall into two categories: completeness of vision and ability to execute.<br>[Read about it on The Adobe Blog](https://theblog.adobe.com/adobe-again-named-leader-in-gartner-magic-quadrant-for-personalization-engines/).|
 
-## Webinar: Successful Personalization at Scale: Key Findings from the Forrester Wave, Experience Optimization Platforms
+## Adobe Target Community Q&A Coffee Break
 
-* **Tuesday, January 19**
-* **8 a.m. PT | 10 a.m. CT | 11 a.m. ET**
-* **Duration: 60 minutes**
-* **[Register Here](https://www.adobeeventsonline.com/Webinar/2021/Personalization/index.php?source=998).**
+* **Wednesday, February 24**
+* **9 a.m. PST | 11 a.m. CST | 12 noon EST**
+* **Duration 60 minutes**
+* **[More Information Here](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-2-24-21-9am-pt-rob-hornick/td-p/396626)**
 
-The ability to optimize customer experiences at scale is now mission-critical to meeting the dynamic needs of customers and the current surge of new digital visitors. An experience optimization platform, such as [!DNL Adobe Target], can be deployed across your digital properties to quickly determine and deliver the right experience for your customers at the right time, leveraging manual and AI‑powered behavioral targeting, testing, and recommendations capabilities. Join us and our special guest James McCormick, Principal Analyst at Forrester, as we present and discuss the key findings from The Forrester Wave, Experience Optimization Platforms, Q4 2020.
+We'll be joined by Adobe Target Senior Product Manager Rob Hornick. Rob will answer your questions pertaining to Target and his areas of expertise:
 
-In this webinar, you’ll learn:
-
-* Industry trends shaping the evolution of personalization and experience optimization tools
-* Key capabilities of a leading experience optimization platform
-* Best practices for optimizing customer experiences at scale for maximum business impact
+* Recommendations
+* Auto-Allocate
+* Auto-Target
+* Automated Personalization
+* Machine Learning & Artificial Intelligence
 
 ## Webinar: Personalize and test at zero latency with on-device decisions from Adobe Target
 
