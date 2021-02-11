@@ -2,7 +2,7 @@
 user-guide-title: Adobe Target Guide
 breadcrumb-title: Target Guide
 user-guide-description: Learn how to tailor and personalize your customers' experience so you can maximize revenue on your web and mobile sites, apps, social media, and other digital channels.
-feature-tag: Target
+feature-set: Target
 ---
 
 # Adobe Target Guide {#using}
