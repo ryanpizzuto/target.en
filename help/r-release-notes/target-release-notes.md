@@ -9,7 +9,7 @@ feature: Release Notes
 
 This article contains prerelease information. Release dates, features, and other information are subject to change without notice. 
 
-**Last Updated: February 10, 2021**
+**Last Updated: February 16, 2021**
 
 To view information about the current release, see [Target Release Notes](release-notes.md). The information on these pages might be the same, depending on the timing of releases. The issue numbers in parentheses are for internal [!DNL Adobe] use.
 
@@ -25,7 +25,14 @@ This maintenance release contains the following enhancements, fixes, and changes
 
 The issue numbers in parentheses are for internal [!DNL Adobe] use.
 
-* Increased the allowable offer size via the API from 512 KB to 1 MB. (TGT-38304) 
+* Increased the allowable offer size:
+
+  |Type|Previous Limit|New Limit|
+  | --- | --- | --- |
+  |HTML|256 KB|1024 KB|
+  |Visual offers from the Target UI|64 KB|1024 KB for each experience|
+  |Via API|512 KB|1024 KB|
+   
 * Fixed an issue that caused the current dependency to not display when customers click [!UICONTROL Edit Dependency] on an activity's [!UICONTROL Goals & Settings] page. (TGT-39340)
 * Fixed an issue when refreshing a workspace's [!UICONTROL Audience Library]. Before the refresh, the audiences for the currently selected workspace displayed. After the refresh, the [!UICONTROL Default Workspace] and its audiences displayed. The current workspace and its audiences now persist after the refresh. (TGT-38871) 
 * Fixed an issue when copying a [!UICONTROL Recommendations] activity and later editing the original activity by changing its criteria sequence. The change in the criteria sequence in the original activity was also incorrectly applied to the copied activity. (TGT-39155)
