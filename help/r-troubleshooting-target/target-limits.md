@@ -107,7 +107,7 @@ Character limits and other limits (offer size, audiences, profiles, values, para
 
 ## mboxes
 
-###  In-mbox profile attribute value
+### In-mbox profile attribute value
 
 * **Limit**: 256 characters.
 
