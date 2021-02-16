@@ -13,6 +13,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|February 16|[Target release notes (prerelease)](/help/r-release-notes/target-release-notes.md)|Updated text for offer limit size in the prerelease notes.|
 |February 11|[How Target works](/help/c-intro/how-target-works.md)|Updated "Bots" section.|
 |February 10|[Target announcements and events](/help/r-release-notes/target-announcements.md)|Added information about the Adobe Target Community Q&A Coffee Break on Wednesday, February 24, 2021.|
 |February 8|[Target mobile preview](/help/c-target-mobile-app/target-mobile-preview.md)|Added the code snippet you should add to the AndroidManifest.xml file for version 4 of the Adobe Mobile SDK.|

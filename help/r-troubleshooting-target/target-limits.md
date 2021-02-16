@@ -1,13 +1,14 @@
 ---
 keywords: character limit;mbox parameters;batch delivery api;profile parameters;limits;built in profiles;maximum;limit;constraint;character;best practice;orderid;orderTotal;mbox3rdPartyID;category;categoryID;troubleshooting
 description: View a list of character limits and other limits (offer size, audiences, profiles, values, parameters, etc.) that affect activities and other elements in Adobe Target.
-title: Review a list of character limits and other limits (offer size, audiences, profiles, values, parameters, etc.) that affect activities and other elements in Adobe Target.
+title: What are the various character, size, and other limits in Adobe Target?
 feature: Troubleshooting
+mini-toc-levels: 3
 ---
 
 # Limits
 
-Information about the character limits and other limits (offer size, audiences, profiles, values, parameters, etc.) that affect activities and other elements in [!DNL Adobe Target].
+Character limits and other limits (offer size, audiences, profiles, values, parameters, etc.) that affect activities and other elements in [!DNL Adobe Target].
 
 >[!NOTE]
 >
@@ -19,39 +20,45 @@ Information about the character limits and other limits (offer size, audiences, 
 
 ## Activities
 
-**Recommended limit**: 10,000 active live activities.
+### Activity names
 
-**Recommended limit**: 10,000 active saved (and not ended) activities.
+* **Limit**: 250 characters.
 
-## Activity names
+### Number of activities per account
 
-**Limit**: 250 characters.
+* **Recommended limit**: 10,000 active live activities.
 
-## Audience names
-
-**Limit**: 255 characters.
+* **Recommended limit**: 10,000 active saved (and not ended) activities.
 
 ## Audiences
 
-**Limit**: 50 audiences per mbox, metric, or experience.
+### Audience names
 
-## Audiences, reusable per account
+* **Limit**: 255 characters.
 
-**Recommended limit**: 20,000 audiences.
+### Audiences, reusable per account
+
+* **Recommended limit**: 20,000 audiences.
+
+### Number of audiences per mbox, metric, or experience
+
+* **Limit**: 50 audiences
 
 ## categoryId parameter
 
-**Limit**: 128 characters.
+* **Limit**: 128 characters.
 
-## Customer attribute names
+## Customer attributes
 
-**Limit**: 250 characters through feed or API.
+### Customer attribute names
 
-## Customer attribute alias ID
+* **Limit**: 250 characters through feed or API.
 
-**Limit** 50 characters.
+### Customer attribute alias ID
 
-## Customer attributes, uploading
+* **Limit** 50 characters.
+
+### Customer attributes, uploading
 
 * **Maximum file size for each upload using the HTTP method**: 100 MB. 
 * **maximum file size for each upload using the FTP method**: 4 GB. 
@@ -59,187 +66,200 @@ Information about the character limits and other limits (offer size, audiences, 
 
 ## Entities
 
-The maximum number of entities that can be referenced in a design, either hardcoded or via loops, is 99.
+### Number of entities
 
-## Entity custom attributes
+* The maximum number of entities that can be referenced in a design, either hardcoded or via loops, is 99.
 
-You can include up to 100 custom entity attributes
+### Entity custom attributes
 
-**Limit**: The maximum character length depends on the language.
+* **Custom entity attributes**: 100.
 
-* 15,000 characters (single-value, one- and two-byte languages)
-* 500 values, 100 characters per value (multi-value)
+* **Character Limit**: The maximum character length depends on the language.
 
-The maximum length of single-value entity custom attributes is 15,000 characters (for one-byte and two-byte UTF-8 encoded languages such as English and other Latin-script alphabets) or 10,000 characters (for three-byte UTF-8 encoded languages such as Chinese, Japanese, and Korean).
+  * 15,000 characters (single-value, one- and two-byte languages)
+  * 500 values, 100 characters per value (multi-value)
 
-Multi-value entity custom attributes can contain no more than 500 values. Each individual value is limited to 100 characters. The total number of characters across all values must conform to the limitations for the maximum length of single-value entity custom attributes (see above.)
+  The maximum length of single-value entity custom attributes is 15,000 characters (for one-byte and two-byte UTF-8 encoded languages such as English and other Latin-script alphabets) or 10,000 characters (for three-byte UTF-8 encoded languages such as Chinese, Japanese, and Korean).
 
-## entityID parameters
+  Multi-value entity custom attributes can contain no more than 500 values. Each individual value is limited to 100 characters. The total number of characters across all values must conform to the limitations for the maximum length of single-value entity custom attributes (see above.)
 
-**Limit**: 1,000 characters.
+### entityID parameters
+
+* **Limit**: 1,000 characters.
 
 ## excludedIds {#excludedid}
 
-**Limit**: 5 KB for POST requests. 2,083 characters minus the length of the URL for GET requests.
+* **Limit**: 5 KB for POST requests. 2,083 characters minus the length of the URL for GET requests.
 
-For GET requests, although the limit on the back end is 5 KB, due to the fact that Microsoft Internet Explorer limits the URL to 2,083 characters, the realistic limit is 2,083 characters minus the current length of the URL.
+  For GET requests, although the limit on the back end is 5 KB, due to the fact that Microsoft Internet Explorer limits the URL to 2,083 characters, the realistic limit is 2,083 characters minus the current length of the URL.
 
-## Experience names
+## Experiences
 
-**Limit**: 50 characters.
+### Experience names
 
-## Experiences per activity
+* **Limit**: 50 characters.
 
-**Limit**: 2,000 experiences per Experience Targeting (XT), A/B Test, Multivariate Test (MVT), and Auto-Target activity.
+### Experiences per activity
 
-30,000 experiences per Automated Personalization (AP) activity.
+* **Limit**: 2,000 experiences per Experience Targeting (XT), A/B Test, Multivariate Test (MVT), and Auto-Target activity.
 
-## In-mbox profile attribute value
+  30,000 experiences per Automated Personalization (AP) activity.
 
-**Limit**: 256 characters.
+## mboxes
 
-Values longer than this get truncated.
+### In-mbox profile attribute value
 
-## In-mbox profile names
+* **Limit**: 256 characters.
 
-**Limit**: 128 characters.
+  Values longer than this get truncated.
 
-## mbox names
+### In-mbox profile names
 
-**Limit**: 250 characters.
+* **Limit**: 128 characters.
 
-## mbox parameters
+### mbox names
 
-**Limit**: The following limits apply to mbox parameters:
+* **Limit**: 250 characters.
 
-For standard mbox calls:
-* mbox parameters: 500 parameters per mbox.
-* Profile parameters: 500 parameters profile parameters per mbox.
-* Other Parameters (URL, referring URL, etc.): 50 per mbox for each other parameter type.
+### mbox parameters
 
-These limits apply unless the request is shortened due to web browser limitations.
+* **Limit**: The following limits apply to mbox parameters:
 
-If you are using the Batch Delivery API, the limit is 50 mboxes per batch request.
+  For standard mbox calls:
 
-If you are using the [Batch Delivery API](https://developers.adobetarget.com/api/#server-side-batch-delivery) in the Mobile Services SDK, the limit of 50 mbox parameters, 50 profile parameters, and 50 for other parameter types are limitations of the API itself. It is not possible to send a request containing more that these numbers using the Batch Delivery API. If a request contains more than these limits, the API will return the following error message:
+  * mbox parameters: 500 parameters per mbox.
+  * Profile parameters: 500 parameters profile parameters per mbox.
+  * Other Parameters (URL, referring URL, etc.): 50 per mbox for each other parameter type.
 
-"The number of mboxParameters cannot exceed 50."
+  These limits apply unless the request is shortened due to web browser limitations.
 
-Limits set for endpoints:
+  If you are using the Batch Delivery API, the limit is 50 mboxes per batch request.
 
-Batch mbox v2:
-* mbox parameters 100
-* mbox parameter name max length 128
-* mbox parameter value cannot be null
-* mbox parameter value 5000
-* profile parameters 50
-* profile parameter name max length 128
-* profile parameter value cannot be null
-* profile parameter value max length 256
+  If you are using the [Batch Delivery API](https://developers.adobetarget.com/api/#server-side-batch-delivery) in the Mobile Services SDK, the limit of 50 mbox parameters, 50 profile parameters, and 50 for other parameter types are limitations of the API itself. It is not possible to send a request containing more that these numbers using the Batch Delivery API. If a request contains more than these limits, the API will return the following error message:
+
+  "The number of mboxParameters cannot exceed 50."
+
+  Limits set for endpoints:
+
+  **Batch mbox v2**:
+
+  * mbox parameters 100
+  * mbox parameter name max length 128
+  * mbox parameter value cannot be null
+  * mbox parameter value 5000
+  * profile parameters 50
+  * profile parameter name max length 128
+  * profile parameter value cannot be null
+  * profile parameter value max length 256
    
-Delivery API endpoint 
-* mbox parameters 50
-* mbox parameter name max length 128
-* mbox parameter value cannot be null
-* mbox parameter value 5000
-* profile parameters 50
-* profile parameter name max length 128
-* profile parameter value cannot be null
-* profile parameter value max length 256
+  **Delivery API endpoint** 
+  
+  * mbox parameters 50
+  * mbox parameter name max length 128
+  * mbox parameter value cannot be null
+  * mbox parameter value 5000
+  * profile parameters 50
+  * profile parameter name max length 128
+  * profile parameter value cannot be null
+  * profile parameter value max length 256
    
-## mbox request URLs
+### mbox request URLs
 
-**Limit**: 2,083 characters.
+* **Limit**: 2,083 characters.
 
-This limit is due to Microsoft Internet Explorer URL length restrictions.
+  This limit is due to Microsoft Internet Explorer URL length restrictions.
 
-## mbox3rdPartyId parameter
+### mbox3rdPartyId parameter
 
-**Limit**: 60 characters.
-
-## Offer names
-
-**Limit**: 250 characters.
-
-## Offer size
-
-**Limit**: The following size limits apply to offers:
-
-* 256 KB for HTML offers. 
-* 64 KB for visual offers from the UI. 
-* 512 KB from the API.
-
-If you are using a global mbox, the limit is for the whole set of content returned for the page. Limiting offer size improves page load times. If the limit is exceeded, the following message appears:
-
-"The content for the experience is too large to deliver. Please modify the experience to affect less page code."
+* **Limit**: 60 characters.
 
 ## Offers
 
-**Recommended limit**: 50,000 total offers.
+### Offer names
+
+* **Limit**: 250 characters.
+
+### Number of offers
+
+* **Recommended limit**: 50,000 total offers.
+
+### Offer size
+
+* **Limit**: The following size limits apply to offers:
+
+  * 256 KB for HTML offers. 
+  * 64 KB for visual offers from the UI. 
+  * 512 KB from the API.
+
+  If you are using a global mbox, the limit is for the whole set of content returned for the page. Limiting offer size improves page load times. If the limit is exceeded, the following message appears:
+
+  "The content for the experience is too large to deliver. Please modify the experience to affect less page code."
 
 ## orderId parameter
 
-**Recommended limit**: 120 characters.
+* **Recommended limit**: 120 characters.
 
 ## orderTotal parameter
 
-**Recommended limit**: 120 characters.
+* **Recommended limit**: 120 characters.
 
 ## productPurchasedId parameter
 
-**Limit**: 47 characters per comma-separated value and 250 characters in total. Individual values longer than 47 characters may be truncated by the system. Total lengths above 250 characters may result in a 400 error.
+* **Limit**: 47 characters per comma-separated value and 250 characters in total. Individual values longer than 47 characters may be truncated by the system. Total lengths above 250 characters may result in a 400 error.
 
 ## Profile scripts
 
-**Recommended limit of active profile scripts**: 300
+* **Recommended limit of active profile scripts**: 300
 
-**Recommended limit of total profile scripts per account**: 2,000
+* **Recommended limit of total profile scripts per account**: 2,000
 
-**Recommendations for limiting profile script complexity**: Profile scripts can execute a limited number of instructions. For more information, see [Best practices](/help/c-target/c-visitor-profile/profile-parameters.md#best) in *Profile attributes*.
+* **Recommendations for limiting profile script complexity**: Profile scripts can execute a limited number of instructions. For more information, see [Best practices](/help/c-target/c-visitor-profile/profile-parameters.md#best) in *Profile attributes*.
 
 ## Properties
 
-**Recommended limit**: 5,000 properties.
+* **Recommended limit**: 5,000 properties.
 
 ## Reporting audiences/segments
 
-**Limit**: 50 reporting audiences/segments per activity.
+* **Limit**: 50 reporting audiences/segments per activity.
 
 ## Script profile input box in the Target UI
 
-**Recommended limit**: 2,000 characters.
+* **Recommended limit**: 2,000 characters.
 
-Depends on the size of the encoded string, which could be much longer than the raw string. If the string is too large, it fails before it gets to Adobe Target.
+  Depends on the size of the encoded string, which could be much longer than the raw string. If the string is too large, it fails before it gets to Adobe Target.
 
-## Script profile names
+## Script profiles
 
-**Limit**: 50 characters.
+### Script profile names
 
-## Script profile values
+* **Limit**: 50 characters.
 
-**Limit**: 2,048 characters.
+### Script profile values
 
-For performance reasons, we recommend a return value that is no longer than 256 characters.
+* **Limit**: 2,048 characters.
 
-For a String return value, if the size of the return value exceeds 2,048 characters, the script is disabled by the system.
+  For performance reasons, we recommend a return value that is no longer than 256 characters.
 
-For an array return value, if the size of the concatenated values of the array exceeds 2,048 characters, the script is disabled by the system.
+  For a String return value, if the size of the return value exceeds 2,048 characters, the script is disabled by the system.
+
+  For an array return value, if the size of the concatenated values of the array exceeds 2,048 characters, the script is disabled by the system.
 
 ## Success metrics
 
-**Limit**: 200 per activity.
+* **Limit**: 200 per activity.
 
-## Target conditions
+## Targeting
 
-**Recommended limit**: 1,000 values.
+### Target conditions
 
-This refers to the number of line-separated values in the targeting text area. For example, entering 1,000 zip codes into a zip code target.
+* **Recommended limit**: 1,000 values.
 
-## Targeting rules
+  This refers to the number of line-separated values in the targeting text area. For example, entering 1,000 zip codes into a zip code target.
 
-**Recommended limit**: 2,500 characters per targeting rule value.
+### Targeting rules
 
-**Recommended limit**: 30,000 unique values per audience across targeting rules.
-
-**Recommended limit**: 100,000 unique targeting rule values per activity.
+* **Recommended limit**: 2,500 characters per targeting rule value.
+* **Recommended limit**: 30,000 unique values per audience across targeting rules.
+* **Recommended limit**: 100,000 unique targeting rule values per activity.
 
