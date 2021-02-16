@@ -151,9 +151,9 @@ Character limits and other limits (offer size, audiences, profiles, values, para
   * profile parameter name max length 128
   * profile parameter value cannot be null
   * profile parameter value max length 256
-   
-  **Delivery API endpoint** 
-  
+
+  **Delivery API endpoint**: 
+
   * mbox parameters 50
   * mbox parameter name max length 128
   * mbox parameter value cannot be null
@@ -185,7 +185,7 @@ Character limits and other limits (offer size, audiences, profiles, values, para
 
 ### Offer size
 
-* **Limit**: The following size limits apply to offers:
+The following size limits apply to offers:
 
   * 256 KB for HTML offers. 
   * 64 KB for visual offers from the UI. 
