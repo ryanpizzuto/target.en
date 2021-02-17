@@ -9,7 +9,7 @@ feature: Release Notes
 
 This article contains prerelease information. Release dates, features, and other information are subject to change without notice. 
 
-**Last Updated: February 16, 2021**
+**Last Updated: February 17, 2021**
 
 To view information about the current release, see [Target Release Notes](release-notes.md). The information on these pages might be the same, depending on the timing of releases. The issue numbers in parentheses are for internal [!DNL Adobe] use.
 
@@ -19,7 +19,7 @@ To view information about the current release, see [Target Release Notes](releas
 >
 >We recommend that all customers migrate to the most recent version of the new [!DNL Adobe Experience Platform Web SDK] or the at.js JavaScript library before this date to avoid any potential issues with your sites. For more information, see [Overview: implement Target for client-side web](/help/c-implementing-target/c-implementing-target-for-client-side-web/implement-target-for-client-side-web.md).
 
-## Target Standard/Premium 21.2.1 (March 2, 2021)
+## Target Standard/Premium 21.2.1 (March 9 & 10, 2021)
 
 This maintenance release contains the following enhancements, fixes, and changes.
 
