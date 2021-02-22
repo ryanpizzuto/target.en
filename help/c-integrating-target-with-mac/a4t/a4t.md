@@ -29,7 +29,7 @@ If you use [!DNL Analytics] as the reporting source for an activity, all reporti
 
 All [!DNL Analytics] metrics, including calculated metrics, are available in [!DNL Target] and the [!UICONTROL Target Activities] report in [!DNL Analytics]. Likewise, any segment available in [!DNL Analytics] can be applied to both solutions. You can apply the metric or audience to the report in [!DNL Target] after the activity has started, or even after the activity has completed.
 
-Every metric is included, including any customer or calculated metrics that are built-in in [!DNL Analytics].
+Every metric is included, including any custom or calculated metrics that are built-in in [!DNL Analytics].
 
 After the classification period, data appears in these reports approximately an hour after it is collected from the website. All metrics, segments, and values in the reports come from the report suite you selected when you set up the activity.
 
@@ -44,7 +44,7 @@ Keep the following points in mind when considering using A4T:
 * Only one mbox-based metric is allowed when using [!DNL Analytics] as the reporting source. 
 * A server-to-server call from [!DNL Target] to [!DNL Analytics] sends activity and experience information to [!DNL Analytics]. This integration does not result in additional server calls for either [!DNL Target] or [!DNL Analytics]. 
 
-  In some situations, the classification call from [!DNL Target] to [!DNL Analytics] might fail and activities do not show data in [!DNL Analytics]. If this happens, see [Troubleshoot the Analytics and Target integration (A4T)](/help/c-integrating-target-with-mac/a4t/c-a4t-troubleshooting/a4t-troubleshooting.md). You can also [contact Client Care](/help/cmp-resources-and-contact-information.md#concept_34A1CA16F2244D42930BB77846A5ABBB) for further assistance.
+  In some situations, the classifications from [!DNL Target] to [!DNL Analytics] might fail and activities do not show data in [!DNL Analytics]. If this happens, see [Troubleshoot the Analytics and Target integration (A4T)](/help/c-integrating-target-with-mac/a4t/c-a4t-troubleshooting/a4t-troubleshooting.md). You can also [contact Client Care](/help/cmp-resources-and-contact-information.md#concept_34A1CA16F2244D42930BB77846A5ABBB) for further assistance.
 
 ## Supported activity types {#section_F487896214BF4803AF78C552EF1669AA}
 
