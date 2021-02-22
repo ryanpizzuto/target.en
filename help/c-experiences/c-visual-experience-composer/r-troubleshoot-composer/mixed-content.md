@@ -35,7 +35,7 @@ See [This page has insecure content](https://support.google.com/chrome/answer/13
 
 If you are using the VEC with the latest version of Chrome (version 79.0.3945.117 or later), you need to update your site settings. Visitors to your site do not need to complete these steps.
 
-1. Click the lock or caution icon, then click **[!UICONTROL Site settings]**. 
+1. Click the lock (caution) icon, then click **[!UICONTROL Site settings]**. 
 
    ![Site Settings](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/assets/site-settings.png)
 
@@ -72,7 +72,7 @@ If you're visiting a site via a secure connection, Edge verifies that the conten
 
 If you are using the VEC with the latest version of Edge, you need to update your site settings. Visitors to your site do not need to complete these steps.
 
-1. Click the lock or caution icon, then click **[!UICONTROL Site Permissions]**. 
+1. Click the lock (caution) icon, then click **[!UICONTROL Site Permissions]**. 
 
    ![Site Permissions in Microsoft Edge](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/assets/ms-edge.png)
 
