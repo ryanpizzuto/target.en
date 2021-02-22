@@ -7,19 +7,19 @@ feature: Visual Experience Composer (VEC)
 
 # Enabling mixed content in your browser
 
-Mixed content occurs if both HTTPS (secure) *and* HTTP (insecure) content is loaded to display the same web page and the initial request was secure over HTTPS.
+Mixed content occurs if the initial request is secure over HTTPS, but HTTPS *and* HTTP content is loaded to display the web page. HTTPS content is secure. HTTP content is insecure.
 
 Modern browsers might block the display of a page or display warning messages if secure content is mixed with insecure content.
 
-If the [!UICONTROL Visual Experience Composer] (VEC) in [!DNL Target] tries to open a page containing mixed content, a message displays showing how to disable blocking in your browser so you can open an HTTP site or a site that has mixed calls (HTTPS and HTTP).
+A warning message displays if the [!UICONTROL Visual Experience Composer] (VEC) in [!DNL Target] tries to open a page containing mixed content. This message informs you how to disable blocking in your browser. Disabling blocking lets you open an HTTP site or a site that has mixed calls (HTTPS and HTTP).
 
-![mixed content warning](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/assets/mixed_content_warning.png)
+![Mixed content warning](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/assets/mixed_content_warning.png)
 
 Previously, when mixed content was not allowed, you could still perform some actions in Step 1 of the three-step guided workflow when creating activities. [!DNL Target] now blocks actions in Step 1. When this message displays, you must enable mixed content before continuing creating the activity.
 
-Your browser's security settings might block mixed content or insecure (HTTP) content being loaded into a secure (HTTPS) page or frame (such as the VEC). If you don't want to disable your browser's security settings, you need to have an HTTPS website.
+Your browser's security settings might block mixed content or insecure (HTTP) content being loaded into a secure (HTTPS) page or frame (such as the VEC). If you don't want to disable your browser's security settings, you must have an HTTPS website.
 
-If you website is running on an insecure (HTTP) domain, you are required to allow the VEC to load active mixed content.
+If your website is running on an insecure (HTTP) domain, you are required to allow the VEC to load active mixed content.
 
 >[!NOTE]
 >
@@ -31,9 +31,9 @@ For more information, see [Mixed Content](https://developer.mozilla.org/en-US/do
 
 If you're visiting a site via a secure connection, Chrome verifies that the content on the web page has been transmitted safely.
 
-See [This page has insecure content](https://support.google.com/chrome/answer/1342714?hl=en) in Google Chrome Help.
+See "[This page has insecure content](https://support.google.com/chrome/answer/1342714?hl=en)" in Google Chrome Help.
 
-If you are using the VEC with the latest version of Chrome (version 79.0.3945.117 or later), you need to update your site settings. Visitors to your site do not need to complete these steps.
+If you are using the VEC with the latest version of Chrome (version 79.0.3945.117 or later), you must update your site settings. Visitors to your site do not need to complete these steps.
 
 1. Click the lock (caution) icon, then click **[!UICONTROL Site settings]**. 
 
@@ -56,7 +56,7 @@ By default, Firebox blocks pages that mix secure and insecure content. It is rec
 
 1. In the search bar, type `block_active`.
 
-   ![Firefox block active setting](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/assets/firefox3.png)
+   ![Firefox block_active setting](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/assets/firefox3.png)
 
 1. Double-click ` **[!UICONTROL security.mixed_content.block_active_content]**` .
 
@@ -64,13 +64,13 @@ By default, Firebox blocks pages that mix secure and insecure content. It is rec
 
    ![Firefox security](/help/c-experiences/c-visual-experience-composer/r-troubleshoot-composer/assets/firefox2.png)
 
-We recommended that you restart your computer after changing this setting.
+Restart your computer after changing this setting.
 
 ## Enabling mixed content in Microsoft Edge
 
 If you're visiting a site via a secure connection, Edge verifies that the content on the web page has been transmitted safely.
 
-If you are using the VEC with the latest version of Edge, you need to update your site settings. Visitors to your site do not need to complete these steps.
+If you are using the VEC with the latest version of Edge, you must update your site settings. Visitors to your site do not need to complete these steps.
 
 1. Click the lock (caution) icon, then click **[!UICONTROL Site Permissions]**. 
 
