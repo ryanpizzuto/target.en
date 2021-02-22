@@ -13,7 +13,7 @@ This topic contains answers to questions that are frequently asked about metric 
 
 The default expiration for the activity is 90 days after a visitor's last interaction with the activity. This can be adjusted by ClientCare if needed. This setting is global for all activities, however, so it should not be adjusted for one case.
 
-## While configuring my goal metics, why can't I access the Advanced Settings options? {#adv-settings}
+## While configuring my goal metrics, why can't I access the Advanced Settings options? {#adv-settings}
 
 The [!UICONTROL Advanced Settings] options are not available for activities that use [!DNL Analytics] as the reporting source (A4T).
 
