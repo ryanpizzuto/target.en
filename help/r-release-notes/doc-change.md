@@ -13,6 +13,7 @@ This page lists important changes made to the [!DNL Adobe Target] product docume
 
 |Date|Topic|Changes|
 | --- | --- | --- |
+|February 22|[View reports - A4T FAQ](/help/c-integrating-target-with-mac/a4t/r-a4t-faq/a4t-faq-viewing-reports.md)|Updated the following FAQ:<ul><li>Where can segments be applied in Analysis Workspace?</li></ul>|
 |February 16|[Target release notes (prerelease)](/help/r-release-notes/target-release-notes.md)|Updated text for offer limit size in the prerelease notes.|
 |February 11|[How Target works](/help/c-intro/how-target-works.md)|Updated "Bots" section.|
 |February 10|[Target announcements and events](/help/r-release-notes/target-announcements.md)|Added information about the Adobe Target Community Q&A Coffee Break on Wednesday, February 24, 2021.|
