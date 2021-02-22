@@ -25,10 +25,10 @@ The VEC Helper browser extension for Chrome solves site-loading issues for which
 
 ## Benefits of using the VEC Helper extension
 
-* All iframe busting headers, such as X-Frame-Options and Content-Security-Policy, are implicitly removed from the website. There is no more need to create complicated Requestly rules to do this.
+* All iframe busting headers, such as X-Frame-Options and Content-Security-Policy, are implicitly removed from the website. There is no more need to create complicated Requestly rules.
 * If a webpage does not yet contain the [!DNL Target] at.js JavaScript library, you can use the extension to inject the library so you can author experiences for the website. You can then create activities and QA them using preview links.
 
-  Note that while using the Enhanced Experience Composer (EEC), the extension does not inject at.js, but the SameSite Cookie functionality is still present. To inject at.js on the webpage, turn off the EEC.
+  Note that using the Enhanced Experience Composer (EEC), the extension does not inject at.js, but the SameSite Cookie functionality is still present. To inject at.js on the webpage, turn off the EEC.
 
 * [Mobile viewports](/help/c-experiences/c-visual-experience-composer/mobile-viewports.md) are supported even without the [!UICONTROL Enhanced Experience Composer] (EEC).
 * Customers new to [!DNL Target] can use the extension to experiment with [!DNL Target] even if their IT developers have not yet implemented [!DNL Target] on their websites.
@@ -65,7 +65,7 @@ The VEC Helper browser extension for Chrome solves site-loading issues for which
 * Your implementation must use the [!DNL Target] at.js library. You cannot use an mbox.js implementation with the extension.
 * The [!UICONTROL Inject Target libraries] flag in the extension is OFF by default. You can enable this flag if you want to use the VEC on a site that has not yet been implemented for [!DNL Target].
 
-  Be aware that this flag is a global setting. The flag is enabled or disabled for all websites opened in the VEC. So, for example, if you set this flag to "on" and open a website that is already implemented with at.js, you'll receive a message informing you that at.js is already loaded. We anticipate that most customers will already have at.js implemented on their pages and will use the default setting of "off."
+  This flag is a global setting. The flag is enabled or disabled for all websites opened in the VEC. So, for example, if you set this flag to "on" and open a website that is already implemented with at.js, you receive a message informing you that at.js is already loaded. Adobe anticipates that most customers already have at.js implemented on their pages and use the default setting of "off."
 
 * The extension loads the latest version of at.js that is available from the [!DNL Target UI] in [!UICONTROL Administration > Implementation].
 * When using the extension to inject at.js while in [QA Mode](/help/c-activities/c-activity-qa/activity-qa.md), you must have another Chrome tab open. This Chrome tab must be authenticated to the same [!DNL Adobe Experience Cloud] Organization in which you created the activity.
