@@ -17,7 +17,9 @@ For detailed information and examples, open the [Analytics & Target: Best Practi
 
 ## Where can segments be applied in Analysis Workspace? {#segmentation}
 
-Segments are most commonly applied to the top of a panel in the segment drop zone. The segment is applied to all tables and visualizations in the panel. This technique is most useful for seeing how the test affects a subset of people (for example, how did this test perform for people in the UK)?
+Segments are most commonly used at the top of a panel in the segment drop zone. The segment is applied to all tables and visualizations in the panel. This technique is most useful for seeing how the test affects a subset of people (for example, how did this test perform for people in the UK)?
+
+A segment can also be layered directly within the freeform table, but note that you must overlay it across the entire table to preserve the lift & confidence calculations within the A4T Panel. Column level segments are not supported within the panel at this time.
 
 ## When I apply a hit segment for a specific Target activity, why do I see unrelated experiences returned? {#activity-segmentation}
 
