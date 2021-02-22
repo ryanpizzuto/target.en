@@ -19,17 +19,17 @@ The following sections list the known issues for [!DNL Target]:
 
 ### Analytics for Target (A4T) metrics for Auto-Allocate and Auto-Target activities
 
-A current known issue exists in the [!DNL Target] UI that allows users to select unsupported engagement and revenue metrics as your primary goal metric for optimization in [!UICONTROL Auto-Allocate] and [!UICONTROL Auto-Target] activities. Conversion metrics are supported; engagement and revenue metrics are *not* supported. If you select engagement or revenue goal metrics, an optimization model will not be built (even though the [!DNL Target] UI currently allows you to select unsupported goal metrics).
+The [!DNL Target] UI lets users select unsupported engagement and revenue metrics as the primary goal metric for optimization in [!UICONTROL Auto-Allocate] and [!UICONTROL Auto-Target] activities. Conversion metrics are supported; engagement and revenue metrics are *not* supported. If you select engagement or revenue goal metrics, an optimization model is not built.
 
 For a list of supported and unsupported goal metrics, see [A4T support for Auto-Allocate and Auto-Target activities](/help/c-integrating-target-with-mac/a4t/a4t-at-aa.md). (TNT-38409)
 
 ### Page delivery {#page-delivery}
 
-If you add a template rule, such as URL contains (/checkout, /cart) in [page delivery](/help/c-activities/t-experience-target/t-xt-create/xt-activity-url.md), extra spaces are prefixed to your rules. This is a cosmetic issue and does not affect audience-definition creation and offer delivery. (TGT-35920)
+If you add a template rule, such as URL contains (/checkout, /cart) in [page delivery](/help/c-activities/t-experience-target/t-xt-create/xt-activity-url.md), extra spaces are prefixed to your rules. These extra spaces are cosmetic and do not affect audience-definition creation and offer delivery. (TGT-35920)
 
 ### QA preview links
 
-Activity QA preview links for saved activities might not load if there are too many saved activities in your account. Re-trying the preview links should work. Archive saved activities that are no longer actively used to prevent this issue from continuing to happen. (TNT-37294)
+Activity QA preview links for saved activities might not load if there are too many saved activities in your account. Retry the preview links. Archive saved activities that are no longer actively used to prevent this issue from continuing to happen. (TNT-37294)
 
 ### QA mode for Recommendations activities
 
@@ -39,20 +39,20 @@ A known issue prevents preview if criteria used in the activity is item-based or
 
 The following are known issues with redirect offers:
 
-* Under some conditions, a limited number of customers have reported higher degrees of variance in traffic distribution when using a redirect offer in activities configured with Analytics for Target (A4T). Adobe engineers are currently working on this issue.
+* A limited number of customers have reported higher degrees of variance in traffic distribution when using redirect offers in activities configured with Analytics for Target (A4T).
 * Redirect activities in at.js implementations might cause the preview URL to enter into a loop (the offer is delivered repeatedly). You can use [QA Mode](/help/c-activities/c-activity-qa/activity-qa.md) instead to perform Preview and QA. This issue does not impact the actual delivery of the offer. (TGT-23019)
 
-### Cancel loading of a page within the VEC {#cancel}
+### Cancel loading of a page within the Visual Experience Composer (VEC) {#cancel}
 
 * The following known issue currently exists when cancelling the loading of an [!UICONTROL A/B Test] or [!UICONTROL Experience Targeting] (XT) activity within the VEC that contains a redirect URL.
 
-  In step one of the three-part guided workflow inside the VEC, when you cancel page loading, the [!UICONTROL Modifications] panel in the VEC displays and the redirect to URL template is applied on the experience (for example, "Experience B). When you progress to steps two or three and then come back to step one, the following situation occurs.
+  In step one of the VEC guided workflow, when you cancel page loading, the [!UICONTROL Modifications] panel in the VEC displays and the redirect to URL template is applied on the experience (for example, "Experience B). When you progress to steps two or three and then come back to step one, the following situation occurs.
 
   On "Experience B," by default, the cancelled website loading template renders and the [!UICONTROL Modifications] panel is accessible, which should not be the case because this experience has a redirect to URL template applied. The redirect to URL template should display.
 
   To show the correct state of the experience in the VEC:
 
-  If you switch to another experience and then switch back to "Experience B," [!DNL Target] displays the redirect to URL template applied on this experience and the [!UICONTROL Modifications] panel is not accessible. (TGT-32138)
+  If you switch to another experience, and then switch back to "Experience B," [!DNL Target] displays the redirect to URL template applied on this experience and the [!UICONTROL Modifications] panel is not accessible. (TGT-32138)
 
 * For the Single Page Application (SPA) websites, cancelling loading does not allow you to edit actions under the [!UICONTROL Modifications] panel.
 
@@ -60,7 +60,7 @@ The following are known issues with redirect offers:
 
 The following are known issues with [!UICONTROL Recommendations] activities:
 
-* When copying a [!UICONTROL Recommendation] activity with an active promotion, any change in the duplicate activity currently also affects the original activity, and vice versa. (TGT-39155)
+* When copying a [!UICONTROL Recommendation] activity with an active promotion, any change in the duplicate activity currently also affects the original activity, and conversely. (TGT-39155)
 
   As a temporary workaround:
 
@@ -72,29 +72,29 @@ The following are known issues with [!UICONTROL Recommendations] activities:
 * Entities are correctly expired after 60 days of receiving no updates via feed or API; however, the expired entities are not removed from the Catalog Search index after expiration. (IRI-857)
 * The "Usage Info" overlays for Criteria and Designs do not reflect their usage in A/B and Experience Targeting activities (TGT-34331)
 * Recommendations Offers in A/B and Experience Targeting activities do not show a visual preview of the Recommendations tray (TGT-33426)
-* Collections, exclusions, criteria, and designs created via API are not visible in the Target user interface and can be edited only via API. Likewise, if you create any of these items in the Target UI and later edit them via API, those changes will not be reflected in the Target UI. Items edited via API should continue to be edited via API to avoid loss of any modifications.  (TGT-35777)
+* Collections, exclusions, criteria, and designs created via API are not visible in the Target user interface and can be edited only via API. Likewise, if you create any of these items in the Target UI and later edit them via API, those changes are not reflected in the Target UI. Items edited via API should continue to be edited via API to avoid loss of any modifications. (TGT-35777)
 * Recommendations activities created via API can be viewed in the user interface, but can only be edited via API.
-* The Custom Criteria feed status displayed in the Criteria list (card) view is refreshed every ten minutes and might be more than ten minutes out of date in rare circumstances. The status displayed in the Custom Criteria edit view is fetched in real-time and is always up to date. (TGT-35896, TGT-36173)
+* The Custom Criteria feed status displayed in the Criteria list (card) view is refreshed every ten minutes and might be more than ten minutes out of date in rare circumstances. The status displayed in the Custom Criteria edit view is fetched in real time and is always up to date. (TGT-35896, TGT-36173)
 * Criteria and design cards do not show the correct number of activities in which they are being used. If the criteria or design is used in an A/B activity, the card might incorrectly show that the design or criteria is not used, even when the design or criteria is used in the activity. (TGT-36621, TGT-37217)
 
 ### Multivariate Test (MVT) activities
 
-In an MVT activity, the winner shown in the table and graph are not consistent when checking metrics. This occurs if a user switches from Summary to Graph View, then switches back to Summary View, changes a metric and then switches to Graph View. When this issue occurs, the Summary View always shows the correct winner. If the user never switches Graph View between Summary views, the Graph View shows the correct winner.
+In an MVT activity, the winner shown in the table and graph is not consistent when checking metrics. This situation occurs if a user switches from Summary to Graph View, then switches back to Summary View, changes a metric, and then switches to Graph View. When this issue occurs, the Summary View always shows the correct winner. If the user never switches Graph View between Summary views, the Graph View shows the correct winner.
 
 ### at.js {#atjs}
 
 The following are known issues with at.js:
 
-* Using at.js versions prior to 2.2.0, click tracking does not report conversions in Analytics for Target (A4T) if Adobe Analytics code is not present on page elements (such as buttons). A fix was introduced for this issue in at.js 2.2.0. [Please upgrade to the latest at.js version](/help/c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md) if you experience this problem.
+* Using at.js versions before 2.2.0, click tracking does not report conversions in Analytics for Target (A4T) if Adobe Analytics code is not present on page elements (such as buttons). A fix was introduced for this issue in at.js 2.2.0. [Please upgrade to the latest at.js version](/help/c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md) if you experience this problem.
 * If you create an experience with no modifications using at.js 2.1.1 or earlier (for example, a default experience), the experience might not be counted in reports, Analytics for Target (A4T), Adobe Analytics, or Google Analytics. In addition, the [ttMeta plug-in](/help/c-implementing-target/c-implementing-target-for-client-side-web/t-mbox-download/c-target-atjs-implementation/target-atjs-plugins.md) might not work correctly.
 
   As a workaround, use a whitespace in the experience content. (TNT-33366)
 
   >[!NOTE]
   >
-  >A fix for this issue was included in at.js 2.2.0. You should upgrade to the [latest version or at.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md) or use the workaround mentioned above only for at.js versions earlier than 2.2.0.
+  >A fix for this issue was included in at.js 2.2.0. Upgrade to the [latest version or at.js](/help/c-implementing-target/c-implementing-target-for-client-side-web/target-atjs-versions.md) or use the workaround mentioned above only for at.js versions earlier than 2.2.0.
 
-* When a page is loaded into the Visual Experience Composer (VEC), Target needs to determine if the global mbox setting is enabled or disabled and whether entityID or categoryID is present at the location where the user is trying to apply the recommendation in the VEC. Based on this information the criteria list is filtered. The default list has filtered algorithms, but the [Compatible checkbox](/help/c-recommendations/t-create-recs-activity/algo-select-recs.md) lets you view the complete algorithms list.
+* When a page is loaded into the Visual Experience Composer (VEC), Target must determine if the global mbox setting is enabled or disabled and whether entityID or categoryID is present at the location where the user is trying to apply the recommendation in the VEC. Based on this information the criteria list is filtered. The default list has filtered algorithms, but the [Compatible checkbox](/help/c-recommendations/t-create-recs-activity/algo-select-recs.md) lets you view the complete algorithms list.
 
   When using at.js, the Compatibility checkbox is hidden, so you cannot see incompatible algorithms.
 
@@ -109,23 +109,23 @@ The following are known issues with at.js:
 
 ### Success metrics
 
-Success metrics with the advanced option "How will the count be incremented" set to "every impression" or "every impression (excluding refreshes)" cannot be used as a success metric that another metric is dependent on.
+Success metrics with the advanced option "How will the count be incremented" set to "every impression" or "every impression (excluding refreshes)" cannot be used as a success metric that another metric depends on.
 
-When a success metric is set to be incremented on every impression, Target counts the visitor again every time the visitor visits this success metric. Target then resets the success metric "membership" to 0 so it can count again on the next impression. Thus, if another metric requires this metric to have been seen first, Target will never recognize that the user has seen the first metric.
+When a success metric is set to increment on every impression, Target counts the visitor again every time the visitor visits this success metric. Target then resets the success metric "membership" to 0 so it can count again on the next impression. Thus, if another metric requires this metric to have been seen first, Target never recognizes that the user has seen the first metric.
 
 ### Analytics for Target (A4T)
 
 When using Target activity impressions and conversions in Analysis Workspace, apply the "Same Touch" Attribution IQ model to the metrics to ensure accurate counting. To apply a [non-default attribution model](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/column-row-settings/column-settings.html), right-click on the metric to **modify Column Settings > enable Use non-default attribution model > select Same Touch model**. Without this model applied, the metrics are overstated. 
 
-All current Analytics packages have the ability to add this model with Attribution IQ. If you do not have access to Attribution IQ, please rely on A4T data in Reports & Analytics.
+All current Analytics packages can add this model with Attribution IQ. If you do not have access to Attribution IQ, please rely on A4T data in Reports & Analytics.
 
 ### Target APIs
 
 Customers cannot perform CRUD operations on Auto-Allocate activities through the v3 version of the A/B Activities API on Adobe I/O.
 
-### GEO Targeting
+### GEO targeting
 
-On May 10, 2020 we updated our GEO provider files, which introduced some inconsistencies. For example, some values containing commas were added; although, values in existing audiences had no comma. Not all of our delivery servers were affected by this change. As a result, audiences using such values might not have qualified all the correct visitors between May 10 and July 22 2020.
+On May 10, 2020 Adobe updated the GEO provider files, which introduced some inconsistencies. For example, some values containing commas were added; although, values in existing audiences had no comma. Not all of Adobe delivery servers were affected by this change. As a result, audiences using such values might not have qualified all the correct visitors between May 10 and July 22 2020.
 
 ### Reporting - Inconsistent data in the downloadable .csv report versus the displayed report in the Target UI. {#csv}
 
@@ -135,13 +135,13 @@ The source of truth is always the displayed report in the [!DNL Target] UI.
 
 ## Resolved Issues {#section_FD2FC86E7C734D60B1EDC9DEF60E1014}
 
-As known issues above are resolved, they will be moved to the following sections and additional notes, if necessary, will be added.
+As known issues above are resolved, they are moved to the following sections.Additional notes, if necessary, are added.
 
 ### Image offers showing “Processing” label
 
 Image offers on the Offers page sometimes retain the “processing” label for several hours after the images were uploaded. In most cases this is an issue with the label only: the image offers can still be used in activities and be delivered. (MCUI-10264, TGT-37458)
 
-This was fixed in the Target Standard/Premium 20.10.1 release.
+This issue was fixed in the Target Standard/Premium 20.10.1 release.
 
 ### Analytics for Target (A4T) reporting
 
@@ -434,7 +434,7 @@ Fixed in the Recommendations 17.2.2.0 release (March 6, 2017).
 
 ### Analytics for Target (A4T) reporting
 
-Reports are not updated when the reporting metric is switched. This is a UI issue. There is no impact on reporting data collection or delivery. (TGT-22970)
+Reports are not updated when the reporting metric is switched. This issue affects the UI only. There is no impact on reporting data collection or delivery. (TGT-22970)
 
 Fixed in the Target 17.2.2.0 release (February 24, 2017).
 
