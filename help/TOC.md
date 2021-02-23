@@ -35,7 +35,7 @@ feature-set: Target
       + [Chapter 8: Communicate your activity results](/help/c-intro/target-welcome-kit-8.md)
       + [Chapter 9: Next steps and resources](/help/c-intro/target-welcome-kit-9.md)
    + [Glossary](c-intro/glossary.md)
-   + [How Adobe Target works](c-intro/how-target-works.md)
+   + [How Target works](c-intro/how-target-works.md)
    + [Training and certification](c-intro/training-and-certification.md)
    + [Training videos for Adobe Target Standard and Premium](c-intro/target-standard-premium-training-videos.md)
    + [Target optimization and personalization FAQ](c-intro/cmp-target-standard-cheatsheet.md)
