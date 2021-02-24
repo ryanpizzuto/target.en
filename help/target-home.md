@@ -38,14 +38,14 @@ Marketers, developers, administrators, analysts, and quality assurance engineers
 - [Introduction to Target](c-intro/intro.md): Explains the core concepts of the [!DNL Target] solution.
 - Integrate Target with the Adobe Experience Cloud: Explains how to integrate [!DNL Target] with other [!DNL Experience Cloud] solutions, including [Analytics for Target](/help/c-integrating-target-with-mac/a4t/a4t.md) (A4T), [Experience Cloud Audiences](/help/c-integrating-target-with-mac/mmp.md), [Adobe Campaign](/help/c-integrating-target-with-mac/campaign-and-target.md), and the [Experience Cloud Device Co-op](/help/c-integrating-target-with-mac/experience-cloud-device-co-op.md).
 - [Adobe Target Tutorials](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html): Provides tutorials and videos to help you get the most out of Target.
-- [Troubleshooting Target](r-troubleshooting-target/troubleshooting-target.md): Provides links to troubleshooting information contained in this guide, including information about the character limits and other limits (offer size, audiences, profiles, values, parameters, etc.) that affect activities and other elements in [!DNL Target].
+- [Troubleshooting Target](r-troubleshooting-target/troubleshooting-target.md): Provides links to troubleshooting information contained in this guide, including information about the character limits and other limits (offer size, audiences, profiles, values, parameters, and so forth) that affect activities and other elements in [!DNL Target].
 - [Target for mobile apps](c-target-mobile-app/target-mobile-app.md): Explains how [!DNL Target] can be used for mobile app optimization and personalization.
-- [Resources and contact information](cmp-resources-and-contact-information.md): Provides information about additional resources to help you learn about [!DNL Target] features and how to contact [!DNL Adobe] should you need help.
+- [Resources and contact information](cmp-resources-and-contact-information.md): Provides information about more resources to help you learn about [!DNL Target] features and how to contact [!DNL Adobe] should you need help.
 
 ## Marketers {#marketers}
 
 - [Activities](c-activities/activities.md): Explains how to set up, manage, and QA [!DNL Target] activities.
-- [Audiences](c-target/target.md): Explains how to determine who will see content and experiences in targeted activities.
+- [Audiences](c-target/target.md): Explains how to determine who sees content and experiences in targeted activities.
 - [Experiences and offers](c-experiences/experiences.md): Explains how to specify which content displays when a visitor meets the audience criteria for an activity.
 - [Recommendations](c-recommendations/recommendations.md): Explains how [!DNL Recommendations] activities automatically display products or content that might interest your customers based on previous user activity or other algorithms.
 
@@ -64,7 +64,7 @@ Marketers, developers, administrators, analysts, and quality assurance engineers
 
 ## Analysts {#analysts}
 
-- [Audiences](c-target/target.md): Explains how to determine who will see content and experiences in targeted activities.
+- [Audiences](c-target/target.md): Explains how to determine who sees content and experiences in targeted activities.
 - [Reports](c-reports/reports.md): Explains how to interpret the performance of your activities.
 
 ## QA engineers {#qa}
