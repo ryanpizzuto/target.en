@@ -49,7 +49,7 @@ See [Create an A/B Test](/help/c-activities/t-test-ab/t-test-create-ab/test-crea
 
 ### Auto-Allocate
 
-Auto-Allocate identifies a winner among two or more experiences. Auto-Allocate automatically reallocates more traffic to the winning experience to increase conversions while the test continues to run and learn.
+Auto-Allocate identifies a winner among two or more experiences. Auto-Allocate automatically reallocates more traffic to the winning experience, which helps to increase conversions while the test continues to run and learn.
 
 See [Auto-Allocate](/help/c-activities/automated-traffic-allocation/automated-traffic-allocation.md#concept_A1407678796B4C569E94CBA8A9F7F5D4) for more information.
 
@@ -127,13 +127,13 @@ The [!DNL Target Recommendations] service is hosted in an [!DNL Adobe] data cent
 
 >[!IMPORTANT]
 >
->[!DNL Adobe Target] currently doesn’t have an Edge Cluster in China and the visitor performance continues to be limited for [!DNL Target] customers in China. Because of the firewall and the lack of Edge Clusters within the country, the experiences of sites with [!DNL Target] deployed can be affected. Experiences can be slow to render and page loads can be affected. Also, marketers might experience latency when using the [!DNL Target] authoring UI.
+>[!DNL Adobe Target] currently doesn’t have an Edge Cluster in China and the visitor performance remains limited for [!DNL Target] customers in China. Because of the firewall and the lack of Edge Clusters within the country, the experiences of sites with [!DNL Target] deployed can be affected. Experiences can be slow to render and page loads can be affected. Also, marketers might experience latency when using the [!DNL Target] authoring UI.
 
 You can allowlist [!DNL Target] Edge Clusters, if desired. For more information, see [allowlist Target edge nodes](/help/c-implementing-target/c-considerations-before-you-implement-target/allowlist-edges.md).
 
 ## Protected user experience {#concept_40A5E781D90A41E4955F80EA9E5F8F96}
 
-Adobe ensures that the availability and performance of the targeting infrastructure is as reliable as possible. However, a communication breakdown between an visitor’s browser and Adobe’s servers can cause an interruption in content delivery.
+Adobe ensures that the availability and performance of the targeting infrastructure is as reliable as possible. However, a communication breakdown between a visitor’s browser and Adobe’s servers can cause an interruption in content delivery.
 
 To safeguard against service interruptions and connectivity issues, all locations are set up to include default content (defined by the client). This default content is displayed if the user’s browser cannot connect to [!DNL Target].
 
@@ -167,9 +167,9 @@ Guidelines were presented in a [Google Webmaster Central Blog](https://webmaster
 
   `<link rel="canonical" href="https://www.adobe.com" />` 
 
-* **Use 302 (temporary) redirects**: In the instances where separate URLs are used for the variation pages in a test, Google recommends using a 302 redirect to direct traffic into the test variations. The 302 redirect tells the search engines that the redirect is temporary and is active only as long as the test is running.
+* **Use 302 (temporary) redirects**: In the instances where separate URLs are used for the variation pages in a test, Google recommends using a 302 redirect to direct traffic into the test variations. The 302 redirect tells the search engines that the redirect is temporary and are active only as long as the test is running.
 
-  A 302 redirect is a server-side redirect, and [!DNL Target], along with most optimization providers, uses client-side capabilities. Therefore, this is an area where [!DNL Target] is not fully compliant with Google's recommendations. This practice, however, impacts only a small fraction of tests. The standard approach for running tests through [!DNL Target] calls for changing content within a single URL, so no redirects are necessary. There are instances when clients must use multiple URLs to represent their test variations. In these instances, [!DNL Target] uses the JavaScript `window.location` command. This command directs users to test variations, which does not explicitly signify whether the redirect is a 301 or 302.
+  A 302 redirect is a server-side redirect, and [!DNL Target], along with most optimization providers, uses client-side capabilities. Therefore, redirects is an area where [!DNL Target] is not fully compliant with Google's recommendations. This practice, however, impacts only a small fraction of tests. The standard approach for running tests through [!DNL Target] calls for changing content within a single URL, so no redirects are necessary. There are instances when clients must use multiple URLs to represent their test variations. In these instances, [!DNL Target] uses the JavaScript `window.location` command. This command directs users to test variations, which does not explicitly signify whether the redirect is a 301 or 302.
 
   Adobe continues to look for viable solutions to completely align with search engine guidelines. For those clients that must use separate URLs for testing, Adobe is confident that proper implementation of the canonical tags mitigates the risk associated with this approach. 
 
