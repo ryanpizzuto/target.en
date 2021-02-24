@@ -1,5 +1,5 @@
 ---
-keywords: Adobe Experience Platform Web SDK;aep web sdk;aep sdk;search engine optimization;seo;edge clusters, central clusters;at.js;mbox.js;
+keywords: Adobe Experience Platform Web SDK;aep web sdk;aep sdk;search engine optimization;search engine optimization;seo;edge clusters, central clusters;at.js;mbox.js;
 description: Learn about how Adobe Target works, including information about the Target JavaScript libraries (at.js and AEP Web SDK), Adobe data centers, and SEO testing.
 title: How Does Target Work?
 feature: Overview
@@ -169,7 +169,7 @@ Guidelines were presented in a [Google Webmaster Central Blog](https://webmaster
 
 * **Use 302 (temporary) redirects**: In the instances where separate URLs are used for the variation pages in a test, Google recommends using a 302 redirect to direct traffic into the test variations. The 302 redirect tells the search engines that the redirect is temporary and are active only as long as the test is running.
 
-  A 302 redirect is a server-side redirect, and [!DNL Target], along with most optimization providers, uses client-side capabilities. Therefore, redirects is an area where [!DNL Target] is not fully compliant with Google's recommendations. This practice, however, impacts only a small fraction of tests. The standard approach for running tests through [!DNL Target] calls for changing content within a single URL, so no redirects are necessary. There are instances when clients must use multiple URLs to represent their test variations. In these instances, [!DNL Target] uses the JavaScript `window.location` command. This command directs users to test variations, which does not explicitly signify whether the redirect is a 301 or 302.
+  A 302 redirect is a server-side redirect, and [!DNL Target], along with most optimization providers, uses client-side capabilities. Therefore, redirecting is an area where [!DNL Target] is not fully compliant with Google's recommendations. This practice, however, impacts only a small fraction of tests. The standard approach for running tests through [!DNL Target] calls for changing content within a single URL, so no redirects are necessary. There are instances when clients must use multiple URLs to represent their test variations. In these instances, [!DNL Target] uses the JavaScript `window.location` command. This command directs users to test variations, which does not explicitly signify whether the redirect is a 301 or 302.
 
   Adobe continues to look for viable solutions to completely align with search engine guidelines. For those clients that must use separate URLs for testing, Adobe is confident that proper implementation of the canonical tags mitigates the risk associated with this approach. 
 
