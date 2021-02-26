@@ -1,5 +1,5 @@
 ---
-keywords: Create auto-target;A/B test;auto-target activity;new a/b activity;auto target;auto-target for personalized experiences;personalized
+keywords: Create auto-target;A/B test;auto-target activity;new a/b activity;auto target;auto-target for personalized experiences;personalized;optimization
 description: Learn how to use the Visual Experience Composer (VEC) in Adobe Target to create your Auto-Target A/B Test activity directly on a Target-enabled page.
 title: How Do I Create an Auto-Target Activity?
 feature: Auto-Target
