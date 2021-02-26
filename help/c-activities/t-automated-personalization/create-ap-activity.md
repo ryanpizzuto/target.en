@@ -41,18 +41,14 @@ The [!UICONTROL Automated Personalization] (AP) activity workflow in [!DNL Adobe
 
    ![Name field](/help/c-activities/t-automated-personalization/assets/ab_newname-new.png)
 
-   The following characters are not allowed in an activity name:
+   The activity name cannot begin with any of the following characters:
 
    | Character | Description |
    |--- |--- |
-   |/|Forward slash|
-   |?|Question mark|
-   |#|Number sign|
-   |:|Colon|
-   |=|Equals to|
-   |+|Plus|
-   |-|Minus|
-   |@|At sign|
+   |`=`|Equals to|
+   |`+`|Plus|
+   |`-`|Minus|
+   |`@`|At sign|
 
 1. Modify page elements as explained in [Visual Experience Composer options](/help/c-experiences/c-visual-experience-composer/viztarget-options.md).
 

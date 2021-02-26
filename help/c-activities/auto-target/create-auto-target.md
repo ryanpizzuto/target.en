@@ -1,5 +1,5 @@
 ---
-keywords: Create auto-target;A/B test;auto-target activity;new a/b activity;auto target;auto-target for personalized experiences;personalized
+keywords: Create auto-target;A/B test;auto-target activity;new a/b activity;auto target;auto-target for personalized experiences;personalized;optimization
 description: Learn how to use the Visual Experience Composer (VEC) in Adobe Target to create your Auto-Target A/B Test activity directly on a Target-enabled page.
 title: How Do I Create an Auto-Target Activity?
 feature: Auto-Target
@@ -57,14 +57,10 @@ To create an [!UICONTROL Auto-Target] activity:
 
    ![Name field](/help/c-activities/t-test-ab/t-test-create-ab/assets/ab_newname-new.png)
 
-   The following characters are not allowed in an activity name:
+   The activity name cannot begin with any of the following characters:
 
    | Character | Description |
    |--- |--- |
-   |`/`|Forward slash|
-   |`?`|Question mark|
-   |`#`|Number sign|
-   |`:`|Colon|
    |`=`|Equals to|
    |`+`|Plus|
    |`-`|Minus|
