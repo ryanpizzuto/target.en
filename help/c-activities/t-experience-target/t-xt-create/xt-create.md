@@ -55,14 +55,10 @@ For more information about Experience Targeting, a use-case scenario, and traini
 
    ![Name field](/help/c-activities/t-experience-target/t-xt-create/assets/xt_name-new.png)
 
-   The following characters are not allowed in an activity name:
+   The activity name cannot begin with any of the following characters:
 
    | Character | Description |
    |--- |--- |
-   |`/`|Forward slash|
-   |`?`|Question mark|
-   |`#`|Number sign|
-   |`:`|Colon|
    |`=`|Equals to|
    |`+`|Plus|
    |`-`|Minus|

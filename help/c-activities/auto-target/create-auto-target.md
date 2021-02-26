@@ -57,14 +57,10 @@ To create an [!UICONTROL Auto-Target] activity:
 
    ![Name field](/help/c-activities/t-test-ab/t-test-create-ab/assets/ab_newname-new.png)
 
-   The following characters are not allowed in an activity name:
+   The activity name cannot begin with any of the following characters:
 
    | Character | Description |
    |--- |--- |
-   |`/`|Forward slash|
-   |`?`|Question mark|
-   |`#`|Number sign|
-   |`:`|Colon|
    |`=`|Equals to|
    |`+`|Plus|
    |`-`|Minus|

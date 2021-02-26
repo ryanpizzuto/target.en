@@ -49,18 +49,14 @@ The [!UICONTROL Multivariate Test] (MVT) takes a page-first report. In other wor
 
    ![Activity Name field](/help/c-activities/c-multivariate-testing/t-create-multivariate-test/assets/activityname.png)
 
-   The following characters are not allowed in an activity name:
+   The activity name cannot begin with any of the following characters:
 
    | Character | Description |
    |--- |--- |
-   |/|Forward slash|
-   |?|Question mark|
-   |#|Number sign|
-   |:|Colon|
-   |=|Equals to|
-   |+|Plus|
-   |-|Minus|
-   |@|At sign|
+   |`=`|Equals to|
+   |`+`|Plus|
+   |`-`|Minus|
+   |`@`|At sign|
 
 1. [Create the offers in each location](/help/c-activities/c-multivariate-testing/t-create-multivariate-test/add-offers.md#concept_DCE6B45C30F7419B8EC17AFDEE8D8AA6).
 
