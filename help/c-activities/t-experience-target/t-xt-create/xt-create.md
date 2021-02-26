@@ -5,7 +5,7 @@ title: How Do I Create an Experience Targeting Activity?
 feature: Experience Targeting
 ---
 
-# Create an Experience Targeting activity{#create-an-experience-targeting-activity}
+# Create an Experience Targeting activity
 
 Use the [!UICONTROL Visual Experience Composer] (VEC) to create an [!UICONTROL Experience Targeting] (XT) activity on a Target-enabled page and to modify portions of the page within [!DNL Adobe Target].
 
